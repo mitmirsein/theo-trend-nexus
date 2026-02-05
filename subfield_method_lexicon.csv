@@ -1,0 +1,16 @@
+category,type,terms
+subfield,OT,"hebrew bible;old testament;pentateuch;torah;deuteronomy;genesis;exodus;leviticus;numbers;isaiah;jeremiah;psalms;prophets;wisdom literature;masoretic;septuagint;qumran;hebraeische bibel;altes testament;tora;deuteronomium;levitikus;numeri;jesaja;propheten;weisheitsliteratur;masoretischer text;septuaginta"
+subfield,NT,"new testament;paul;pauline;synoptic;gospels;acts;revelation;johannine;second temple;early christianity;greek text;neues testament;paulus;paulinisch;synoptisch;evangelien;apostelgeschichte;offenbarung;johanneisch;zweiter tempel;fruehchristentum;griechischer text"
+subfield,Systematic Theology,"trinity;christology;soteriology;ecclesiology;pneumatology;theological anthropology;doctrine;atonement;eschatology;revelation;sacrament;creation;trinität;christologie;soteriologie;ekklesiologie;pneumatologie;theologische anthropologie;lehre;versoehnung;eschatologie;offenbarung;sakrament;schoepfung"
+subfield,Church History,"patristic;late antiquity;reformation;medieval;early church;councils;conciliar;monastic;hagiography;patristik;spaetantike;mittelalter;fruehe kirche;konzil;konziliar;moenchtum;hagiographie"
+subfield,Ethics,"moral theology;social ethics;bioethics;virtue ethics;justice;political theology;human rights;moraltheologie;sozialethik;bioethik;tugendethik;gerechtigkeit;politische theologie;menschenrechte"
+subfield,Practical Theology,"pastoral;homiletics;liturgy;religious education;diakonia;missiology;practical theology;homiletik;liturgie;religionspaedagogik;diakonie;missionswissenschaft;praktische theologie"
+subfield,Philosophy of Religion,"philosophy of religion;religious epistemology;analytic theology;metaphysics;theodicy;arguments for god;religionsphilosophie;religionserkenntnis;analytische theologie;metaphysik;theodizee;gottesbeweise"
+subfield,Comparative Religion,"comparative religion;interreligious;religious studies;islamic theology;jewish theology;vergleichende religion;interreligioes;religionswissenschaft;islamische theologie;juedische theologie"
+method,Method,"postcolonial;feminist;liberation theology;ecotheology;digital humanities;contextual theology;decolonial;intersectional;narrative theology;empirical theology;biblical criticism;historical-critical;postkolonial;feministisch;befreiungstheologie;oekotheologie;digitale geisteswissenschaften;kontextuelle theologie;dekolonial;intersektional;narrative theologie;empirische theologie;biblische kritik;historisch-kritisch"
+era,Patristic,"church fathers;patristic;patrology;ante-nicene;post-nicene;augustine;chrysostom;cappadocian;patristik;kirchenvaeter;augustin;chrysostomus;kappadokier"
+era,Medieval,"scholasticism;medieval;middle ages;aquinas;anselm;mysticism;monasticism;mittelalter;scholastik;mystik;moenchtum;thomas von aquin"
+era,Reformation,"reformation;luther;calvin;zwingli;16th century;protestant orthodoxy;confessionalization;reformationszeit;lutherisch;reformiert;konfessionalisierung"
+era,Modern,"enlightenment;19th century;liberal theology;schleiermacher;pietism;neo-orthodoxy;barth;aufklaerung;pietismus;liberale theologie;dialektische theologie"
+era,Contemporary,"contemporary;20th century;21st century;postmodern;post-liberal;global theology;digital age;gegenwart;zeitgenoessisch;postmoderne"
+

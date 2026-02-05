@@ -1,0 +1,10 @@
+date_from: 2023-01-01
+date_until: 2026-02-03
+rate_limit_sleep: 1.0
+retry_max: 5
+user_agent: "TheologyTrendsBot/0.1 (contact: your-email@example.com)"
+openalex_mailto: "your-email@example.com"
+output_raw_dir: "../data/raw"
+output_processed_dir: "../data/processed"
+state_file: "../data/processed/state.json"
+incremental_offset_days: 1
