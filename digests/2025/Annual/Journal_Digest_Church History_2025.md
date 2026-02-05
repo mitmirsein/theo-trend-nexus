@@ -13,534 +13,567 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Christianity in Fifteenth-Century Iraq. By Thomas A. Carlson. Cambridge Studies in Islamic Civilizat]] |
-| 2 | - | - | [[#Bisschops Bench Contours of Arminian Conformity in the Church of England c.16741742. By Samuel Forne]] |
-| 3 | - | - | [[#C. S. Lewis in America Readings and Reception 19351947. By Mark A. Noll et al. Downers Grove IL Inte]] |
-| 4 | - | - | [[#The Cambridge History of Ancient Christianity. Edited by Bruce W. Longenecker and David E. Wilhite. ]] |
-| 5 | - | - | [[#The Oxford History of British and Irish Catholicism. Volume III Relief Revolution and Revival 174618]] |
-| 6 | - | - | [[#Religious Conflict at Canterbury Cathedral in the Late Twelfth Century The Dispute Between the Monks]] |
-| 7 | - | - | [[#Joseph Smiths Gold Plates A Cultural History. By Richard Lyman Bushman. New York Oxford University P]] |
-| 8 | - | - | [[#Samson Occom Radical Hospitality in the Native Northeast. By Ryan Carr. New York Columbia UP 2023. x]] |
-| 9 | - | - | [[#The Bible A Global History. By Bruce Gordon. New York Basic Books 2024. viii 514pp. 35.00.]] |
-| 10 | Church History | Patristic | [[#Engaging the Church Fathers in Nineteenth-Century Catholicism The Patristic Legacy of the Scuola Rom]] |
-| 11 | - | - | [[#The End of Catholic Mexico 18551861 Causes and Consequences of the Mexican Reforma. By David Gilbert]] |
-| 12 | Church History | Reformation | [[#Petrus Canisius zwischen alten Traditionen und neuen Zeiten Innsbrucker Petrus-Canisius-Tagung 2021.]] |
-| 13 | Systematic Theology | - | [[#Yaḥyā ibn ʿAdī Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text Eng]] |
-| 14 | - | - | [[#The Politics of Service American Quakers and the Emergence of International Humanitarian Aid 1917194]] |
-| 15 | - | - | [[#The Demise of Norse Religion Dismantling and Defending the Old Order in Viking Age Scandinavia. By O]] |
-| 16 | - | Modern | [[#The Life of St Brendan and His Prayer. Translated with an Introduction and Notes by Gordon Barthos. ]] |
-| 17 | - | - | [[#Italys Christian Democracy The Catholic Encounter with Political Modernity. By Rosario Forlenza and ]] |
-| 18 | Church History | Medieval | [[#Christ the Physician in Late-Medieval Religious Controversy England and Central Europe 13501434. By ]] |
-| 19 | - | - | [[#Šalmūtā Šapīrtā. Festschrift for Rifaat Y. Ebied in honour of his contributions to Semitic Studies. ]] |
-| 20 | NT | - | [[#Writings 14161432 The Struggle for the Self-Determination of Central Europe. By Paweł Włodkowic fore]] |
-| 21 | Church History | Medieval | [[#Giants in the Medieval City. By Assaf Pinkus with the participation of Noeit Williger Aviam Orly Ami]] |
-| 22 | - | - | [[#Recovering Their Stories US Catholic Women in the Twentieth Century. Edited by Sandra Yocum and Nich]] |
-| 23 | - | - | [[#One Lost Soul Richard Nixons Search for Salvation. By Daniel Silliman. Grand Rapids MI Eerdmans 2024]] |
-| 24 | Church History | Reformation | [[#Building the Church of England The Book of Common Prayer and the Edwardian Reformation. By Stephen T]] |
-| 25 | Church History | Medieval | [[#Doing Memory Medieval Saints and Heroes and Their Afterlives in the Baltic Sea Region 19th20th Centu]] |
-| 26 | - | - | [[#Shaping Letters Shaping Communities Multilingualism and Linguistic Practice in the Late Antique Near]] |
-| 27 | - | - | [[#The Oxford History of British and Irish Catholicism Volume I Endings and New Beginnings 15301640. Ed]] |
-| 28 | - | - | [[#Pie VII Le Pape qui défia Napoléon. By Xavier Maréchaux. Paris Passés Composés 2024. xiv  308 pp. 23]] |
-| 29 | NT | Medieval | [[#The Defence of the Faith Crusading on the Frontiers of Latin Christendom in the Late Middle Ages. Ed]] |
-| 30 | - | - | [[#The Popes against the Protestants The Vatican and Evangelical Christianity in Fascist Italy. By Kevi]] |
-| 31 | - | - | [[#Remembering Antônia Teixeira A Story of Missions Violence and Institutional Hypocrisy. By Mikeal C. ]] |
-| 32 | - | - | [[#Baptists and Gender Papers for the Ninth International Conference on Baptist Studies. By Melody Maxw]] |
-| 33 | - | - | [[#Red Pope A Biography of Cardinal Willem van Rossum c.ss.r 18541932. By Vefie Poels. Nijmegen Radboud]] |
-| 34 | - | - | [[#From Every Stormy Wind That Blows The Idea of Howard College and the Origins of Samford University. ]] |
-| 35 | - | - | [[#Nachtrichten aus der Politik Die Lageberichte Hermann Kunsts für den Rat der Evangelischen Kirche in]] |
-| 36 | - | - | [[#Immovable Truth Divine Knowledge and the Bible at the University of Vienna 13841419. By Edit Anna Lu]] |
-| 37 | - | - | [[#Vatican I Infallible or Neglectable Historical and Theological Approaches to the Event and Reception]] |
-| 38 | - | - | [[#Civil Religion in the Early Modern Anglophone World 15501700. Edited by Adam Morton and Rachel Hamme]] |
-| 39 | - | - | [[#Faith in Markets Christian Capitalism in the Early American Republic. By Joseph P. Slaughter. Columb]] |
-| 40 | NT | - | [[#The Reports of Theophilus Opoku A 19th-Century Gold Coast Pastor. Edited by Michelle Gilbert and Pau]] |
-| 41 | Church History | Medieval | [[#Die römischen Repertorien Neue Perspektiven für die Erforschung von Kirche und Kurie des Spätmittela]] |
-| 42 | - | - | [[#Missionary Interests Protestant and Mormon Missions in the Nineteenth and Twentieth Centuries. Edite]] |
-| 43 | - | - | [[#Before and Beyond the Big Society John Milbank and the Church of Englands Approach to Welfare. By Jo]] |
-| 44 | Church History | Medieval | [[#Der Papsthof auf Reisen. Die Reisen der römischen Kurie in den Pontifikaten von Martin V. bis Pius I]] |
-| 45 | - | - | [[#Christianity and Comics Stories We Tell About Heaven and Hell. By Blair Davis. New Brunswick Rutgers]] |
-| 46 | - | - | [[#Religion and US Empire Critical New Histories. Edited by Tisa Wenger and Sylvester A. Johnson. North]] |
-| 47 | - | - | [[#Joseph Fielding Smith A Mormon Theologian. By Matthew Bowman. Urbana IL University of Illinois Press]] |
-| 48 | - | - | [[#Missionaries in Persia Cultural Diversity and Competing Norms in Global Catholicism. By Christian Wi]] |
-| 49 | - | - | [[#The Rise of Newports Catholics From Colonial Outcasts to Gilded Age Leaders. By John F. Quinn. Amher]] |
-| 50 | - | - | [[#Understanding and Teaching Religion in US History. Edited by Karen J. Johnson and Jonathan M. Yeager]] |
-| 51 | - | - | [[#Orthodoxy in the Agora Orthodox Christian Political Theologies Across History. Edited by Mihai-D. Gr]] |
-| 52 | Church History | Medieval | [[#The Life of Nuns Love Politics and Religion in Medieval German Convents. By Henrike Lähnemann and Ev]] |
-| 53 | Church History | Reformation | [[#The Empires Reformations Politics and Religion in Germany 14951648. By David M. Luebke. German Histo]] |
-| 54 | - | - | [[#A History of Early Christian Creeds. By Wolfram Kinzig. Berlin de Gruyter 2024. xviii  768pp. 43.99 ]] |
-| 55 | Church History | Reformation | [[#The Reformation of the Heart Gender and Radical Theology in the English Revolution. By Sarah Apetrei]] |
-| 56 | - | - | [[#Roundtable on Carlos Eire                    iThey Flew A History of the Impossiblei                ]] |
-| 57 | Church History | - | [[#The Life of Theodotus of Amida Syriac Christianity under the Umayyad Caliphate. By Robert Hoyland an]] |
-| 58 | - | - | [[#The Early Modern Dutch Press in an Age of Religious Persecution The Making of Humanitarianism. By Da]] |
-| 59 | - | - | [[#Reaching Chinese in the WorldChristian Literature in Post-war Hong Kong]] |
-| 60 | Church History | Medieval | [[#Stettin Revised Redating a Major Medieval Inquisition of Heresy]] |
-| 61 | Church History | Contemporary | [[#Local Patterns of Relic Veneration in Late Antiquity Reassessing Alleged Distinctions between Greek ]] |
-| 62 | - | - | [[#Faith in Medicine Christianitys Legacy of Medical Charity]] |
-| 63 | - | - | [[#History and the Study of Religion The Ancient Mediterranean as a Test Case. By Stanley Stowers. New ]] |
-| 64 | - | - | [[#Southern Baptists Re-Observed Perspectives on Race Gender and Politics. Edited by Keith Harper. Knox]] |
-| 65 | - | - | [[#Politische Vergangenheiten Der österreichische Protestantismus in den Jahren 193334 bis 1968. By Leo]] |
-| 66 | - | - | [[#The Apocalypse of Peter in Context. Edited by Daniel C. Maier Jörg Frey and Thomas J. Kraus.        ]] |
-| 67 | - | - | [[#The Gospel of John Marrant Conjuring Black Christianity in the Black Atlantic. By Alphonso F. Savill]] |
-| 68 | - | - | [[#Catholicism and Native Americans in Early North America Parish Church and Mission. Edited by Kathlee]] |
-| 69 | - | - | [[#Antioch Nicaea and the Synthesis of Constantinople Revisiting Trajectories in the Fourth-Century Chr]] |
-| 70 | - | - | [[#The Radical Mind The Origins of Right-Wing Catholic and Protestant Coalition Building. By Chelsea Eb]] |
-| 71 | - | - | [[#Anglican Identities Logos Idealism Imperial Witness Commonweal Ecumenism. By Garry Dorrien. Waco Bay]] |
-| 72 | NT | - | [[#The Spirit of the Game American Christianity and Big-Time Sports. By Paul Emory Putz. New York Oxfor]] |
-| 73 | - | - | [[#A History of Christianity in America. By Mark A. Granquist. Grand Rapids MI Baker Academic 2025. xvi]] |
-| 74 | - | - | [[#Translating Faith Ethiopian Pilgrims in Renaissance Rome. By Samantha Kelly. Series I Tatti Studies ]] |
-| 75 | - | - | [[#Imagining the Death of Jesus in Fourth-Century Mesopotamia. By Blake Hartung. Supplements to        ]] |
-| 76 | - | - | [[#Feeding the Eternal City Jewish and Christian Butchers in the Roman Ghetto. By Kenneth Stow. Cambrid]] |
-| 77 | Church History | - | [[#Conciliar Diplomacy at the Council of Constance 14141418 Unity and Peacemaking in the World Historic]] |
-| 78 | - | - | [[#A Crusade Against the Turks as a Means of Reforming the Church Two Camaldolese Hermits Advice for Po]] |
-| 79 | Church History | Medieval | [[#Apocalyptic Cultures in Medieval and Renaissance Europe Politics and Prophecy. Edited by Jay Rubenst]] |
-| 80 | - | - | [[#American Aurora Environment and Apocalypse in the Life of Johannes Kelpius. By Timothy Grieve-Carlso]] |
-| 81 | - | - | [[#Righteous Strife How Warring Religious Nationalists Forged Lincolns Union. ByRichard Carwardine. New]] |
-| 82 | Church History | Reformation | [[#The Oxford Handbook of the Bible and the Reformation. Edited by Jennifer Powell McNutt and Herman J.]] |
-| 83 | - | - | [[#iExhortation to the Monksi                    by Hyperechios Reflections on the Spiritual Journey. B]] |
-| 84 | - | - | [[#Soul by Soul The Evangelical Mission to Spread the Gospel to Muslims. By Adriana Carranca. New York ]] |
-| 85 | Church History | Medieval, Reformation | [[#The Legacy of Birgitta of Sweden Women Politics and Reform in Renaissance Italy. Edited by Unn Falke]] |
-| 86 | Church History | Medieval | [[#Worlds of Byzantium Religion Culture and Empire in the Medieval Near East. Edited by Elizabeth S. Bo]] |
-| 87 | - | Modern | [[#The Enlightenment and Original Sin. By Matthew Kadane. Chicago The University of Chicago Press 2024.]] |
-| 88 | Practical Theology | Medieval | [[#Fixing the Liturgy Friars Sisters and the Dominican Rite 12561516. By Claire Taylor Jones.          ]] |
-| 89 | - | - | [[#Incomparable Realms Spain During the Golden Age 15001700. By Jeremy Robbins. London Reaktion Books L]] |
-| 90 | - | Modern | [[#Religion Science and Moral Philosophy in the Huguenot Enlightenment Jean Henri Samuel Formey and the]] |
-| 91 | - | - | [[#The Disinherited The Politics of Christian Conversion in Colonial India. ByMou Banerjee. Cambridge H]] |
-| 92 | Church History | Reformation | [[#Reformation and Everyday Life. Edited by Nina J. Koefoed and Bo Kristian Holm.                    iR]] |
-| 93 | - | - | [[#Oneness Pentecostalism Race Gender and Culture. Edited by Lloyd D. Barba Andrea Shan Johnson and Dan]] |
-| 94 | - | - | [[#Charles Wesley 17071788 Preacher Poet Pastor. Edited by Clive Murray Norris.                    iThe]] |
-| 95 | Church History | Medieval | [[#Symbolic Reproduction in Early Medieval England Secular and Monastic Households. By Katharine Sykes.]] |
-| 96 | - | - | [[#To Contest with all the Powers of Darkness New England Baptists Religious Liberty and New Political ]] |
-| 97 | - | - | [[#Without a Prayer Religion and Race in New York City Public Schools. By Leslie Beth Ribovich. New Yor]] |
-| 98 | Church History | Reformation | [[#Weather the Reformation Climate and Religion in Early Modern Sixteenth-Century Strasbourg. By Linnéa]] |
-| 99 | - | - | [[#A Suon di Polemiche. Eresia e controversia dottrinale nella crisi religiosa del Cinquecento. By Gior]] |
-| 100 | - | - | [[#A Short History of the Roman Mass. By Uwe Michael Lang. San Francisco Ignatius Press 2024. 146 pp. I]] |
-| 101 | - | - | [[#Henry Longueville Mansel Victorian Theology Philosophy and Politics. By Francesca Norman. Anglican-E]] |
-| 102 | - | - | [[#Il Governo dei Pulpiti Predicatori potere e pubblico nellItalia della prima età moderna. Culture e r]] |
-| 103 | - | - | [[#The Protestant Ethic in Hungary. The Puritan Ethic and Its Influence. By Attila K. Molnár. Göttingen]] |
-| 104 | Systematic Theology | - | [[#Church-Building and the Consolidation of the United States 18651900]] |
-| 105 | - | - | [[#Baptist Identity and Elusive Interracialism in the Segregated South D. V. Jemison E. P. Alldredge an]] |
-| 106 | - | - | [[#Patriarchs Bishops and Monasteries in the Syriac Consecration Lists c. 8001000]] |
-| 107 | Ethics, Systematic Theology | - | [[#Representation vs. Democracy Presbyterianism in the Age of the French Revolution]] |
-| 108 | NT | - | [[#Christian Connection Women as Biblical Interpreters in Antebellum America 18201841]] |
-| 109 | - | - | [[#Reflections on Nicaea at 1700 A Forum on the Legacy of the Council and the Creed]] |
-| 110 | - | Contemporary | [[#Asserting Protestant Legitimacy in a Catholic Context Rhetorical Strategies of the Confederação Evan]] |
-| 111 | - | Reformation | [[#The Limits of Literalism Race The Bible and The Desegregation of Dallas Theological Seminary 1950198]] |
-| 112 | - | - | [[#CHH volume 94 issue 1 Cover and Front matter]] |
-| 113 | - | - | [[#CHH volume 94 issue 1 Cover and Back matter]] |
-| 114 | Systematic Theology | - | [[#A Double-Edged Sword Excommunication in Nineteenth-Century French Canada]] |
-| 115 | - | - | [[#CHH volume 94 issue 2 Cover and Front matter]] |
-| 116 | - | - | [[#CHH volume 94 issue 2 Cover and Back matter]] |
+| 1 | - | - | [[#Christianity in Fifteenth-Century Iraq. By Thomas A. Carlson. Cambridge Studies in Islamic Civilization. Cambridge Cambridge University Press 2018. xx  299 pp. 120.00 cloth 41.99 paper.|Christianity in Fifteenth-Century Iraq. By Thomas A. Carlson. Cambridge Studies in Islamic Civilization. Cambridge: Cambridge University Press, 2018. xx + 299 pp. $120.00 cloth; $41.99 paper.]] |
+| 2 | - | - | [[#Bisschops Bench Contours of Arminian Conformity in the Church of England c.16741742. By Samuel Fornecker. Oxford Studies in Historical Theology. New York Oxford University Press 2022. xiv237pp. 97.00 cloth.|Bisschop’s Bench: Contours of Arminian Conformity in the Church of England, c.1674–1742. By Samuel Fornecker. Oxford Studies in Historical Theology. New York: Oxford University Press, 2022. xiv + 237 pp. $97.00 cloth.]] |
+| 3 | - | - | [[#C. S. Lewis in America Readings and Reception 19351947. By Mark A. Noll et al. Downers Grove IL InterVarsity Press 2023. 176pp. 20.99 paper.|C. S. Lewis in America: Readings and Reception, 1935–1947. By Mark A. Noll, et al. Downers Grove, IL: InterVarsity Press, 2023. 176 pp. $20.99 (paper).]] |
+| 4 | - | - | [[#The Cambridge History of Ancient Christianity. Edited by Bruce W. Longenecker and David E. Wilhite. Cambridge Cambridge University Press 2023. 698pp.|The Cambridge History of Ancient Christianity. Edited by Bruce W. Longenecker and David E. Wilhite. Cambridge: Cambridge University Press, 2023. 698 pp.]] |
+| 5 | - | - | [[#The Oxford History of British and Irish Catholicism. Volume III Relief Revolution and Revival 17461829. Edited by Liam Chambers. Oxford Oxford University Press 2024. 356pp. 165. Hardcover.|The Oxford History of British and Irish Catholicism. Volume III: Relief, Revolution, and Revival, 1746–1829. Edited by Liam Chambers. Oxford: Oxford University Press, 2024. 356 pp. $165. Hardcover.]] |
+| 6 | - | - | [[#Religious Conflict at Canterbury Cathedral in the Late Twelfth Century The Dispute Between the Monks and the Archbishops 11841200. By James Barnaby. Woodbridge Boydell 2024. xii396pp. 110 hbk 29.99 ebk.|Religious Conflict at Canterbury Cathedral in the Late Twelfth Century: The Dispute Between the Monks and the Archbishops, 1184–1200. By James Barnaby. Woodbridge: Boydell, 2024. xii + 396 pp. £110 hbk; £29.99 ebk.]] |
+| 7 | - | - | [[#Joseph Smiths Gold Plates A Cultural History. By Richard Lyman Bushman. New York Oxford University Press 2023. xlv264pp. 34.95 cloth.|Joseph Smith’s Gold Plates: A Cultural History. By Richard Lyman Bushman. 
+New York: Oxford University Press, 2023. xlv + 264 pp. $34.95 cloth.]] |
+| 8 | - | - | [[#Samson Occom Radical Hospitality in the Native Northeast. By Ryan Carr. New York Columbia UP 2023. xv330pp. 140.00 cloth 35.00 paper.|Samson Occom: Radical Hospitality in the Native Northeast. By Ryan Carr. 
+New York: Columbia UP, 2023. xv + 330 pp. $140.00 cloth; $35.00 paper.]] |
+| 9 | - | - | [[#The Bible A Global History. By Bruce Gordon. New York Basic Books 2024. viii 514pp. 35.00.|The Bible: A Global History. By Bruce Gordon. 
+New York: Basic Books, 2024. viii +514 pp. $35.00.]] |
+| 10 | Church History | Patristic | [[#Engaging the Church Fathers in Nineteenth-Century Catholicism The Patristic Legacy of the Scuola Romana. By Joseph Carola. Steubenville OH Emmaus Academic Press 2023. xiv520pp. 54.95.|Engaging the Church Fathers in Nineteenth-Century Catholicism: The Patristic Legacy of the Scuola Romana. By Joseph Carola. Steubenville, OH: Emmaus Academic Press, 2023. xiv + 520 pp. $54.95.]] |
+| 11 | - | - | [[#The End of Catholic Mexico 18551861 Causes and Consequences of the Mexican Reforma. By David Gilbert. Nashville TN Vanderbilt University Press 2024. x303pp. 99.95 cloth 34.95 paper.|The End of Catholic Mexico (1855–1861): Causes and Consequences of the Mexican Reforma. By David Gilbert. Nashville, TN: Vanderbilt University Press, 2024. x + 303 pp. $99.95 cloth; $34.95 paper.]] |
+| 12 | Church History | Reformation | [[#Petrus Canisius zwischen alten Traditionen und neuen Zeiten Innsbrucker Petrus-Canisius-Tagung 2021. Edited by Mathias Moosbrugger. Reformationsgeschichtliche Studien und Texte 179. Münster Aschendorff Verlag GmbH amp Co. KG 2023. vi282pp. 39.00. ISBN 978-3-402-11619-7.|Petrus Canisius zwischen alten Traditionen und neuen Zeiten: Innsbrucker Petrus-Canisius-Tagung 2021. Edited by Mathias Moosbrugger. Reformationsgeschichtliche Studien und Texte 179. Münster: Aschendorff Verlag GmbH &amp; Co. KG, 2023. vi + 282 pp. €39.00. ISBN: 978-3-402-11619-7.]] |
+| 13 | Systematic Theology | - | [[#Yaḥyā ibn ʿAdī Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text English Translation and Commentary. By Giovanni Mandolino. Eastern Christian Texts 1. Leiden Brill 2023. viii  399pp. 179 hardback.|Yaḥyā ibn ʿAdī: Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text, English Translation and Commentary. By Giovanni Mandolino. Eastern Christian Texts 1. Leiden: Brill, 2023. viii + 399 pp. $179 hardback.]] |
+| 14 | - | - | [[#The Politics of Service American Quakers and the Emergence of International Humanitarian Aid 19171945. By Daniel Maul. Boston De Gruyter Oldenbourg 2024. x334pp. 89.99 cloth.|The Politics of Service: American Quakers and the Emergence of International Humanitarian Aid 1917–1945. By Daniel Maul. Boston: De Gruyter Oldenbourg, 2024. x + 334 pp. $89.99 cloth.]] |
+| 15 | - | - | [[#The Demise of Norse Religion Dismantling and Defending the Old Order in Viking Age Scandinavia. By Olof Sundqvist. BerlinBoston Walter de Gruyter 2024. viii  418pp. 109.99 cloth Open Access.|The Demise of Norse Religion: Dismantling and Defending the Old Order in Viking Age Scandinavia. By Olof Sundqvist. Berlin/Boston: Walter de Gruyter, 2024. viii + 418 pp. $109.99 cloth; Open Access.]] |
+| 16 | - | Modern | [[#The Life of St Brendan and His Prayer. Translated with an Introduction and Notes by Gordon Barthos. Mediaeval Sources in Translation 62. Toronto Pontifical Institute of Mediaeval Studies 2024. Xii134pp. 25.00 paper.|The Life of St Brendan and His Prayer. Translated with an Introduction and Notes by Gordon Barthos. Mediaeval Sources in Translation 62. Toronto: Pontifical Institute of Mediaeval Studies, 2024. Xii + 134 pp. $25.00 paper.]] |
+| 17 | - | - | [[#Italys Christian Democracy The Catholic Encounter with Political Modernity. By Rosario Forlenza and Bjørn Thomassen. Oxford Oxford University Press 2024. 281pp. 115 cloth.|Italy’s Christian Democracy: The Catholic Encounter with Political Modernity. By Rosario Forlenza and Bjørn Thomassen. Oxford: Oxford University Press, 2024. 281 pp. $115 cloth.]] |
+| 18 | Church History | Medieval | [[#Christ the Physician in Late-Medieval Religious Controversy England and Central Europe 13501434. By Patrick Outhwaite. Health and Healing in the Middle Ages 7. Woodbridge Suffolk York Medieval Press in association with Boydell and Brewer. 281pp. 130.00 cloth 29.95 ebook.|Christ the Physician in Late-Medieval Religious Controversy: England and Central Europe, 1350–1434. By Patrick Outhwaite. Health and Healing in the Middle Ages 7. Woodbridge, Suffolk: York Medieval Press in association with Boydell and Brewer. 281 pp. $130.00 cloth; $29.95 ebook.]] |
+| 19 | - | - | [[#Šalmūtā Šapīrtā. Festschrift for Rifaat Y. Ebied in honour of his contributions to Semitic Studies. Edited by Erica C.D. Hunter. Gorgias Eastern Christian Studies 65. Piscataway NJ Gorgias 2023. xx409pp. 140.00 cloth.|Šalmūtā Šapīrtā. Festschrift for Rifaat Y. Ebied in honour of his contributions to Semitic Studies. Edited by Erica C.D. Hunter. Gorgias Eastern Christian Studies 65. Piscataway, NJ: Gorgias, 2023. xx + 409 pp. $140.00 cloth.]] |
+| 20 | NT | - | [[#Writings 14161432 The Struggle for the Self-Determination of Central Europe. By Paweł Włodkowic foreword Ewa Thompson introduction and edited Paul W. Knoll translated Charles S. Kraszewski. Rome Angelicum University Press Fundacja Świętego Mikołaja 2023.|Writings (1416–1432): The Struggle for the Self-Determination of Central Europe. By Paweł Włodkowic, foreword Ewa Thompson, introduction and edited Paul W. Knoll, translated Charles S. Kraszewski. Rome: Angelicum University Press Fundacja Świętego Mikołaja, 2023.]] |
+| 21 | Church History | Medieval | [[#Giants in the Medieval City. By Assaf Pinkus with the participation of Noeit Williger Aviam Orly Amit and Michal Ozeri. Turnhout Brepols 2023. 272pp. 110 illus. 150.00 cloth.|Giants in the Medieval City. By Assaf Pinkus with the participation of Noeit Williger Aviam, Orly Amit and Michal Ozeri. Turnhout: Brepols, 2023. 272 pp. 110 illus. €150.00 cloth.]] |
+| 22 | - | - | [[#Recovering Their Stories US Catholic Women in the Twentieth Century. Edited by Sandra Yocum and Nicholas K. Rademacher. New York Fordham University Press 2024. 280pp. 140.00 cloth 40.00 paper 39.99 E-book.|Recovering Their Stories: US Catholic Women in the Twentieth Century. Edited by Sandra Yocum and Nicholas K. Rademacher. 
+New York: Fordham University Press, 2024. 280 pp. $140.00 cloth; $40.00 paper; $39.99 E-book.]] |
+| 23 | - | - | [[#One Lost Soul Richard Nixons Search for Salvation. By Daniel Silliman. Grand Rapids MI Eerdmans 2024. 317pp. 36.99 hardback.|One Lost Soul: Richard Nixon’s Search for Salvation. By Daniel Silliman. Grand Rapids, MI: Eerdmans, 2024. 317 pp. $36.99 hardback.]] |
+| 24 | Church History | Reformation | [[#Building the Church of England The Book of Common Prayer and the Edwardian Reformation. By Stephen Tong. St Andrews Studies in Reformation History. Leiden Brill 2023. 286pp. 119.00. ISBN 978-90-04-54785-8.|Building the Church of England: The Book of Common Prayer and the Edwardian Reformation. By Stephen Tong. St Andrews Studies in Reformation History. Leiden: Brill, 2023. 286 pp. $119.00. ISBN 978-90-04-54785-8.]] |
+| 25 | Church History | Medieval | [[#Doing Memory Medieval Saints and Heroes and Their Afterlives in the Baltic Sea Region 19th20th Centuries. Edited by Cordelia Heß and Gustavs Strenga. BerlinBoston Walter de Gruyter GmbH 2024. x300pp.|Doing Memory: Medieval Saints and Heroes and Their Afterlives in the Baltic Sea Region (19th–20th Centuries). Edited by Cordelia Heß and Gustavs Strenga. Berlin/Boston: Walter de Gruyter GmbH, 2024. x + 300 pp.]] |
+| 26 | - | - | [[#Shaping Letters Shaping Communities Multilingualism and Linguistic Practice in the Late Antique Near East and Egypt. Edited by Yuliya Minets and Paweł Nowakowski. Texts and Studies in Eastern Christianity 33. Leiden Brill 2023. xx356pp. 157.94 hardback 154.96 E-Book PDF.|Shaping Letters, Shaping Communities: Multilingualism and Linguistic Practice in the Late Antique Near East and Egypt. Edited by Yuliya Minets and Paweł Nowakowski. Texts and Studies in Eastern Christianity 33. Leiden: Brill, 2023. xx + 356 pp. €157.94 hardback; €154.96 E-Book (PDF).]] |
+| 27 | - | - | [[#The Oxford History of British and Irish Catholicism Volume I Endings and New Beginnings 15301640. Edited by James E. Kelly and John McCafferty. Oxford Oxford University Press 2023. xxvi  325 pp. 165 cloth.|The Oxford History of British and Irish Catholicism, Volume I: Endings and New Beginnings, 1530–1640. Edited by James E. Kelly and John McCafferty. Oxford: Oxford University Press, 2023. xxvi + 325 pp. $165 cloth.]] |
+| 28 | - | - | [[#Pie VII Le Pape qui défia Napoléon. By Xavier Maréchaux. Paris Passés Composés 2024. xiv  308 pp. 23 paper.|Pie VII: Le Pape qui défia Napoléon. By Xavier Maréchaux. Paris: Passés Composés, 2024. xiv + 308 pp. €23 paper.]] |
+| 29 | NT | Medieval | [[#The Defence of the Faith Crusading on the Frontiers of Latin Christendom in the Late Middle Ages. Edited by Paul Srodecki and Norbert Kersken. Outremer Studies in the Crusades and the Latin East 15. Turnhout Brepols 2024. 407pp. 95.00 hardback.|The Defence of the Faith: Crusading on the Frontiers of Latin Christendom in the Late Middle Ages. Edited by Paul Srodecki and Norbert Kersken. Outremer: Studies in the Crusades and the Latin East 15. Turnhout: Brepols, 2024. 407 pp. €95.00 hardback.]] |
+| 30 | - | - | [[#The Popes against the Protestants The Vatican and Evangelical Christianity in Fascist Italy. By Kevin Madigan. New Haven and London Yale University Press 2021. 368 pp.|The Popes against the Protestants: The Vatican and Evangelical Christianity in Fascist Italy. By Kevin Madigan. New Haven and London: Yale University Press, 2021. 368 pp.]] |
+| 31 | - | - | [[#Remembering Antônia Teixeira A Story of Missions Violence and Institutional Hypocrisy. By Mikeal C. Parsons and João B. Chaves. Grand Rapids Eerdmans Publishing Company 2023. xv224pp. 26.99 cloth.|Remembering Antônia Teixeira: A Story of Missions, Violence, and Institutional Hypocrisy. By Mikeal C. Parsons and João B. Chaves. Grand Rapids: Eerdmans Publishing Company, 2023. xv + 224 pp. $26.99 cloth.]] |
+| 32 | - | - | [[#Baptists and Gender Papers for the Ninth International Conference on Baptist Studies. By Melody Maxwell and T. Laine Scales. Macon GA Mercer University Press 2023. xii321pp. 40.00 paper.|Baptists and Gender: Papers for the Ninth International Conference on Baptist Studies. By Melody Maxwell and T. Laine Scales. Macon, GA: Mercer University Press, 2023. xii + 321 pp. $40.00 paper.]] |
+| 33 | - | - | [[#Red Pope A Biography of Cardinal Willem van Rossum c.ss.r 18541932. By Vefie Poels. Nijmegen Radboud University Press 2023. 667pp. 29.95 paper.|Red Pope: A Biography of Cardinal Willem van Rossum c.ss.r (1854–1932). By Vefie Poels. Nijmegen: Radboud University Press, 2023. 667 pp. €29.95 paper.]] |
+| 34 | - | - | [[#From Every Stormy Wind That Blows The Idea of Howard College and the Origins of Samford University. By S. Jonathan Bass. Baton Rouge Louisiana State University Press 2024. xi  347pp. 50.00 cloth 19.95 ebook.|From Every Stormy Wind That Blows: The Idea of Howard College and the Origins of Samford University. By S. Jonathan Bass. Baton Rouge: Louisiana State University Press, 2024. xi + 347 pp. $50.00 cloth, $19.95 ebook.]] |
+| 35 | - | - | [[#Nachtrichten aus der Politik Die Lageberichte Hermann Kunsts für den Rat der Evangelischen Kirche in Deutschland 19511977. By Dagmar Pöpping. Arbeiten zur Kitchlichen Zeitgeschichte Reihe A Quellen Band 22. Göttingen Vandenhoeck and Ruprecht 2020. 520pp.|Nachtrichten aus der Politik: Die Lageberichte Hermann Kunsts für den Rat der Evangelischen Kirche in Deutschland 1951–1977. By Dagmar Pöpping. Arbeiten zur Kitchlichen Zeitgeschichte, Reihe A: Quellen, Band 22. Göttingen: Vandenhoeck and Ruprecht, 2020. 520 pp.]] |
+| 36 | - | - | [[#Immovable Truth Divine Knowledge and the Bible at the University of Vienna 13841419. By Edit Anna Lukács. Commentaria Sacred Texts and Their Commentaries 15. Leiden Brill 2024. viii  230pp. 131.00 cloth.|Immovable Truth: Divine Knowledge and the Bible at the University of Vienna (1384–1419). By Edit Anna Lukács. Commentaria: Sacred Texts and Their Commentaries 15. Leiden: Brill, 2024. viii + 230 pp. $131.00 cloth.]] |
+| 37 | - | - | [[#Vatican I Infallible or Neglectable Historical and Theological Approaches to the Event and Reception of the First Vatican Council. Edited by Dries Bosschaert Peter De Mey and Simon Beentjes. Bibliothèque de la Revue dhistoire ecclésiastique 113. Turnhout Belgium Brepols 2023. 346pp. 124.00 paper.|Vatican I, Infallible or Neglectable?: Historical and Theological Approaches to the Event and Reception of the First Vatican Council. Edited by Dries Bosschaert, Peter De Mey, and Simon Beentjes. Bibliothèque de la Revue d’histoire ecclésiastique, 113. Turnhout, Belgium: Brepols, 2023. 346 pp. $124.00 paper.]] |
+| 38 | - | - | [[#Civil Religion in the Early Modern Anglophone World 15501700. Edited by Adam Morton and Rachel Hammersley. Studies in Early Modern Cultural Political and Social History 50. Woodbridge Boydell 2024. x283pp.|Civil Religion in the Early Modern Anglophone World, 1550–1700. Edited by Adam Morton and Rachel Hammersley. Studies in Early Modern Cultural, Political and Social History 50. Woodbridge: Boydell, 2024. x + 283 pp.]] |
+| 39 | - | - | [[#Faith in Markets Christian Capitalism in the Early American Republic. By Joseph P. Slaughter. Columbia Studies in the History of U.S. Capitalism. New York Columbia University Press 2023. vi387pp. 140 cloth 35 paper.|Faith in Markets: Christian Capitalism in the Early American Republic. By Joseph P. Slaughter. Columbia Studies in the History of U.S. Capitalism. 
+New York: Columbia University Press, 2023. vi + 387 pp. $140 cloth; $35 paper.]] |
+| 40 | NT | - | [[#The Reports of Theophilus Opoku A 19th-Century Gold Coast Pastor. Edited by Michelle Gilbert and Paul Jenkins. Fontes Historiae AfricanaeSources of African History 24. Oxford Oxford University Press published for the British Academy 2024. xli516pp. 245.00 hardcover.|The Reports of Theophilus Opoku: A 19th-Century Gold Coast Pastor. Edited by Michelle Gilbert and Paul Jenkins. Fontes Historiae Africanae/Sources of African History 24. Oxford: Oxford University Press, published for the British Academy, 2024. xli + 516 pp. $245.00 hardcover.]] |
+| 41 | Church History | Medieval | [[#Die römischen Repertorien Neue Perspektiven für die Erforschung von Kirche und Kurie des Spätmittelalters 13781484. Edited by Claudia Märtl Irmgard Fees Andreas Rehberg and Jörg Voigt. Bibliothek des Deutschen Historischen Instituts in Rom 145. Berlin Boston De Gruyter 2023. 159.95 cloth ebook.|Die römischen Repertorien: Neue Perspektiven für die Erforschung von Kirche und Kurie des Spätmittelalters (1378–1484). Edited by Claudia Märtl, Irmgard Fees, Andreas Rehberg and Jörg Voigt. Bibliothek des Deutschen Historischen Instituts in Rom 145. Berlin; Boston: De Gruyter, 2023. €159.95 cloth; ebook.]] |
+| 42 | - | - | [[#Missionary Interests Protestant and Mormon Missions in the Nineteenth and Twentieth Centuries. Edited by David Golding and Christopher Cannon Jones. Ithaca Cornell University Press 2024. 215pp. 28.95 paper.|Missionary Interests: Protestant and Mormon Missions in the Nineteenth and Twentieth Centuries. Edited by David Golding and Christopher Cannon Jones. Ithaca: Cornell University Press, 2024. 215 pp. $28.95 paper.]] |
+| 43 | - | - | [[#Before and Beyond the Big Society John Milbank and the Church of Englands Approach to Welfare. By Joseph Forde. Cambridge James Clarke amp Co. 2022. x312pp. 82.00 hardback 27.50 paper.|Before and Beyond the “Big Society”: John Milbank and the Church of England’s Approach to Welfare. By Joseph Forde. Cambridge: James Clarke &amp; Co., 2022. x + 312 pp. £82.00 hardback; £27.50 paper.]] |
+| 44 | Church History | Medieval | [[#Der Papsthof auf Reisen. Die Reisen der römischen Kurie in den Pontifikaten von Martin V. bis Pius II. 14171464. By Christopher Kast. Papsttum im mittelalterlichen Europa 12. Göttingen Vandenhoeck and Ruprecht 2024. 532pp. 80.00.|Der Papsthof auf Reisen. Die Reisen der römischen Kurie in den Pontifikaten von Martin V. bis Pius II. (1417–1464). By Christopher Kast. Papsttum im mittelalterlichen Europa 12. Göttingen: Vandenhoeck and Ruprecht, 2024. 532 pp. €80.00.]] |
+| 45 | - | - | [[#Christianity and Comics Stories We Tell About Heaven and Hell. By Blair Davis. New Brunswick Rutgers University Press 2024. vii303pp. 72.95 cloth 39.95 paper.|Christianity and Comics: Stories We Tell About Heaven and Hell. By Blair Davis. New Brunswick: Rutgers University Press, 2024. vii + 303 pp. $72.95 cloth; $39.95 paper.]] |
+| 46 | - | - | [[#Religion and US Empire Critical New Histories. Edited by Tisa Wenger and Sylvester A. Johnson. North American Religions. New York New York University Press 2022. 384pp. 99.00 cloth 40.00 paper or ebook.|Religion and US Empire: Critical New Histories. Edited by Tisa Wenger and Sylvester A. Johnson. North American Religions. 
+New York: 
+New York University Press, 2022. 384 pp. $99.00 cloth; $40.00 paper or ebook.]] |
+| 47 | - | - | [[#Joseph Fielding Smith A Mormon Theologian. By Matthew Bowman. Urbana IL University of Illinois Press 2024. ix122pp. 14.95.|Joseph Fielding Smith: A Mormon Theologian. By Matthew Bowman. Urbana, IL: University of Illinois Press, 2024. ix + 122 pp. $14.95.]] |
+| 48 | - | - | [[#Missionaries in Persia Cultural Diversity and Competing Norms in Global Catholicism. By Christian Windler. Translated from the German by Pamela E. Selwyn. London I.B. Tauris 2024. xiv392 pp. 120.|Missionaries in Persia: Cultural Diversity and Competing Norms in Global Catholicism. By Christian Windler. Translated from the German by Pamela E. Selwyn. 
+London: I.B. Tauris, 2024. xiv + 392 pp. $120.]] |
+| 49 | - | - | [[#The Rise of Newports Catholics From Colonial Outcasts to Gilded Age Leaders. By John F. Quinn. Amherst and Boston University of Massachusetts Press 2024. Xii311pp. 32.95 US paper.|The Rise of Newport’s Catholics: From Colonial Outcasts to Gilded Age Leaders. By John F. Quinn. Amherst and Boston: University of Massachusetts Press, 2024. Xii + 311 pp. $32.95 US paper.]] |
+| 50 | - | - | [[#Understanding and Teaching Religion in US History. Edited by Karen J. Johnson and Jonathan M. Yeager. University of Wisconsin Press 2024. xi  330pp. 34.95 cloth.|Understanding and Teaching Religion in US History. Edited by Karen J. Johnson and Jonathan M. Yeager. University of Wisconsin Press, 2024. xi + 330 pp. $34.95 cloth.]] |
+| 51 | - | - | [[#Orthodoxy in the Agora Orthodox Christian Political Theologies Across History. Edited by Mihai-D. Grigore and Vasilios N. Makrides. Veroffentlichungen des instituts fur Europaische geschichte Mainz 2024. 432pp.|Orthodoxy in the Agora: Orthodox Christian Political Theologies Across History. Edited by Mihai-D. Grigore and Vasilios N. Makrides. Veroffentlichungen des instituts fur Europaische geschichte Mainz, 2024. 432 pp.]] |
+| 52 | Church History | Medieval | [[#The Life of Nuns Love Politics and Religion in Medieval German Convents. By Henrike Lähnemann and Eva Schlotheuber. Cambridge Open Book Publishers 2024. vi199pp. 37.95 cloth 24.95 paper.|The Life of Nuns: Love, Politics, and Religion in Medieval German Convents. By Henrike Lähnemann and Eva Schlotheuber. Cambridge: Open Book Publishers, 2024. vi + 199 pp. £37.95 cloth; £24.95 paper.]] |
+| 53 | Church History | Reformation | [[#The Empires Reformations Politics and Religion in Germany 14951648. By David M. Luebke. German History in Focus. London Bloomsbury Academic 2024. xv204pp. 61.00 cloth 19.95 paper.|The Empire’s Reformations: Politics and Religion in Germany, 1495–1648. By David M. Luebke. German History in Focus. 
+London: Bloomsbury Academic, 2024. xv + 204 pp. $61.00 cloth; $19.95 paper.]] |
+| 54 | - | - | [[#A History of Early Christian Creeds. By Wolfram Kinzig. Berlin de Gruyter 2024. xviii  768pp. 43.99 paper.|A History of Early Christian Creeds. By Wolfram Kinzig. Berlin: de Gruyter, 2024. xviii + 768 pp. $43.99 paper.]] |
+| 55 | Church History | Reformation | [[#The Reformation of the Heart Gender and Radical Theology in the English Revolution. By Sarah Apetrei. Oxford Oxford UP 2024. xi222pp.|The Reformation of the Heart: Gender and Radical Theology in the English Revolution. By Sarah Apetrei. Oxford: Oxford UP, 2024. xi + 222 pp.]] |
+| 56 | - | - | [[#Roundtable on Carlos Eire                    iThey Flew A History of the Impossiblei                    New Haven Yale University Press 2023|Roundtable on Carlos Eire,
+                    <i>They Flew: A History of the Impossible</i>
+                    (New Haven: Yale University Press, 2023)]] |
+| 57 | Church History | - | [[#The Life of Theodotus of Amida Syriac Christianity under the Umayyad Caliphate. By Robert Hoyland and Andrew Palmer with an archaeological appendix by Charlotte Labedan-Kodaş. Texts from Christian Late Antiquity 73. Piscataway NJ Gorgias Press 2023. xii411pp. 45.00 paper.|The Life of Theodotus of Amida: Syriac Christianity under the Umayyad Caliphate. By Robert Hoyland and Andrew Palmer; with an archaeological appendix by Charlotte Labedan-Kodaş. Texts from Christian Late Antiquity 73. Piscataway, NJ: Gorgias Press, 2023. xii + 411 pp. $45.00 paper.]] |
+| 58 | - | - | [[#The Early Modern Dutch Press in an Age of Religious Persecution The Making of Humanitarianism. By David de Boer. Oxford Oxford University Press 2023. 224pp. 70.00.|The Early Modern Dutch Press in an Age of Religious Persecution: The Making of Humanitarianism. By David de Boer. Oxford: Oxford University Press, 2023. 224 pp. £70.00.]] |
+| 59 | - | - | [[#Reaching Chinese in the WorldChristian Literature in Post-war Hong Kong|Reaching Chinese in the World—Christian Literature in Post-war Hong Kong]] |
+| 60 | Church History | Medieval | [[#Stettin Revised Redating a Major Medieval Inquisition of Heresy|Stettin Revised: Redating a Major Medieval Inquisition of Heresy]] |
+| 61 | Church History | Contemporary | [[#Local Patterns of Relic Veneration in Late Antiquity Reassessing Alleged Distinctions between Greek and Roman Customs|Local Patterns of Relic Veneration in Late Antiquity: Reassessing Alleged Distinctions between Greek and Roman Customs]] |
+| 62 | - | - | [[#Faith in Medicine Christianitys Legacy of Medical Charity|Faith in Medicine: Christianity’s Legacy of Medical Charity]] |
+| 63 | - | - | [[#History and the Study of Religion The Ancient Mediterranean as a Test Case. By Stanley Stowers. New York Oxford University Press 2024. viii  384pp. 49.95 cloth.|History and the Study of Religion: The Ancient Mediterranean as a Test Case. By Stanley Stowers. New York: Oxford University Press, 2024. viii + 384 pp. $49.95 cloth.]] |
+| 64 | - | - | [[#Southern Baptists Re-Observed Perspectives on Race Gender and Politics. Edited by Keith Harper. Knoxville University of Tennessee Press 2022. xxvii 311pp. 60 cloth 60 e-book.|Southern Baptists Re-Observed: Perspectives on Race, Gender, and Politics. Edited by Keith Harper. Knoxville: University of Tennessee Press, 2022. xxvii +311 pp. $60 cloth; $60 e-book.]] |
+| 65 | - | - | [[#Politische Vergangenheiten Der österreichische Protestantismus in den Jahren 193334 bis 1968. By Leonhard Jungwirth. Arbeiten zur Kirchlichen Zeitgeschichte 93. Göttingen Vandenhoeck amp Ruprecht 2024. 777pp. 130.00 hardcover.|Politische Vergangenheiten: Der österreichische Protestantismus in den Jahren 1933/34 bis 1968. By Leonhard Jungwirth. Arbeiten zur Kirchlichen Zeitgeschichte, 93. Göttingen: Vandenhoeck &amp; Ruprecht, 2024. 777 pp. €130.00 hardcover.]] |
+| 66 | - | - | [[#The Apocalypse of Peter in Context. Edited by Daniel C. Maier Jörg Frey and Thomas J. Kraus.                    iStudies on Early Christian Apocryphai                    21. Leuven Peeters 2024. xvi402pp. 96.00 and open access.|The Apocalypse of Peter in Context. Edited by Daniel C. Maier, Jörg Frey, and Thomas J. Kraus.
+                    <i>Studies on Early Christian Apocrypha</i>
+                    21. Leuven: Peeters, 2024. xvi + 402 pp. €96.00 and open access.]] |
+| 67 | - | - | [[#The Gospel of John Marrant Conjuring Black Christianity in the Black Atlantic. By Alphonso F. SavilleIV . Durham Duke University Press 2024. x197pp. 99.95 hardcover 25.95 paper.|The Gospel of John Marrant: Conjuring Black Christianity in the Black Atlantic. By Alphonso F. SavilleIV . Durham: Duke University Press, 2024. x + 197 pp. $99.95 hardcover; $25.95 paper.]] |
+| 68 | - | - | [[#Catholicism and Native Americans in Early North America Parish Church and Mission. Edited by Kathleen Deagan. Notre Dame IN University of Notre Dame Press 2024. xxiv  261pp. 85.00 hardcover 67.99 eBook.|Catholicism and Native Americans in Early North America: Parish, Church, and Mission. Edited by Kathleen Deagan. Notre Dame, IN: University of Notre Dame Press, 2024. xxiv + 261 pp. $85.00 hardcover; $67.99 eBook.]] |
+| 69 | - | - | [[#Antioch Nicaea and the Synthesis of Constantinople Revisiting Trajectories in the Fourth-Century Christological Debates. By Dragoș Andrei Giulea.                    iStudies in the History of Christian Traditionsi                    200. Leiden Boston Brill 2024. xii310pp. 167.00 paper.|Antioch, Nicaea, and the Synthesis of Constantinople: Revisiting Trajectories in the Fourth-Century Christological Debates. By Dragoș Andrei Giulea.
+                    <i>Studies in the History of Christian Traditions</i>
+                    200. Leiden; Boston: Brill, 2024. xii + 310 pp. $167.00 paper.]] |
+| 70 | - | - | [[#The Radical Mind The Origins of Right-Wing Catholic and Protestant Coalition Building. By Chelsea Ebin. Lawrence University Press of Kansas 2024. xxvi  228pp. 49.99 cloth.|The Radical Mind: The Origins of Right-Wing Catholic and Protestant Coalition Building. By Chelsea Ebin. Lawrence: University Press of Kansas, 2024. xxvi + 228 pp. $49.99 cloth.]] |
+| 71 | - | - | [[#Anglican Identities Logos Idealism Imperial Witness Commonweal Ecumenism. By Garry Dorrien. Waco Baylor University Press 2024. xiii  642 pp. 74.99 hardcover 59.99 paperback.|Anglican Identities: Logos Idealism, Imperial Witness, Commonweal Ecumenism. By Garry Dorrien. Waco: Baylor University Press, 2024. xiii + 642 pp. $74.99 hardcover; $59.99 paperback.]] |
+| 72 | NT | - | [[#The Spirit of the Game American Christianity and Big-Time Sports. By Paul Emory Putz. New York Oxford University Press 2024. ix264pp. 29.99 cloth.|The Spirit of the Game: American Christianity and Big-Time Sports. By Paul Emory Putz. New York: Oxford University Press, 2024. ix + 264 pp. $29.99 cloth.]] |
+| 73 | - | - | [[#A History of Christianity in America. By Mark A. Granquist. Grand Rapids MI Baker Academic 2025. xvi382pp. 44.99 hardcover 44.99 e-book.|A History of Christianity in America. By Mark A. Granquist. Grand Rapids, MI: Baker Academic, 2025. xvi + 382 pp. $44.99 hardcover; $44.99 e-book.]] |
+| 74 | - | - | [[#Translating Faith Ethiopian Pilgrims in Renaissance Rome. By Samantha Kelly. Series I Tatti Studies in Italian Renaissance History. Harvard University Press 2024. 520 pp. 55.00 hardback.|Translating Faith: Ethiopian Pilgrims in Renaissance Rome. By Samantha Kelly. Series: I Tatti Studies in Italian Renaissance History. Harvard University Press, 2024. 520 pp. $55.00 hardback.]] |
+| 75 | - | - | [[#Imagining the Death of Jesus in Fourth-Century Mesopotamia. By Blake Hartung. Supplements to                    iVigiliae Christianaei                    181. Leiden Brill 2023. xi  257pp. 134 Hardback.|Imagining the Death of Jesus in Fourth-Century Mesopotamia. By Blake Hartung. Supplements to
+                    <i>Vigiliae Christianae</i>
+                    181. Leiden: Brill, 2023. xi + 257 pp. $134 Hardback.]] |
+| 76 | - | - | [[#Feeding the Eternal City Jewish and Christian Butchers in the Roman Ghetto. By Kenneth Stow. Cambridge MA London UK Harvard University Press 2024. ix  276 pp. 45.00 hardback.|Feeding the Eternal City: Jewish and Christian Butchers in the Roman Ghetto. By Kenneth Stow. Cambridge, MA; London, UK: Harvard University Press, 2024. ix + 276 pp. $45.00 hardback.]] |
+| 77 | Church History | - | [[#Conciliar Diplomacy at the Council of Constance 14141418 Unity and Peacemaking in the World Historical Perspective. By Philip H. Stump.                    iStudies in the History of Christian Traditionsi                    207. Leiden Brill Publishing 2024. xviii  294pp. 126.00 hardback.|Conciliar Diplomacy at the Council of Constance (1414–1418): Unity and Peacemaking in the World Historical Perspective. By Philip H. Stump.
+                    <i>Studies in the History of Christian Traditions</i>
+                    207. Leiden: Brill Publishing, 2024. xviii + 294 pp. $126.00 hardback.]] |
+| 78 | - | - | [[#A Crusade Against the Turks as a Means of Reforming the Church Two Camaldolese Hermits Advice for Pope Leo X. By James G. Kroemer. Lanham Lexington Books 2024. V125pp. 100.00 Cloth.|A Crusade Against the Turks as a Means of Reforming the Church: Two Camaldolese Hermits’ Advice for Pope Leo X. By James G. Kroemer. Lanham: Lexington Books, 2024. V + 125 pp. $100.00 Cloth.]] |
+| 79 | Church History | Medieval | [[#Apocalyptic Cultures in Medieval and Renaissance Europe Politics and Prophecy. Edited by Jay Rubenstein and Robert Bast. Interdisciplinary Studies in the Middle Ages and the Renaissance 3. Turnhout Brepols 2024. 301pp.90 hardback.|Apocalyptic Cultures in Medieval and Renaissance Europe: Politics and Prophecy. Edited by Jay Rubenstein and Robert Bast. Interdisciplinary Studies in the Middle Ages and the Renaissance, 3. Turnhout: Brepols, 2024. 301 pp. €90 hardback.]] |
+| 80 | - | - | [[#American Aurora Environment and Apocalypse in the Life of Johannes Kelpius. By Timothy Grieve-Carlson. Oxford Oxford University Press 2024. 328 pp. 120 hardback and 39.95 paperback.|American Aurora: Environment and Apocalypse in the Life of Johannes Kelpius. By Timothy Grieve-Carlson. Oxford: Oxford University Press, 2024. 328 pp. $120 hardback and $39.95 paperback.]] |
+| 81 | - | - | [[#Righteous Strife How Warring Religious Nationalists Forged Lincolns Union. ByRichard Carwardine. New York Alfred A. Knopf 2025. xxiv  598pp. 35.00 hardcover 19.95 paper.|Righteous Strife: How Warring Religious Nationalists Forged Lincoln’s Union. By Richard Carwardine. New York: Alfred A. Knopf, 2025. xxiv + 598 pp. $35.00 hardcover; $19.95 paper.]] |
+| 82 | Church History | Reformation | [[#The Oxford Handbook of the Bible and the Reformation. Edited by Jennifer Powell McNutt and Herman J. Selderhuis. Oxford Oxford University Press 2024. xxvi  748pp. 190.00 cloth.|The Oxford Handbook of the Bible and the Reformation. Edited by Jennifer Powell McNutt and Herman J. Selderhuis. Oxford: Oxford University Press, 2024. xxvi + 748 pp. $190.00 cloth.]] |
+| 83 | - | - | [[#iExhortation to the Monksi                    by Hyperechios Reflections on the Spiritual Journey. By Tim Vivian. Cairo and New York The American University in Cairo Press 2024. xxi206pp. 59.95 hardback.|<i>Exhortation to the Monks</i>
+                    by Hyperechios: Reflections on the Spiritual Journey. By Tim Vivian. Cairo and New York: The American University in Cairo Press, 2024. xxi + 206 pp. $59.95 hardback.]] |
+| 84 | - | - | [[#Soul by Soul The Evangelical Mission to Spread the Gospel to Muslims. By Adriana Carranca. New York Columbia Global Reports 2024. 190pp. 18 paper.|Soul by Soul: The Evangelical Mission to Spread the Gospel to Muslims. By Adriana Carranca. New York: Columbia Global Reports, 2024. 190 pp. $18 paper.]] |
+| 85 | Church History | Medieval, Reformation | [[#The Legacy of Birgitta of Sweden Women Politics and Reform in Renaissance Italy. Edited by Unn Falkeid and Anna Wainwright.                    iBrill Studies in Medieval and Reformation Traditionsi                     Volume 242. LeidenBoston Brill 2023. xiv  363 pp. 157.94 hardback.|The Legacy of Birgitta of Sweden: Women, Politics, and Reform in Renaissance Italy. Edited by Unn Falkeid and Anna Wainwright.
+                    <i>Brill Studies in Medieval and Reformation Traditions</i>
+                    , Volume 242. Leiden/Boston: Brill, 2023. xiv + 363 pp. €157.94 hardback.]] |
+| 86 | Church History | Medieval | [[#Worlds of Byzantium Religion Culture and Empire in the Medieval Near East. Edited by Elizabeth S. Bolman Scott Fitzgerald Johnson and Jack Tannous. Cambridge Cambridge University Press 2024. xxix  696pp. 195 cloth 195 ebook.|Worlds of Byzantium: Religion, Culture, and Empire in the Medieval Near East. Edited by Elizabeth S. Bolman, Scott Fitzgerald Johnson, and Jack Tannous. Cambridge: Cambridge University Press, 2024. xxix + 696 pp. $195 cloth; $195 ebook.]] |
+| 87 | - | Modern | [[#The Enlightenment and Original Sin. By Matthew Kadane. Chicago The University of Chicago Press 2024. xiii  236pp. 115.00 cloth 29.00 paper.|The Enlightenment and Original Sin. By Matthew Kadane. Chicago: The University of Chicago Press, 2024. xiii + 236 pp. $115.00 cloth; $29.00 paper.]] |
+| 88 | Practical Theology | Medieval | [[#Fixing the Liturgy Friars Sisters and the Dominican Rite 12561516. By Claire Taylor Jones.                    iThe Middle Ages Series.i                    Philadelphia University of Pennsylvania Press 2024. xii443pp. 75.00 hardcover.|Fixing the Liturgy: Friars, Sisters, and the Dominican Rite, 1256–1516. By Claire Taylor Jones.
+                    <i>The Middle Ages Series.</i>
+                    Philadelphia: University of Pennsylvania Press, 2024. xii + 443 pp. $75.00 hardcover.]] |
+| 89 | - | - | [[#Incomparable Realms Spain During the Golden Age 15001700. By Jeremy Robbins. London Reaktion Books Ltd. 2022. 464pp. 34.79 cloth.|Incomparable Realms: Spain During the Golden Age, 1500–1700. By Jeremy Robbins. London: Reaktion Books Ltd., 2022. 464 pp. $34.79 cloth.]] |
+| 90 | - | Modern | [[#Religion Science and Moral Philosophy in the Huguenot Enlightenment Jean Henri Samuel Formey and the Berlin Academy. By Annelie Große. Oxford University Studies in the Enlightenment. Liverpool Liverpool University Press 2024. xiii  336pp. 99.00 paper.|Religion, Science, and Moral Philosophy in the Huguenot Enlightenment: Jean Henri Samuel Formey and the Berlin Academy. By Annelie Große. Oxford University Studies in the Enlightenment. Liverpool: Liverpool University Press, 2024. xiii + 336 pp. $99.00 paper.]] |
+| 91 | - | - | [[#The Disinherited The Politics of Christian Conversion in Colonial India. ByMou Banerjee. Cambridge Harvard University Press 2025. 357pp. 49.95 cloth.|The Disinherited: The Politics of Christian Conversion in Colonial India. By Mou Banerjee. Cambridge: Harvard University Press, 2025. 357 pp. $49.95 cloth.]] |
+| 92 | Church History | Reformation | [[#Reformation and Everyday Life. Edited by Nina J. Koefoed and Bo Kristian Holm.                    iRefo500 Academic Studiesi                    100. Göttingen Vandenhoeck amp Ruprecht Verlage 2024. 342pp. 120.00 cloth.|Reformation and Everyday Life. Edited by Nina J. Koefoed and Bo Kristian Holm.
+                    <i>Refo500 Academic Studies</i>
+                    100. Göttingen: Vandenhoeck &amp; Ruprecht Verlage, 2024. 342 pp. €120.00 cloth.]] |
+| 93 | - | - | [[#Oneness Pentecostalism Race Gender and Culture. Edited by Lloyd D. Barba Andrea Shan Johnson and Daniel Ramirez. Studies in the Holiness Pentecostal Movements. University Park Pennsylvania State University Press 2023. xvii  263pp. 114.95 cloth 39.95 paper.|Oneness Pentecostalism: Race, Gender and Culture. Edited by Lloyd D. Barba, Andrea Shan Johnson, and Daniel Ramirez. Studies in the Holiness Pentecostal Movements. University Park: Pennsylvania State University Press, 2023. xvii + 263 pp. $114.95 cloth; $39.95 paper.]] |
+| 94 | - | - | [[#Charles Wesley 17071788 Preacher Poet Pastor. Edited by Clive Murray Norris.                    iThe Journal of Religious History Literature and Culturei                     Vol. 10 No. 2 November 2024. Cardiff UK University of Wales. V117pp. 35.|Charles Wesley 1707–1788: Preacher, Poet, Pastor. Edited by Clive Murray Norris.
+                    <i>The Journal of Religious History, Literature and Culture</i>
+                    , Vol. 10, No. 2, November 2024. Cardiff, UK: University of Wales. V + 117 pp. $35.]] |
+| 95 | Church History | Medieval | [[#Symbolic Reproduction in Early Medieval England Secular and Monastic Households. By Katharine Sykes.                    iThe Past and Present Book Series.i                    Oxford Oxford University Press 2024. viii  229pp. 100.00 cloth.|Symbolic Reproduction in Early Medieval England: Secular and Monastic Households. By Katharine Sykes
+.
+                    <i>The Past and Present Book Series.</i>
+                    Oxford: Oxford University Press, 2024. viii + 229 pp. $100.00 cloth.]] |
+| 96 | - | - | [[#To Contest with all the Powers of Darkness New England Baptists Religious Liberty and New Political Landscapes 17401833. By Jacob E. Hicks. Americas Baptists. Knoxville TN University of Tennessee Press 2024. xv218pp. 55.00 hardcover.|To Contest with all the Powers of Darkness: New England Baptists, Religious Liberty, and New Political Landscapes, 1740–1833. By Jacob E. Hicks. America’s Baptists. Knoxville, TN: University of Tennessee Press, 2024. xv + 218 pp. $55.00 hardcover.]] |
+| 97 | - | - | [[#Without a Prayer Religion and Race in New York City Public Schools. By Leslie Beth Ribovich. New York New York University Press 2024. 239 pp. 30.00 paper.|Without a Prayer: Religion and Race in New York City Public Schools. By Leslie Beth Ribovich. New York: New York University Press, 2024. 239 pp. $30.00 paper.]] |
+| 98 | Church History | Reformation | [[#Weather the Reformation Climate and Religion in Early Modern Sixteenth-Century Strasbourg. By Linnéa Rowlatt.                    iRoutledge Studies in Religion and Environmenti                    3. London and New York Routledge 2024. x210pp. 190.00 hardcover 56.99 ebook.|Weather the Reformation: Climate and Religion in Early Modern Sixteenth-Century Strasbourg. By Linnéa Rowlatt.
+                    <i>Routledge Studies in Religion and Environment</i>
+                    3. London and New York: Routledge, 2024. x + 210 pp. $190.00 hardcover; $56.99 ebook.]] |
+| 99 | - | - | [[#A Suon di Polemiche. Eresia e controversia dottrinale nella crisi religiosa del Cinquecento. By Giorgio Caravale. Culture e religioni in età moderna. Rome Edizioni di Storia e Letteratura 2024. xxiv  266pp. 24.00 paper.|A Suon di Polemiche. Eresia e controversia dottrinale nella crisi religiosa del Cinquecento. By Giorgio Caravale. Culture e religioni in età moderna. Rome: Edizioni di Storia e Letteratura, 2024. xxiv + 266 pp. €24.00 paper.]] |
+| 100 | - | - | [[#A Short History of the Roman Mass. By Uwe Michael Lang. San Francisco Ignatius Press 2024. 146 pp. ISBN 978-1-62164-697-6 17.95 paper.|A Short History of the Roman Mass. By Uwe Michael Lang. San Francisco: Ignatius Press, 2024. 146 pp. ISBN: 978-1-62164-697-6, $17.95 paper.]] |
+| 101 | - | - | [[#Henry Longueville Mansel Victorian Theology Philosophy and Politics. By Francesca Norman. Anglican-Episcopal Theology and History 9. Leiden Brill 2023. xv270pp. 72 paper.|Henry Longueville Mansel: Victorian Theology, Philosophy, and Politics. By Francesca Norman. Anglican-Episcopal Theology and History 9. Leiden: Brill, 2023. xv + 270 pp. $72 paper.]] |
+| 102 | - | - | [[#Il Governo dei Pulpiti Predicatori potere e pubblico nellItalia della prima età moderna. Culture e religioni in età moderna. By Michele Camaioni. Rome Edizioni di Storia e Letteratura 2024. xxxiv  266pp. 2500 paper 2000 ebook.|Il Governo dei Pulpiti: Predicatori, potere e pubblico nell’Italia della prima età moderna. Culture e religioni in età moderna. By Michele Camaioni. Rome: Edizioni di Storia e Letteratura, 2024. xxxiv + 266 pp. €25,00 paper; €20,00 ebook.]] |
+| 103 | - | - | [[#The Protestant Ethic in Hungary. The Puritan Ethic and Its Influence. By Attila K. Molnár. Göttingen Vandenhoeck amp Ruprecht 2024. 238 pp. 1 map. ISBN 9783525540893. 130.00 hardback.|The Protestant Ethic in Hungary. The Puritan Ethic and Its Influence. By Attila K. Molnár. Göttingen: Vandenhoeck &amp; Ruprecht, 2024. 238 pp. 1 map. ISBN 9783525540893. €130.00 hardback.]] |
+| 104 | Systematic Theology | - | [[#Church-Building and the Consolidation of the United States 18651900|Church-Building and the Consolidation of the United States, 1865–1900]] |
+| 105 | - | - | [[#Baptist Identity and Elusive Interracialism in the Segregated South D. V. Jemison E. P. Alldredge and the Work of a Black Baptist Seminary|Baptist Identity and Elusive Interracialism in the Segregated South: D. V. Jemison, E. P. Alldredge, and the Work of a Black Baptist Seminary]] |
+| 106 | - | - | [[#Patriarchs Bishops and Monasteries in the Syriac Consecration Lists c. 8001000|Patriarchs, Bishops and Monasteries in the Syriac Consecration Lists, c. 800–1000]] |
+| 107 | Ethics, Systematic Theology | - | [[#Representation vs. Democracy Presbyterianism in the Age of the French Revolution|Representation vs. Democracy?: Presbyterianism in the Age of the French Revolution]] |
+| 108 | NT | - | [[#Christian Connection Women as Biblical Interpreters in Antebellum America 18201841|Christian Connection Women as Biblical Interpreters in Antebellum America, 1820–1841]] |
+| 109 | - | - | [[#Reflections on Nicaea at 1700 A Forum on the Legacy of the Council and the Creed|Reflections on Nicaea at 1700: A Forum on the Legacy of the Council and the Creed]] |
+| 110 | - | Contemporary | [[#Asserting Protestant Legitimacy in a Catholic Context Rhetorical Strategies of the Confederação Evangélica do Brasil 1930s1950s|Asserting Protestant Legitimacy in a Catholic Context: Rhetorical Strategies of the Confederação Evangélica do Brasil, 1930s–1950s]] |
+| 111 | - | Reformation | [[#The Limits of Literalism Race The Bible and The Desegregation of Dallas Theological Seminary 19501980|The Limits of Literalism: Race, The Bible, and The Desegregation of Dallas Theological Seminary, 1950–1980]] |
+| 112 | - | - | [[#CHH volume 94 issue 1 Cover and Front matter|CHH volume 94 issue 1 Cover and Front matter]] |
+| 113 | - | - | [[#CHH volume 94 issue 1 Cover and Back matter|CHH volume 94 issue 1 Cover and Back matter]] |
+| 114 | Systematic Theology | - | [[#A Double-Edged Sword Excommunication in Nineteenth-Century French Canada|A Double-Edged Sword: Excommunication in Nineteenth-Century French Canada]] |
+| 115 | - | - | [[#CHH volume 94 issue 2 Cover and Front matter|CHH volume 94 issue 2 Cover and Front matter]] |
+| 116 | - | - | [[#CHH volume 94 issue 2 Cover and Back matter|CHH volume 94 issue 2 Cover and Back matter]] |
 
 ---
 
-### Christianity in Fifteenth-Century Iraq. By Thomas A. Carlson. Cambridge Studies in Islamic Civilizat
-- **DOI**: 10.1017/s0009640724000738
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Christianity in Fifteenth-Century Iraq. By Thomas A. Carlson. Cambridge Studies in Islamic Civilization. Cambridge Cambridge University Press 2018. xx  299 pp. 120.00 cloth 41.99 paper.
+- **DOI**: [10.1017/s0009640724000738](https://doi.org/10.1017/s0009640724000738)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Bisschops Bench Contours of Arminian Conformity in the Church of England c.16741742. By Samuel Forne
-- **DOI**: 10.1017/s0009640725101212
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Bisschops Bench Contours of Arminian Conformity in the Church of England c.16741742. By Samuel Fornecker. Oxford Studies in Historical Theology. New York Oxford University Press 2022. xiv237pp. 97.00 cloth.
+- **DOI**: [10.1017/s0009640725101212](https://doi.org/10.1017/s0009640725101212)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### C. S. Lewis in America Readings and Reception 19351947. By Mark A. Noll et al. Downers Grove IL Inte
-- **DOI**: 10.1017/s0009640725101224
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### C. S. Lewis in America Readings and Reception 19351947. By Mark A. Noll et al. Downers Grove IL InterVarsity Press 2023. 176pp. 20.99 paper.
+- **DOI**: [10.1017/s0009640725101224](https://doi.org/10.1017/s0009640725101224)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Cambridge History of Ancient Christianity. Edited by Bruce W. Longenecker and David E. Wilhite. 
-- **DOI**: 10.1017/s0009640725101236
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Cambridge History of Ancient Christianity. Edited by Bruce W. Longenecker and David E. Wilhite. Cambridge Cambridge University Press 2023. 698pp.
+- **DOI**: [10.1017/s0009640725101236](https://doi.org/10.1017/s0009640725101236)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Oxford History of British and Irish Catholicism. Volume III Relief Revolution and Revival 174618
-- **DOI**: 10.1017/s0009640725101248
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Oxford History of British and Irish Catholicism. Volume III Relief Revolution and Revival 17461829. Edited by Liam Chambers. Oxford Oxford University Press 2024. 356pp. 165. Hardcover.
+- **DOI**: [10.1017/s0009640725101248](https://doi.org/10.1017/s0009640725101248)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Religious Conflict at Canterbury Cathedral in the Late Twelfth Century The Dispute Between the Monks
-- **DOI**: 10.1017/s000964072510125x
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Religious Conflict at Canterbury Cathedral in the Late Twelfth Century The Dispute Between the Monks and the Archbishops 11841200. By James Barnaby. Woodbridge Boydell 2024. xii396pp. 110 hbk 29.99 ebk.
+- **DOI**: [10.1017/s000964072510125x](https://doi.org/10.1017/s000964072510125x)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Joseph Smiths Gold Plates A Cultural History. By Richard Lyman Bushman. New York Oxford University P
-- **DOI**: 10.1017/s0009640725101261
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Joseph Smiths Gold Plates A Cultural History. By Richard Lyman Bushman. New York Oxford University Press 2023. xlv264pp. 34.95 cloth.
+- **DOI**: [10.1017/s0009640725101261](https://doi.org/10.1017/s0009640725101261)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Samson Occom Radical Hospitality in the Native Northeast. By Ryan Carr. New York Columbia UP 2023. x
-- **DOI**: 10.1017/s0009640725101273
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Samson Occom Radical Hospitality in the Native Northeast. By Ryan Carr. New York Columbia UP 2023. xv330pp. 140.00 cloth 35.00 paper.
+- **DOI**: [10.1017/s0009640725101273](https://doi.org/10.1017/s0009640725101273)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### The Bible A Global History. By Bruce Gordon. New York Basic Books 2024. viii 514pp. 35.00.
-- **DOI**: 10.1017/s0009640725101285
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1017/s0009640725101285](https://doi.org/10.1017/s0009640725101285)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Engaging the Church Fathers in Nineteenth-Century Catholicism The Patristic Legacy of the Scuola Rom
-- **DOI**: 10.1017/s0009640725101297
+### Engaging the Church Fathers in Nineteenth-Century Catholicism The Patristic Legacy of the Scuola Romana. By Joseph Carola. Steubenville OH Emmaus Academic Press 2023. xiv520pp. 54.95.
+- **DOI**: [10.1017/s0009640725101297](https://doi.org/10.1017/s0009640725101297)
 - **Analytical Tags**: `Church History / - / Patristic`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### The End of Catholic Mexico 18551861 Causes and Consequences of the Mexican Reforma. By David Gilbert
-- **DOI**: 10.1017/s0009640725101303
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The End of Catholic Mexico 18551861 Causes and Consequences of the Mexican Reforma. By David Gilbert. Nashville TN Vanderbilt University Press 2024. x303pp. 99.95 cloth 34.95 paper.
+- **DOI**: [10.1017/s0009640725101303](https://doi.org/10.1017/s0009640725101303)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Petrus Canisius zwischen alten Traditionen und neuen Zeiten Innsbrucker Petrus-Canisius-Tagung 2021.
-- **DOI**: 10.1017/s0009640725101315
+### Petrus Canisius zwischen alten Traditionen und neuen Zeiten Innsbrucker Petrus-Canisius-Tagung 2021. Edited by Mathias Moosbrugger. Reformationsgeschichtliche Studien und Texte 179. Münster Aschendorff Verlag GmbH amp Co. KG 2023. vi282pp. 39.00. ISBN 978-3-402-11619-7.
+- **DOI**: [10.1017/s0009640725101315](https://doi.org/10.1017/s0009640725101315)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Yaḥyā ibn ʿAdī Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text Eng
-- **DOI**: 10.1017/s0009640725101327
-- **Analytical Tags**: `Systematic Theology / - / nan`
-- **Abstract**: (Not available)
+### Yaḥyā ibn ʿAdī Treatise on Divine Unity According to the Doctrine of the Christians. Arabic Text English Translation and Commentary. By Giovanni Mandolino. Eastern Christian Texts 1. Leiden Brill 2023. viii  399pp. 179 hardback.
+- **DOI**: [10.1017/s0009640725101327](https://doi.org/10.1017/s0009640725101327)
+- **Analytical Tags**: `Systematic Theology / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Politics of Service American Quakers and the Emergence of International Humanitarian Aid 1917194
-- **DOI**: 10.1017/s0009640725101339
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Politics of Service American Quakers and the Emergence of International Humanitarian Aid 19171945. By Daniel Maul. Boston De Gruyter Oldenbourg 2024. x334pp. 89.99 cloth.
+- **DOI**: [10.1017/s0009640725101339](https://doi.org/10.1017/s0009640725101339)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Demise of Norse Religion Dismantling and Defending the Old Order in Viking Age Scandinavia. By O
-- **DOI**: 10.1017/s0009640725101340
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Demise of Norse Religion Dismantling and Defending the Old Order in Viking Age Scandinavia. By Olof Sundqvist. BerlinBoston Walter de Gruyter 2024. viii  418pp. 109.99 cloth Open Access.
+- **DOI**: [10.1017/s0009640725101340](https://doi.org/10.1017/s0009640725101340)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Life of St Brendan and His Prayer. Translated with an Introduction and Notes by Gordon Barthos. 
-- **DOI**: 10.1017/s0009640725101352
-- **Analytical Tags**: `nan / - / Modern`
-- **Abstract**: (Not available)
+### The Life of St Brendan and His Prayer. Translated with an Introduction and Notes by Gordon Barthos. Mediaeval Sources in Translation 62. Toronto Pontifical Institute of Mediaeval Studies 2024. Xii134pp. 25.00 paper.
+- **DOI**: [10.1017/s0009640725101352](https://doi.org/10.1017/s0009640725101352)
+- **Analytical Tags**: `- / - / Modern`
+- **Abstract**: No abstract available
 
 ---
 
-### Italys Christian Democracy The Catholic Encounter with Political Modernity. By Rosario Forlenza and 
-- **DOI**: 10.1017/s0009640725101364
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Italys Christian Democracy The Catholic Encounter with Political Modernity. By Rosario Forlenza and Bjørn Thomassen. Oxford Oxford University Press 2024. 281pp. 115 cloth.
+- **DOI**: [10.1017/s0009640725101364](https://doi.org/10.1017/s0009640725101364)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Christ the Physician in Late-Medieval Religious Controversy England and Central Europe 13501434. By 
-- **DOI**: 10.1017/s0009640725101376
+### Christ the Physician in Late-Medieval Religious Controversy England and Central Europe 13501434. By Patrick Outhwaite. Health and Healing in the Middle Ages 7. Woodbridge Suffolk York Medieval Press in association with Boydell and Brewer. 281pp. 130.00 cloth 29.95 ebook.
+- **DOI**: [10.1017/s0009640725101376](https://doi.org/10.1017/s0009640725101376)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Šalmūtā Šapīrtā. Festschrift for Rifaat Y. Ebied in honour of his contributions to Semitic Studies. 
-- **DOI**: 10.1017/s0009640725101388
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Šalmūtā Šapīrtā. Festschrift for Rifaat Y. Ebied in honour of his contributions to Semitic Studies. Edited by Erica C.D. Hunter. Gorgias Eastern Christian Studies 65. Piscataway NJ Gorgias 2023. xx409pp. 140.00 cloth.
+- **DOI**: [10.1017/s0009640725101388](https://doi.org/10.1017/s0009640725101388)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Writings 14161432 The Struggle for the Self-Determination of Central Europe. By Paweł Włodkowic fore
-- **DOI**: 10.1017/s000964072510139x
-- **Analytical Tags**: `NT / - / nan`
-- **Abstract**: (Not available)
+### Writings 14161432 The Struggle for the Self-Determination of Central Europe. By Paweł Włodkowic foreword Ewa Thompson introduction and edited Paul W. Knoll translated Charles S. Kraszewski. Rome Angelicum University Press Fundacja Świętego Mikołaja 2023.
+- **DOI**: [10.1017/s000964072510139x](https://doi.org/10.1017/s000964072510139x)
+- **Analytical Tags**: `NT / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Giants in the Medieval City. By Assaf Pinkus with the participation of Noeit Williger Aviam Orly Ami
-- **DOI**: 10.1017/s0009640725101418
+### Giants in the Medieval City. By Assaf Pinkus with the participation of Noeit Williger Aviam Orly Amit and Michal Ozeri. Turnhout Brepols 2023. 272pp. 110 illus. 150.00 cloth.
+- **DOI**: [10.1017/s0009640725101418](https://doi.org/10.1017/s0009640725101418)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Recovering Their Stories US Catholic Women in the Twentieth Century. Edited by Sandra Yocum and Nich
-- **DOI**: 10.1017/s000964072510142x
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Recovering Their Stories US Catholic Women in the Twentieth Century. Edited by Sandra Yocum and Nicholas K. Rademacher. New York Fordham University Press 2024. 280pp. 140.00 cloth 40.00 paper 39.99 E-book.
+- **DOI**: [10.1017/s000964072510142x](https://doi.org/10.1017/s000964072510142x)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### One Lost Soul Richard Nixons Search for Salvation. By Daniel Silliman. Grand Rapids MI Eerdmans 2024
-- **DOI**: 10.1017/s0009640725101431
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### One Lost Soul Richard Nixons Search for Salvation. By Daniel Silliman. Grand Rapids MI Eerdmans 2024. 317pp. 36.99 hardback.
+- **DOI**: [10.1017/s0009640725101431](https://doi.org/10.1017/s0009640725101431)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Building the Church of England The Book of Common Prayer and the Edwardian Reformation. By Stephen T
-- **DOI**: 10.1017/s0009640725101443
+### Building the Church of England The Book of Common Prayer and the Edwardian Reformation. By Stephen Tong. St Andrews Studies in Reformation History. Leiden Brill 2023. 286pp. 119.00. ISBN 978-90-04-54785-8.
+- **DOI**: [10.1017/s0009640725101443](https://doi.org/10.1017/s0009640725101443)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Doing Memory Medieval Saints and Heroes and Their Afterlives in the Baltic Sea Region 19th20th Centu
-- **DOI**: 10.1017/s0009640725101455
+### Doing Memory Medieval Saints and Heroes and Their Afterlives in the Baltic Sea Region 19th20th Centuries. Edited by Cordelia Heß and Gustavs Strenga. BerlinBoston Walter de Gruyter GmbH 2024. x300pp.
+- **DOI**: [10.1017/s0009640725101455](https://doi.org/10.1017/s0009640725101455)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Shaping Letters Shaping Communities Multilingualism and Linguistic Practice in the Late Antique Near
-- **DOI**: 10.1017/s0009640725101467
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Shaping Letters Shaping Communities Multilingualism and Linguistic Practice in the Late Antique Near East and Egypt. Edited by Yuliya Minets and Paweł Nowakowski. Texts and Studies in Eastern Christianity 33. Leiden Brill 2023. xx356pp. 157.94 hardback 154.96 E-Book PDF.
+- **DOI**: [10.1017/s0009640725101467](https://doi.org/10.1017/s0009640725101467)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Oxford History of British and Irish Catholicism Volume I Endings and New Beginnings 15301640. Ed
-- **DOI**: 10.1017/s0009640725101479
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Oxford History of British and Irish Catholicism Volume I Endings and New Beginnings 15301640. Edited by James E. Kelly and John McCafferty. Oxford Oxford University Press 2023. xxvi  325 pp. 165 cloth.
+- **DOI**: [10.1017/s0009640725101479](https://doi.org/10.1017/s0009640725101479)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Pie VII Le Pape qui défia Napoléon. By Xavier Maréchaux. Paris Passés Composés 2024. xiv  308 pp. 23
-- **DOI**: 10.1017/s0009640725101480
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Pie VII Le Pape qui défia Napoléon. By Xavier Maréchaux. Paris Passés Composés 2024. xiv  308 pp. 23 paper.
+- **DOI**: [10.1017/s0009640725101480](https://doi.org/10.1017/s0009640725101480)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Defence of the Faith Crusading on the Frontiers of Latin Christendom in the Late Middle Ages. Ed
-- **DOI**: 10.1017/s0009640725101492
+### The Defence of the Faith Crusading on the Frontiers of Latin Christendom in the Late Middle Ages. Edited by Paul Srodecki and Norbert Kersken. Outremer Studies in the Crusades and the Latin East 15. Turnhout Brepols 2024. 407pp. 95.00 hardback.
+- **DOI**: [10.1017/s0009640725101492](https://doi.org/10.1017/s0009640725101492)
 - **Analytical Tags**: `NT / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### The Popes against the Protestants The Vatican and Evangelical Christianity in Fascist Italy. By Kevi
-- **DOI**: 10.1017/s0009640725101509
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Popes against the Protestants The Vatican and Evangelical Christianity in Fascist Italy. By Kevin Madigan. New Haven and London Yale University Press 2021. 368 pp.
+- **DOI**: [10.1017/s0009640725101509](https://doi.org/10.1017/s0009640725101509)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Remembering Antônia Teixeira A Story of Missions Violence and Institutional Hypocrisy. By Mikeal C. 
-- **DOI**: 10.1017/s0009640725101510
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Remembering Antônia Teixeira A Story of Missions Violence and Institutional Hypocrisy. By Mikeal C. Parsons and João B. Chaves. Grand Rapids Eerdmans Publishing Company 2023. xv224pp. 26.99 cloth.
+- **DOI**: [10.1017/s0009640725101510](https://doi.org/10.1017/s0009640725101510)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Baptists and Gender Papers for the Ninth International Conference on Baptist Studies. By Melody Maxw
-- **DOI**: 10.1017/s0009640725101522
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Baptists and Gender Papers for the Ninth International Conference on Baptist Studies. By Melody Maxwell and T. Laine Scales. Macon GA Mercer University Press 2023. xii321pp. 40.00 paper.
+- **DOI**: [10.1017/s0009640725101522](https://doi.org/10.1017/s0009640725101522)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Red Pope A Biography of Cardinal Willem van Rossum c.ss.r 18541932. By Vefie Poels. Nijmegen Radboud
-- **DOI**: 10.1017/s0009640725101534
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Red Pope A Biography of Cardinal Willem van Rossum c.ss.r 18541932. By Vefie Poels. Nijmegen Radboud University Press 2023. 667pp. 29.95 paper.
+- **DOI**: [10.1017/s0009640725101534](https://doi.org/10.1017/s0009640725101534)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### From Every Stormy Wind That Blows The Idea of Howard College and the Origins of Samford University. 
-- **DOI**: 10.1017/s0009640725101546
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### From Every Stormy Wind That Blows The Idea of Howard College and the Origins of Samford University. By S. Jonathan Bass. Baton Rouge Louisiana State University Press 2024. xi  347pp. 50.00 cloth 19.95 ebook.
+- **DOI**: [10.1017/s0009640725101546](https://doi.org/10.1017/s0009640725101546)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Nachtrichten aus der Politik Die Lageberichte Hermann Kunsts für den Rat der Evangelischen Kirche in
-- **DOI**: 10.1017/s0009640725101558
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Nachtrichten aus der Politik Die Lageberichte Hermann Kunsts für den Rat der Evangelischen Kirche in Deutschland 19511977. By Dagmar Pöpping. Arbeiten zur Kitchlichen Zeitgeschichte Reihe A Quellen Band 22. Göttingen Vandenhoeck and Ruprecht 2020. 520pp.
+- **DOI**: [10.1017/s0009640725101558](https://doi.org/10.1017/s0009640725101558)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Immovable Truth Divine Knowledge and the Bible at the University of Vienna 13841419. By Edit Anna Lu
-- **DOI**: 10.1017/s000964072510156x
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Immovable Truth Divine Knowledge and the Bible at the University of Vienna 13841419. By Edit Anna Lukács. Commentaria Sacred Texts and Their Commentaries 15. Leiden Brill 2024. viii  230pp. 131.00 cloth.
+- **DOI**: [10.1017/s000964072510156x](https://doi.org/10.1017/s000964072510156x)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Vatican I Infallible or Neglectable Historical and Theological Approaches to the Event and Reception
-- **DOI**: 10.1017/s0009640725101571
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Vatican I Infallible or Neglectable Historical and Theological Approaches to the Event and Reception of the First Vatican Council. Edited by Dries Bosschaert Peter De Mey and Simon Beentjes. Bibliothèque de la Revue dhistoire ecclésiastique 113. Turnhout Belgium Brepols 2023. 346pp. 124.00 paper.
+- **DOI**: [10.1017/s0009640725101571](https://doi.org/10.1017/s0009640725101571)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Civil Religion in the Early Modern Anglophone World 15501700. Edited by Adam Morton and Rachel Hamme
-- **DOI**: 10.1017/s0009640725101583
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Civil Religion in the Early Modern Anglophone World 15501700. Edited by Adam Morton and Rachel Hammersley. Studies in Early Modern Cultural Political and Social History 50. Woodbridge Boydell 2024. x283pp.
+- **DOI**: [10.1017/s0009640725101583](https://doi.org/10.1017/s0009640725101583)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Faith in Markets Christian Capitalism in the Early American Republic. By Joseph P. Slaughter. Columb
-- **DOI**: 10.1017/s0009640725101595
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Faith in Markets Christian Capitalism in the Early American Republic. By Joseph P. Slaughter. Columbia Studies in the History of U.S. Capitalism. New York Columbia University Press 2023. vi387pp. 140 cloth 35 paper.
+- **DOI**: [10.1017/s0009640725101595](https://doi.org/10.1017/s0009640725101595)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Reports of Theophilus Opoku A 19th-Century Gold Coast Pastor. Edited by Michelle Gilbert and Pau
-- **DOI**: 10.1017/s0009640725101601
-- **Analytical Tags**: `NT / - / nan`
-- **Abstract**: (Not available)
+### The Reports of Theophilus Opoku A 19th-Century Gold Coast Pastor. Edited by Michelle Gilbert and Paul Jenkins. Fontes Historiae AfricanaeSources of African History 24. Oxford Oxford University Press published for the British Academy 2024. xli516pp. 245.00 hardcover.
+- **DOI**: [10.1017/s0009640725101601](https://doi.org/10.1017/s0009640725101601)
+- **Analytical Tags**: `NT / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Die römischen Repertorien Neue Perspektiven für die Erforschung von Kirche und Kurie des Spätmittela
-- **DOI**: 10.1017/s0009640725101625
+### Die römischen Repertorien Neue Perspektiven für die Erforschung von Kirche und Kurie des Spätmittelalters 13781484. Edited by Claudia Märtl Irmgard Fees Andreas Rehberg and Jörg Voigt. Bibliothek des Deutschen Historischen Instituts in Rom 145. Berlin Boston De Gruyter 2023. 159.95 cloth ebook.
+- **DOI**: [10.1017/s0009640725101625](https://doi.org/10.1017/s0009640725101625)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Missionary Interests Protestant and Mormon Missions in the Nineteenth and Twentieth Centuries. Edite
-- **DOI**: 10.1017/s0009640725101637
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Missionary Interests Protestant and Mormon Missions in the Nineteenth and Twentieth Centuries. Edited by David Golding and Christopher Cannon Jones. Ithaca Cornell University Press 2024. 215pp. 28.95 paper.
+- **DOI**: [10.1017/s0009640725101637](https://doi.org/10.1017/s0009640725101637)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Before and Beyond the Big Society John Milbank and the Church of Englands Approach to Welfare. By Jo
-- **DOI**: 10.1017/s0009640725101649
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Before and Beyond the Big Society John Milbank and the Church of Englands Approach to Welfare. By Joseph Forde. Cambridge James Clarke amp Co. 2022. x312pp. 82.00 hardback 27.50 paper.
+- **DOI**: [10.1017/s0009640725101649](https://doi.org/10.1017/s0009640725101649)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Der Papsthof auf Reisen. Die Reisen der römischen Kurie in den Pontifikaten von Martin V. bis Pius I
-- **DOI**: 10.1017/s0009640725101650
+### Der Papsthof auf Reisen. Die Reisen der römischen Kurie in den Pontifikaten von Martin V. bis Pius II. 14171464. By Christopher Kast. Papsttum im mittelalterlichen Europa 12. Göttingen Vandenhoeck and Ruprecht 2024. 532pp. 80.00.
+- **DOI**: [10.1017/s0009640725101650](https://doi.org/10.1017/s0009640725101650)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Christianity and Comics Stories We Tell About Heaven and Hell. By Blair Davis. New Brunswick Rutgers
-- **DOI**: 10.1017/s0009640725101662
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Christianity and Comics Stories We Tell About Heaven and Hell. By Blair Davis. New Brunswick Rutgers University Press 2024. vii303pp. 72.95 cloth 39.95 paper.
+- **DOI**: [10.1017/s0009640725101662](https://doi.org/10.1017/s0009640725101662)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Religion and US Empire Critical New Histories. Edited by Tisa Wenger and Sylvester A. Johnson. North
-- **DOI**: 10.1017/s0009640725101686
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Religion and US Empire Critical New Histories. Edited by Tisa Wenger and Sylvester A. Johnson. North American Religions. New York New York University Press 2022. 384pp. 99.00 cloth 40.00 paper or ebook.
+- **DOI**: [10.1017/s0009640725101686](https://doi.org/10.1017/s0009640725101686)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Joseph Fielding Smith A Mormon Theologian. By Matthew Bowman. Urbana IL University of Illinois Press
-- **DOI**: 10.1017/s0009640725101698
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Joseph Fielding Smith A Mormon Theologian. By Matthew Bowman. Urbana IL University of Illinois Press 2024. ix122pp. 14.95.
+- **DOI**: [10.1017/s0009640725101698](https://doi.org/10.1017/s0009640725101698)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Missionaries in Persia Cultural Diversity and Competing Norms in Global Catholicism. By Christian Wi
-- **DOI**: 10.1017/s0009640725101704
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Missionaries in Persia Cultural Diversity and Competing Norms in Global Catholicism. By Christian Windler. Translated from the German by Pamela E. Selwyn. London I.B. Tauris 2024. xiv392 pp. 120.
+- **DOI**: [10.1017/s0009640725101704](https://doi.org/10.1017/s0009640725101704)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Rise of Newports Catholics From Colonial Outcasts to Gilded Age Leaders. By John F. Quinn. Amher
-- **DOI**: 10.1017/s0009640725101728
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Rise of Newports Catholics From Colonial Outcasts to Gilded Age Leaders. By John F. Quinn. Amherst and Boston University of Massachusetts Press 2024. Xii311pp. 32.95 US paper.
+- **DOI**: [10.1017/s0009640725101728](https://doi.org/10.1017/s0009640725101728)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Understanding and Teaching Religion in US History. Edited by Karen J. Johnson and Jonathan M. Yeager
-- **DOI**: 10.1017/s000964072510173x
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Understanding and Teaching Religion in US History. Edited by Karen J. Johnson and Jonathan M. Yeager. University of Wisconsin Press 2024. xi  330pp. 34.95 cloth.
+- **DOI**: [10.1017/s000964072510173x](https://doi.org/10.1017/s000964072510173x)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Orthodoxy in the Agora Orthodox Christian Political Theologies Across History. Edited by Mihai-D. Gr
-- **DOI**: 10.1017/s0009640725101741
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Orthodoxy in the Agora Orthodox Christian Political Theologies Across History. Edited by Mihai-D. Grigore and Vasilios N. Makrides. Veroffentlichungen des instituts fur Europaische geschichte Mainz 2024. 432pp.
+- **DOI**: [10.1017/s0009640725101741](https://doi.org/10.1017/s0009640725101741)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Life of Nuns Love Politics and Religion in Medieval German Convents. By Henrike Lähnemann and Ev
-- **DOI**: 10.1017/s0009640725101753
+### The Life of Nuns Love Politics and Religion in Medieval German Convents. By Henrike Lähnemann and Eva Schlotheuber. Cambridge Open Book Publishers 2024. vi199pp. 37.95 cloth 24.95 paper.
+- **DOI**: [10.1017/s0009640725101753](https://doi.org/10.1017/s0009640725101753)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### The Empires Reformations Politics and Religion in Germany 14951648. By David M. Luebke. German Histo
-- **DOI**: 10.1017/s0009640725101765
+### The Empires Reformations Politics and Religion in Germany 14951648. By David M. Luebke. German History in Focus. London Bloomsbury Academic 2024. xv204pp. 61.00 cloth 19.95 paper.
+- **DOI**: [10.1017/s0009640725101765](https://doi.org/10.1017/s0009640725101765)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### A History of Early Christian Creeds. By Wolfram Kinzig. Berlin de Gruyter 2024. xviii  768pp. 43.99 
-- **DOI**: 10.1017/s0009640725101777
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### A History of Early Christian Creeds. By Wolfram Kinzig. Berlin de Gruyter 2024. xviii  768pp. 43.99 paper.
+- **DOI**: [10.1017/s0009640725101777](https://doi.org/10.1017/s0009640725101777)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Reformation of the Heart Gender and Radical Theology in the English Revolution. By Sarah Apetrei
-- **DOI**: 10.1017/s0009640725101790
+### The Reformation of the Heart Gender and Radical Theology in the English Revolution. By Sarah Apetrei. Oxford Oxford UP 2024. xi222pp.
+- **DOI**: [10.1017/s0009640725101790](https://doi.org/10.1017/s0009640725101790)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Roundtable on Carlos Eire                    iThey Flew A History of the Impossiblei                
-- **DOI**: 10.1017/s0009640725101820
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Roundtable on Carlos Eire                    iThey Flew A History of the Impossiblei                    New Haven Yale University Press 2023
+- **DOI**: [10.1017/s0009640725101820](https://doi.org/10.1017/s0009640725101820)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Life of Theodotus of Amida Syriac Christianity under the Umayyad Caliphate. By Robert Hoyland an
-- **DOI**: 10.1017/s0009640725101844
-- **Analytical Tags**: `Church History / - / nan`
-- **Abstract**: (Not available)
+### The Life of Theodotus of Amida Syriac Christianity under the Umayyad Caliphate. By Robert Hoyland and Andrew Palmer with an archaeological appendix by Charlotte Labedan-Kodaş. Texts from Christian Late Antiquity 73. Piscataway NJ Gorgias Press 2023. xii411pp. 45.00 paper.
+- **DOI**: [10.1017/s0009640725101844](https://doi.org/10.1017/s0009640725101844)
+- **Analytical Tags**: `Church History / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Early Modern Dutch Press in an Age of Religious Persecution The Making of Humanitarianism. By Da
-- **DOI**: 10.1017/s0009640725101856
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Early Modern Dutch Press in an Age of Religious Persecution The Making of Humanitarianism. By David de Boer. Oxford Oxford University Press 2023. 224pp. 70.00.
+- **DOI**: [10.1017/s0009640725101856](https://doi.org/10.1017/s0009640725101856)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### Reaching Chinese in the WorldChristian Literature in Post-war Hong Kong
-- **DOI**: 10.1017/s000964072510187x
-- **Analytical Tags**: `nan / - / nan`
+- **DOI**: [10.1017/s000964072510187x](https://doi.org/10.1017/s000964072510187x)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     During the Cold War, various political forces sought to shape the mindset of the Chinese diaspora. One understudied cultural influence that played an important role in reaching overseas Chinese was Chinese Christian literature. Focusing on
@@ -557,15 +590,15 @@ arc_score: 6
 ---
 
 ### Stettin Revised Redating a Major Medieval Inquisition of Heresy
-- **DOI**: 10.1017/s0009640725101881
+- **DOI**: [10.1017/s0009640725101881](https://doi.org/10.1017/s0009640725101881)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>The article presents a revised dating of a major late medieval inquisition of heresy, challenging the dating of the records established since the 1880s. The inquisitor Petrus Zwicker’s proceedings against Brandenburgian and Pomeranian Waldensians in Stettin did not take place between November 1392 and March 1394, with an 11-month pause between March 1393 and February 1394, as has been the scholarly consensus up till now. Instead, the prosecution was a continuous process that started in November 1393 and lasted till late March 1394. The article discusses the problems of the established dating that is based on now-outdated information about the inquisitor’s itinerary and an ambiguous 15th-century commentary on the register volume. The internal evidence of the register, such as the way different deponents refer to the same events, strongly points towards an uninterrupted process. The revised timeline for the inquisitions solves several contradictions in interpreting the records and proposes new lines of inquiry. A novel reconstruction of the last Waldensian minister’s visit to Stettin and surroundings is provided in the last section of the article. In general, the article addresses the constant need to re-evaluate established interpretations of premodern sources, including those uncontested in the scholarship.</jats:p>
 
 ---
 
-### Local Patterns of Relic Veneration in Late Antiquity Reassessing Alleged Distinctions between Greek 
-- **DOI**: 10.1017/s0009640725101893
+### Local Patterns of Relic Veneration in Late Antiquity Reassessing Alleged Distinctions between Greek and Roman Customs
+- **DOI**: [10.1017/s0009640725101893](https://doi.org/10.1017/s0009640725101893)
 - **Analytical Tags**: `Church History / - / Contemporary`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>Scholars, beginning with Hippolyte Delehaye, have long claimed a distinction between eastern and western customs of relic veneration in late antiquity: westerners left martyrial corpses intact and did not translate them, using contact relics instead, while easterners readily moved and divided these relics. They base this distinction on two papal letters from Pope Hormisdas’s legates and from Gregory the Great that distinguish between Roman and Greek customs of relics veneration. Yet scholars have almost totally neglected one piece of late antique evidence highly instructive for this topic: a letter from Eusebios of Thessaloniki, a contemporary of Gregory the Great, responding to a request from the emperor Maurice to send a corporeal relic of the Thessalonian martyr Demetrios. I argue that Eusebios’s letter demonstrates that the distinction between Roman and Greek customs of relic veneration proposed by the papal letters does not hold in late sixth-/early seventh-century Thessaloniki; furthermore, rather than giving evidence for sweeping, regional patterns, these letters all offer reflections on local, municipal customs of relic veneration in Rome and Thessaloniki in response to local imperial customs in Constantinople.</jats:p>
@@ -573,336 +606,336 @@ arc_score: 6
 ---
 
 ### Faith in Medicine Christianitys Legacy of Medical Charity
-- **DOI**: 10.1017/s000964072510190x
-- **Analytical Tags**: `nan / - / nan`
+- **DOI**: [10.1017/s000964072510190x](https://doi.org/10.1017/s000964072510190x)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>In the annual presidential address to the American Society of Church History (ASCH), Esther Chung-Kim discusses the pivotal role of pastors, physicians, and lay healers in responding to poverty and illness in early modern Europe. She offers that their involvement shaped both social welfare and medical care. Reflecting the values of biblical examples, both Catholics and Protestants established institutions to support the sick and poor. Promoting practices of care for the sick, religious leaders, pious physicians, and lay healers promoted charity through medicine, in various efforts to expand access to care. Protestant reformers sought to shift responses to illness away from saintly intercession and instead toward direct appeals to God and natural medicine, seen as a divine gift. In some cities, Reformed ordinances mandated medical support for the poor by institutionalizing care during epidemics. The convergence of religious and medical reform, aided by print culture, resulted in Christian thinkers recognizing medicine as a form of God’s providence in nature (thereby encouraging a positive view of medicine), and physicians promoting religious reform in their medical treatises. In the early modern era, Catholics and Protestants both strengthened the link between Christianity and medicine with theological and practical ways to show care and concern for the sick.</jats:p>
+                  <jats:p>In the annual presidential address to the American Society of Church History (ASCH), Esther Chung-Kim discusses the pivotal role of pastors, physicians, and lay healers in responding to poverty and illness in early modern Europe. She offers that their involvement shaped both social welfare and medical care. Reflecting the values of biblical examples, both Catholics and Protestants established institutions to support the sick and poor. Promoting practices of care for the sick, religious leaders, pious physicians, and lay healers promoted charity through medicine, in various efforts to expand access to care. Protestant reformers sought to shift responses to illness away from saintly intercession and instead toward direct appeals to God and natural medicine, seen as a divine gift. In some cities, Reformed ordiNo abstract availableces mandated medical support for the poor by institutionalizing care during epidemics. The convergence of religious and medical reform, aided by print culture, resulted in Christian thinkers recognizing medicine as a form of God’s providence in nature (thereby encouraging a positive view of medicine), and physicians promoting religious reform in their medical treatises. In the early modern era, Catholics and Protestants both strengthened the link between Christianity and medicine with theological and practical ways to show care and concern for the sick.</jats:p>
 
 ---
 
-### History and the Study of Religion The Ancient Mediterranean as a Test Case. By Stanley Stowers. New 
-- **DOI**: 10.1017/s0009640725101911
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### History and the Study of Religion The Ancient Mediterranean as a Test Case. By Stanley Stowers. New York Oxford University Press 2024. viii  384pp. 49.95 cloth.
+- **DOI**: [10.1017/s0009640725101911](https://doi.org/10.1017/s0009640725101911)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Southern Baptists Re-Observed Perspectives on Race Gender and Politics. Edited by Keith Harper. Knox
-- **DOI**: 10.1017/s0009640725101923
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Southern Baptists Re-Observed Perspectives on Race Gender and Politics. Edited by Keith Harper. Knoxville University of Tennessee Press 2022. xxvii 311pp. 60 cloth 60 e-book.
+- **DOI**: [10.1017/s0009640725101923](https://doi.org/10.1017/s0009640725101923)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Politische Vergangenheiten Der österreichische Protestantismus in den Jahren 193334 bis 1968. By Leo
-- **DOI**: 10.1017/s0009640725101935
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Politische Vergangenheiten Der österreichische Protestantismus in den Jahren 193334 bis 1968. By Leonhard Jungwirth. Arbeiten zur Kirchlichen Zeitgeschichte 93. Göttingen Vandenhoeck amp Ruprecht 2024. 777pp. 130.00 hardcover.
+- **DOI**: [10.1017/s0009640725101935](https://doi.org/10.1017/s0009640725101935)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Apocalypse of Peter in Context. Edited by Daniel C. Maier Jörg Frey and Thomas J. Kraus.        
-- **DOI**: 10.1017/s0009640725101947
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Apocalypse of Peter in Context. Edited by Daniel C. Maier Jörg Frey and Thomas J. Kraus.                    iStudies on Early Christian Apocryphai                    21. Leuven Peeters 2024. xvi402pp. 96.00 and open access.
+- **DOI**: [10.1017/s0009640725101947](https://doi.org/10.1017/s0009640725101947)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Gospel of John Marrant Conjuring Black Christianity in the Black Atlantic. By Alphonso F. Savill
-- **DOI**: 10.1017/s0009640725101959
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Gospel of John Marrant Conjuring Black Christianity in the Black Atlantic. By Alphonso F. SavilleIV . Durham Duke University Press 2024. x197pp. 99.95 hardcover 25.95 paper.
+- **DOI**: [10.1017/s0009640725101959](https://doi.org/10.1017/s0009640725101959)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Catholicism and Native Americans in Early North America Parish Church and Mission. Edited by Kathlee
-- **DOI**: 10.1017/s0009640725101960
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Catholicism and Native Americans in Early North America Parish Church and Mission. Edited by Kathleen Deagan. Notre Dame IN University of Notre Dame Press 2024. xxiv  261pp. 85.00 hardcover 67.99 eBook.
+- **DOI**: [10.1017/s0009640725101960](https://doi.org/10.1017/s0009640725101960)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Antioch Nicaea and the Synthesis of Constantinople Revisiting Trajectories in the Fourth-Century Chr
-- **DOI**: 10.1017/s0009640725101972
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Antioch Nicaea and the Synthesis of Constantinople Revisiting Trajectories in the Fourth-Century Christological Debates. By Dragoș Andrei Giulea.                    iStudies in the History of Christian Traditionsi                    200. Leiden Boston Brill 2024. xii310pp. 167.00 paper.
+- **DOI**: [10.1017/s0009640725101972](https://doi.org/10.1017/s0009640725101972)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Radical Mind The Origins of Right-Wing Catholic and Protestant Coalition Building. By Chelsea Eb
-- **DOI**: 10.1017/s0009640725101984
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Radical Mind The Origins of Right-Wing Catholic and Protestant Coalition Building. By Chelsea Ebin. Lawrence University Press of Kansas 2024. xxvi  228pp. 49.99 cloth.
+- **DOI**: [10.1017/s0009640725101984](https://doi.org/10.1017/s0009640725101984)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Anglican Identities Logos Idealism Imperial Witness Commonweal Ecumenism. By Garry Dorrien. Waco Bay
-- **DOI**: 10.1017/s0009640725101996
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Anglican Identities Logos Idealism Imperial Witness Commonweal Ecumenism. By Garry Dorrien. Waco Baylor University Press 2024. xiii  642 pp. 74.99 hardcover 59.99 paperback.
+- **DOI**: [10.1017/s0009640725101996](https://doi.org/10.1017/s0009640725101996)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Spirit of the Game American Christianity and Big-Time Sports. By Paul Emory Putz. New York Oxfor
-- **DOI**: 10.1017/s0009640725102023
-- **Analytical Tags**: `NT / - / nan`
-- **Abstract**: (Not available)
+### The Spirit of the Game American Christianity and Big-Time Sports. By Paul Emory Putz. New York Oxford University Press 2024. ix264pp. 29.99 cloth.
+- **DOI**: [10.1017/s0009640725102023](https://doi.org/10.1017/s0009640725102023)
+- **Analytical Tags**: `NT / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### A History of Christianity in America. By Mark A. Granquist. Grand Rapids MI Baker Academic 2025. xvi
-- **DOI**: 10.1017/s0009640725102035
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### A History of Christianity in America. By Mark A. Granquist. Grand Rapids MI Baker Academic 2025. xvi382pp. 44.99 hardcover 44.99 e-book.
+- **DOI**: [10.1017/s0009640725102035](https://doi.org/10.1017/s0009640725102035)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Translating Faith Ethiopian Pilgrims in Renaissance Rome. By Samantha Kelly. Series I Tatti Studies 
-- **DOI**: 10.1017/s0009640725102047
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Translating Faith Ethiopian Pilgrims in Renaissance Rome. By Samantha Kelly. Series I Tatti Studies in Italian Renaissance History. Harvard University Press 2024. 520 pp. 55.00 hardback.
+- **DOI**: [10.1017/s0009640725102047](https://doi.org/10.1017/s0009640725102047)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Imagining the Death of Jesus in Fourth-Century Mesopotamia. By Blake Hartung. Supplements to        
-- **DOI**: 10.1017/s0009640725102059
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Imagining the Death of Jesus in Fourth-Century Mesopotamia. By Blake Hartung. Supplements to                    iVigiliae Christianaei                    181. Leiden Brill 2023. xi  257pp. 134 Hardback.
+- **DOI**: [10.1017/s0009640725102059](https://doi.org/10.1017/s0009640725102059)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Feeding the Eternal City Jewish and Christian Butchers in the Roman Ghetto. By Kenneth Stow. Cambrid
-- **DOI**: 10.1017/s0009640725102060
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Feeding the Eternal City Jewish and Christian Butchers in the Roman Ghetto. By Kenneth Stow. Cambridge MA London UK Harvard University Press 2024. ix  276 pp. 45.00 hardback.
+- **DOI**: [10.1017/s0009640725102060](https://doi.org/10.1017/s0009640725102060)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Conciliar Diplomacy at the Council of Constance 14141418 Unity and Peacemaking in the World Historic
-- **DOI**: 10.1017/s0009640725102072
-- **Analytical Tags**: `Church History / - / nan`
-- **Abstract**: (Not available)
+### Conciliar Diplomacy at the Council of Constance 14141418 Unity and Peacemaking in the World Historical Perspective. By Philip H. Stump.                    iStudies in the History of Christian Traditionsi                    207. Leiden Brill Publishing 2024. xviii  294pp. 126.00 hardback.
+- **DOI**: [10.1017/s0009640725102072](https://doi.org/10.1017/s0009640725102072)
+- **Analytical Tags**: `Church History / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### A Crusade Against the Turks as a Means of Reforming the Church Two Camaldolese Hermits Advice for Po
-- **DOI**: 10.1017/s0009640725102084
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### A Crusade Against the Turks as a Means of Reforming the Church Two Camaldolese Hermits Advice for Pope Leo X. By James G. Kroemer. Lanham Lexington Books 2024. V125pp. 100.00 Cloth.
+- **DOI**: [10.1017/s0009640725102084](https://doi.org/10.1017/s0009640725102084)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Apocalyptic Cultures in Medieval and Renaissance Europe Politics and Prophecy. Edited by Jay Rubenst
-- **DOI**: 10.1017/s0009640725102096
+### Apocalyptic Cultures in Medieval and Renaissance Europe Politics and Prophecy. Edited by Jay Rubenstein and Robert Bast. Interdisciplinary Studies in the Middle Ages and the Renaissance 3. Turnhout Brepols 2024. 301pp.90 hardback.
+- **DOI**: [10.1017/s0009640725102096](https://doi.org/10.1017/s0009640725102096)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### American Aurora Environment and Apocalypse in the Life of Johannes Kelpius. By Timothy Grieve-Carlso
-- **DOI**: 10.1017/s0009640725102102
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### American Aurora Environment and Apocalypse in the Life of Johannes Kelpius. By Timothy Grieve-Carlson. Oxford Oxford University Press 2024. 328 pp. 120 hardback and 39.95 paperback.
+- **DOI**: [10.1017/s0009640725102102](https://doi.org/10.1017/s0009640725102102)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Righteous Strife How Warring Religious Nationalists Forged Lincolns Union. ByRichard Carwardine. New
-- **DOI**: 10.1017/s0009640725102114
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Righteous Strife How Warring Religious Nationalists Forged Lincolns Union. ByRichard Carwardine. New York Alfred A. Knopf 2025. xxiv  598pp. 35.00 hardcover 19.95 paper.
+- **DOI**: [10.1017/s0009640725102114](https://doi.org/10.1017/s0009640725102114)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Oxford Handbook of the Bible and the Reformation. Edited by Jennifer Powell McNutt and Herman J.
-- **DOI**: 10.1017/s0009640725102126
+### The Oxford Handbook of the Bible and the Reformation. Edited by Jennifer Powell McNutt and Herman J. Selderhuis. Oxford Oxford University Press 2024. xxvi  748pp. 190.00 cloth.
+- **DOI**: [10.1017/s0009640725102126](https://doi.org/10.1017/s0009640725102126)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### iExhortation to the Monksi                    by Hyperechios Reflections on the Spiritual Journey. B
-- **DOI**: 10.1017/s0009640725102138
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### iExhortation to the Monksi                    by Hyperechios Reflections on the Spiritual Journey. By Tim Vivian. Cairo and New York The American University in Cairo Press 2024. xxi206pp. 59.95 hardback.
+- **DOI**: [10.1017/s0009640725102138](https://doi.org/10.1017/s0009640725102138)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Soul by Soul The Evangelical Mission to Spread the Gospel to Muslims. By Adriana Carranca. New York 
-- **DOI**: 10.1017/s000964072510214x
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Soul by Soul The Evangelical Mission to Spread the Gospel to Muslims. By Adriana Carranca. New York Columbia Global Reports 2024. 190pp. 18 paper.
+- **DOI**: [10.1017/s000964072510214x](https://doi.org/10.1017/s000964072510214x)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Legacy of Birgitta of Sweden Women Politics and Reform in Renaissance Italy. Edited by Unn Falke
-- **DOI**: 10.1017/s0009640725102151
+### The Legacy of Birgitta of Sweden Women Politics and Reform in Renaissance Italy. Edited by Unn Falkeid and Anna Wainwright.                    iBrill Studies in Medieval and Reformation Traditionsi                     Volume 242. LeidenBoston Brill 2023. xiv  363 pp. 157.94 hardback.
+- **DOI**: [10.1017/s0009640725102151](https://doi.org/10.1017/s0009640725102151)
 - **Analytical Tags**: `Church History / - / Medieval;Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Worlds of Byzantium Religion Culture and Empire in the Medieval Near East. Edited by Elizabeth S. Bo
-- **DOI**: 10.1017/s0009640725102163
+### Worlds of Byzantium Religion Culture and Empire in the Medieval Near East. Edited by Elizabeth S. Bolman Scott Fitzgerald Johnson and Jack Tannous. Cambridge Cambridge University Press 2024. xxix  696pp. 195 cloth 195 ebook.
+- **DOI**: [10.1017/s0009640725102163](https://doi.org/10.1017/s0009640725102163)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### The Enlightenment and Original Sin. By Matthew Kadane. Chicago The University of Chicago Press 2024.
-- **DOI**: 10.1017/s0009640725102175
-- **Analytical Tags**: `nan / - / Modern`
-- **Abstract**: (Not available)
+### The Enlightenment and Original Sin. By Matthew Kadane. Chicago The University of Chicago Press 2024. xiii  236pp. 115.00 cloth 29.00 paper.
+- **DOI**: [10.1017/s0009640725102175](https://doi.org/10.1017/s0009640725102175)
+- **Analytical Tags**: `- / - / Modern`
+- **Abstract**: No abstract available
 
 ---
 
-### Fixing the Liturgy Friars Sisters and the Dominican Rite 12561516. By Claire Taylor Jones.          
-- **DOI**: 10.1017/s0009640725102187
+### Fixing the Liturgy Friars Sisters and the Dominican Rite 12561516. By Claire Taylor Jones.                    iThe Middle Ages Series.i                    Philadelphia University of Pennsylvania Press 2024. xii443pp. 75.00 hardcover.
+- **DOI**: [10.1017/s0009640725102187](https://doi.org/10.1017/s0009640725102187)
 - **Analytical Tags**: `Practical Theology / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Incomparable Realms Spain During the Golden Age 15001700. By Jeremy Robbins. London Reaktion Books L
-- **DOI**: 10.1017/s0009640725102199
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Incomparable Realms Spain During the Golden Age 15001700. By Jeremy Robbins. London Reaktion Books Ltd. 2022. 464pp. 34.79 cloth.
+- **DOI**: [10.1017/s0009640725102199](https://doi.org/10.1017/s0009640725102199)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Religion Science and Moral Philosophy in the Huguenot Enlightenment Jean Henri Samuel Formey and the
-- **DOI**: 10.1017/s0009640725102205
-- **Analytical Tags**: `nan / - / Modern`
-- **Abstract**: (Not available)
+### Religion Science and Moral Philosophy in the Huguenot Enlightenment Jean Henri Samuel Formey and the Berlin Academy. By Annelie Große. Oxford University Studies in the Enlightenment. Liverpool Liverpool University Press 2024. xiii  336pp. 99.00 paper.
+- **DOI**: [10.1017/s0009640725102205](https://doi.org/10.1017/s0009640725102205)
+- **Analytical Tags**: `- / - / Modern`
+- **Abstract**: No abstract available
 
 ---
 
-### The Disinherited The Politics of Christian Conversion in Colonial India. ByMou Banerjee. Cambridge H
-- **DOI**: 10.1017/s0009640725102217
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Disinherited The Politics of Christian Conversion in Colonial India. ByMou Banerjee. Cambridge Harvard University Press 2025. 357pp. 49.95 cloth.
+- **DOI**: [10.1017/s0009640725102217](https://doi.org/10.1017/s0009640725102217)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Reformation and Everyday Life. Edited by Nina J. Koefoed and Bo Kristian Holm.                    iR
-- **DOI**: 10.1017/s0009640725102230
+### Reformation and Everyday Life. Edited by Nina J. Koefoed and Bo Kristian Holm.                    iRefo500 Academic Studiesi                    100. Göttingen Vandenhoeck amp Ruprecht Verlage 2024. 342pp. 120.00 cloth.
+- **DOI**: [10.1017/s0009640725102230](https://doi.org/10.1017/s0009640725102230)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### Oneness Pentecostalism Race Gender and Culture. Edited by Lloyd D. Barba Andrea Shan Johnson and Dan
-- **DOI**: 10.1017/s0009640725102242
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Oneness Pentecostalism Race Gender and Culture. Edited by Lloyd D. Barba Andrea Shan Johnson and Daniel Ramirez. Studies in the Holiness Pentecostal Movements. University Park Pennsylvania State University Press 2023. xvii  263pp. 114.95 cloth 39.95 paper.
+- **DOI**: [10.1017/s0009640725102242](https://doi.org/10.1017/s0009640725102242)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Charles Wesley 17071788 Preacher Poet Pastor. Edited by Clive Murray Norris.                    iThe
-- **DOI**: 10.1017/s0009640725102254
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Charles Wesley 17071788 Preacher Poet Pastor. Edited by Clive Murray Norris.                    iThe Journal of Religious History Literature and Culturei                     Vol. 10 No. 2 November 2024. Cardiff UK University of Wales. V117pp. 35.
+- **DOI**: [10.1017/s0009640725102254](https://doi.org/10.1017/s0009640725102254)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Symbolic Reproduction in Early Medieval England Secular and Monastic Households. By Katharine Sykes.
-- **DOI**: 10.1017/s0009640725102266
+### Symbolic Reproduction in Early Medieval England Secular and Monastic Households. By Katharine Sykes.                    iThe Past and Present Book Series.i                    Oxford Oxford University Press 2024. viii  229pp. 100.00 cloth.
+- **DOI**: [10.1017/s0009640725102266](https://doi.org/10.1017/s0009640725102266)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### To Contest with all the Powers of Darkness New England Baptists Religious Liberty and New Political 
-- **DOI**: 10.1017/s0009640725102278
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### To Contest with all the Powers of Darkness New England Baptists Religious Liberty and New Political Landscapes 17401833. By Jacob E. Hicks. Americas Baptists. Knoxville TN University of Tennessee Press 2024. xv218pp. 55.00 hardcover.
+- **DOI**: [10.1017/s0009640725102278](https://doi.org/10.1017/s0009640725102278)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Without a Prayer Religion and Race in New York City Public Schools. By Leslie Beth Ribovich. New Yor
-- **DOI**: 10.1017/s0009640725102291
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Without a Prayer Religion and Race in New York City Public Schools. By Leslie Beth Ribovich. New York New York University Press 2024. 239 pp. 30.00 paper.
+- **DOI**: [10.1017/s0009640725102291](https://doi.org/10.1017/s0009640725102291)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Weather the Reformation Climate and Religion in Early Modern Sixteenth-Century Strasbourg. By Linnéa
-- **DOI**: 10.1017/s0009640725102308
+### Weather the Reformation Climate and Religion in Early Modern Sixteenth-Century Strasbourg. By Linnéa Rowlatt.                    iRoutledge Studies in Religion and Environmenti                    3. London and New York Routledge 2024. x210pp. 190.00 hardcover 56.99 ebook.
+- **DOI**: [10.1017/s0009640725102308](https://doi.org/10.1017/s0009640725102308)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: (Not available)
+- **Abstract**: No abstract available
 
 ---
 
-### A Suon di Polemiche. Eresia e controversia dottrinale nella crisi religiosa del Cinquecento. By Gior
-- **DOI**: 10.1017/s000964072510231x
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### A Suon di Polemiche. Eresia e controversia dottrinale nella crisi religiosa del Cinquecento. By Giorgio Caravale. Culture e religioni in età moderna. Rome Edizioni di Storia e Letteratura 2024. xxiv  266pp. 24.00 paper.
+- **DOI**: [10.1017/s000964072510231x](https://doi.org/10.1017/s000964072510231x)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### A Short History of the Roman Mass. By Uwe Michael Lang. San Francisco Ignatius Press 2024. 146 pp. I
-- **DOI**: 10.1017/s0009640725102321
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### A Short History of the Roman Mass. By Uwe Michael Lang. San Francisco Ignatius Press 2024. 146 pp. ISBN 978-1-62164-697-6 17.95 paper.
+- **DOI**: [10.1017/s0009640725102321](https://doi.org/10.1017/s0009640725102321)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Henry Longueville Mansel Victorian Theology Philosophy and Politics. By Francesca Norman. Anglican-E
-- **DOI**: 10.1017/s0009640725102333
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Henry Longueville Mansel Victorian Theology Philosophy and Politics. By Francesca Norman. Anglican-Episcopal Theology and History 9. Leiden Brill 2023. xv270pp. 72 paper.
+- **DOI**: [10.1017/s0009640725102333](https://doi.org/10.1017/s0009640725102333)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Il Governo dei Pulpiti Predicatori potere e pubblico nellItalia della prima età moderna. Culture e r
-- **DOI**: 10.1017/s0009640725102345
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### Il Governo dei Pulpiti Predicatori potere e pubblico nellItalia della prima età moderna. Culture e religioni in età moderna. By Michele Camaioni. Rome Edizioni di Storia e Letteratura 2024. xxxiv  266pp. 2500 paper 2000 ebook.
+- **DOI**: [10.1017/s0009640725102345](https://doi.org/10.1017/s0009640725102345)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### The Protestant Ethic in Hungary. The Puritan Ethic and Its Influence. By Attila K. Molnár. Göttingen
-- **DOI**: 10.1017/s0009640725102357
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+### The Protestant Ethic in Hungary. The Puritan Ethic and Its Influence. By Attila K. Molnár. Göttingen Vandenhoeck amp Ruprecht 2024. 238 pp. 1 map. ISBN 9783525540893. 130.00 hardback.
+- **DOI**: [10.1017/s0009640725102357](https://doi.org/10.1017/s0009640725102357)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### Church-Building and the Consolidation of the United States 18651900
-- **DOI**: 10.1017/s0009640725102369
-- **Analytical Tags**: `Systematic Theology / - / nan`
+- **DOI**: [10.1017/s0009640725102369](https://doi.org/10.1017/s0009640725102369)
+- **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>In the decades that followed the American Civil War, Congregationalists, Presbyterians, Baptists, Methodists, and Episcopalians across the Northern United States embarked on a massive centrally coordinated church-building program. Just as capitalists and politicians poured resources into the American West and South to consolidate and cohere the newly reunited nation under a single economic and political order, these Northern Protestants also hoped to bind the republic’s sections with a homogenous faith by bankrolling a continental network of church edifices across the country.</jats:p>
-                  <jats:p>This article explores the role of the postbellum Protestant church-building endeavor in the broader process of national consolidation. It argues that the movement was nationally consolidative in three ways. Firstly, by pooling and re-distributing capital from wealthier congregations to their needier counterparts, the church-building organizations themselves brought greater uniformity and unity to the process of Protestant expansion in the United States. Secondly, the movement was compelled by a powerful religio-political philosophy of church-building the author terms “republican ecclesiology,” which endowed the Protestant edifice with a key infrastructural role in national reunification as a stabilizing bastion of piety and patriotism, especially in the American West. Finally, church-building advocates believed that the cross-continental financial networks forged between benefactors and beneficiaries consolidated the nation spiritually by creating a more united body of Protestant believers all invested – emotionally as well as financially – in their compatriots’ salvations.</jats:p>
+                  <jats:p>This article explores the role of the postbellum Protestant church-building endeavor in the broader process of national consolidation. It argues that the movement was nationally consolidative in three ways. Firstly, by pooling and re-distributing capital from wealthier congregations to their needier counterparts, the church-building organizations themselves brought greater uniformity and unity to the process of Protestant expansion in the United States. Secondly, the movement was compelled by a powerful religio-political philosophy of church-building the author terms “republican ecclesiology,” which endowed the Protestant edifice with a key infrastructural role in national reunification as a stabilizing bastion of piety and patriotism, especially in the American West. Finally, church-building advocates believed that the cross-continental fiNo abstract availablecial networks forged between benefactors and beneficiaries consolidated the nation spiritually by creating a more united body of Protestant believers all invested – emotionally as well as fiNo abstract availablecially – in their compatriots’ salvations.</jats:p>
 
 ---
 
-### Baptist Identity and Elusive Interracialism in the Segregated South D. V. Jemison E. P. Alldredge an
-- **DOI**: 10.1017/s0009640725102370
-- **Analytical Tags**: `nan / - / nan`
+### Baptist Identity and Elusive Interracialism in the Segregated South D. V. Jemison E. P. Alldredge and the Work of a Black Baptist Seminary
+- **DOI**: [10.1017/s0009640725102370](https://doi.org/10.1017/s0009640725102370)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>American Baptist Theological Seminary (ABTS), founded as a black Baptist school in 1924, sprung from an unusual partnership between black and white Baptists in the Jim Crow South. The black National Baptist Convention (NBC) and white Southern Baptist Convention (SBC) jointly funded and governed the Nashville seminary, emphasizing from the outset the strength of their common Baptist identity, though persistent frictions reared up with regularity. The relationship between two leaders involved with ABTS in the mid-twentieth century – National Baptist David V. Jemison and Southern Baptist Eugene P. Alldredge – offers an intriguing lens for viewing the hopes and pitfalls that attended Baptist interracialism in the segregated South. Their correspondence in the 1940s reveals a growing friendship and fellowship as they collaborated in seminary work and bonded over their likeminded Baptist convictions, followed by an abrupt rift after Alldredge’s paternalistic meddling in NBC politics led Jemison to defend black Baptist autonomy. Thus, the Jemison–Alldredge relationship poignantly illustrates two conflicting realities facing such attempts at Baptist interracialism: Baptist identity did offer a legitimate nexus for interracial fellowship, yet the racial hierarchy and prejudices of a segregated society also circumscribed those efforts, as black Baptists walked a tightrope between assuaging white concerns and maintaining their own independence.</jats:p>
+                  <jats:p>American Baptist Theological Seminary (ABTS), founded as a black Baptist school in 1924, sprung from an unusual partnership between black and white Baptists in the Jim Crow South. The black National Baptist Convention (NBC) and white Southern Baptist Convention (SBC) jointly funded and governed the Nashville seminary, emphasizing from the outset the strength of their common Baptist identity, though persistent frictions reared up with regularity. The relationship between two leaders involved with ABTS in the mid-twentieth century – National Baptist David V. Jemison and Southern Baptist Eugene P. Alldredge – offers an intriguing lens for viewing the hopes and pitfalls that attended Baptist interracialism in the segregated South. Their correspondence in the 1940s reveals a growing friendship and fellowship as they collaborated in seminary work and bonded over their likeminded Baptist convictions, followed by an abrupt rift after Alldredge’s paternalistic meddling in NBC politics led Jemison to defend black Baptist autonomy. Thus, the Jemison–Alldredge relationship poigNo abstract availabletly illustrates two conflicting realities facing such attempts at Baptist interracialism: Baptist identity did offer a legitimate nexus for interracial fellowship, yet the racial hierarchy and prejudices of a segregated society also circumscribed those efforts, as black Baptists walked a tightrope between assuaging white concerns and maintaining their own independence.</jats:p>
 
 ---
 
 ### Patriarchs Bishops and Monasteries in the Syriac Consecration Lists c. 8001000
-- **DOI**: 10.1017/s0009640725102400
-- **Analytical Tags**: `nan / - / nan`
+- **DOI**: [10.1017/s0009640725102400](https://doi.org/10.1017/s0009640725102400)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>This article offers a new chapter in the history of the Severan Miaphysite church, the ancestor-institution of the modern-day Syriac Orthodox. It employs the consecration lists in Michael the Syrian’s 12th-century chronicle to investigate changing patterns of authority, and relationships between monasteries and episcopal sees, in a period poorly served by narrative sources. The home monastery of the Miaphysite patriarchs corresponds to shifts in political authority from Abbasid Raqqa, to Hamdanid Aleppo, to Byzantine Melitene, but this did not preclude the survival of local patterns of patronage. Clusters of patronage, identified using historical network analysis, are not geographically segregated, and this helps to explain the relative stability of the network, which did not see major attempts at secession in this period. The patterns in these lists help us to establish the places where narrative sources highlight unusual phenomena, and where the phenomena they report are typical features of the relationships between bishops and monasteries.</jats:p>
 
 ---
 
 ### Representation vs. Democracy Presbyterianism in the Age of the French Revolution
-- **DOI**: 10.1017/s0009640725102412
-- **Analytical Tags**: `Ethics;Systematic Theology / - / nan`
+- **DOI**: [10.1017/s0009640725102412](https://doi.org/10.1017/s0009640725102412)
+- **Analytical Tags**: `Ethics;Systematic Theology / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>This article argues against the cliché (posited most famously by Alexis de Tocqueville and Carl Schmitt), that there were inherent correspondences between religious and political concepts. Such connections were historically contingent, and had to be forged by polemicists and apologists who eclectically drew upon a variety of sources. This is evident from an examination of differing Presbyterian reactions to the French Revolution. John Brown in Scotland combined an aristocratic Presbyterian ecclesiology with a Burkean view of authority to argue for an anti-democratic conception of “representative government.” By contrast, the Scottish-American Alexander McLeod synthesized radical Presbyterian political theology with Painite ideas of “representative democracy.” Thus representation emerged as the key concept in both authors, yet its compatibility with democracy was an open question. The examples of Brown and McLeod also show that religion, as much as “secular” politics, had to grapple with and re-imagine “democracy.”</jats:p>
 
 ---
 
 ### Christian Connection Women as Biblical Interpreters in Antebellum America 18201841
-- **DOI**: 10.1017/s0009640725102424
-- **Analytical Tags**: `NT / - / nan`
+- **DOI**: [10.1017/s0009640725102424](https://doi.org/10.1017/s0009640725102424)
+- **Analytical Tags**: `NT / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     Christian Connection women – Deborah Peirce, Harriet Livermore, and Rebecca Miller – who penned three of America’s earliest defenses of a woman’s right to preach from 1820 to 1841, conceived of themselves not only as exhorters, evangelists, and preachers but also as
@@ -917,51 +950,51 @@ arc_score: 6
 ---
 
 ### Reflections on Nicaea at 1700 A Forum on the Legacy of the Council and the Creed
-- **DOI**: 10.1017/s0009640725102515
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1017/s0009640725102515](https://doi.org/10.1017/s0009640725102515)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
-### Asserting Protestant Legitimacy in a Catholic Context Rhetorical Strategies of the Confederação Evan
-- **DOI**: 10.1017/s0009640725102527
-- **Analytical Tags**: `nan / - / Contemporary`
+### Asserting Protestant Legitimacy in a Catholic Context Rhetorical Strategies of the Confederação Evangélica do Brasil 1930s1950s
+- **DOI**: [10.1017/s0009640725102527](https://doi.org/10.1017/s0009640725102527)
+- **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     During the first half of the 20th century, Brazilian Protestants turned to their pens and periodicals to defend the legitimacy and beneficial nature of their presence in a majority Catholic nation. This period—spanning Brazil’s first republic, Getúlio Vargas’s authoritarian
                     <jats:italic>Estado novo</jats:italic>
-                    , and the developmentalist era of Juscelino Kubitschek (1956–1961)—witnessed several regime changes and new national constitutions. Amid these political shifts, the Brazilian Catholic church sought to increase its cultural and symbolic dominance in the country. Meanwhile, several Brazilian Protestant groups came together to form the Confederação Evangélica do Brasil (CEB) in 1934, both to coordinate Protestant educational and social work and defend freedom of Protestant religious expression. With their denominational roots in Brazil extending less than one hundred years and their ties to US mission boards making them appear suspiciously foreign, Brazilian Protestants vehemently defended their patriotism. Relying on the writings of many CEB leaders, the organization’s periodical
+                    , and the developmentalist era of Juscelino Kubitschek (1956–1961)—witnessed several regime changes and new national constitutions. Amid these political shifts, the Brazilian Catholic church sought to increase its cultural and symbolic domiNo abstract availablece in the country. Meanwhile, several Brazilian Protestant groups came together to form the Confederação Evangélica do Brasil (CEB) in 1934, both to coordinate Protestant educational and social work and defend freedom of Protestant religious expression. With their denominational roots in Brazil extending less than one hundred years and their ties to US mission boards making them appear suspiciously foreign, Brazilian Protestants vehemently defended their patriotism. Relying on the writings of many CEB leaders, the organization’s periodical
                     <jats:italic>Unum corpus</jats:italic>
-                    , and biannual reports, I argue that the Brazilian ecumenical leaders used several strategies to create a rhetorical defense of Brazilian Protestant legitimacy. They expressed occasional appreciation for Brazilian Catholics, celebrated Brazilian Protestant history and public recognition of contemporary Brazilian Protestants, and stridently opposed Catholic attempts to achieve cultural or social dominance. I also argue that because they maintained a constant defensive posture, the Brazilian Protestant ecumenists of the 1930s–1950s embraced a vision of ecumenism that explicitly excluded Roman Catholicism.
+                    , and biannual reports, I argue that the Brazilian ecumenical leaders used several strategies to create a rhetorical defense of Brazilian Protestant legitimacy. They expressed occasional appreciation for Brazilian Catholics, celebrated Brazilian Protestant history and public recognition of contemporary Brazilian Protestants, and stridently opposed Catholic attempts to achieve cultural or social domiNo abstract availablece. I also argue that because they maintained a constant defensive posture, the Brazilian Protestant ecumenists of the 1930s–1950s embraced a vision of ecumenism that explicitly excluded Roman Catholicism.
                   </jats:p>
 
 ---
 
-### The Limits of Literalism Race The Bible and The Desegregation of Dallas Theological Seminary 1950198
-- **DOI**: 10.1017/s0009640725102539
-- **Analytical Tags**: `nan / - / Reformation`
+### The Limits of Literalism Race The Bible and The Desegregation of Dallas Theological Seminary 19501980
+- **DOI**: [10.1017/s0009640725102539](https://doi.org/10.1017/s0009640725102539)
+- **Analytical Tags**: `- / - / Reformation`
 - **Abstract**: <jats:title>Abstract</jats:title>
 	  <jats:p>The desegregation of Dallas Theological Seminary (DTS) offers a critical case study for scholars of American religious history, illuminating how white evangelical institutions responded to the racial transformations of the post-civil rights era. Unlike southern evangelical colleges that defended segregation on overt theological grounds, DTS never explicitly framed its exclusion of Black students within a scriptural mandate. Instead, the seminary’s shift from racial exclusion to intentional Black student recruitment in the 1970s reflects what Martin Luther King Jr. once described as a “more cautious than courageous” approach. Anchored in biblical literalism, DTS president John Walvoord’s reluctance to use scripture to justify segregation played a key role in the school’s transformation. This article fills a gap in the historiography by examining how institutional culture, theological commitments, and broader cultural pressures converged to produce a quiet and incremental model of desegregation—neither overtly racist nor actively prophetic—offering a more complex portrait of evangelicalism and race in the second half of the twentieth century.</jats:p>
 
 ---
 
 ### CHH volume 94 issue 1 Cover and Front matter
-- **DOI**: 10.1017/s0009640725102540
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1017/s0009640725102540](https://doi.org/10.1017/s0009640725102540)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### CHH volume 94 issue 1 Cover and Back matter
-- **DOI**: 10.1017/s0009640725102552
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1017/s0009640725102552](https://doi.org/10.1017/s0009640725102552)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### A Double-Edged Sword Excommunication in Nineteenth-Century French Canada
-- **DOI**: 10.1017/s0009640725102564
-- **Analytical Tags**: `Systematic Theology / - / nan`
+- **DOI**: [10.1017/s0009640725102564](https://doi.org/10.1017/s0009640725102564)
+- **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     Excommunication – being summarily cut off from the sacraments of the Catholic Church – was the logical, if extreme, expression of Ultramontanism, and of the paternal metaphor enshrined at its heart. It was the ultimate weapon in the Church’s battle with critics who sought to undercut or challenge its chosen role as privileged mediator between the state apparatus and the people, whether this came in the form of open rebellion against said state, or in the demand for individual intellectual freedom, or both. Studying the infamous cases of nineteenth-century excommunicates, Joseph Guibord and Louis Riel (together with their predecessors, the ill–fated
@@ -972,15 +1005,15 @@ arc_score: 6
 ---
 
 ### CHH volume 94 issue 2 Cover and Front matter
-- **DOI**: 10.1017/s0009640725102576
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1017/s0009640725102576](https://doi.org/10.1017/s0009640725102576)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### CHH volume 94 issue 2 Cover and Back matter
-- **DOI**: 10.1017/s0009640725102588
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1017/s0009640725102588](https://doi.org/10.1017/s0009640725102588)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---

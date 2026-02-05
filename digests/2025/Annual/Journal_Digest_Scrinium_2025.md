@@ -13,43 +13,43 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Front matter]] |
-| 2 | - | - | [[#Editorial]] |
-| 3 | Church History | Medieval | [[#The Riddles of Nerses Shnorhali in the Yaysmawurk Collections]] |
-| 4 | Church History | Medieval | [[#The Martyrdom of Vahan Goghtnatsi and its Spatio-Temporal Features]] |
-| 5 | - | - | [[#Slavonic Sirach from the Library of F.A. Tolstoy]] |
-| 6 | - | - | [[#An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodro]] |
-| 7 | Church History | Medieval | [[#The Cult of Nilus of Stolobny Lake Following the Church Reforms of the Early 18th Century]] |
-| 8 | - | - | [[#Two Patriarchs and One Profession a Middle Byzantine Theological Compilation Misattributed to German]] |
-| 9 | - | - | [[#A Commented Psalter under the Name of Nicephorus Blemmydes ScholPs]] |
-| 10 | NT | - | [[#Manuscript Sinai Greek 1338]] |
-| 11 | - | - | [[#Syriac Christian Polemic against Popular Religion]] |
-| 12 | NT | Patristic | [[#The Pluralistic Contexts of Four Sets of Chrysostoms Homilies on the Letters of the Apostle Paul]] |
-| 13 | Church History | - | [[#Codex X Reconstructing Two Manuscripts from the New Finds at St. Catherines Monastery Mount Sinai]] |
-| 14 | Church History, Systematic Theology | Medieval | [[#The Place of Adams Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles]] |
-| 15 | - | - | [[#Ascetics Missionaries Lovers Interconfessional Confrontation and Interaction in Seventeenth Century ]] |
-| 16 | Systematic Theology | - | [[#The Οἰκονομικὴ Πραγματεία of Iobios the Monk Bibl. cod. 222]] |
-| 17 | - | - | [[#Cult of Equestrian Saints and al-Muqawqis]] |
-| 18 | Systematic Theology | - | [[#From the Function of Agathangelos of Gregory the Illuminator to The History of Armenia by Agathangel]] |
+| 1 | - | - | [[#Front matter|Front matter]] |
+| 2 | - | - | [[#Editorial|Editorial]] |
+| 3 | Church History | Medieval | [[#The Riddles of Nerses Shnorhali in the Yaysmawurk Collections|The Riddles of Nerses Shnorhali in the Yaysmawurk Collections]] |
+| 4 | Church History | Medieval | [[#The Martyrdom of Vahan Goghtnatsi and its Spatio-Temporal Features|The Martyrdom of Vahan Goghtnatsi and its Spatio-Temporal Features]] |
+| 5 | - | - | [[#Slavonic Sirach from the Library of F.A. Tolstoy|Slavonic Sirach from the Library of F.A. Tolstoy]] |
+| 6 | - | - | [[#An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodromos|An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodromos]] |
+| 7 | Church History | Medieval | [[#The Cult of Nilus of Stolobny Lake Following the Church Reforms of the Early 18th Century|The Cult of Nilus of Stolobny Lake Following the Church Reforms of the Early 18th Century]] |
+| 8 | - | - | [[#Two Patriarchs and One Profession a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople|Two Patriarchs and One Profession: a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople]] |
+| 9 | - | - | [[#A Commented Psalter under the Name of Nicephorus Blemmydes ScholPs|A Commented Psalter under the Name of Nicephorus Blemmydes (ScholPs)]] |
+| 10 | NT | - | [[#Manuscript Sinai Greek 1338|Manuscript Sinai Greek 1338]] |
+| 11 | - | - | [[#Syriac Christian Polemic against Popular Religion|Syriac Christian Polemic against Popular Religion]] |
+| 12 | NT | Patristic | [[#The Pluralistic Contexts of Four Sets of Chrysostoms Homilies on the Letters of the Apostle Paul|The “Pluralistic” Contexts of Four Sets of Chrysostom’s Homilies on the Letters of the Apostle Paul]] |
+| 13 | Church History | - | [[#Codex X Reconstructing Two Manuscripts from the New Finds at St. Catherines Monastery Mount Sinai|Codex X: Reconstructing Two Manuscripts from the New Finds at St. Catherine’s Monastery (Mount Sinai)]] |
+| 14 | Church History, Systematic Theology | Medieval | [[#The Place of Adams Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles|The Place of Adam’s Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles]] |
+| 15 | - | - | [[#Ascetics Missionaries Lovers Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives|Ascetics, Missionaries, Lovers: Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives]] |
+| 16 | Systematic Theology | - | [[#The Οἰκονομικὴ Πραγματεία of Iobios the Monk Bibl. cod. 222|The Οἰκονομικὴ Πραγματεία of Iobios the Monk (Bibl. cod. 222)]] |
+| 17 | - | - | [[#Cult of Equestrian Saints and al-Muqawqis|Cult of Equestrian Saints and al-Muqawqis]] |
+| 18 | Systematic Theology | - | [[#From the Function of Agathangelos of Gregory the Illuminator to The History of Armenia by Agathangelos|From the Function of ‘Agathangelos’ of Gregory the Illuminator to “The History of Armenia” by Agathangelos]] |
 
 ---
 
 ### Front matter
-- **DOI**: 10.1163/18177565-02101000
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1163/18177565-02101000](https://doi.org/10.1163/18177565-02101000)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### Editorial
-- **DOI**: 10.1163/18177565-12340009
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [10.1163/18177565-12340009](https://doi.org/10.1163/18177565-12340009)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### The Riddles of Nerses Shnorhali in the Yaysmawurk Collections
-- **DOI**: 10.1163/18177565-bja10121
+- **DOI**: [10.1163/18177565-bja10121](https://doi.org/10.1163/18177565-bja10121)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
@@ -73,7 +73,7 @@ arc_score: 6
 ---
 
 ### The Martyrdom of Vahan Goghtnatsi and its Spatio-Temporal Features
-- **DOI**: 10.1163/18177565-bja10122
+- **DOI**: [10.1163/18177565-bja10122](https://doi.org/10.1163/18177565-bja10122)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>The Martyrdom of Vahan Goghtnatsi is a text that dates back to the beginning of the 8th century. Vahan was the son of Khosrov, a nobleman from Goghtn. In his early years, Vahan was taken hostage by the Arabs to Damascus. Subsequently, he returned to Armenia and converted to Christianity, a decision that resulted in his persecution. After visiting a number of locations, he proceeded to the court of Caliph Hisham (724–743) with the intention of requesting permission to practise his religion. His endeavours proved futile, and he was martyred in the city of Resafa in 736/737.</jats:p>
@@ -83,8 +83,8 @@ arc_score: 6
 ---
 
 ### Slavonic Sirach from the Library of F.A. Tolstoy
-- **DOI**: 10.1163/18177565-bja10123
-- **Analytical Tags**: `nan / - / nan`
+- **DOI**: [10.1163/18177565-bja10123](https://doi.org/10.1163/18177565-bja10123)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     A manuscript from the collection of count F.A. Tolstoy in the National Library of Russia (F.I.21
@@ -94,9 +94,9 @@ arc_score: 6
 
 ---
 
-### An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodro
-- **DOI**: 10.1163/18177565-bja10124
-- **Analytical Tags**: `nan / - / nan`
+### An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodromos
+- **DOI**: [10.1163/18177565-bja10124](https://doi.org/10.1163/18177565-bja10124)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     Codex Vaticanus graecus 671 (c. 1350), ff. 204–209
@@ -109,7 +109,7 @@ arc_score: 6
 ---
 
 ### The Cult of Nilus of Stolobny Lake Following the Church Reforms of the Early 18th Century
-- **DOI**: 10.1163/18177565-bja10125
+- **DOI**: [10.1163/18177565-bja10125](https://doi.org/10.1163/18177565-bja10125)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
@@ -120,9 +120,9 @@ arc_score: 6
 
 ---
 
-### Two Patriarchs and One Profession a Middle Byzantine Theological Compilation Misattributed to German
-- **DOI**: 10.1163/18177565-bja10126
-- **Analytical Tags**: `nan / - / nan`
+### Two Patriarchs and One Profession a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople
+- **DOI**: [10.1163/18177565-bja10126](https://doi.org/10.1163/18177565-bja10126)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     A profession of faith preserved in Princeton
@@ -141,8 +141,8 @@ arc_score: 6
 ---
 
 ### A Commented Psalter under the Name of Nicephorus Blemmydes ScholPs
-- **DOI**: 10.1163/18177565-bja10127
-- **Analytical Tags**: `nan / - / nan`
+- **DOI**: [10.1163/18177565-bja10127](https://doi.org/10.1163/18177565-bja10127)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     The scholia to the Psalter (
@@ -155,8 +155,8 @@ arc_score: 6
 ---
 
 ### Manuscript Sinai Greek 1338
-- **DOI**: 10.1163/18177565-bja10128
-- **Analytical Tags**: `NT / - / nan`
+- **DOI**: [10.1163/18177565-bja10128](https://doi.org/10.1163/18177565-bja10128)
+- **Analytical Tags**: `NT / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>This study introduces and analyzes Manuscript Sinai Greek 1338, preserved at the Monastery of Saint Catherine in Sinai. This 13th-century bilingual lexicon contains Greek word entries paired with Arabic translations. Previously unidentified in academic research, the manuscript is revealed to be part of the tradition of Cyril’s Lexicon.</jats:p>
                   <jats:p>The manuscript spans 149 folios and includes approximately 2,500 Greek entries alongside Arabic translations. It is a learning resource aimed at Arabic-speaking monks to help them understand and chant Greek liturgical texts. The interlinear format and additional pedagogical content, like grammatical notes and Byzantine musical notation, suggest its use as both a linguistic and liturgical guide.</jats:p>
@@ -166,8 +166,8 @@ arc_score: 6
 ---
 
 ### Syriac Christian Polemic against Popular Religion
-- **DOI**: 10.1163/18177565-bja10129
-- **Analytical Tags**: `nan / - / nan`
+- **DOI**: [10.1163/18177565-bja10129](https://doi.org/10.1163/18177565-bja10129)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     The article presents the
@@ -184,7 +184,7 @@ arc_score: 6
 ---
 
 ### The Pluralistic Contexts of Four Sets of Chrysostoms Homilies on the Letters of the Apostle Paul
-- **DOI**: 10.1163/18177565-bja10130
+- **DOI**: [10.1163/18177565-bja10130](https://doi.org/10.1163/18177565-bja10130)
 - **Analytical Tags**: `NT / - / Patristic`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>The four sets of Chrysostom’s exegetical homilies (On Philippians, On Colossians, On Letters to Titus and Philemon, and On 1 and 2 Timothy) examined in this article provide enough evidence proving that the preacher was not in favour of a pluralistic society in the modern sense of this term. He was not an advocate for tolerance of diversity or even for harmony between peoples of different beliefs either, even though he praised the superior practices of Hellenes and Jews as a rhetorical mean to exhort his own congregation to do better.</jats:p>
@@ -192,15 +192,15 @@ arc_score: 6
 ---
 
 ### Codex X Reconstructing Two Manuscripts from the New Finds at St. Catherines Monastery Mount Sinai
-- **DOI**: 10.1163/18177565-bja10131
-- **Analytical Tags**: `Church History / - / nan`
+- **DOI**: [10.1163/18177565-bja10131](https://doi.org/10.1163/18177565-bja10131)
+- **Analytical Tags**: `Church History / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>This study reconstructs the contents of a lost 10th-century Georgian codex by drawing on two parchment palimpsests from the New Finds at St. Catherine’s Monastery: Sin Geo N 84 and Sin Geo N 90. These manuscripts preserve homilies, apophthegmata, and monastic narratives, including previously unknown Georgian translations of the Historia Monachorum in Aegypto. The material reflects a diverse literary heritage, with links to Greek, Syriac, and Arabic traditions. Through philological analysis, manuscript collation, and English translation of each item, the study sheds new light on early Georgian Christian literature and monastic culture. The edition clarifies textual relationships, corrects earlier misattributions, and highlights scribal practices and translation techniques. Special attention is given to the structure of the reconstructed codex and to the significance of its contents for understanding Georgian monastic compilations within the wider landscape of Eastern Christian textual transmission.</jats:p>
 
 ---
 
 ### The Place of Adams Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles
-- **DOI**: 10.1163/18177565-bja10132
+- **DOI**: [10.1163/18177565-bja10132](https://doi.org/10.1163/18177565-bja10132)
 - **Analytical Tags**: `Church History;Systematic Theology / - / Medieval`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>Medieval Armenian literature is composed of a substantial corpus of parabiblical texts on Adam, the majority of which have been published and extensively studied. Nevertheless, a considerable proportion of these texts remain in the form of unpublished manuscripts and thus warrant further scholarly investigation.</jats:p>
@@ -208,17 +208,17 @@ arc_score: 6
 
 ---
 
-### Ascetics Missionaries Lovers Interconfessional Confrontation and Interaction in Seventeenth Century 
-- **DOI**: 10.1163/18177565-bja10133
-- **Analytical Tags**: `nan / - / nan`
+### Ascetics Missionaries Lovers Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives
+- **DOI**: [10.1163/18177565-bja10133](https://doi.org/10.1163/18177565-bja10133)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>Seventeenth-century Armenian historiographic accounts, chronicles and diaries demonstrate an increasing prevalence of the first-person narrative over the ‘neutral’ third person and authorial narratives. This provides significant insights into the daily interpersonal, intra-communal and inter-communal relations between different religious and confessional groups within the Ottoman empire. Relying on unedited and understudied written sources, I identified several hermeneutical tools that may be useful to assess the complex dynamics of identity construction that marked the relations of Armenian individuals and groups with other co-existing confessional and religious local communities within and on the northern and eastern fringes of the Ottoman Empire in the first half of the seventeenth century.</jats:p>
 
 ---
 
 ### The Οἰκονομικὴ Πραγματεία of Iobios the Monk Bibl. cod. 222
-- **DOI**: 10.1163/18177565-bja10134
-- **Analytical Tags**: `Systematic Theology / - / nan`
+- **DOI**: [10.1163/18177565-bja10134](https://doi.org/10.1163/18177565-bja10134)
+- **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     This article examines Photios’ reception of the theological insights of the sixth-century theologian, Iobios the Monk’s work, the
@@ -241,8 +241,8 @@ arc_score: 6
 ---
 
 ### Cult of Equestrian Saints and al-Muqawqis
-- **DOI**: 10.1163/18177565-bja10135
-- **Analytical Tags**: `nan / - / nan`
+- **DOI**: [10.1163/18177565-bja10135](https://doi.org/10.1163/18177565-bja10135)
+- **Analytical Tags**: `- / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     The author of the article offers another attempt to explain the etymology of the word (
@@ -278,9 +278,9 @@ arc_score: 6
 
 ---
 
-### From the Function of Agathangelos of Gregory the Illuminator to The History of Armenia by Agathangel
-- **DOI**: 10.1163/18177565-bja10136
-- **Analytical Tags**: `Systematic Theology / - / nan`
+### From the Function of Agathangelos of Gregory the Illuminator to The History of Armenia by Agathangelos
+- **DOI**: [10.1163/18177565-bja10136](https://doi.org/10.1163/18177565-bja10136)
+- **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>This article explores the formation of the History attributed to Agathangelos as a unified story of Armenia’s conversion and its role in protecting the Armenian Church’s distinct identity from Sassanid influence. Accounts of the Armenian Church’s foundation were preserved orally from the fourth century, later codified in Armenian under Catholicos Sahak through the efforts of Mesrop Mashtots and Koryun, pre-existing narratives – St. Gregory the Illuminator’s vita, the Vision, the martyrdom of the Hripsimean virgins, and the premises of the doctrine were integrated into a single work. This synthesis was not a mechanical compilation, but a purposeful literary construction, organizing the material around a central axis to create a cohesive and enduring narrative of Armenia’s conversion and the formation of a new epic of the conversion genre titled History by Agathangelos.</jats:p>
 

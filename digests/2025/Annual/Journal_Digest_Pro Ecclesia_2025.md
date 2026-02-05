@@ -13,14 +13,18 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | Systematic Theology | - | [[#Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedo]] |
-| 2 | - | Patristic | [[#Book Review                    iThe Bible and Baptism The Fountain of Salvationi                    ]] |
+| 1 | Systematic Theology | - | [[#Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedom in Response to Steven J. Duby|Is God
+                    <i>Actually “</i>
+                    For Us”? A “Chalcedonian” Note on Divine Freedom in Response to Steven J. Duby]] |
+| 2 | - | Patristic | [[#Book Review                    iThe Bible and Baptism The Fountain of Salvationi                    by Isaac Augustine Morales MoralesIsaac Augustine. The Bible and Baptism The Fountain of Salvation. Grand Rapids MI Baker Academic 2022. xxv230 pp. ISBN 978-1540961785. 24.99paperback.|Book Review:
+                    <i>The Bible and Baptism: The Fountain of Salvation</i>
+                    by Isaac Augustine Morales MoralesIsaac Augustine. The Bible and Baptism: The Fountain of Salvation. Grand Rapids, MI: Baker Academic, 2022. xxv + 230 pp. ISBN 978-1540961785. $24.99(paperback).]] |
 
 ---
 
-### Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedo
-- **DOI**: 10.1177/10638512251387107
-- **Analytical Tags**: `Systematic Theology / - / nan`
+### Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedom in Response to Steven J. Duby
+- **DOI**: [10.1177/10638512251387107](https://doi.org/10.1177/10638512251387107)
+- **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: <jats:p>
                     Steven Duby repeatedly insists on a conception of divine aseity that maintains God's being is complete without reference to another, such that his being neither entails nor precludes the existence of the world. He argues that the “specification” of God's decretive “tendency” toward creation cannot be considered an ingredient of the divine
                     <jats:italic toggle="yes">actus purus</jats:italic>
@@ -29,9 +33,9 @@ arc_score: 6
 
 ---
 
-### Book Review                    iThe Bible and Baptism The Fountain of Salvationi                    
-- **DOI**: 10.1177/10638512251404361
-- **Analytical Tags**: `nan / - / Patristic`
-- **Abstract**: (Not available)
+### Book Review                    iThe Bible and Baptism The Fountain of Salvationi                    by Isaac Augustine Morales MoralesIsaac Augustine. The Bible and Baptism The Fountain of Salvation. Grand Rapids MI Baker Academic 2022. xxv230 pp. ISBN 978-1540961785. 24.99paperback.
+- **DOI**: [10.1177/10638512251404361](https://doi.org/10.1177/10638512251404361)
+- **Analytical Tags**: `- / - / Patristic`
+- **Abstract**: No abstract available
 
 ---

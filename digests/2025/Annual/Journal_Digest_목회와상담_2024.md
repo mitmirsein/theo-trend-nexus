@@ -13,285 +13,285 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#청소년 자녀와 갈등하는 목회자 부모의 심리사회적 경험연구]] |
-| 2 | - | - | [[#청소년 자녀를 둔 전문직 남성의 아버지 역할에 따른 심리적 경험 연구와 목회상담을 위한 실천적 함의]] |
-| 3 | - | - | [[#공연하는 트라우마 경험자와 상담사 사회심리학과 인간중심적 심리치료 연구 중심으로]] |
-| 4 | - | - | [[#21세기 한국의 팽창된 모성 자식 장래를 위한 변주]] |
-| 5 | - | - | [[#풍류영성상담의 힘빼기와 바른 분별력 기법 이해 여성주의 상담의 힘주기 기법과 문화분석 기법과의 비교를 통해]] |
-| 6 | - | - | [[#정신역동 차원에서 퇴행한 내담자 돌봄을 위한 상담자의 과제 연구]] |
-| 7 | - | - | [[#평신도를 위한 한국적 목회돌봄 연구 자기 내어줌과 안아주기]] |
-| 8 | - | - | [[#중남부아프리카 선교사의 스트레스 소진과 웰니스]] |
-| 9 | - | - | [[#저출생 문제 해결을 위한 목회신학적 제언 함께 돌보는 사회를 꿈꾸며]] |
-| 10 | - | - | [[#완벽한 신앙 가족 크리스토퍼 볼라스의 정상증후군Normotic Illness 개념을 중심으로]] |
-| 11 | - | - | [[#공간의 목회신학 AI시대의 목회돌봄과 신학교육을 위한 방안]] |
-| 12 | - | - | [[#돌봄과 연결됨에 관한 여성주의 연구]] |
-| 13 | - | - | [[#사회적응에 실패한 청년의 불안극복 과정과 변화연구  자기심리학적 이론과 인지행동치료 심상재구성의 단기상담 접근]] |
-| 14 | - | - | [[#도파밍 시대에서 목회상담하기를 위한 미학적 자세]] |
-| 15 | - | - | [[#비온의 모델 선택된 사실  선택된 사실에 대한 이해와 정신분석적 고찰]] |
-| 16 | - | - | [[#영성지향 다문화 목회상담의 초월적 기능 연구  자기 경험과 인간 실존의 초월적 성격 적용]] |
-| 17 | - | - | [[#실존적 자기인식과 하나님 경험에 관한 연구  도파밍 활동 절제를 중심으로]] |
-| 18 | - | - | [[#미혼모 가정을 포용하는 하나님 공동체-가족에 대한 목회신학적 성찰 하갈과 이스마엘 마리아와 예수와의 연관성을 중심으로]] |
-| 19 | - | - | [[#타로카드에 대한 분석심리학적 이해와 목회신학적 성찰]] |
-| 20 | - | - | [[#인공지능 목회상담의 출현에 대한 신학적 성찰과 과제]] |
-| 21 | - | - | [[#산산이 부서진 몸으로 울기 기억하기  - 애도하는 주체의 재구성]] |
-| 22 | - | - | [[#신학대학원생의 상호주관적 돌봄 경험에 대한 질적 연구]] |
-| 23 | - | - | [[#놀이의 목회신학 서설 - 연결하기 놀이가 이끌어가는 신앙공동체]] |
-| 24 | - | - | [[#한국 중년여성의 자아 변화 과정에 관한 연구 길리건Carol Gilligan의 돌봄윤리 이론을 중심으로]] |
-| 25 | - | - | [[#아보하 목회돌봄 - 게슈탈트 기법을 중심으로]] |
-| 26 | - | - | [[#엄마되기mothering에서 경험하는 수치심 치유를 위한 목회상담 연구 사회문화적 관점에서]] |
-| 27 | - | - | [[#생활습관 프로그램에 참여한 목회자의 스트레스 소진 웰니스의  변화에 관한 사례연구]] |
-| 28 | - | - | [[#비자발적으로 실직한 고학력 청년여성의 실직경험연구 삶의 변화와 대처에 대한 목회상담학적 함의]] |
-| 29 | - | - | [[#변형적 대상으로서의 상담자의 존재방식과 역할]] |
-| 30 | - | - | [[#다문화 공동체에서 욕망과 결핍 타자성의 이슈 라캉의 정신분석 관점으로 살펴본 이주민 성도들의 실존적 갈등]] |
-| 31 | - | - | [[#생기있는 삶의 회복을 위한 숨의 상호주체정신분석]] |
-| 32 | - | - | [[#공정한 환대 안에서 본 청년기 회심 과정의 고찰  루이스 R. 람보의 회심 이론과 목회상담적 공감을 중심으로]] |
-| 33 | - | - | [[#욕동과 은혜 사이 프로이트와 틸리히를 통한 목회상담의 해석학적 성찰]] |
-| 34 | - | - | [[#소외감에서 벗어나기 술람미와 내담자 만남]] |
-| 35 | - | - | [[#현상학적 목회신학자 안톤 보이슨과 트라우마 생존자 돌봄]] |
+| 1 | - | - | [[#청소년 자녀와 갈등하는 목회자 부모의 심리사회적 경험연구|청소년 자녀와 갈등하는 목회자 부모의 심리사회적 경험연구]] |
+| 2 | - | - | [[#청소년 자녀를 둔 전문직 남성의 아버지 역할에 따른 심리적 경험 연구와 목회상담을 위한 실천적 함의|청소년 자녀를 둔 전문직 남성의 아버지 역할에 따른 심리적 경험 연구와 목회상담을 위한 실천적 함의]] |
+| 3 | - | - | [[#공연하는 트라우마 경험자와 상담사 사회심리학과 인간중심적 심리치료 연구 중심으로|공연하는 트라우마 경험자와 상담사: 사회심리학과 인간중심적 심리치료 연구 중심으로]] |
+| 4 | - | - | [[#21세기 한국의 팽창된 모성 자식 장래를 위한 변주|21세기 한국의 팽창된 모성: 자식 장래를 위한 변주]] |
+| 5 | - | - | [[#풍류영성상담의 힘빼기와 바른 분별력 기법 이해 여성주의 상담의 힘주기 기법과 문화분석 기법과의 비교를 통해|풍류영성상담의 ‘힘빼기’와 ‘바른 분별력’ 기법 이해: 여성주의 상담의 ‘힘주기’ 기법과 ‘문화분석’ 기법과의 비교를 통해]] |
+| 6 | - | - | [[#정신역동 차원에서 퇴행한 내담자 돌봄을 위한 상담자의 과제 연구|정신역동 차원에서 ‘퇴행한 내담자’ 돌봄을 위한 상담자의 과제 연구]] |
+| 7 | - | - | [[#평신도를 위한 한국적 목회돌봄 연구 자기 내어줌과 안아주기|평신도를 위한 한국적 목회돌봄 연구: 자기 내어줌과 안아주기]] |
+| 8 | - | - | [[#중남부아프리카 선교사의 스트레스 소진과 웰니스|중남부아프리카 선교사의 스트레스, 소진과 웰니스]] |
+| 9 | - | - | [[#저출생 문제 해결을 위한 목회신학적 제언 함께 돌보는 사회를 꿈꾸며|저출생 문제 해결을 위한 목회신학적 제언: 함께 돌보는 사회를 꿈꾸며]] |
+| 10 | - | - | [[#완벽한 신앙 가족 크리스토퍼 볼라스의 정상증후군Normotic Illness 개념을 중심으로|완벽한 신앙 가족: 크리스토퍼 볼라스의 ‘정상증후군’(Normotic Illness) 개념을 중심으로]] |
+| 11 | - | - | [[#공간의 목회신학 AI시대의 목회돌봄과 신학교육을 위한 방안|공간의 목회신학: AI시대의 목회돌봄과 신학교육을 위한 방안]] |
+| 12 | - | - | [[#돌봄과 연결됨에 관한 여성주의 연구|돌봄과 연결됨에 관한 여성주의 연구]] |
+| 13 | - | - | [[#사회적응에 실패한 청년의 불안극복 과정과 변화연구  자기심리학적 이론과 인지행동치료 심상재구성의 단기상담 접근|사회적응에 실패한 청년의 불안극복 과정과 변화연구 : 자기심리학적 이론과 인지행동치료 심상재구성의 단기상담 접근]] |
+| 14 | - | - | [[#도파밍 시대에서 목회상담하기를 위한 미학적 자세|도파밍 시대에서 ‘목회상담하기’를 위한 미학적 자세]] |
+| 15 | - | - | [[#비온의 모델 선택된 사실  선택된 사실에 대한 이해와 정신분석적 고찰|비온의 모델 ‘선택된 사실’ : 선택된 사실에 대한 이해와 정신분석적 고찰]] |
+| 16 | - | - | [[#영성지향 다문화 목회상담의 초월적 기능 연구  자기 경험과 인간 실존의 초월적 성격 적용|영성지향 다문화 목회상담의 초월적 기능 연구 : 자기 경험과 인간 실존의 초월적 성격 적용]] |
+| 17 | - | - | [[#실존적 자기인식과 하나님 경험에 관한 연구  도파밍 활동 절제를 중심으로|실존적 자기인식과 하나님 경험에 관한 연구 – 도파밍 활동 절제를 중심으로]] |
+| 18 | - | - | [[#미혼모 가정을 포용하는 하나님 공동체-가족에 대한 목회신학적 성찰 하갈과 이스마엘 마리아와 예수와의 연관성을 중심으로|미혼모 가정을 포용하는 ‘하나님 공동체-가족’에 대한 목회신학적 성찰: 하갈과 이스마엘, 마리아와 예수와의 연관성을 중심으로]] |
+| 19 | - | - | [[#타로카드에 대한 분석심리학적 이해와 목회신학적 성찰|타로카드에 대한 분석심리학적 이해와 목회신학적 성찰]] |
+| 20 | - | - | [[#인공지능 목회상담의 출현에 대한 신학적 성찰과 과제|인공지능 목회상담의 출현에 대한 신학적 성찰과 과제]] |
+| 21 | - | - | [[#산산이 부서진 몸으로 울기 기억하기  - 애도하는 주체의 재구성|“산산이 부서진 몸”으로 울기, 기억하기  - 애도하는 주체의 재구성]] |
+| 22 | - | - | [[#신학대학원생의 상호주관적 돌봄 경험에 대한 질적 연구|신학대학원생의 상호주관적 돌봄 경험에 대한 질적 연구]] |
+| 23 | - | - | [[#놀이의 목회신학 서설 - 연결하기 놀이가 이끌어가는 신앙공동체|놀이의 목회신학 서설 - 연결하기 놀이가 이끌어가는 신앙공동체]] |
+| 24 | - | - | [[#한국 중년여성의 자아 변화 과정에 관한 연구 길리건Carol Gilligan의 돌봄윤리 이론을 중심으로|한국 중년여성의 자아 변화 과정에 관한 연구: 길리건(Carol Gilligan)의 돌봄윤리 이론을 중심으로]] |
+| 25 | - | - | [[#아보하 목회돌봄 - 게슈탈트 기법을 중심으로|아보하 목회돌봄 - 게슈탈트 기법을 중심으로]] |
+| 26 | - | - | [[#엄마되기mothering에서 경험하는 수치심 치유를 위한 목회상담 연구 사회문화적 관점에서|'엄마되기(mothering)'에서 경험하는 수치심 치유를 위한 목회상담 연구: 사회문화적 관점에서]] |
+| 27 | - | - | [[#생활습관 프로그램에 참여한 목회자의 스트레스 소진 웰니스의  변화에 관한 사례연구|생활습관 프로그램에 참여한 목회자의 스트레스, 소진, 웰니스의  변화에 관한 사례연구]] |
+| 28 | - | - | [[#비자발적으로 실직한 고학력 청년여성의 실직경험연구 삶의 변화와 대처에 대한 목회상담학적 함의|비자발적으로 실직한 고학력 청년여성의 실직경험연구: 삶의 변화와 대처에 대한 목회상담학적 함의]] |
+| 29 | - | - | [[#변형적 대상으로서의 상담자의 존재방식과 역할|변형적 대상으로서의 상담자의 존재방식과 역할]] |
+| 30 | - | - | [[#다문화 공동체에서 욕망과 결핍 타자성의 이슈 라캉의 정신분석 관점으로 살펴본 이주민 성도들의 실존적 갈등|다문화 공동체에서 욕망과 결핍, 타자성의 이슈: 라캉의 정신분석 관점으로 살펴본 이주민 성도들의 실존적 갈등]] |
+| 31 | - | - | [[#생기있는 삶의 회복을 위한 숨의 상호주체정신분석|생기있는 삶의 회복을 위한 '숨'의 상호주체정신분석]] |
+| 32 | - | - | [[#공정한 환대 안에서 본 청년기 회심 과정의 고찰  루이스 R. 람보의 회심 이론과 목회상담적 공감을 중심으로|공정한 환대 안에서 본 청년기 회심 과정의 고찰:  루이스 R. 람보의 회심 이론과 목회상담적 공감을 중심으로]] |
+| 33 | - | - | [[#욕동과 은혜 사이 프로이트와 틸리히를 통한 목회상담의 해석학적 성찰|욕동과 은혜 사이: 프로이트와 틸리히를 통한 목회상담의 해석학적 성찰]] |
+| 34 | - | - | [[#소외감에서 벗어나기 술람미와 내담자 만남|소외감에서 벗어나기: 술람미와 내담자 만남]] |
+| 35 | - | - | [[#현상학적 목회신학자 안톤 보이슨과 트라우마 생존자 돌봄|현상학적 목회신학자 안톤 보이슨과 트라우마 생존자 돌봄]] |
 
 ---
 
 ### 청소년 자녀와 갈등하는 목회자 부모의 심리사회적 경험연구
-- **DOI**: art003079973
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079973](https://doi.org/art003079973)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 청소년 자녀를 둔 전문직 남성의 아버지 역할에 따른 심리적 경험 연구와 목회상담을 위한 실천적 함의
-- **DOI**: art003079974
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079974](https://doi.org/art003079974)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 공연하는 트라우마 경험자와 상담사 사회심리학과 인간중심적 심리치료 연구 중심으로
-- **DOI**: art003079975
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079975](https://doi.org/art003079975)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 21세기 한국의 팽창된 모성 자식 장래를 위한 변주
-- **DOI**: art003079976
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079976](https://doi.org/art003079976)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 풍류영성상담의 힘빼기와 바른 분별력 기법 이해 여성주의 상담의 힘주기 기법과 문화분석 기법과의 비교를 통해
-- **DOI**: art003079977
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079977](https://doi.org/art003079977)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 정신역동 차원에서 퇴행한 내담자 돌봄을 위한 상담자의 과제 연구
-- **DOI**: art003079978
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079978](https://doi.org/art003079978)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 평신도를 위한 한국적 목회돌봄 연구 자기 내어줌과 안아주기
-- **DOI**: art003079979
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079979](https://doi.org/art003079979)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 중남부아프리카 선교사의 스트레스 소진과 웰니스
-- **DOI**: art003079980
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079980](https://doi.org/art003079980)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 저출생 문제 해결을 위한 목회신학적 제언 함께 돌보는 사회를 꿈꾸며
-- **DOI**: art003079981
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003079981](https://doi.org/art003079981)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 완벽한 신앙 가족 크리스토퍼 볼라스의 정상증후군Normotic Illness 개념을 중심으로
-- **DOI**: art003136991
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136991](https://doi.org/art003136991)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 공간의 목회신학 AI시대의 목회돌봄과 신학교육을 위한 방안
-- **DOI**: art003136992
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136992](https://doi.org/art003136992)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 돌봄과 연결됨에 관한 여성주의 연구
-- **DOI**: art003136993
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136993](https://doi.org/art003136993)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 사회적응에 실패한 청년의 불안극복 과정과 변화연구  자기심리학적 이론과 인지행동치료 심상재구성의 단기상담 접근
-- **DOI**: art003136994
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136994](https://doi.org/art003136994)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 도파밍 시대에서 목회상담하기를 위한 미학적 자세
-- **DOI**: art003136995
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136995](https://doi.org/art003136995)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 비온의 모델 선택된 사실  선택된 사실에 대한 이해와 정신분석적 고찰
-- **DOI**: art003136996
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136996](https://doi.org/art003136996)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 영성지향 다문화 목회상담의 초월적 기능 연구  자기 경험과 인간 실존의 초월적 성격 적용
-- **DOI**: art003136997
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136997](https://doi.org/art003136997)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 실존적 자기인식과 하나님 경험에 관한 연구  도파밍 활동 절제를 중심으로
-- **DOI**: art003136998
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136998](https://doi.org/art003136998)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 미혼모 가정을 포용하는 하나님 공동체-가족에 대한 목회신학적 성찰 하갈과 이스마엘 마리아와 예수와의 연관성을 중심으로
-- **DOI**: art003136999
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003136999](https://doi.org/art003136999)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 타로카드에 대한 분석심리학적 이해와 목회신학적 성찰
-- **DOI**: art003137000
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003137000](https://doi.org/art003137000)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 인공지능 목회상담의 출현에 대한 신학적 성찰과 과제
-- **DOI**: art003137001
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003137001](https://doi.org/art003137001)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 산산이 부서진 몸으로 울기 기억하기  - 애도하는 주체의 재구성
-- **DOI**: art003202819
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003202819](https://doi.org/art003202819)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 신학대학원생의 상호주관적 돌봄 경험에 대한 질적 연구
-- **DOI**: art003202820
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003202820](https://doi.org/art003202820)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 놀이의 목회신학 서설 - 연결하기 놀이가 이끌어가는 신앙공동체
-- **DOI**: art003202821
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003202821](https://doi.org/art003202821)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 한국 중년여성의 자아 변화 과정에 관한 연구 길리건Carol Gilligan의 돌봄윤리 이론을 중심으로
-- **DOI**: art003202822
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003202822](https://doi.org/art003202822)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 아보하 목회돌봄 - 게슈탈트 기법을 중심으로
-- **DOI**: art003202823
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003202823](https://doi.org/art003202823)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 엄마되기mothering에서 경험하는 수치심 치유를 위한 목회상담 연구 사회문화적 관점에서
-- **DOI**: art003202824
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003202824](https://doi.org/art003202824)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 생활습관 프로그램에 참여한 목회자의 스트레스 소진 웰니스의  변화에 관한 사례연구
-- **DOI**: art003202825
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003202825](https://doi.org/art003202825)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 비자발적으로 실직한 고학력 청년여성의 실직경험연구 삶의 변화와 대처에 대한 목회상담학적 함의
-- **DOI**: art003263906
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263906](https://doi.org/art003263906)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 변형적 대상으로서의 상담자의 존재방식과 역할
-- **DOI**: art003263907
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263907](https://doi.org/art003263907)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 다문화 공동체에서 욕망과 결핍 타자성의 이슈 라캉의 정신분석 관점으로 살펴본 이주민 성도들의 실존적 갈등
-- **DOI**: art003263908
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263908](https://doi.org/art003263908)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 생기있는 삶의 회복을 위한 숨의 상호주체정신분석
-- **DOI**: art003263909
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263909](https://doi.org/art003263909)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 공정한 환대 안에서 본 청년기 회심 과정의 고찰  루이스 R. 람보의 회심 이론과 목회상담적 공감을 중심으로
-- **DOI**: art003263910
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263910](https://doi.org/art003263910)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 욕동과 은혜 사이 프로이트와 틸리히를 통한 목회상담의 해석학적 성찰
-- **DOI**: art003263911
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263911](https://doi.org/art003263911)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 소외감에서 벗어나기 술람미와 내담자 만남
-- **DOI**: art003263912
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263912](https://doi.org/art003263912)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
 
 ### 현상학적 목회신학자 안톤 보이슨과 트라우마 생존자 돌봄
-- **DOI**: art003263913
-- **Analytical Tags**: `nan / - / nan`
-- **Abstract**: (Not available)
+- **DOI**: [art003263913](https://doi.org/art003263913)
+- **Analytical Tags**: `- / - / -`
+- **Abstract**: No abstract available
 
 ---
