@@ -13,55 +13,55 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | OT | - | [[#Die Eröffnung des Sacharjabuches Sach116 als prophetentheologischer Programmtext|Die Eröffnung des Sacharjabuches (Sach 1,1–6) als prophetentheologischer Programmtext]] |
-| 2 | - | - | [[#Uncanny Resemblances Prov9 as an Introduction to Proverbial Thinking|Uncanny Resemblances – Prov 9 as an Introduction to Proverbial Thinking]] |
-| 3 | Ethics, OT, Systematic Theology | - | [[#Sabbatical Framework of Sacred Times in H|Sabbatical Framework of Sacred Times in H]] |
-| 4 | - | - | [[#Forme et fonction de courts récits miraculeux sur Élisée|Forme et fonction de courts récits miraculeux sur Élisée]] |
-| 5 | - | - | [[#Identifying Pannag an Ancient Product of Israel|Identifying Pannag, an Ancient Product of Israel]] |
-| 6 | OT | - | [[#Wie hoch stieg das Wasser der Sintflut Neue Überlegungen zu Gen720|Wie hoch stieg das Wasser der Sintflut? Neue Überlegungen zu Gen 7,20]] |
-| 7 | - | - | [[#Zeitschriften- und Bücherschau|Zeitschriften- und Bücherschau]] |
-| 8 | - | - | [[#Korrigendum zu Die JudäerAramäer von Elephantine und ihre Religion|Korrigendum zu: Die Judäer/Aramäer von Elephantine und ihre Religion]] |
-| 9 | OT | - | [[#Contested Kingship Joseph Jehoiachin and Judah in Genesis49|Contested Kingship: Joseph, Jehoiachin, and Judah in Genesis 49]] |
-| 10 | NT, OT | - | [[#b                     ihammiṣwāhi                  b a Forgotten Forerunner of the Deuteronomic Torah|<b>
+| 1 | OT | - | [Die Eröffnung des Sacharjabuches (Sach 1,1–6) als prophetentheologischer Programmtext](#die-eröffnung-des-sacharjabuches-sach-116-als-prophetentheologischer-programmtext) |
+| 2 | - | - | [Uncanny Resemblances – Prov 9 as an Introduction to Proverbial Thinking](#uncanny-resemblances-prov-9-as-an-introduction-to-proverbial-thinking) |
+| 3 | Ethics, OT, Systematic Theology | - | [Sabbatical Framework of Sacred Times in H](#sabbatical-framework-of-sacred-times-in-h) |
+| 4 | - | - | [Forme et fonction de courts récits miraculeux sur Élisée](#forme-et-fonction-de-courts-récits-miraculeux-sur-élisée) |
+| 5 | - | - | [Identifying Pannag, an Ancient Product of Israel](#identifying-pannag-an-ancient-product-of-israel) |
+| 6 | OT | - | [Wie hoch stieg das Wasser der Sintflut? Neue Überlegungen zu Gen 7,20](#wie-hoch-stieg-das-wasser-der-sintflut-neue-überlegungen-zu-gen-720) |
+| 7 | - | - | [Zeitschriften- und Bücherschau](#zeitschriften-und-bücherschau) |
+| 8 | - | - | [Korrigendum zu: Die Judäer/Aramäer von Elephantine und ihre Religion](#korrigendum-zu-die-judäeraramäer-von-elephantine-und-ihre-religion) |
+| 9 | OT | - | [Contested Kingship: Joseph, Jehoiachin, and Judah in Genesis 49](#contested-kingship-joseph-jehoiachin-and-judah-in-genesis-49) |
+| 10 | NT, OT | - | [<b>
                      <i>hammiṣwāh</i>
-                  </b> – a Forgotten Forerunner of the Deuteronomic Torah?]] |
-| 11 | - | Contemporary | [[#Chronological Notes on the Reigns of Hezekiah and Hoshea|Chronological Notes on the Reigns of Hezekiah and Hoshea]] |
-| 12 | - | - | [[#Wer zitiert wen Zu den intertextuellen Bezügen zwischen Joel und Jona|Wer zitiert wen? Zu den intertextuellen Bezügen zwischen Joel und Jona]] |
-| 13 | - | - | [[#Subversive Humor and the Critique of Imperial Hubris in Prophetic Texts|Subversive Humor and the Critique of Imperial Hubris in Prophetic Texts]] |
-| 14 | OT | - | [[#Katholische Bibelwissenschaft nach dem II.Vaticanum Norbert Lohfink in memoriam 19282024|Katholische Bibelwissenschaft nach dem II. Vaticanum – Norbert Lohfink in memoriam (1928–2024)]] |
-| 15 | - | - | [[#The Composition of the Book of Ezekiel in Light of Babylonian Sources|The Composition of the Book of Ezekiel in Light of Babylonian Sources]] |
-| 16 | - | - | [[#Zeitschriften- und Bücherschau|Zeitschriften- und Bücherschau]] |
-| 17 | NT | - | [[#Isaïe 551213 Une enquête botanique et littéraire sur la clôture du deutéro-Isaïe|Isaïe 55,12–13 : Une enquête botanique et littéraire sur la clôture du deutéro-Isaïe]] |
-| 18 | - | - | [[#Gott freut sich. Ein Beitrag zu den Emotionen Gottes im Alten Testament|Gott freut sich. Ein Beitrag zu den Emotionen Gottes im Alten Testament]] |
-| 19 | OT | - | [[#The Contribution of the Septuagint to the Masoretic Reading of צלמות|The Contribution of the Septuagint to the Masoretic Reading of צלמות]] |
-| 20 | OT | - | [[#The Relevance of Psalm145 and Jeremiah 10116 to the Dating of the Doxologies in Daniel 26|The Relevance of Psalm 145 and Jeremiah 10:1–16 to the Dating of the Doxologies in Daniel 2–6]] |
-| 21 | OT | Contemporary | [[#Cracking the Mystery of the Hebrew Word                     b                      ivehutzavi                    b|Cracking the Mystery of the Hebrew Word ›
+                  </b> – a Forgotten Forerunner of the Deuteronomic Torah?](#b-ihammiṣwāhi-b-a-forgotten-forerunner-of-the-deuteronomic-torah) |
+| 11 | - | Contemporary | [Chronological Notes on the Reigns of Hezekiah and Hoshea](#chronological-notes-on-the-reigns-of-hezekiah-and-hoshea) |
+| 12 | - | - | [Wer zitiert wen? Zu den intertextuellen Bezügen zwischen Joel und Jona](#wer-zitiert-wen-zu-den-intertextuellen-bezügen-zwischen-joel-und-jona) |
+| 13 | - | - | [Subversive Humor and the Critique of Imperial Hubris in Prophetic Texts](#subversive-humor-and-the-critique-of-imperial-hubris-in-prophetic-texts) |
+| 14 | OT | - | [Katholische Bibelwissenschaft nach dem II. Vaticanum – Norbert Lohfink in memoriam (1928–2024)](#katholische-bibelwissenschaft-nach-dem-ii-vaticanum-norbert-lohfink-in-memoriam-19282024) |
+| 15 | - | - | [The Composition of the Book of Ezekiel in Light of Babylonian Sources](#the-composition-of-the-book-of-ezekiel-in-light-of-babylonian-sources) |
+| 16 | - | - | [Zeitschriften- und Bücherschau](#zeitschriften-und-bücherschau) |
+| 17 | NT | - | [Isaïe 55,12–13 : Une enquête botanique et littéraire sur la clôture du deutéro-Isaïe](#isaïe-551213-une-enquête-botanique-et-littéraire-sur-la-clôture-du-deutéro-isaïe) |
+| 18 | - | - | [Gott freut sich. Ein Beitrag zu den Emotionen Gottes im Alten Testament](#gott-freut-sich-ein-beitrag-zu-den-emotionen-gottes-im-alten-testament) |
+| 19 | OT | - | [The Contribution of the Septuagint to the Masoretic Reading of צלמות](#the-contribution-of-the-septuagint-to-the-masoretic-reading-of-צלמות) |
+| 20 | OT | - | [The Relevance of Psalm 145 and Jeremiah 10:1–16 to the Dating of the Doxologies in Daniel 2–6](#the-relevance-of-psalm-145-and-jeremiah-10116-to-the-dating-of-the-doxologies-in-daniel-26) |
+| 21 | OT | Contemporary | [Cracking the Mystery of the Hebrew Word ›
                     <b>
                       <i>vehutzav</i>
                     </b>
-                    ‹]] |
-| 22 | - | - | [[#Zeitschriften- und Bücherschau|Zeitschriften- und Bücherschau]] |
-| 23 | - | - | [[#Amos topographische Heimat Bemerkungen zur Lage von                    i                      t                      supesup                      qô                    i                    ii                    iai|Amos’ topographische Heimat: Bemerkungen zur Lage von
+                    ‹](#cracking-the-mystery-of-the-hebrew-word-b-ivehutzavi-b) |
+| 22 | - | - | [Zeitschriften- und Bücherschau](#zeitschriften-und-bücherschau) |
+| 23 | - | - | [Amos’ topographische Heimat: Bemerkungen zur Lage von
                     <i>
                       t
                       <sup>e</sup>
                       qô
                     </i>
                     <i>‛</i>
-                    <i>a</i>]] |
-| 24 | - | - | [[#The Language of the Body in the Priestly Source and the Question of Divine Corporeality|The Language of the Body in the Priestly Source and the Question of Divine Corporeality]] |
-| 25 | OT | - | [[#The Curse of Canaan Genesis 91829 as a Post-Priestly Composition A Literary- and Tradition-Historical Reassessment|The Curse of Canaan (Genesis 9:18–29) as a Post-Priestly Composition: A Literary- and Tradition-Historical Reassessment]] |
-| 26 | - | - | [[#After Tibni Archival Records and the Earliest Synchronisms in 1 Kings162223|»After Tibni«: Archival Records and the Earliest Synchronisms in 1 Kings 16:22–23]] |
-| 27 | - | - | [[#Ermöglichungsgründe für die Umgehung des Talionsgesetzes bei einem rechtlichen Spezialfall|Ermöglichungsgründe für die Umgehung des Talionsgesetzes bei einem rechtlichen Spezialfall]] |
-| 28 | - | - | [[#Zeitschriften- und Bücherschau|Zeitschriften- und Bücherschau]] |
-| 29 | - | - | [[#Titelseiten|Titelseiten]] |
-| 30 | - | - | [[#Titelseiten|Titelseiten]] |
-| 31 | - | - | [[#Titelseiten|Titelseiten]] |
-| 32 | - | - | [[#Titelseiten|Titelseiten]] |
+                    <i>a</i>](#amos-topographische-heimat-bemerkungen-zur-lage-von-i-t-supesup-qô-i-ii-iai) |
+| 24 | - | - | [The Language of the Body in the Priestly Source and the Question of Divine Corporeality](#the-language-of-the-body-in-the-priestly-source-and-the-question-of-divine-corporeality) |
+| 25 | OT | - | [The Curse of Canaan (Genesis 9:18–29) as a Post-Priestly Composition: A Literary- and Tradition-Historical Reassessment](#the-curse-of-canaan-genesis-91829-as-a-post-priestly-composition-a-literary-and-tradition-historical-reassessment) |
+| 26 | - | - | [»After Tibni«: Archival Records and the Earliest Synchronisms in 1 Kings 16:22–23](#after-tibni-archival-records-and-the-earliest-synchronisms-in-1-kings-162223) |
+| 27 | - | - | [Ermöglichungsgründe für die Umgehung des Talionsgesetzes bei einem rechtlichen Spezialfall](#ermöglichungsgründe-für-die-umgehung-des-talionsgesetzes-bei-einem-rechtlichen-spezialfall) |
+| 28 | - | - | [Zeitschriften- und Bücherschau](#zeitschriften-und-bücherschau) |
+| 29 | - | - | [Titelseiten](#titelseiten) |
+| 30 | - | - | [Titelseiten](#titelseiten) |
+| 31 | - | - | [Titelseiten](#titelseiten) |
+| 32 | - | - | [Titelseiten](#titelseiten) |
 
 ---
 
-### Die Eröffnung des Sacharjabuches Sach116 als prophetentheologischer Programmtext
+### Die Eröffnung des Sacharjabuches (Sach 1,1–6) als prophetentheologischer Programmtext
 - **DOI**: [10.1515/zaw-2025-1001](https://doi.org/10.1515/zaw-2025-1001)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Zusammenfassung
@@ -69,7 +69,7 @@ arc_score: 6
 
 ---
 
-### Uncanny Resemblances Prov9 as an Introduction to Proverbial Thinking
+### Uncanny Resemblances – Prov 9 as an Introduction to Proverbial Thinking
 - **DOI**: [10.1515/zaw-2025-1002](https://doi.org/10.1515/zaw-2025-1002)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -93,7 +93,7 @@ arc_score: 6
 
 ---
 
-### Identifying Pannag an Ancient Product of Israel
+### Identifying Pannag, an Ancient Product of Israel
 - **DOI**: [10.1515/zaw-2025-1005](https://doi.org/10.1515/zaw-2025-1005)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -102,7 +102,7 @@ arc_score: 6
 
 ---
 
-### Wie hoch stieg das Wasser der Sintflut Neue Überlegungen zu Gen720
+### Wie hoch stieg das Wasser der Sintflut? Neue Überlegungen zu Gen 7,20
 - **DOI**: [10.1515/zaw-2025-1006](https://doi.org/10.1515/zaw-2025-1006)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Zusammenfassung
@@ -118,14 +118,14 @@ arc_score: 6
 
 ---
 
-### Korrigendum zu Die JudäerAramäer von Elephantine und ihre Religion
+### Korrigendum zu: Die Judäer/Aramäer von Elephantine und ihre Religion
 - **DOI**: [10.1515/zaw-2025-1008](https://doi.org/10.1515/zaw-2025-1008)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Contested Kingship Joseph Jehoiachin and Judah in Genesis49
+### Contested Kingship: Joseph, Jehoiachin, and Judah in Genesis 49
 - **DOI**: [10.1515/zaw-2025-2001](https://doi.org/10.1515/zaw-2025-2001)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -133,7 +133,9 @@ arc_score: 6
 
 ---
 
-### b                     ihammiṣwāhi                  b a Forgotten Forerunner of the Deuteronomic Torah
+### <b>
+                     <i>hammiṣwāh</i>
+                  </b> – a Forgotten Forerunner of the Deuteronomic Torah?
 - **DOI**: [10.1515/zaw-2025-2002](https://doi.org/10.1515/zaw-2025-2002)
 - **Analytical Tags**: `NT;OT / - / -`
 - **Abstract**: Abstract
@@ -149,7 +151,7 @@ arc_score: 6
 
 ---
 
-### Wer zitiert wen Zu den intertextuellen Bezügen zwischen Joel und Jona
+### Wer zitiert wen? Zu den intertextuellen Bezügen zwischen Joel und Jona
 - **DOI**: [10.1515/zaw-2025-2004](https://doi.org/10.1515/zaw-2025-2004)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Zusammenfassung
@@ -165,7 +167,7 @@ arc_score: 6
 
 ---
 
-### Katholische Bibelwissenschaft nach dem II.Vaticanum Norbert Lohfink in memoriam 19282024
+### Katholische Bibelwissenschaft nach dem II. Vaticanum – Norbert Lohfink in memoriam (1928–2024)
 - **DOI**: [10.1515/zaw-2025-2006](https://doi.org/10.1515/zaw-2025-2006)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -188,7 +190,7 @@ arc_score: 6
 
 ---
 
-### Isaïe 551213 Une enquête botanique et littéraire sur la clôture du deutéro-Isaïe
+### Isaïe 55,12–13 : Une enquête botanique et littéraire sur la clôture du deutéro-Isaïe
 - **DOI**: [10.1515/zaw-2025-3001](https://doi.org/10.1515/zaw-2025-3001)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Résumé
@@ -232,7 +234,7 @@ arc_score: 6
 
 ---
 
-### The Relevance of Psalm145 and Jeremiah 10116 to the Dating of the Doxologies in Daniel 26
+### The Relevance of Psalm 145 and Jeremiah 10:1–16 to the Dating of the Doxologies in Daniel 2–6
 - **DOI**: [10.1515/zaw-2025-3004](https://doi.org/10.1515/zaw-2025-3004)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -240,7 +242,11 @@ arc_score: 6
 
 ---
 
-### Cracking the Mystery of the Hebrew Word                     b                      ivehutzavi                    b
+### Cracking the Mystery of the Hebrew Word ›
+                    <b>
+                      <i>vehutzav</i>
+                    </b>
+                    ‹
 - **DOI**: [10.1515/zaw-2025-3005](https://doi.org/10.1515/zaw-2025-3005)
 - **Analytical Tags**: `OT / - / Contemporary`
 - **Abstract**: Abstract
@@ -258,7 +264,14 @@ arc_score: 6
 
 ---
 
-### Amos topographische Heimat Bemerkungen zur Lage von                    i                      t                      supesup                      qô                    i                    ii                    iai
+### Amos’ topographische Heimat: Bemerkungen zur Lage von
+                    <i>
+                      t
+                      <sup>e</sup>
+                      qô
+                    </i>
+                    <i>‛</i>
+                    <i>a</i>
 - **DOI**: [10.1515/zaw-2025-4001](https://doi.org/10.1515/zaw-2025-4001)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -272,14 +285,14 @@ arc_score: 6
 
 ---
 
-### The Curse of Canaan Genesis 91829 as a Post-Priestly Composition A Literary- and Tradition-Historical Reassessment
+### The Curse of Canaan (Genesis 9:18–29) as a Post-Priestly Composition: A Literary- and Tradition-Historical Reassessment
 - **DOI**: [10.1515/zaw-2025-4003](https://doi.org/10.1515/zaw-2025-4003)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### After Tibni Archival Records and the Earliest Synchronisms in 1 Kings162223
+### »After Tibni«: Archival Records and the Earliest Synchronisms in 1 Kings 16:22–23
 - **DOI**: [10.1515/zaw-2025-4004](https://doi.org/10.1515/zaw-2025-4004)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available

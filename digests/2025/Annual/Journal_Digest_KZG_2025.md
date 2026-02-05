@@ -13,160 +13,160 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Combinatorial Deposition of Pinhole-Free and High-Performance Nanothin Electrolyte for Hydrogen-Fueled Low-Temperature Solid Oxide Fuel Cells Supported on a Porous Substrate|Combinatorial Deposition of Pinhole-Free and High-Performance, Nanothin Electrolyte for Hydrogen-Fueled, Low-Temperature Solid Oxide Fuel Cells Supported on a Porous Substrate]] |
-| 2 | - | - | [[#Powder Characterization and Material Properties of 18Ni300 Recycled PBF-LBM Scrap by Ultrasonic Atomization|Powder Characterization and Material Properties of 18Ni300 Recycled PBF-LB/M Scrap by Ultrasonic Atomization]] |
-| 3 | - | - | [[#Efficient Optimization of Magnetic Properties of Fe4.5Si Alloy in Laser Powder Bed Fusion LPBF|Efficient Optimization of Magnetic Properties of Fe–4.5Si Alloy in Laser Powder Bed Fusion (LPBF)]] |
-| 4 | - | - | [[#Grinding Performance Evaluation of Additively Manufactured Vitrified Bond Grinding Wheel Tool Wear Grinding Force Surface Roughness and Surface Topography Analysis|Grinding Performance Evaluation of Additively Manufactured Vitrified Bond Grinding Wheel: Tool Wear, Grinding Force, Surface Roughness, and Surface Topography Analysis]] |
-| 5 | - | - | [[#Practical Approaches on Cost Saving Strategies for Sustainable Semiconductor Manufacturing|Practical Approaches on Cost Saving Strategies for Sustainable Semiconductor Manufacturing]] |
-| 6 | - | - | [[#Design and Validation of a Novel Process Solution for Electrically Assisted Superalloy Capillary Microforming|Design and Validation of a Novel Process Solution for Electrically Assisted Superalloy Capillary Microforming]] |
-| 7 | - | - | [[#Coupled Electromagnetic Treatment to Improve the Cutting Performance of Coated Cemented Carbide an Attempt at Green Technology|Coupled Electromagnetic Treatment to Improve the Cutting Performance of Coated Cemented Carbide: an Attempt at Green Technology]] |
-| 8 | - | - | [[#Recent Progress in Self-powered Graphene-Based Triboelectric Nanogenerators|Recent Progress in Self-powered Graphene-Based Triboelectric Nanogenerators]] |
-| 9 | - | - | [[#Study on Double Fermat-Structured Magnesium Oxychloride Fixed-Abrasive Pad in Sapphire Grinding|Study on Double Fermat-Structured Magnesium Oxychloride Fixed-Abrasive Pad in Sapphire Grinding]] |
-| 10 | - | - | [[#Integration of Pt3Ni Catalysts Plasma-Etched Multiscale Membrane and Flow Field with Micro-Channel for High-Performance Fuel Cell|Integration of Pt3Ni Catalysts, Plasma-Etched Multiscale Membrane, and Flow Field with Micro-Channel for High-Performance Fuel Cell]] |
-| 11 | - | - | [[#Sub-Nyquist Harmonic Current Component Extraction using Band Pass Filters for NILM|Sub-Nyquist Harmonic Current Component Extraction using Band Pass Filters for NILM]] |
-| 12 | - | - | [[#Multi-Objective Monitoring of CVD Diamond Micro-Grinding Tools Using Acoustic Emission and Force Signals with Neural Network Optimization|Multi-Objective Monitoring of CVD Diamond Micro-Grinding Tools Using Acoustic Emission and Force Signals with Neural Network Optimization]] |
-| 13 | - | - | [[#Predicting Quality of Coated Layer Based on Meniscus Features Associated with Thickness for Sustainable Roll-to-Roll Processes|Predicting Quality of Coated Layer Based on Meniscus Features Associated with Thickness for Sustainable Roll-to-Roll Processes]] |
-| 14 | - | - | [[#Comprehensive Analysis of Current Developments Challenges and Opportunities for the Health Assessment of Smart Factory|Comprehensive Analysis of Current Developments, Challenges, and Opportunities for the Health Assessment of Smart Factory]] |
-| 15 | - | - | [[#Analysis for Influence of Wire Feeding Angle on Laser Energy Absorption and Deposited Layer Forming Behaviors During Wire Laser Additive Manufacturing|Analysis for Influence of Wire Feeding Angle on Laser Energy Absorption and Deposited Layer Forming Behaviors During Wire Laser Additive Manufacturing]] |
-| 16 | - | - | [[#Multi-objective optimization for layout planning of matrix manufacturing system|Multi-objective optimization for layout planning of matrix manufacturing system]] |
-| 17 | - | - | [[#Iterative Semi-auto-labeling Method for High-Frequency Induction Brazing|Iterative Semi-auto-labeling Method for High-Frequency Induction Brazing]] |
-| 18 | - | - | [[#Prediction of Normalized Material Removal Rate Profile Based on Deep Neural Network in Five-Zone Carrier Head CMP System|Prediction of Normalized Material Removal Rate Profile Based on Deep Neural Network in Five-Zone Carrier Head CMP System]] |
-| 19 | - | - | [[#Hybrid Framework for Evaluating and Selecting Sustainable Materials in Product Development|Hybrid Framework for Evaluating and Selecting Sustainable Materials in Product Development]] |
-| 20 | - | - | [[#Forming Wrinkle-Free Curved C Channel with Unidirectional Fiber Reinforced Composites|Forming Wrinkle-Free Curved C Channel with Unidirectional Fiber Reinforced Composites]] |
-| 21 | - | - | [[#Utilizing Ensemble Models Under Various Discharge Conditions for Static Capacity Estimation to Promote the Reuse of Retired EV Batteries|Utilizing Ensemble Models Under Various Discharge Conditions for Static Capacity Estimation to Promote the Reuse of Retired EV Batteries]] |
-| 22 | - | - | [[#A Fast NMPC Energy Management Scheme for Fuel Cell Electric Vehicles based on Driving Pattern Classification|A Fast NMPC Energy Management Scheme for Fuel Cell Electric Vehicles based on Driving Pattern Classification]] |
-| 23 | - | - | [[#Correction Multiphysics Simulation of Continuous Liquid Interface Production CLIP 3D Printing Technology|Correction: Multiphysics Simulation of Continuous Liquid Interface Production (CLIP) 3D Printing Technology]] |
-| 24 | - | - | [[#Development and Elaboration of a High Efficiency System of Heating and Reheating Forging Tools|Development and Elaboration of a High Efficiency System of Heating and Reheating Forging Tools]] |
-| 25 | - | - | [[#Energy Efficiency Optimisation in Wire arc Additive Manufacturing of Invar 36 Alloy via Intelligent Data-Driven Techniques|Energy Efficiency Optimisation in Wire arc Additive Manufacturing of Invar 36 Alloy via Intelligent Data-Driven Techniques]] |
-| 26 | - | - | [[#AGV Path Planning with Dynamic Obstacles Based on Deep Q-Network and Distributed Training|AGV Path Planning with Dynamic Obstacles Based on Deep Q-Network and Distributed Training]] |
-| 27 | - | - | [[#Optimization of laser welding process parameters considering carbon emissions and weld quality based on DBO-BP and NSGA-II|Optimization of laser welding process parameters considering carbon emissions and weld quality based on DBO-BP and NSGA-II]] |
-| 28 | - | - | [[#Micro-electrical Discharge Machining of Large Aspect Ratio Blind Micro-holes Using a Novel Self-Flushing Technique|Micro-electrical Discharge Machining of Large Aspect Ratio Blind Micro-holes Using a Novel Self-Flushing Technique]] |
-| 29 | - | - | [[#The Grinding Efficiency and Surface Roughness Study of WC-10Co-4Cr Coating on the Spherical Plain Bearings Based on the Trajectory Analysis|The Grinding Efficiency and Surface Roughness Study of WC-10Co-4Cr Coating on the Spherical Plain Bearings Based on the Trajectory Analysis]] |
-| 30 | - | - | [[#Laser-Induced Biomimetic Microgrooves for Friction Driving Enhancement of Piezoelectric Motors|Laser-Induced Biomimetic Microgrooves for Friction Driving Enhancement of Piezoelectric Motors]] |
-| 31 | - | - | [[#Laser ablation in liquid-assisted synthesis of three types of nanoparticles for enhanced antibacterial applications|Laser ablation in liquid-assisted synthesis of three types of nanoparticles for enhanced antibacterial applications]] |
-| 32 | - | - | [[#Control-Resilient Roller Wear Prediction for Thin Wire Flattening Process via an Internal Sound-Guided Dynamic Conditional Network|Control-Resilient Roller Wear Prediction for Thin Wire Flattening Process via an Internal Sound-Guided Dynamic Conditional Network]] |
-| 33 | - | - | [[#Thermoforming Approach for In-Mold LED Arrays Utilizing Screen Printing Process with Silver Paste|Thermoforming Approach for In-Mold LED Arrays Utilizing Screen Printing Process with Silver Paste]] |
-| 34 | - | - | [[#Buoyancy-Driven Vertically Rising Turbulent Plumes of Light Gases in a Quiescent Atmosphere|Buoyancy-Driven Vertically Rising Turbulent Plumes of Light Gases in a Quiescent Atmosphere]] |
-| 35 | - | - | [[#Real-Time Interface Prediction During Laser Processing of Thin Film Layers by High-Resolution Femtosecond Laser-Induced Breakdown Spectroscopy|Real-Time Interface Prediction During Laser Processing of Thin Film Layers by High-Resolution Femtosecond Laser-Induced Breakdown Spectroscopy]] |
-| 36 | - | - | [[#Development of a Real-Time Track Solver for Digital Twin of the Underwater Tracked Vehicle|Development of a Real-Time Track Solver for Digital Twin of the Underwater Tracked Vehicle]] |
-| 37 | - | - | [[#Ascorbic Acid-Assisted Morphology Tailoring of Crystalline Bi2WO6 for the Application in CO2 Photoreduction|Ascorbic Acid-Assisted Morphology Tailoring of Crystalline Bi2WO6 for the Application in CO2 Photoreduction]] |
-| 38 | - | - | [[#Enhancing Tool Wear Prediction Accuracy by Integrating Multi-Task Learning with Cutting Force Estimation|Enhancing Tool Wear Prediction Accuracy by Integrating Multi-Task Learning with Cutting Force Estimation]] |
-| 39 | OT | - | [[#Pure Mechanical Impact Trimming for Ultra High-strength Steels A Strain Rate-managed Approach to Enhance Shear Edge Quality Without Thermal Effects|Pure Mechanical Impact Trimming for Ultra High-strength Steels: A Strain Rate-managed Approach to Enhance Shear Edge Quality Without Thermal Effects]] |
-| 40 | - | - | [[#AI-Driven Process Optimization Framework for Enhancing Print Quality in Aerosol Jet Printing|AI-Driven Process Optimization Framework for Enhancing Print Quality in Aerosol Jet Printing]] |
-| 41 | - | - | [[#A Method for Predicting the Morphology of Multi-track Laser Cladding Coatings Based on WOA-RF|A Method for Predicting the Morphology of Multi-track Laser Cladding Coatings Based on WOA-RF]] |
-| 42 | - | - | [[#Design of Stiffened Ribs for Improving Forming Defects of Metal Bipolar Plate for PEMFC|Design of Stiffened Ribs for Improving Forming Defects of Metal Bipolar Plate for PEMFC]] |
-| 43 | - | - | [[#Eggshell-Derived Powder as Reinforcement for Structures Manufactured by Digital Light Processing|Eggshell-Derived Powder as Reinforcement for Structures Manufactured by Digital Light Processing]] |
-| 44 | - | - | [[#Development and Evaluation of a Robot Guided Friction Stir Welding Gun|Development and Evaluation of a Robot Guided Friction Stir Welding Gun]] |
-| 45 | - | - | [[#Development of an Artificial Neural Network-Based Model for Prediction and Compensation of Hole Depth by Femtosecond Laser Drilling|Development of an Artificial Neural Network-Based Model for Prediction and Compensation of Hole Depth by Femtosecond Laser Drilling]] |
-| 46 | - | - | [[#Investigation of Manufacture of Hardfaced Forming Tools Using a Laser Engineered Net Shaping LENS Process|Investigation of Manufacture of Hardfaced Forming Tools Using a Laser Engineered Net Shaping (LENS) Process]] |
-| 47 | - | - | [[#Data-Driven Approach for Fault Diagnosis of Harmonic Drives Using Wireless Acceleration Sensors and Machine Learning|Data-Driven Approach for Fault Diagnosis of Harmonic Drives Using Wireless Acceleration Sensors and Machine Learning]] |
-| 48 | - | - | [[#Progress in Femtosecond Laser Peening Features Applications and Development Prospects|Progress in Femtosecond Laser Peening: Features, Applications and Development Prospects]] |
-| 49 | - | - | [[#Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning|Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning]] |
-| 50 | - | - | [[#Comparative Life Cycle Assessment of Different Pre-treatment Scenarios for Diamond Coating Deposition on WCCo Through HF-CVD|Comparative Life Cycle Assessment of Different Pre-treatment Scenarios for Diamond Coating Deposition on WC–Co Through HF-CVD]] |
-| 51 | - | - | [[#One-Step Process for Fabricating Superhydrophobic Surfaces on Metals and Ceramics|One-Step Process for Fabricating Superhydrophobic Surfaces on Metals and Ceramics]] |
-| 52 | - | - | [[#Control of Fluctuational Tension in Roll-to-Roll Manufacturing Systems under Acceleration and Deceleration Conditions|Control of Fluctuational Tension in Roll-to-Roll Manufacturing Systems under Acceleration and Deceleration Conditions]] |
-| 53 | - | - | [[#Preface for Autonomous Manufacturing with Green Technology|Preface for Autonomous Manufacturing with Green Technology]] |
-| 54 | - | - | [[#Applications of Environmentally Friendly Metal Oxides as PEM Fuel Cell Cathode Catalysts|Applications of Environmentally Friendly Metal Oxides as PEM Fuel Cell Cathode Catalysts]] |
-| 55 | - | - | [[#Enhanced Performance of Triboelectric Nanogenerator Based on TiO2 NanoparticleNylon 66 Composite Nanofibers|Enhanced Performance of Triboelectric Nanogenerator Based on TiO2 Nanoparticle/Nylon 66 Composite Nanofibers]] |
-| 56 | - | - | [[#Simultaneous Fabrication of Sm0.5Sr0.5CoO3-δ Nanoparticle-Infiltrated Layers and Electrodes using Electrostatic Spray Deposition and Flashlight Sintering for Solid Oxide Fuel Cells|Simultaneous Fabrication of Sm0.5Sr0.5CoO3-δ Nanoparticle-Infiltrated Layers and Electrodes using Electrostatic Spray Deposition and Flashlight Sintering for Solid Oxide Fuel Cells]] |
-| 57 | - | - | [[#Optimization of Machine Tool Spindle Cooling for Enhancement of Thermal Prediction Accuracy and Energy Efficiency|Optimization of Machine Tool Spindle Cooling for Enhancement of Thermal Prediction Accuracy and Energy Efficiency]] |
-| 58 | - | - | [[#Autonomous Thin-Film Profile Predictions for Inkjet-Printed OLEDs from Aerial Microscopic Images using Deep Learning|Autonomous Thin-Film Profile Predictions for Inkjet-Printed OLEDs from Aerial Microscopic Images using Deep Learning]] |
-| 59 | - | - | [[#Systematic Design Improvement of Spinning Disk-Based Triboelectric Nanogenerators for Enhancing Electrical Output|Systematic Design Improvement of Spinning Disk-Based Triboelectric Nanogenerators for Enhancing Electrical Output]] |
-| 60 | - | - | [[#Efficient Ultrasonic Energy Transmission Through Flexible Waveguide for Minimally Invasive Surgery|Efficient Ultrasonic Energy Transmission Through Flexible Waveguide for Minimally Invasive Surgery]] |
-| 61 | - | - | [[#Femtosecond Laser Surface Textured Micro-Crosshatch Patterns for Tribological Enhancement of Gray Cast Iron|Femtosecond Laser Surface Textured Micro-Crosshatch Patterns for Tribological Enhancement of Gray Cast Iron]] |
-| 62 | - | - | [[#Micronanostructure-Based Surface Modification After Electropolishing of TiAl6V4 Manufactured by Selective Laser Melting Process Superhydrophilic Superhydrophobic SLIPS|Micro/nanostructure-Based Surface Modification After Electropolishing of TiAl6V4 Manufactured by Selective Laser Melting Process: Superhydrophilic, Superhydrophobic, SLIPS]] |
-| 63 | - | - | [[#Flexible Patternable GrapheneCNT-Coated Heaters with NylonClay Lamination and Strong Adhesion|Flexible, Patternable Graphene/CNT-Coated Heaters with Nylon/Clay Lamination and Strong Adhesion]] |
-| 64 | - | - | [[#Towards Sustainability Critical Insights into Solid-State Joining Processes for Developing Lightweight Hybrid Structures|Towards Sustainability: Critical Insights into Solid-State Joining Processes for Developing Lightweight Hybrid Structures]] |
-| 65 | - | - | [[#High-Quality Surface Preparation of Inconel 718 Nickel-Based Superalloy Considering Chemical Mechanical Polishing|High-Quality Surface Preparation of Inconel 718 Nickel-Based Superalloy Considering Chemical Mechanical Polishing]] |
-| 66 | OT | - | [[#Architecture Development of Digital Twin-Based Wire Arc Directed Energy Deposition|Architecture Development of Digital Twin-Based Wire Arc Directed Energy Deposition]] |
-| 67 | - | - | [[#Intelligent Fault Diagnosis of Rolling Bearings in Strong Noise Environment An Attention-Driven Hybrid Model Based on IENEMD and Parallel Multiscale CNN|Intelligent Fault Diagnosis of Rolling Bearings in Strong Noise Environment: An Attention-Driven Hybrid Model Based on IENEMD and Parallel Multiscale CNN]] |
-| 68 | - | - | [[#Applications of Acoustic Emission Monitoring in Grinding A Review|Applications of Acoustic Emission Monitoring in Grinding: A Review]] |
-| 69 | Systematic Theology | - | [[#From Simulation to Autonomy Reviews of the Integration of Artificial Intelligence and Digital Twins|From Simulation to Autonomy: Reviews of the Integration of Artificial Intelligence and Digital Twins]] |
-| 70 | - | - | [[#A Systematic Review of Prognostics and Health Management in Mobility Batteries|A Systematic Review of Prognostics and Health Management in Mobility Batteries]] |
-| 71 | - | - | [[#Correction Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning|Correction: Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning]] |
-| 72 | - | - | [[#Impregnation of Composite 3D Prints for Enhanced Structural Stability|Impregnation of Composite 3D Prints for Enhanced Structural Stability]] |
-| 73 | - | - | [[#Temperature Dependent Mechanical Properties of End-of-Life Carbon Fiber Reinforced Plastics|Temperature Dependent Mechanical Properties of End-of-Life Carbon Fiber Reinforced Plastics]] |
-| 74 | NT | - | [[#Progressive Development of n-poly-Si Contacts and Stencil Refinement for High-Efficiency p-TOPCon Solar Cells|Progressive Development of n-poly-Si Contacts and Stencil Refinement for High-Efficiency p-TOPCon Solar Cells]] |
-| 75 | OT | - | [[#Development of an Electrochemical Cell-Based Oxygen Partial Pressure Control System for Food Storage|Development of an Electrochemical Cell-Based Oxygen Partial Pressure Control System for Food Storage]] |
-| 76 | - | - | [[#Evaluation of Mono and Hybrid Nanofluids in MQL Milling of Ti6Al4V Machining Performance Surface Integrity and Sustainability|Evaluation of Mono and Hybrid Nanofluids in MQL Milling of Ti–6Al–4V: Machining Performance, Surface Integrity and Sustainability]] |
-| 77 | - | - | [[#Intermittent Laser Selective Sintering of Aluminum Particles for Cost-Effective One-Step Manufacturing of Alternative Micro-Conductors|Intermittent Laser Selective Sintering of Aluminum Particles for Cost-Effective One-Step Manufacturing of Alternative Micro-Conductors]] |
-| 78 | OT | - | [[#Deep Learning-Driven Models for Analyzing Numerical Control Power Signals and Surface Characteristics in Sustainable Milling of Additively Manufactured Al-Si Alloys|Deep Learning-Driven Models for Analyzing Numerical Control Power Signals and Surface Characteristics in Sustainable Milling of Additively Manufactured Al-Si Alloys]] |
-| 79 | - | - | [[#Optimal Design of TPMS-Based Non-Pneumatic Tire Spoke with Adaptive Directional Stiffness|Optimal Design of TPMS-Based Non-Pneumatic Tire Spoke with Adaptive Directional Stiffness]] |
-| 80 | - | - | [[#A Dual-Target Optimization Method for MCF Polishing Process of Optical Components|A Dual-Target Optimization Method for MCF Polishing Process of Optical Components]] |
-| 81 | - | - | [[#Nano-structure Engineering With an Ultrasonic-assisted DHBT Technique to Improve the Hydrogen Evolution Reactions in Alkaline Water Electrolysis|Nano-structure Engineering With an Ultrasonic-assisted DHBT Technique to Improve the Hydrogen Evolution Reactions in Alkaline Water Electrolysis]] |
-| 82 | - | - | [[#Deep Learning-Based Phase Aberration Estimation for Ultra-Precise Silicon Wafer Metrology|Deep Learning-Based Phase Aberration Estimation for Ultra-Precise Silicon Wafer Metrology]] |
-| 83 | - | - | [[#Recent Advances in Electromagnetic Wave Absorbers Fabricated Via Additive Manufacturing|Recent Advances in Electromagnetic Wave Absorbers Fabricated Via Additive Manufacturing]] |
-| 84 | - | - | [[#Theoretical Investigations on the Effect of Rib Width-to-Channel Width Ratio of a CNT-Reinforced Graphite Composite Bipolar Plate on the Performance of PEMFCs|Theoretical Investigations on the Effect of Rib Width-to-Channel Width Ratio of a CNT-Reinforced Graphite Composite Bipolar Plate on the Performance of PEMFCs]] |
-| 85 | - | - | [[#Functionally Graded Metallic Materials Via Additive Manufacturing Research Progress on Processing Challenges and Applications|Functionally Graded Metallic Materials Via Additive Manufacturing: Research Progress on Processing, Challenges, and Applications]] |
-| 86 | OT | - | [[#Industrial Symbiosis Practice for Stakeholders Insights from Textile Practices for Sectoral Transformation|Industrial Symbiosis Practice for Stakeholders: Insights from Textile Practices for Sectoral Transformation]] |
-| 87 | - | - | [[#Elastomeric Sensor Array for Displacement Measurement in Pneumatic Rolling Rubber for Automotive Dampening Applications|Elastomeric Sensor Array for Displacement Measurement in Pneumatic Rolling Rubber for Automotive Dampening Applications]] |
-| 88 | - | - | [[#A Systematic Review of Machine Vision Applications in Factory and Manufacturing Processes From Quality Control to Predictive Diagnostics|A Systematic Review of Machine Vision Applications in Factory and Manufacturing Processes: From Quality Control to Predictive Diagnostics]] |
-| 89 | - | - | [[#Modular Mechanism Design Optimization in Large-Scale Systems with Manufacturing Cost Considerations|Modular Mechanism Design Optimization in Large-Scale Systems with Manufacturing Cost Considerations]] |
-| 90 | - | - | [[#Publisher Correction Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning|Publisher Correction: Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning]] |
-| 91 | - | - | [[#A Survey of Robotic Grippers Based on Task-Based Hand Motions and Mechanical Dexterity|A Survey of Robotic Grippers Based on Task-Based Hand Motions and Mechanical Dexterity]] |
-| 92 | - | - | [[#A Comparative Study of Supervised Learning and Reinforcement Learning Techniques for Power-Split Hybrid Electric Vehicle Controllers|A Comparative Study of Supervised Learning and Reinforcement Learning Techniques for Power-Split Hybrid Electric Vehicle Controllers]] |
-| 93 | - | - | [[#Superlubricity for Sustainable Technology A Review|Superlubricity for Sustainable Technology: A Review]] |
-| 94 | - | - | [[#Crashworthiness Analysis of Front Impact Beam with Various Sectional Shapes for Lightweight Electric Vehicles|Crashworthiness Analysis of Front Impact Beam with Various Sectional Shapes for Lightweight Electric Vehicles]] |
-| 95 | - | - | [[#A Review on Circular Economy Approaches for Pre-impregnated Carbon Composites Mould Remanufacturing|A Review on Circular Economy Approaches for Pre-impregnated Carbon Composites Mould Remanufacturing]] |
-| 96 | - | - | [[#Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm|Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm]] |
-| 97 | - | - | [[#Miniaturized Microbial Fuel Cells for Smart Devices Application and Power Generation|Miniaturized Microbial Fuel Cells for Smart Devices: Application and Power Generation]] |
-| 98 | - | - | [[#Boosting Output Performance of Polydimethylsiloxane-Based Triple-Layered Triboelectric Nanogenerator via Rational Design of Intermediate Layers|Boosting Output Performance of Polydimethylsiloxane-Based Triple-Layered Triboelectric Nanogenerator via Rational Design of Intermediate Layers]] |
-| 99 | - | - | [[#A Multi-Objective Deep Reinforcement Learning-Based ChargingDischarging Strategy for Electric Vehicle Charging Stations|A Multi-Objective Deep Reinforcement Learning-Based Charging/Discharging Strategy for Electric Vehicle Charging Stations]] |
-| 100 | - | - | [[#Optimizing YSZ Doping on Nanoporous Pt Cathodes for Enhanced Oxygen Reduction Reaction at 500C|Optimizing YSZ Doping on Nanoporous Pt Cathodes for Enhanced Oxygen Reduction Reaction at 500 °C]] |
-| 101 | NT | - | [[#Acoustofluidics Lab on a Chip System for size-based Nanoparticle Separation|Acoustofluidics Lab on a Chip System for size-based Nanoparticle Separation]] |
-| 102 | - | - | [[#Decarbonization Strategies in Semiconductor Manufacturing Reducing Greenhouse Gas Emission and Energy Consumption in the CVD Process|Decarbonization Strategies in Semiconductor Manufacturing: Reducing Greenhouse Gas Emission and Energy Consumption in the CVD Process]] |
-| 103 | - | - | [[#Evaluating the Interfacial Microstructure and Mechanical Behavior ofHybrid Additive Manufactured AISI H13 Tool Steel|Evaluating the Interfacial Microstructure and Mechanical Behavior of Hybrid Additive Manufactured AISI H13 Tool Steel]] |
-| 104 | - | - | [[#Development of a Micro w-EDM Pulse Generator with Energy-Optimized Boost Effect for Study on High-Precision Machining of Silicon Carbide Microstructures|Development of a Micro w-EDM Pulse Generator with Energy-Optimized Boost Effect for Study on High-Precision Machining of Silicon Carbide Microstructures]] |
-| 105 | - | - | [[#In-situ Alloying of TantalumTungsten Via Laser Powder Bed Fusion Microstructure Mechanical and Acoustic Properties|In-situ Alloying of Tantalum–Tungsten Via Laser Powder Bed Fusion: Microstructure, Mechanical, and Acoustic Properties]] |
-| 106 | OT | - | [[#FDM-Based Additive Manufacturing of Stainless Steel Electrodes Using Graphite-Assisted Sintering for Energy Storage Applications|FDM-Based Additive Manufacturing of Stainless Steel Electrodes Using Graphite-Assisted Sintering for Energy Storage Applications]] |
-| 107 | - | - | [[#Review on Recycled Materials for Additive Manufacturing|Review on Recycled Materials for Additive Manufacturing]] |
-| 108 | - | - | [[#Artificial Intelligence-Assisted Manual Inspection in Industrial Sites for Anomaly Detection in Connector Joints|Artificial Intelligence-Assisted Manual Inspection in Industrial Sites for Anomaly Detection in Connector Joints]] |
-| 109 | OT | - | [[#Numerical Studies of the Cathode Patterned Gas Diffusion Layer for Performance Enhancement of Polymer Electrolyte Membrane Fuel Cells|Numerical Studies of the Cathode Patterned Gas Diffusion Layer for Performance Enhancement of Polymer Electrolyte Membrane Fuel Cells]] |
-| 110 | - | - | [[#Research Progress on the Multi-Physics Coupling Mechanisms of the Molten Pool in Laser Additive Manufacturing and Cross-Scale Performance Regulation|Research Progress on the Multi-Physics Coupling Mechanisms of the Molten Pool in Laser Additive Manufacturing and Cross-Scale Performance Regulation]] |
-| 111 | - | - | [[#Recent Advances in Joining of Fiber-Reinforced Polymer Composites A Review on Thermoset and Thermoplastic Matrices|Recent Advances in Joining of Fiber-Reinforced Polymer Composites: A Review on Thermoset and Thermoplastic Matrices]] |
-| 112 | - | - | [[#Nanomaterial-Enhanced Electrochemical Biosensing of Breast Cancer Biomarkers A Review of Innovations in Materials Mechanisms and Clinical Potential|Nanomaterial-Enhanced Electrochemical Biosensing of Breast Cancer Biomarkers: A Review of Innovations in Materials, Mechanisms, and Clinical Potential]] |
-| 113 | - | - | [[#Temperature Field Modeling in Milling Under Tool Fatigue Damage Induced Thermal-Conductivity Degradation|Temperature Field Modeling in Milling Under Tool Fatigue Damage Induced Thermal-Conductivity Degradation]] |
-| 114 | - | - | [[#Prediction of the Bead Shape in a Directed Energy Deposition Process Using Machine Learning with Limited Point Data|Prediction of the Bead Shape in a Directed Energy Deposition Process Using Machine Learning with Limited Point Data]] |
-| 115 | - | - | [[#Comparative Life-Cycle Assessment of Expanded Polystyrene and Commercially Available Ecoliner Insulated Boxes for Cold-Chain Distribution|Comparative Life-Cycle Assessment of Expanded Polystyrene and Commercially Available Ecoliner Insulated Boxes for Cold-Chain Distribution]] |
-| 116 | - | - | [[#Performance Evaluation of Sustainable CL Strategies in Milling Carpenter 20 Towards Green Manufacturing with CryoNF-MQL and Quenched Tool|Performance Evaluation of Sustainable C/L Strategies in Milling Carpenter® 20: Towards Green Manufacturing with Cryo + NF-MQL and Quenched Tool]] |
-| 117 | - | - | [[#Research Progress on Interfacial Bonding and Strengthening of Aluminum Matrix Composites|Research Progress on Interfacial Bonding and Strengthening of Aluminum Matrix Composites]] |
-| 118 | - | - | [[#Green Hybrid Manufacturing of 3-Dimensional Fe6.5Si Magnetic Cores Integrated with Insulation Layers Via Material Extrusion and Spark Plasma Sintering|Green Hybrid Manufacturing of 3-Dimensional Fe–6.5%Si Magnetic Cores Integrated with Insulation Layers Via Material Extrusion and Spark Plasma Sintering]] |
-| 119 | - | - | [[#A Novel Approach to High-Density Ceramic 3D Printing Using Selective Reaction Hardening of Alumina Slurry|A Novel Approach to High-Density Ceramic 3D Printing Using Selective Reaction Hardening of Alumina Slurry]] |
-| 120 | OT | - | [[#Innovative Approach for Rapidly Predicting Cooling Times in Aluminum-Filled Epoxy Composite Injection Molding Using Numerical Simulation and Rapid Tooling Technology|Innovative Approach for Rapidly Predicting Cooling Times in Aluminum-Filled Epoxy Composite Injection Molding Using Numerical Simulation and Rapid Tooling Technology]] |
-| 121 | - | - | [[#Correction Stability Enhancement of Reformate-Fueled Low-Temperature Solid Oxide Fuel Cell with Nickel Thin-Film Anode by Water Bubbling|Correction: Stability Enhancement of Reformate-Fueled, Low-Temperature Solid Oxide Fuel Cell with Nickel Thin-Film Anode by Water Bubbling]] |
-| 122 | - | - | [[#Correction Functionally Graded Metallic Materials Via Additive Manufacturing Research Progress on Processing Challenges and Applications|Correction: Functionally Graded Metallic Materials Via Additive Manufacturing: Research Progress on Processing, Challenges, and Applications]] |
-| 123 | - | - | [[#Optimization of Pt-PrOx Thin Film Catalyst by Sputtering Method for Polymer Electrolyte Membrane Fuel Cells|Optimization of Pt-PrOx Thin Film Catalyst by Sputtering Method for Polymer Electrolyte Membrane Fuel Cells]] |
-| 124 | - | - | [[#Actuation Mechanisms of Soft Actuator Materials Driven by Electric Field|Actuation Mechanisms of Soft Actuator Materials Driven by Electric Field]] |
-| 125 | - | - | [[#Correction Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm|Correction: Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm]] |
-| 126 | - | - | [[#Hydration Reaction-Powered DNA Analysis Kit for Non-Instrumented Point-of-Care Diagnostics|Hydration Reaction-Powered DNA Analysis Kit for Non-Instrumented Point-of-Care Diagnostics]] |
-| 127 | - | - | [[#An Analytical Framework for Correlation Between Laser Powder Bed Fusion Factors and Porosity-Induced Fracture Strength and Plasticity|An Analytical Framework for Correlation Between Laser Powder Bed Fusion Factors and Porosity-Induced Fracture Strength and Plasticity]] |
-| 128 | - | - | [[#Precision Additive Manufacturing of Dental Scaffolds Using a HydroxyapatiteZirconia Bioceramic Composite Derived from Discarded Eggshells|Precision Additive Manufacturing of Dental Scaffolds Using a Hydroxyapatite/Zirconia Bioceramic Composite Derived from Discarded Eggshells]] |
-| 129 | - | - | [[#Current Applications and Advancements in the Manufacturing of Discontinuous Fiber Composites|Current Applications and Advancements in the Manufacturing of Discontinuous Fiber Composites]] |
-| 130 | - | - | [[#Next-Generation Catalysts from Spent Lithium-ion Battery Cathodes A Sustainable Recycling Paradigm|Next-Generation Catalysts from Spent Lithium-ion Battery Cathodes: A Sustainable Recycling Paradigm]] |
-| 131 | - | - | [[#Diagnosis of Autonomous Green Manufacturing Systems with Sensor-driven Feature-Space Matrix Method for Sustainable Roll-to-Roll Processes|Diagnosis of Autonomous Green Manufacturing Systems with Sensor-driven Feature-Space Matrix Method for Sustainable Roll-to-Roll Processes]] |
-| 132 | - | - | [[#Mobile Energy Management System for E-motorcycle Integrated with Micro Off-Grid A Case Study in Rural Tanzania|Mobile Energy Management System for E-motorcycle Integrated with Micro Off-Grid: A Case Study in Rural Tanzania]] |
-| 133 | - | - | [[#Large-Sized Segmented-in-Series SOFC on Flat-Tubular Substrates Performance and Preliminary Redox Cycling Study|Large-Sized Segmented-in-Series SOFC on Flat-Tubular Substrates: Performance and Preliminary Redox Cycling Study]] |
-| 134 | - | - | [[#Physics-guided Deep Ensemble Learning for the Remaining Useful Life Prediction of Machine Tools using Kernel Density Estimation|Physics-guided Deep Ensemble Learning for the Remaining Useful Life Prediction of Machine Tools using Kernel Density Estimation]] |
-| 135 | - | - | [[#Control Optimization of Acceleration Profile for a Battery Electric Vehicle|Control Optimization of Acceleration Profile for a Battery Electric Vehicle]] |
-| 136 | - | - | [[#A Novel Hybrid Lubri-Cooling Approach for Machining of Ti-6Al-4V Through Combination of Pulsated Minimal Quantity Lubrication and Dry Ice Media|A Novel Hybrid Lubri-Cooling Approach for Machining of Ti-6Al-4V Through Combination of Pulsated Minimal Quantity Lubrication and Dry Ice Media]] |
+| 1 | - | - | [Combinatorial Deposition of Pinhole-Free and High-Performance, Nanothin Electrolyte for Hydrogen-Fueled, Low-Temperature Solid Oxide Fuel Cells Supported on a Porous Substrate](#combinatorial-deposition-of-pinhole-free-and-high-performance-nanothin-electrolyte-for-hydrogen-fueled-low-temperature-solid-oxide-fuel-cells-supported-on-a-porous-substrate) |
+| 2 | - | - | [Powder Characterization and Material Properties of 18Ni300 Recycled PBF-LB/M Scrap by Ultrasonic Atomization](#powder-characterization-and-material-properties-of-18ni300-recycled-pbf-lbm-scrap-by-ultrasonic-atomization) |
+| 3 | - | - | [Efficient Optimization of Magnetic Properties of Fe–4.5Si Alloy in Laser Powder Bed Fusion (LPBF)](#efficient-optimization-of-magnetic-properties-of-fe45si-alloy-in-laser-powder-bed-fusion-lpbf) |
+| 4 | - | - | [Grinding Performance Evaluation of Additively Manufactured Vitrified Bond Grinding Wheel: Tool Wear, Grinding Force, Surface Roughness, and Surface Topography Analysis](#grinding-performance-evaluation-of-additively-manufactured-vitrified-bond-grinding-wheel-tool-wear-grinding-force-surface-roughness-and-surface-topography-analysis) |
+| 5 | - | - | [Practical Approaches on Cost Saving Strategies for Sustainable Semiconductor Manufacturing](#practical-approaches-on-cost-saving-strategies-for-sustainable-semiconductor-manufacturing) |
+| 6 | - | - | [Design and Validation of a Novel Process Solution for Electrically Assisted Superalloy Capillary Microforming](#design-and-validation-of-a-novel-process-solution-for-electrically-assisted-superalloy-capillary-microforming) |
+| 7 | - | - | [Coupled Electromagnetic Treatment to Improve the Cutting Performance of Coated Cemented Carbide: an Attempt at Green Technology](#coupled-electromagnetic-treatment-to-improve-the-cutting-performance-of-coated-cemented-carbide-an-attempt-at-green-technology) |
+| 8 | - | - | [Recent Progress in Self-powered Graphene-Based Triboelectric Nanogenerators](#recent-progress-in-self-powered-graphene-based-triboelectric-nanogenerators) |
+| 9 | - | - | [Study on Double Fermat-Structured Magnesium Oxychloride Fixed-Abrasive Pad in Sapphire Grinding](#study-on-double-fermat-structured-magnesium-oxychloride-fixed-abrasive-pad-in-sapphire-grinding) |
+| 10 | - | - | [Integration of Pt3Ni Catalysts, Plasma-Etched Multiscale Membrane, and Flow Field with Micro-Channel for High-Performance Fuel Cell](#integration-of-pt3ni-catalysts-plasma-etched-multiscale-membrane-and-flow-field-with-micro-channel-for-high-performance-fuel-cell) |
+| 11 | - | - | [Sub-Nyquist Harmonic Current Component Extraction using Band Pass Filters for NILM](#sub-nyquist-harmonic-current-component-extraction-using-band-pass-filters-for-nilm) |
+| 12 | - | - | [Multi-Objective Monitoring of CVD Diamond Micro-Grinding Tools Using Acoustic Emission and Force Signals with Neural Network Optimization](#multi-objective-monitoring-of-cvd-diamond-micro-grinding-tools-using-acoustic-emission-and-force-signals-with-neural-network-optimization) |
+| 13 | - | - | [Predicting Quality of Coated Layer Based on Meniscus Features Associated with Thickness for Sustainable Roll-to-Roll Processes](#predicting-quality-of-coated-layer-based-on-meniscus-features-associated-with-thickness-for-sustainable-roll-to-roll-processes) |
+| 14 | - | - | [Comprehensive Analysis of Current Developments, Challenges, and Opportunities for the Health Assessment of Smart Factory](#comprehensive-analysis-of-current-developments-challenges-and-opportunities-for-the-health-assessment-of-smart-factory) |
+| 15 | - | - | [Analysis for Influence of Wire Feeding Angle on Laser Energy Absorption and Deposited Layer Forming Behaviors During Wire Laser Additive Manufacturing](#analysis-for-influence-of-wire-feeding-angle-on-laser-energy-absorption-and-deposited-layer-forming-behaviors-during-wire-laser-additive-manufacturing) |
+| 16 | - | - | [Multi-objective optimization for layout planning of matrix manufacturing system](#multi-objective-optimization-for-layout-planning-of-matrix-manufacturing-system) |
+| 17 | - | - | [Iterative Semi-auto-labeling Method for High-Frequency Induction Brazing](#iterative-semi-auto-labeling-method-for-high-frequency-induction-brazing) |
+| 18 | - | - | [Prediction of Normalized Material Removal Rate Profile Based on Deep Neural Network in Five-Zone Carrier Head CMP System](#prediction-of-normalized-material-removal-rate-profile-based-on-deep-neural-network-in-five-zone-carrier-head-cmp-system) |
+| 19 | - | - | [Hybrid Framework for Evaluating and Selecting Sustainable Materials in Product Development](#hybrid-framework-for-evaluating-and-selecting-sustainable-materials-in-product-development) |
+| 20 | - | - | [Forming Wrinkle-Free Curved C Channel with Unidirectional Fiber Reinforced Composites](#forming-wrinkle-free-curved-c-channel-with-unidirectional-fiber-reinforced-composites) |
+| 21 | - | - | [Utilizing Ensemble Models Under Various Discharge Conditions for Static Capacity Estimation to Promote the Reuse of Retired EV Batteries](#utilizing-ensemble-models-under-various-discharge-conditions-for-static-capacity-estimation-to-promote-the-reuse-of-retired-ev-batteries) |
+| 22 | - | - | [A Fast NMPC Energy Management Scheme for Fuel Cell Electric Vehicles based on Driving Pattern Classification](#a-fast-nmpc-energy-management-scheme-for-fuel-cell-electric-vehicles-based-on-driving-pattern-classification) |
+| 23 | - | - | [Correction: Multiphysics Simulation of Continuous Liquid Interface Production (CLIP) 3D Printing Technology](#correction-multiphysics-simulation-of-continuous-liquid-interface-production-clip-3d-printing-technology) |
+| 24 | - | - | [Development and Elaboration of a High Efficiency System of Heating and Reheating Forging Tools](#development-and-elaboration-of-a-high-efficiency-system-of-heating-and-reheating-forging-tools) |
+| 25 | - | - | [Energy Efficiency Optimisation in Wire arc Additive Manufacturing of Invar 36 Alloy via Intelligent Data-Driven Techniques](#energy-efficiency-optimisation-in-wire-arc-additive-manufacturing-of-invar-36-alloy-via-intelligent-data-driven-techniques) |
+| 26 | - | - | [AGV Path Planning with Dynamic Obstacles Based on Deep Q-Network and Distributed Training](#agv-path-planning-with-dynamic-obstacles-based-on-deep-q-network-and-distributed-training) |
+| 27 | - | - | [Optimization of laser welding process parameters considering carbon emissions and weld quality based on DBO-BP and NSGA-II](#optimization-of-laser-welding-process-parameters-considering-carbon-emissions-and-weld-quality-based-on-dbo-bp-and-nsga-ii) |
+| 28 | - | - | [Micro-electrical Discharge Machining of Large Aspect Ratio Blind Micro-holes Using a Novel Self-Flushing Technique](#micro-electrical-discharge-machining-of-large-aspect-ratio-blind-micro-holes-using-a-novel-self-flushing-technique) |
+| 29 | - | - | [The Grinding Efficiency and Surface Roughness Study of WC-10Co-4Cr Coating on the Spherical Plain Bearings Based on the Trajectory Analysis](#the-grinding-efficiency-and-surface-roughness-study-of-wc-10co-4cr-coating-on-the-spherical-plain-bearings-based-on-the-trajectory-analysis) |
+| 30 | - | - | [Laser-Induced Biomimetic Microgrooves for Friction Driving Enhancement of Piezoelectric Motors](#laser-induced-biomimetic-microgrooves-for-friction-driving-enhancement-of-piezoelectric-motors) |
+| 31 | - | - | [Laser ablation in liquid-assisted synthesis of three types of nanoparticles for enhanced antibacterial applications](#laser-ablation-in-liquid-assisted-synthesis-of-three-types-of-nanoparticles-for-enhanced-antibacterial-applications) |
+| 32 | - | - | [Control-Resilient Roller Wear Prediction for Thin Wire Flattening Process via an Internal Sound-Guided Dynamic Conditional Network](#control-resilient-roller-wear-prediction-for-thin-wire-flattening-process-via-an-internal-sound-guided-dynamic-conditional-network) |
+| 33 | - | - | [Thermoforming Approach for In-Mold LED Arrays Utilizing Screen Printing Process with Silver Paste](#thermoforming-approach-for-in-mold-led-arrays-utilizing-screen-printing-process-with-silver-paste) |
+| 34 | - | - | [Buoyancy-Driven Vertically Rising Turbulent Plumes of Light Gases in a Quiescent Atmosphere](#buoyancy-driven-vertically-rising-turbulent-plumes-of-light-gases-in-a-quiescent-atmosphere) |
+| 35 | - | - | [Real-Time Interface Prediction During Laser Processing of Thin Film Layers by High-Resolution Femtosecond Laser-Induced Breakdown Spectroscopy](#real-time-interface-prediction-during-laser-processing-of-thin-film-layers-by-high-resolution-femtosecond-laser-induced-breakdown-spectroscopy) |
+| 36 | - | - | [Development of a Real-Time Track Solver for Digital Twin of the Underwater Tracked Vehicle](#development-of-a-real-time-track-solver-for-digital-twin-of-the-underwater-tracked-vehicle) |
+| 37 | - | - | [Ascorbic Acid-Assisted Morphology Tailoring of Crystalline Bi2WO6 for the Application in CO2 Photoreduction](#ascorbic-acid-assisted-morphology-tailoring-of-crystalline-bi2wo6-for-the-application-in-co2-photoreduction) |
+| 38 | - | - | [Enhancing Tool Wear Prediction Accuracy by Integrating Multi-Task Learning with Cutting Force Estimation](#enhancing-tool-wear-prediction-accuracy-by-integrating-multi-task-learning-with-cutting-force-estimation) |
+| 39 | OT | - | [Pure Mechanical Impact Trimming for Ultra High-strength Steels: A Strain Rate-managed Approach to Enhance Shear Edge Quality Without Thermal Effects](#pure-mechanical-impact-trimming-for-ultra-high-strength-steels-a-strain-rate-managed-approach-to-enhance-shear-edge-quality-without-thermal-effects) |
+| 40 | - | - | [AI-Driven Process Optimization Framework for Enhancing Print Quality in Aerosol Jet Printing](#ai-driven-process-optimization-framework-for-enhancing-print-quality-in-aerosol-jet-printing) |
+| 41 | - | - | [A Method for Predicting the Morphology of Multi-track Laser Cladding Coatings Based on WOA-RF](#a-method-for-predicting-the-morphology-of-multi-track-laser-cladding-coatings-based-on-woa-rf) |
+| 42 | - | - | [Design of Stiffened Ribs for Improving Forming Defects of Metal Bipolar Plate for PEMFC](#design-of-stiffened-ribs-for-improving-forming-defects-of-metal-bipolar-plate-for-pemfc) |
+| 43 | - | - | [Eggshell-Derived Powder as Reinforcement for Structures Manufactured by Digital Light Processing](#eggshell-derived-powder-as-reinforcement-for-structures-manufactured-by-digital-light-processing) |
+| 44 | - | - | [Development and Evaluation of a Robot Guided Friction Stir Welding Gun](#development-and-evaluation-of-a-robot-guided-friction-stir-welding-gun) |
+| 45 | - | - | [Development of an Artificial Neural Network-Based Model for Prediction and Compensation of Hole Depth by Femtosecond Laser Drilling](#development-of-an-artificial-neural-network-based-model-for-prediction-and-compensation-of-hole-depth-by-femtosecond-laser-drilling) |
+| 46 | - | - | [Investigation of Manufacture of Hardfaced Forming Tools Using a Laser Engineered Net Shaping (LENS) Process](#investigation-of-manufacture-of-hardfaced-forming-tools-using-a-laser-engineered-net-shaping-lens-process) |
+| 47 | - | - | [Data-Driven Approach for Fault Diagnosis of Harmonic Drives Using Wireless Acceleration Sensors and Machine Learning](#data-driven-approach-for-fault-diagnosis-of-harmonic-drives-using-wireless-acceleration-sensors-and-machine-learning) |
+| 48 | - | - | [Progress in Femtosecond Laser Peening: Features, Applications and Development Prospects](#progress-in-femtosecond-laser-peening-features-applications-and-development-prospects) |
+| 49 | - | - | [Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning](#carbon-emissions-prediction-and-optimization-method-of-hobbing-with-multi-source-data-collaborative-based-on-federated-learning) |
+| 50 | - | - | [Comparative Life Cycle Assessment of Different Pre-treatment Scenarios for Diamond Coating Deposition on WC–Co Through HF-CVD](#comparative-life-cycle-assessment-of-different-pre-treatment-scenarios-for-diamond-coating-deposition-on-wcco-through-hf-cvd) |
+| 51 | - | - | [One-Step Process for Fabricating Superhydrophobic Surfaces on Metals and Ceramics](#one-step-process-for-fabricating-superhydrophobic-surfaces-on-metals-and-ceramics) |
+| 52 | - | - | [Control of Fluctuational Tension in Roll-to-Roll Manufacturing Systems under Acceleration and Deceleration Conditions](#control-of-fluctuational-tension-in-roll-to-roll-manufacturing-systems-under-acceleration-and-deceleration-conditions) |
+| 53 | - | - | [Preface for Autonomous Manufacturing with Green Technology](#preface-for-autonomous-manufacturing-with-green-technology) |
+| 54 | - | - | [Applications of Environmentally Friendly Metal Oxides as PEM Fuel Cell Cathode Catalysts](#applications-of-environmentally-friendly-metal-oxides-as-pem-fuel-cell-cathode-catalysts) |
+| 55 | - | - | [Enhanced Performance of Triboelectric Nanogenerator Based on TiO2 Nanoparticle/Nylon 66 Composite Nanofibers](#enhanced-performance-of-triboelectric-nanogenerator-based-on-tio2-nanoparticlenylon-66-composite-nanofibers) |
+| 56 | - | - | [Simultaneous Fabrication of Sm0.5Sr0.5CoO3-δ Nanoparticle-Infiltrated Layers and Electrodes using Electrostatic Spray Deposition and Flashlight Sintering for Solid Oxide Fuel Cells](#simultaneous-fabrication-of-sm05sr05coo3-δ-nanoparticle-infiltrated-layers-and-electrodes-using-electrostatic-spray-deposition-and-flashlight-sintering-for-solid-oxide-fuel-cells) |
+| 57 | - | - | [Optimization of Machine Tool Spindle Cooling for Enhancement of Thermal Prediction Accuracy and Energy Efficiency](#optimization-of-machine-tool-spindle-cooling-for-enhancement-of-thermal-prediction-accuracy-and-energy-efficiency) |
+| 58 | - | - | [Autonomous Thin-Film Profile Predictions for Inkjet-Printed OLEDs from Aerial Microscopic Images using Deep Learning](#autonomous-thin-film-profile-predictions-for-inkjet-printed-oleds-from-aerial-microscopic-images-using-deep-learning) |
+| 59 | - | - | [Systematic Design Improvement of Spinning Disk-Based Triboelectric Nanogenerators for Enhancing Electrical Output](#systematic-design-improvement-of-spinning-disk-based-triboelectric-nanogenerators-for-enhancing-electrical-output) |
+| 60 | - | - | [Efficient Ultrasonic Energy Transmission Through Flexible Waveguide for Minimally Invasive Surgery](#efficient-ultrasonic-energy-transmission-through-flexible-waveguide-for-minimally-invasive-surgery) |
+| 61 | - | - | [Femtosecond Laser Surface Textured Micro-Crosshatch Patterns for Tribological Enhancement of Gray Cast Iron](#femtosecond-laser-surface-textured-micro-crosshatch-patterns-for-tribological-enhancement-of-gray-cast-iron) |
+| 62 | - | - | [Micro/nanostructure-Based Surface Modification After Electropolishing of TiAl6V4 Manufactured by Selective Laser Melting Process: Superhydrophilic, Superhydrophobic, SLIPS](#micronanostructure-based-surface-modification-after-electropolishing-of-tial6v4-manufactured-by-selective-laser-melting-process-superhydrophilic-superhydrophobic-slips) |
+| 63 | - | - | [Flexible, Patternable Graphene/CNT-Coated Heaters with Nylon/Clay Lamination and Strong Adhesion](#flexible-patternable-graphenecnt-coated-heaters-with-nylonclay-lamination-and-strong-adhesion) |
+| 64 | - | - | [Towards Sustainability: Critical Insights into Solid-State Joining Processes for Developing Lightweight Hybrid Structures](#towards-sustainability-critical-insights-into-solid-state-joining-processes-for-developing-lightweight-hybrid-structures) |
+| 65 | - | - | [High-Quality Surface Preparation of Inconel 718 Nickel-Based Superalloy Considering Chemical Mechanical Polishing](#high-quality-surface-preparation-of-inconel-718-nickel-based-superalloy-considering-chemical-mechanical-polishing) |
+| 66 | OT | - | [Architecture Development of Digital Twin-Based Wire Arc Directed Energy Deposition](#architecture-development-of-digital-twin-based-wire-arc-directed-energy-deposition) |
+| 67 | - | - | [Intelligent Fault Diagnosis of Rolling Bearings in Strong Noise Environment: An Attention-Driven Hybrid Model Based on IENEMD and Parallel Multiscale CNN](#intelligent-fault-diagnosis-of-rolling-bearings-in-strong-noise-environment-an-attention-driven-hybrid-model-based-on-ienemd-and-parallel-multiscale-cnn) |
+| 68 | - | - | [Applications of Acoustic Emission Monitoring in Grinding: A Review](#applications-of-acoustic-emission-monitoring-in-grinding-a-review) |
+| 69 | Systematic Theology | - | [From Simulation to Autonomy: Reviews of the Integration of Artificial Intelligence and Digital Twins](#from-simulation-to-autonomy-reviews-of-the-integration-of-artificial-intelligence-and-digital-twins) |
+| 70 | - | - | [A Systematic Review of Prognostics and Health Management in Mobility Batteries](#a-systematic-review-of-prognostics-and-health-management-in-mobility-batteries) |
+| 71 | - | - | [Correction: Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning](#correction-carbon-emissions-prediction-and-optimization-method-of-hobbing-with-multi-source-data-collaborative-based-on-federated-learning) |
+| 72 | - | - | [Impregnation of Composite 3D Prints for Enhanced Structural Stability](#impregnation-of-composite-3d-prints-for-enhanced-structural-stability) |
+| 73 | - | - | [Temperature Dependent Mechanical Properties of End-of-Life Carbon Fiber Reinforced Plastics](#temperature-dependent-mechanical-properties-of-end-of-life-carbon-fiber-reinforced-plastics) |
+| 74 | NT | - | [Progressive Development of n-poly-Si Contacts and Stencil Refinement for High-Efficiency p-TOPCon Solar Cells](#progressive-development-of-n-poly-si-contacts-and-stencil-refinement-for-high-efficiency-p-topcon-solar-cells) |
+| 75 | OT | - | [Development of an Electrochemical Cell-Based Oxygen Partial Pressure Control System for Food Storage](#development-of-an-electrochemical-cell-based-oxygen-partial-pressure-control-system-for-food-storage) |
+| 76 | - | - | [Evaluation of Mono and Hybrid Nanofluids in MQL Milling of Ti–6Al–4V: Machining Performance, Surface Integrity and Sustainability](#evaluation-of-mono-and-hybrid-nanofluids-in-mql-milling-of-ti6al4v-machining-performance-surface-integrity-and-sustainability) |
+| 77 | - | - | [Intermittent Laser Selective Sintering of Aluminum Particles for Cost-Effective One-Step Manufacturing of Alternative Micro-Conductors](#intermittent-laser-selective-sintering-of-aluminum-particles-for-cost-effective-one-step-manufacturing-of-alternative-micro-conductors) |
+| 78 | OT | - | [Deep Learning-Driven Models for Analyzing Numerical Control Power Signals and Surface Characteristics in Sustainable Milling of Additively Manufactured Al-Si Alloys](#deep-learning-driven-models-for-analyzing-numerical-control-power-signals-and-surface-characteristics-in-sustainable-milling-of-additively-manufactured-al-si-alloys) |
+| 79 | - | - | [Optimal Design of TPMS-Based Non-Pneumatic Tire Spoke with Adaptive Directional Stiffness](#optimal-design-of-tpms-based-non-pneumatic-tire-spoke-with-adaptive-directional-stiffness) |
+| 80 | - | - | [A Dual-Target Optimization Method for MCF Polishing Process of Optical Components](#a-dual-target-optimization-method-for-mcf-polishing-process-of-optical-components) |
+| 81 | - | - | [Nano-structure Engineering With an Ultrasonic-assisted DHBT Technique to Improve the Hydrogen Evolution Reactions in Alkaline Water Electrolysis](#nano-structure-engineering-with-an-ultrasonic-assisted-dhbt-technique-to-improve-the-hydrogen-evolution-reactions-in-alkaline-water-electrolysis) |
+| 82 | - | - | [Deep Learning-Based Phase Aberration Estimation for Ultra-Precise Silicon Wafer Metrology](#deep-learning-based-phase-aberration-estimation-for-ultra-precise-silicon-wafer-metrology) |
+| 83 | - | - | [Recent Advances in Electromagnetic Wave Absorbers Fabricated Via Additive Manufacturing](#recent-advances-in-electromagnetic-wave-absorbers-fabricated-via-additive-manufacturing) |
+| 84 | - | - | [Theoretical Investigations on the Effect of Rib Width-to-Channel Width Ratio of a CNT-Reinforced Graphite Composite Bipolar Plate on the Performance of PEMFCs](#theoretical-investigations-on-the-effect-of-rib-width-to-channel-width-ratio-of-a-cnt-reinforced-graphite-composite-bipolar-plate-on-the-performance-of-pemfcs) |
+| 85 | - | - | [Functionally Graded Metallic Materials Via Additive Manufacturing: Research Progress on Processing, Challenges, and Applications](#functionally-graded-metallic-materials-via-additive-manufacturing-research-progress-on-processing-challenges-and-applications) |
+| 86 | OT | - | [Industrial Symbiosis Practice for Stakeholders: Insights from Textile Practices for Sectoral Transformation](#industrial-symbiosis-practice-for-stakeholders-insights-from-textile-practices-for-sectoral-transformation) |
+| 87 | - | - | [Elastomeric Sensor Array for Displacement Measurement in Pneumatic Rolling Rubber for Automotive Dampening Applications](#elastomeric-sensor-array-for-displacement-measurement-in-pneumatic-rolling-rubber-for-automotive-dampening-applications) |
+| 88 | - | - | [A Systematic Review of Machine Vision Applications in Factory and Manufacturing Processes: From Quality Control to Predictive Diagnostics](#a-systematic-review-of-machine-vision-applications-in-factory-and-manufacturing-processes-from-quality-control-to-predictive-diagnostics) |
+| 89 | - | - | [Modular Mechanism Design Optimization in Large-Scale Systems with Manufacturing Cost Considerations](#modular-mechanism-design-optimization-in-large-scale-systems-with-manufacturing-cost-considerations) |
+| 90 | - | - | [Publisher Correction: Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning](#publisher-correction-carbon-emissions-prediction-and-optimization-method-of-hobbing-with-multi-source-data-collaborative-based-on-federated-learning) |
+| 91 | - | - | [A Survey of Robotic Grippers Based on Task-Based Hand Motions and Mechanical Dexterity](#a-survey-of-robotic-grippers-based-on-task-based-hand-motions-and-mechanical-dexterity) |
+| 92 | - | - | [A Comparative Study of Supervised Learning and Reinforcement Learning Techniques for Power-Split Hybrid Electric Vehicle Controllers](#a-comparative-study-of-supervised-learning-and-reinforcement-learning-techniques-for-power-split-hybrid-electric-vehicle-controllers) |
+| 93 | - | - | [Superlubricity for Sustainable Technology: A Review](#superlubricity-for-sustainable-technology-a-review) |
+| 94 | - | - | [Crashworthiness Analysis of Front Impact Beam with Various Sectional Shapes for Lightweight Electric Vehicles](#crashworthiness-analysis-of-front-impact-beam-with-various-sectional-shapes-for-lightweight-electric-vehicles) |
+| 95 | - | - | [A Review on Circular Economy Approaches for Pre-impregnated Carbon Composites Mould Remanufacturing](#a-review-on-circular-economy-approaches-for-pre-impregnated-carbon-composites-mould-remanufacturing) |
+| 96 | - | - | [Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm](#multi-objective-optimization-of-enhanced-flow-channel-structures-with-baffles-in-pemfcs-using-artificial-neural-networks-and-genetic-algorithm) |
+| 97 | - | - | [Miniaturized Microbial Fuel Cells for Smart Devices: Application and Power Generation](#miniaturized-microbial-fuel-cells-for-smart-devices-application-and-power-generation) |
+| 98 | - | - | [Boosting Output Performance of Polydimethylsiloxane-Based Triple-Layered Triboelectric Nanogenerator via Rational Design of Intermediate Layers](#boosting-output-performance-of-polydimethylsiloxane-based-triple-layered-triboelectric-nanogenerator-via-rational-design-of-intermediate-layers) |
+| 99 | - | - | [A Multi-Objective Deep Reinforcement Learning-Based Charging/Discharging Strategy for Electric Vehicle Charging Stations](#a-multi-objective-deep-reinforcement-learning-based-chargingdischarging-strategy-for-electric-vehicle-charging-stations) |
+| 100 | - | - | [Optimizing YSZ Doping on Nanoporous Pt Cathodes for Enhanced Oxygen Reduction Reaction at 500 °C](#optimizing-ysz-doping-on-nanoporous-pt-cathodes-for-enhanced-oxygen-reduction-reaction-at-500-c) |
+| 101 | NT | - | [Acoustofluidics Lab on a Chip System for size-based Nanoparticle Separation](#acoustofluidics-lab-on-a-chip-system-for-size-based-nanoparticle-separation) |
+| 102 | - | - | [Decarbonization Strategies in Semiconductor Manufacturing: Reducing Greenhouse Gas Emission and Energy Consumption in the CVD Process](#decarbonization-strategies-in-semiconductor-manufacturing-reducing-greenhouse-gas-emission-and-energy-consumption-in-the-cvd-process) |
+| 103 | - | - | [Evaluating the Interfacial Microstructure and Mechanical Behavior of Hybrid Additive Manufactured AISI H13 Tool Steel](#evaluating-the-interfacial-microstructure-and-mechanical-behavior-of-hybrid-additive-manufactured-aisi-h13-tool-steel) |
+| 104 | - | - | [Development of a Micro w-EDM Pulse Generator with Energy-Optimized Boost Effect for Study on High-Precision Machining of Silicon Carbide Microstructures](#development-of-a-micro-w-edm-pulse-generator-with-energy-optimized-boost-effect-for-study-on-high-precision-machining-of-silicon-carbide-microstructures) |
+| 105 | - | - | [In-situ Alloying of Tantalum–Tungsten Via Laser Powder Bed Fusion: Microstructure, Mechanical, and Acoustic Properties](#in-situ-alloying-of-tantalumtungsten-via-laser-powder-bed-fusion-microstructure-mechanical-and-acoustic-properties) |
+| 106 | OT | - | [FDM-Based Additive Manufacturing of Stainless Steel Electrodes Using Graphite-Assisted Sintering for Energy Storage Applications](#fdm-based-additive-manufacturing-of-stainless-steel-electrodes-using-graphite-assisted-sintering-for-energy-storage-applications) |
+| 107 | - | - | [Review on Recycled Materials for Additive Manufacturing](#review-on-recycled-materials-for-additive-manufacturing) |
+| 108 | - | - | [Artificial Intelligence-Assisted Manual Inspection in Industrial Sites for Anomaly Detection in Connector Joints](#artificial-intelligence-assisted-manual-inspection-in-industrial-sites-for-anomaly-detection-in-connector-joints) |
+| 109 | OT | - | [Numerical Studies of the Cathode Patterned Gas Diffusion Layer for Performance Enhancement of Polymer Electrolyte Membrane Fuel Cells](#numerical-studies-of-the-cathode-patterned-gas-diffusion-layer-for-performance-enhancement-of-polymer-electrolyte-membrane-fuel-cells) |
+| 110 | - | - | [Research Progress on the Multi-Physics Coupling Mechanisms of the Molten Pool in Laser Additive Manufacturing and Cross-Scale Performance Regulation](#research-progress-on-the-multi-physics-coupling-mechanisms-of-the-molten-pool-in-laser-additive-manufacturing-and-cross-scale-performance-regulation) |
+| 111 | - | - | [Recent Advances in Joining of Fiber-Reinforced Polymer Composites: A Review on Thermoset and Thermoplastic Matrices](#recent-advances-in-joining-of-fiber-reinforced-polymer-composites-a-review-on-thermoset-and-thermoplastic-matrices) |
+| 112 | - | - | [Nanomaterial-Enhanced Electrochemical Biosensing of Breast Cancer Biomarkers: A Review of Innovations in Materials, Mechanisms, and Clinical Potential](#nanomaterial-enhanced-electrochemical-biosensing-of-breast-cancer-biomarkers-a-review-of-innovations-in-materials-mechanisms-and-clinical-potential) |
+| 113 | - | - | [Temperature Field Modeling in Milling Under Tool Fatigue Damage Induced Thermal-Conductivity Degradation](#temperature-field-modeling-in-milling-under-tool-fatigue-damage-induced-thermal-conductivity-degradation) |
+| 114 | - | - | [Prediction of the Bead Shape in a Directed Energy Deposition Process Using Machine Learning with Limited Point Data](#prediction-of-the-bead-shape-in-a-directed-energy-deposition-process-using-machine-learning-with-limited-point-data) |
+| 115 | - | - | [Comparative Life-Cycle Assessment of Expanded Polystyrene and Commercially Available Ecoliner Insulated Boxes for Cold-Chain Distribution](#comparative-life-cycle-assessment-of-expanded-polystyrene-and-commercially-available-ecoliner-insulated-boxes-for-cold-chain-distribution) |
+| 116 | - | - | [Performance Evaluation of Sustainable C/L Strategies in Milling Carpenter® 20: Towards Green Manufacturing with Cryo + NF-MQL and Quenched Tool](#performance-evaluation-of-sustainable-cl-strategies-in-milling-carpenter-20-towards-green-manufacturing-with-cryo-nf-mql-and-quenched-tool) |
+| 117 | - | - | [Research Progress on Interfacial Bonding and Strengthening of Aluminum Matrix Composites](#research-progress-on-interfacial-bonding-and-strengthening-of-aluminum-matrix-composites) |
+| 118 | - | - | [Green Hybrid Manufacturing of 3-Dimensional Fe–6.5%Si Magnetic Cores Integrated with Insulation Layers Via Material Extrusion and Spark Plasma Sintering](#green-hybrid-manufacturing-of-3-dimensional-fe65si-magnetic-cores-integrated-with-insulation-layers-via-material-extrusion-and-spark-plasma-sintering) |
+| 119 | - | - | [A Novel Approach to High-Density Ceramic 3D Printing Using Selective Reaction Hardening of Alumina Slurry](#a-novel-approach-to-high-density-ceramic-3d-printing-using-selective-reaction-hardening-of-alumina-slurry) |
+| 120 | OT | - | [Innovative Approach for Rapidly Predicting Cooling Times in Aluminum-Filled Epoxy Composite Injection Molding Using Numerical Simulation and Rapid Tooling Technology](#innovative-approach-for-rapidly-predicting-cooling-times-in-aluminum-filled-epoxy-composite-injection-molding-using-numerical-simulation-and-rapid-tooling-technology) |
+| 121 | - | - | [Correction: Stability Enhancement of Reformate-Fueled, Low-Temperature Solid Oxide Fuel Cell with Nickel Thin-Film Anode by Water Bubbling](#correction-stability-enhancement-of-reformate-fueled-low-temperature-solid-oxide-fuel-cell-with-nickel-thin-film-anode-by-water-bubbling) |
+| 122 | - | - | [Correction: Functionally Graded Metallic Materials Via Additive Manufacturing: Research Progress on Processing, Challenges, and Applications](#correction-functionally-graded-metallic-materials-via-additive-manufacturing-research-progress-on-processing-challenges-and-applications) |
+| 123 | - | - | [Optimization of Pt-PrOx Thin Film Catalyst by Sputtering Method for Polymer Electrolyte Membrane Fuel Cells](#optimization-of-pt-prox-thin-film-catalyst-by-sputtering-method-for-polymer-electrolyte-membrane-fuel-cells) |
+| 124 | - | - | [Actuation Mechanisms of Soft Actuator Materials Driven by Electric Field](#actuation-mechanisms-of-soft-actuator-materials-driven-by-electric-field) |
+| 125 | - | - | [Correction: Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm](#correction-multi-objective-optimization-of-enhanced-flow-channel-structures-with-baffles-in-pemfcs-using-artificial-neural-networks-and-genetic-algorithm) |
+| 126 | - | - | [Hydration Reaction-Powered DNA Analysis Kit for Non-Instrumented Point-of-Care Diagnostics](#hydration-reaction-powered-dna-analysis-kit-for-non-instrumented-point-of-care-diagnostics) |
+| 127 | - | - | [An Analytical Framework for Correlation Between Laser Powder Bed Fusion Factors and Porosity-Induced Fracture Strength and Plasticity](#an-analytical-framework-for-correlation-between-laser-powder-bed-fusion-factors-and-porosity-induced-fracture-strength-and-plasticity) |
+| 128 | - | - | [Precision Additive Manufacturing of Dental Scaffolds Using a Hydroxyapatite/Zirconia Bioceramic Composite Derived from Discarded Eggshells](#precision-additive-manufacturing-of-dental-scaffolds-using-a-hydroxyapatitezirconia-bioceramic-composite-derived-from-discarded-eggshells) |
+| 129 | - | - | [Current Applications and Advancements in the Manufacturing of Discontinuous Fiber Composites](#current-applications-and-advancements-in-the-manufacturing-of-discontinuous-fiber-composites) |
+| 130 | - | - | [Next-Generation Catalysts from Spent Lithium-ion Battery Cathodes: A Sustainable Recycling Paradigm](#next-generation-catalysts-from-spent-lithium-ion-battery-cathodes-a-sustainable-recycling-paradigm) |
+| 131 | - | - | [Diagnosis of Autonomous Green Manufacturing Systems with Sensor-driven Feature-Space Matrix Method for Sustainable Roll-to-Roll Processes](#diagnosis-of-autonomous-green-manufacturing-systems-with-sensor-driven-feature-space-matrix-method-for-sustainable-roll-to-roll-processes) |
+| 132 | - | - | [Mobile Energy Management System for E-motorcycle Integrated with Micro Off-Grid: A Case Study in Rural Tanzania](#mobile-energy-management-system-for-e-motorcycle-integrated-with-micro-off-grid-a-case-study-in-rural-tanzania) |
+| 133 | - | - | [Large-Sized Segmented-in-Series SOFC on Flat-Tubular Substrates: Performance and Preliminary Redox Cycling Study](#large-sized-segmented-in-series-sofc-on-flat-tubular-substrates-performance-and-preliminary-redox-cycling-study) |
+| 134 | - | - | [Physics-guided Deep Ensemble Learning for the Remaining Useful Life Prediction of Machine Tools using Kernel Density Estimation](#physics-guided-deep-ensemble-learning-for-the-remaining-useful-life-prediction-of-machine-tools-using-kernel-density-estimation) |
+| 135 | - | - | [Control Optimization of Acceleration Profile for a Battery Electric Vehicle](#control-optimization-of-acceleration-profile-for-a-battery-electric-vehicle) |
+| 136 | - | - | [A Novel Hybrid Lubri-Cooling Approach for Machining of Ti-6Al-4V Through Combination of Pulsated Minimal Quantity Lubrication and Dry Ice Media](#a-novel-hybrid-lubri-cooling-approach-for-machining-of-ti-6al-4v-through-combination-of-pulsated-minimal-quantity-lubrication-and-dry-ice-media) |
 
 ---
 
-### Combinatorial Deposition of Pinhole-Free and High-Performance Nanothin Electrolyte for Hydrogen-Fueled Low-Temperature Solid Oxide Fuel Cells Supported on a Porous Substrate
+### Combinatorial Deposition of Pinhole-Free and High-Performance, Nanothin Electrolyte for Hydrogen-Fueled, Low-Temperature Solid Oxide Fuel Cells Supported on a Porous Substrate
 - **DOI**: [10.1007/s40684-024-00677-x](https://doi.org/10.1007/s40684-024-00677-x)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Powder Characterization and Material Properties of 18Ni300 Recycled PBF-LBM Scrap by Ultrasonic Atomization
+### Powder Characterization and Material Properties of 18Ni300 Recycled PBF-LB/M Scrap by Ultrasonic Atomization
 - **DOI**: [10.1007/s40684-024-00681-1](https://doi.org/10.1007/s40684-024-00681-1)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Efficient Optimization of Magnetic Properties of Fe4.5Si Alloy in Laser Powder Bed Fusion LPBF
+### Efficient Optimization of Magnetic Properties of Fe–4.5Si Alloy in Laser Powder Bed Fusion (LPBF)
 - **DOI**: [10.1007/s40684-024-00683-z](https://doi.org/10.1007/s40684-024-00683-z)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -174,7 +174,7 @@ arc_score: 6
 
 ---
 
-### Grinding Performance Evaluation of Additively Manufactured Vitrified Bond Grinding Wheel Tool Wear Grinding Force Surface Roughness and Surface Topography Analysis
+### Grinding Performance Evaluation of Additively Manufactured Vitrified Bond Grinding Wheel: Tool Wear, Grinding Force, Surface Roughness, and Surface Topography Analysis
 - **DOI**: [10.1007/s40684-024-00684-y](https://doi.org/10.1007/s40684-024-00684-y)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -196,7 +196,7 @@ arc_score: 6
 
 ---
 
-### Coupled Electromagnetic Treatment to Improve the Cutting Performance of Coated Cemented Carbide an Attempt at Green Technology
+### Coupled Electromagnetic Treatment to Improve the Cutting Performance of Coated Cemented Carbide: an Attempt at Green Technology
 - **DOI**: [10.1007/s40684-024-00687-9](https://doi.org/10.1007/s40684-024-00687-9)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -217,7 +217,7 @@ arc_score: 6
 
 ---
 
-### Integration of Pt3Ni Catalysts Plasma-Etched Multiscale Membrane and Flow Field with Micro-Channel for High-Performance Fuel Cell
+### Integration of Pt3Ni Catalysts, Plasma-Etched Multiscale Membrane, and Flow Field with Micro-Channel for High-Performance Fuel Cell
 - **DOI**: [10.1007/s40684-024-00690-0](https://doi.org/10.1007/s40684-024-00690-0)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -246,7 +246,7 @@ arc_score: 6
 
 ---
 
-### Comprehensive Analysis of Current Developments Challenges and Opportunities for the Health Assessment of Smart Factory
+### Comprehensive Analysis of Current Developments, Challenges, and Opportunities for the Health Assessment of Smart Factory
 - **DOI**: [10.1007/s40684-025-00694-4](https://doi.org/10.1007/s40684-025-00694-4)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -312,7 +312,7 @@ arc_score: 6
 
 ---
 
-### Correction Multiphysics Simulation of Continuous Liquid Interface Production CLIP 3D Printing Technology
+### Correction: Multiphysics Simulation of Continuous Liquid Interface Production (CLIP) 3D Printing Technology
 - **DOI**: [10.1007/s40684-025-00703-6](https://doi.org/10.1007/s40684-025-00703-6)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -435,7 +435,7 @@ arc_score: 6
 
 ---
 
-### Pure Mechanical Impact Trimming for Ultra High-strength Steels A Strain Rate-managed Approach to Enhance Shear Edge Quality Without Thermal Effects
+### Pure Mechanical Impact Trimming for Ultra High-strength Steels: A Strain Rate-managed Approach to Enhance Shear Edge Quality Without Thermal Effects
 - **DOI**: [10.1007/s40684-025-00720-5](https://doi.org/10.1007/s40684-025-00720-5)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -487,7 +487,7 @@ arc_score: 6
 
 ---
 
-### Investigation of Manufacture of Hardfaced Forming Tools Using a Laser Engineered Net Shaping LENS Process
+### Investigation of Manufacture of Hardfaced Forming Tools Using a Laser Engineered Net Shaping (LENS) Process
 - **DOI**: [10.1007/s40684-025-00727-y](https://doi.org/10.1007/s40684-025-00727-y)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -501,7 +501,7 @@ arc_score: 6
 
 ---
 
-### Progress in Femtosecond Laser Peening Features Applications and Development Prospects
+### Progress in Femtosecond Laser Peening: Features, Applications and Development Prospects
 - **DOI**: [10.1007/s40684-025-00729-w](https://doi.org/10.1007/s40684-025-00729-w)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -515,7 +515,7 @@ arc_score: 6
 
 ---
 
-### Comparative Life Cycle Assessment of Different Pre-treatment Scenarios for Diamond Coating Deposition on WCCo Through HF-CVD
+### Comparative Life Cycle Assessment of Different Pre-treatment Scenarios for Diamond Coating Deposition on WC–Co Through HF-CVD
 - **DOI**: [10.1007/s40684-025-00731-2](https://doi.org/10.1007/s40684-025-00731-2)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -572,7 +572,7 @@ arc_score: 6
 
 ---
 
-### Enhanced Performance of Triboelectric Nanogenerator Based on TiO2 NanoparticleNylon 66 Composite Nanofibers
+### Enhanced Performance of Triboelectric Nanogenerator Based on TiO2 Nanoparticle/Nylon 66 Composite Nanofibers
 - **DOI**: [10.1007/s40684-025-00736-x](https://doi.org/10.1007/s40684-025-00736-x)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -621,21 +621,21 @@ arc_score: 6
 
 ---
 
-### Micronanostructure-Based Surface Modification After Electropolishing of TiAl6V4 Manufactured by Selective Laser Melting Process Superhydrophilic Superhydrophobic SLIPS
+### Micro/nanostructure-Based Surface Modification After Electropolishing of TiAl6V4 Manufactured by Selective Laser Melting Process: Superhydrophilic, Superhydrophobic, SLIPS
 - **DOI**: [10.1007/s40684-025-00743-y](https://doi.org/10.1007/s40684-025-00743-y)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Flexible Patternable GrapheneCNT-Coated Heaters with NylonClay Lamination and Strong Adhesion
+### Flexible, Patternable Graphene/CNT-Coated Heaters with Nylon/Clay Lamination and Strong Adhesion
 - **DOI**: [10.1007/s40684-025-00744-x](https://doi.org/10.1007/s40684-025-00744-x)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Towards Sustainability Critical Insights into Solid-State Joining Processes for Developing Lightweight Hybrid Structures
+### Towards Sustainability: Critical Insights into Solid-State Joining Processes for Developing Lightweight Hybrid Structures
 - **DOI**: [10.1007/s40684-025-00745-w](https://doi.org/10.1007/s40684-025-00745-w)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -657,21 +657,21 @@ arc_score: 6
 
 ---
 
-### Intelligent Fault Diagnosis of Rolling Bearings in Strong Noise Environment An Attention-Driven Hybrid Model Based on IENEMD and Parallel Multiscale CNN
+### Intelligent Fault Diagnosis of Rolling Bearings in Strong Noise Environment: An Attention-Driven Hybrid Model Based on IENEMD and Parallel Multiscale CNN
 - **DOI**: [10.1007/s40684-025-00748-7](https://doi.org/10.1007/s40684-025-00748-7)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Applications of Acoustic Emission Monitoring in Grinding A Review
+### Applications of Acoustic Emission Monitoring in Grinding: A Review
 - **DOI**: [10.1007/s40684-025-00749-6](https://doi.org/10.1007/s40684-025-00749-6)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### From Simulation to Autonomy Reviews of the Integration of Artificial Intelligence and Digital Twins
+### From Simulation to Autonomy: Reviews of the Integration of Artificial Intelligence and Digital Twins
 - **DOI**: [10.1007/s40684-025-00750-z](https://doi.org/10.1007/s40684-025-00750-z)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -686,7 +686,7 @@ arc_score: 6
 
 ---
 
-### Correction Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning
+### Correction: Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning
 - **DOI**: [10.1007/s40684-025-00752-x](https://doi.org/10.1007/s40684-025-00752-x)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -724,7 +724,7 @@ arc_score: 6
 
 ---
 
-### Evaluation of Mono and Hybrid Nanofluids in MQL Milling of Ti6Al4V Machining Performance Surface Integrity and Sustainability
+### Evaluation of Mono and Hybrid Nanofluids in MQL Milling of Ti–6Al–4V: Machining Performance, Surface Integrity and Sustainability
 - **DOI**: [10.1007/s40684-025-00757-6](https://doi.org/10.1007/s40684-025-00757-6)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -789,14 +789,14 @@ arc_score: 6
 
 ---
 
-### Functionally Graded Metallic Materials Via Additive Manufacturing Research Progress on Processing Challenges and Applications
+### Functionally Graded Metallic Materials Via Additive Manufacturing: Research Progress on Processing, Challenges, and Applications
 - **DOI**: [10.1007/s40684-025-00766-5](https://doi.org/10.1007/s40684-025-00766-5)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Industrial Symbiosis Practice for Stakeholders Insights from Textile Practices for Sectoral Transformation
+### Industrial Symbiosis Practice for Stakeholders: Insights from Textile Practices for Sectoral Transformation
 - **DOI**: [10.1007/s40684-025-00767-4](https://doi.org/10.1007/s40684-025-00767-4)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -812,7 +812,7 @@ arc_score: 6
 
 ---
 
-### A Systematic Review of Machine Vision Applications in Factory and Manufacturing Processes From Quality Control to Predictive Diagnostics
+### A Systematic Review of Machine Vision Applications in Factory and Manufacturing Processes: From Quality Control to Predictive Diagnostics
 - **DOI**: [10.1007/s40684-025-00769-2](https://doi.org/10.1007/s40684-025-00769-2)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -827,7 +827,7 @@ arc_score: 6
 
 ---
 
-### Publisher Correction Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning
+### Publisher Correction: Carbon Emissions Prediction and Optimization Method of Hobbing with Multi-source Data Collaborative Based on Federated Learning
 - **DOI**: [10.1007/s40684-025-00771-8](https://doi.org/10.1007/s40684-025-00771-8)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -848,7 +848,7 @@ arc_score: 6
 
 ---
 
-### Superlubricity for Sustainable Technology A Review
+### Superlubricity for Sustainable Technology: A Review
 - **DOI**: [10.1007/s40684-025-00774-5](https://doi.org/10.1007/s40684-025-00774-5)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -879,7 +879,7 @@ arc_score: 6
 
 ---
 
-### Miniaturized Microbial Fuel Cells for Smart Devices Application and Power Generation
+### Miniaturized Microbial Fuel Cells for Smart Devices: Application and Power Generation
 - **DOI**: [10.1007/s40684-025-00778-1](https://doi.org/10.1007/s40684-025-00778-1)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -893,14 +893,14 @@ arc_score: 6
 
 ---
 
-### A Multi-Objective Deep Reinforcement Learning-Based ChargingDischarging Strategy for Electric Vehicle Charging Stations
+### A Multi-Objective Deep Reinforcement Learning-Based Charging/Discharging Strategy for Electric Vehicle Charging Stations
 - **DOI**: [10.1007/s40684-025-00780-7](https://doi.org/10.1007/s40684-025-00780-7)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Optimizing YSZ Doping on Nanoporous Pt Cathodes for Enhanced Oxygen Reduction Reaction at 500C
+### Optimizing YSZ Doping on Nanoporous Pt Cathodes for Enhanced Oxygen Reduction Reaction at 500 °C
 - **DOI**: [10.1007/s40684-025-00781-6](https://doi.org/10.1007/s40684-025-00781-6)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -915,14 +915,14 @@ arc_score: 6
 
 ---
 
-### Decarbonization Strategies in Semiconductor Manufacturing Reducing Greenhouse Gas Emission and Energy Consumption in the CVD Process
+### Decarbonization Strategies in Semiconductor Manufacturing: Reducing Greenhouse Gas Emission and Energy Consumption in the CVD Process
 - **DOI**: [10.1007/s40684-025-00783-4](https://doi.org/10.1007/s40684-025-00783-4)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Evaluating the Interfacial Microstructure and Mechanical Behavior ofHybrid Additive Manufactured AISI H13 Tool Steel
+### Evaluating the Interfacial Microstructure and Mechanical Behavior of Hybrid Additive Manufactured AISI H13 Tool Steel
 - **DOI**: [10.1007/s40684-025-00784-3](https://doi.org/10.1007/s40684-025-00784-3)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -936,7 +936,7 @@ arc_score: 6
 
 ---
 
-### In-situ Alloying of TantalumTungsten Via Laser Powder Bed Fusion Microstructure Mechanical and Acoustic Properties
+### In-situ Alloying of Tantalum–Tungsten Via Laser Powder Bed Fusion: Microstructure, Mechanical, and Acoustic Properties
 - **DOI**: [10.1007/s40684-025-00786-1](https://doi.org/10.1007/s40684-025-00786-1)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -979,14 +979,14 @@ arc_score: 6
 
 ---
 
-### Recent Advances in Joining of Fiber-Reinforced Polymer Composites A Review on Thermoset and Thermoplastic Matrices
+### Recent Advances in Joining of Fiber-Reinforced Polymer Composites: A Review on Thermoset and Thermoplastic Matrices
 - **DOI**: [10.1007/s40684-025-00792-3](https://doi.org/10.1007/s40684-025-00792-3)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Nanomaterial-Enhanced Electrochemical Biosensing of Breast Cancer Biomarkers A Review of Innovations in Materials Mechanisms and Clinical Potential
+### Nanomaterial-Enhanced Electrochemical Biosensing of Breast Cancer Biomarkers: A Review of Innovations in Materials, Mechanisms, and Clinical Potential
 - **DOI**: [10.1007/s40684-025-00793-2](https://doi.org/10.1007/s40684-025-00793-2)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -1014,7 +1014,7 @@ arc_score: 6
 
 ---
 
-### Performance Evaluation of Sustainable CL Strategies in Milling Carpenter 20 Towards Green Manufacturing with CryoNF-MQL and Quenched Tool
+### Performance Evaluation of Sustainable C/L Strategies in Milling Carpenter® 20: Towards Green Manufacturing with Cryo + NF-MQL and Quenched Tool
 - **DOI**: [10.1007/s40684-025-00797-y](https://doi.org/10.1007/s40684-025-00797-y)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -1028,7 +1028,7 @@ arc_score: 6
 
 ---
 
-### Green Hybrid Manufacturing of 3-Dimensional Fe6.5Si Magnetic Cores Integrated with Insulation Layers Via Material Extrusion and Spark Plasma Sintering
+### Green Hybrid Manufacturing of 3-Dimensional Fe–6.5%Si Magnetic Cores Integrated with Insulation Layers Via Material Extrusion and Spark Plasma Sintering
 - **DOI**: [10.1007/s40684-025-00799-w](https://doi.org/10.1007/s40684-025-00799-w)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -1049,14 +1049,14 @@ arc_score: 6
 
 ---
 
-### Correction Stability Enhancement of Reformate-Fueled Low-Temperature Solid Oxide Fuel Cell with Nickel Thin-Film Anode by Water Bubbling
+### Correction: Stability Enhancement of Reformate-Fueled, Low-Temperature Solid Oxide Fuel Cell with Nickel Thin-Film Anode by Water Bubbling
 - **DOI**: [10.1007/s40684-025-00802-4](https://doi.org/10.1007/s40684-025-00802-4)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Correction Functionally Graded Metallic Materials Via Additive Manufacturing Research Progress on Processing Challenges and Applications
+### Correction: Functionally Graded Metallic Materials Via Additive Manufacturing: Research Progress on Processing, Challenges, and Applications
 - **DOI**: [10.1007/s40684-025-00803-3](https://doi.org/10.1007/s40684-025-00803-3)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -1077,7 +1077,7 @@ arc_score: 6
 
 ---
 
-### Correction Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm
+### Correction: Multi-Objective Optimization of Enhanced Flow Channel Structures with Baffles in PEMFCs Using Artificial Neural Networks and Genetic Algorithm
 - **DOI**: [10.1007/s40684-025-00810-4](https://doi.org/10.1007/s40684-025-00810-4)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -1098,7 +1098,7 @@ arc_score: 6
 
 ---
 
-### Precision Additive Manufacturing of Dental Scaffolds Using a HydroxyapatiteZirconia Bioceramic Composite Derived from Discarded Eggshells
+### Precision Additive Manufacturing of Dental Scaffolds Using a Hydroxyapatite/Zirconia Bioceramic Composite Derived from Discarded Eggshells
 - **DOI**: [10.1007/s40684-025-00814-0](https://doi.org/10.1007/s40684-025-00814-0)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -1112,7 +1112,7 @@ arc_score: 6
 
 ---
 
-### Next-Generation Catalysts from Spent Lithium-ion Battery Cathodes A Sustainable Recycling Paradigm
+### Next-Generation Catalysts from Spent Lithium-ion Battery Cathodes: A Sustainable Recycling Paradigm
 - **DOI**: [10.1007/s40684-025-00817-x](https://doi.org/10.1007/s40684-025-00817-x)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -1126,14 +1126,14 @@ arc_score: 6
 
 ---
 
-### Mobile Energy Management System for E-motorcycle Integrated with Micro Off-Grid A Case Study in Rural Tanzania
+### Mobile Energy Management System for E-motorcycle Integrated with Micro Off-Grid: A Case Study in Rural Tanzania
 - **DOI**: [10.1007/s40684-025-00824-y](https://doi.org/10.1007/s40684-025-00824-y)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Large-Sized Segmented-in-Series SOFC on Flat-Tubular Substrates Performance and Preliminary Redox Cycling Study
+### Large-Sized Segmented-in-Series SOFC on Flat-Tubular Substrates: Performance and Preliminary Redox Cycling Study
 - **DOI**: [10.1007/s40684-025-00825-x](https://doi.org/10.1007/s40684-025-00825-x)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available

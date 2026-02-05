@@ -13,29 +13,29 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Inhalt dieses Heftes|Inhalt dieses Heftes]] |
-| 2 | NT, OT, Systematic Theology | - | [[#Tora in der Perserzeit|Tora in der Perserzeit]] |
-| 3 | - | - | [[#. . . damit Gott alles in allen sei. 1 Kor 1528|». . . damit Gott alles in allen sei.« (1 Kor 15,28)]] |
-| 4 | Church History | Contemporary, Patristic, Reformation | [[#Das Konzil von Nizäa 325 in patristischer und reformatorischer Perspektive|Das Konzil von Nizäa (325) in patristischer und reformatorischer Perspektive]] |
-| 5 | Church History | Medieval, Modern, Reformation | [[#Die Geburt der westlichen Moderne aus dem Geist der Religion|Die Geburt der westlichen Moderne aus dem Geist der Religion]] |
-| 6 | Church History | Modern, Reformation | [[#Theologen mit Stil oder Menschenfresser|»Theologen mit Stil« oder »Menschenfresser«?]] |
-| 7 | - | - | [[#Inhalt dieses Heftes|Inhalt dieses Heftes]] |
-| 8 | NT, Systematic Theology | - | [[#Verstoßt den Bösen aus eurer Mitte 1 Kor 513|»Verstoßt den Bösen aus eurer Mitte!« (1 Kor 5,13)]] |
-| 9 | Church History | Reformation | [[#Die Macht des Bösen|Die Macht des Bösen]] |
-| 10 | - | - | [[#Böses|Böses]] |
-| 11 | OT, Practical Theology | - | [[#Vom Bösen nicht schweigen|Vom Bösen nicht schweigen]] |
-| 12 | - | - | [[#Inhalt dieses Heftes|Inhalt dieses Heftes]] |
-| 13 | - | - | [[#Jan Assmann 19382024. Ägyptologe  Kulturwissenschaftler  Religionshistoriker|Jan Assmann (1938–2024). Ägyptologe – Kulturwissenschaftler – Religionshistoriker]] |
-| 14 | NT | Modern | [[#Paulus als biblischer Bürge der Neologie. Dargestellt am Beispiel von Johann Joachim Spalding|Paulus als biblischer Bürge der Neologie. Dargestellt am Beispiel von Johann Joachim Spalding]] |
-| 15 | - | - | [[#Wahrheit  Wirklichkeit  Glaube. Über einen unaufgebbaren Zusammenhang|Wahrheit – Wirklichkeit – Glaube. Über einen unaufgebbaren Zusammenhang]] |
-| 16 | - | Reformation | [[#De falsa religione. Der Beitrag der Religionskritik zur pluralistischen Religionstheorie|De falsa religione. Der Beitrag der Religionskritik zur pluralistischen Religionstheorie]] |
-| 17 | - | - | [[#Bilanz|Bilanz]] |
-| 18 | - | - | [[#Inhalt dieses Heftes|Inhalt dieses Heftes]] |
-| 19 | - | - | [[#Geprägtes Gut zwischen öffentlicher und privater Religion|Geprägtes Gut zwischen öffentlicher und privater Religion]] |
-| 20 | Systematic Theology | - | [[#Glaubenslehre revisited|Glaubenslehre revisited]] |
-| 21 | Philosophy of Religion | - | [[#Bultmanns Jenseits als entmythologisierter Begriff|Bultmanns Jenseits als entmythologisierter Begriff]] |
-| 22 | - | - | [[#Kirchenräume ohne Mauern|Kirchenräume ohne Mauern]] |
-| 23 | Systematic Theology | - | [[#Welche Rechtfertigung braucht der Mensch|Welche Rechtfertigung braucht der Mensch?]] |
+| 1 | - | - | [Inhalt dieses Heftes](#inhalt-dieses-heftes) |
+| 2 | NT, OT, Systematic Theology | - | [Tora in der Perserzeit](#tora-in-der-perserzeit) |
+| 3 | - | - | [». . . damit Gott alles in allen sei.« (1 Kor 15,28)](#damit-gott-alles-in-allen-sei-1-kor-1528) |
+| 4 | Church History | Contemporary, Patristic, Reformation | [Das Konzil von Nizäa (325) in patristischer und reformatorischer Perspektive](#das-konzil-von-nizäa-325-in-patristischer-und-reformatorischer-perspektive) |
+| 5 | Church History | Medieval, Modern, Reformation | [Die Geburt der westlichen Moderne aus dem Geist der Religion](#die-geburt-der-westlichen-moderne-aus-dem-geist-der-religion) |
+| 6 | Church History | Modern, Reformation | [»Theologen mit Stil« oder »Menschenfresser«?](#theologen-mit-stil-oder-menschenfresser) |
+| 7 | - | - | [Inhalt dieses Heftes](#inhalt-dieses-heftes) |
+| 8 | NT, Systematic Theology | - | [»Verstoßt den Bösen aus eurer Mitte!« (1 Kor 5,13)](#verstoßt-den-bösen-aus-eurer-mitte-1-kor-513) |
+| 9 | Church History | Reformation | [Die Macht des Bösen](#die-macht-des-bösen) |
+| 10 | - | - | [Böses](#böses) |
+| 11 | OT, Practical Theology | - | [Vom Bösen nicht schweigen](#vom-bösen-nicht-schweigen) |
+| 12 | - | - | [Inhalt dieses Heftes](#inhalt-dieses-heftes) |
+| 13 | - | - | [Jan Assmann (1938–2024). Ägyptologe – Kulturwissenschaftler – Religionshistoriker](#jan-assmann-19382024-ägyptologe-kulturwissenschaftler-religionshistoriker) |
+| 14 | NT | Modern | [Paulus als biblischer Bürge der Neologie. Dargestellt am Beispiel von Johann Joachim Spalding](#paulus-als-biblischer-bürge-der-neologie-dargestellt-am-beispiel-von-johann-joachim-spalding) |
+| 15 | - | - | [Wahrheit – Wirklichkeit – Glaube. Über einen unaufgebbaren Zusammenhang](#wahrheit-wirklichkeit-glaube-über-einen-unaufgebbaren-zusammenhang) |
+| 16 | - | Reformation | [De falsa religione. Der Beitrag der Religionskritik zur pluralistischen Religionstheorie](#de-falsa-religione-der-beitrag-der-religionskritik-zur-pluralistischen-religionstheorie) |
+| 17 | - | - | [Bilanz](#bilanz) |
+| 18 | - | - | [Inhalt dieses Heftes](#inhalt-dieses-heftes) |
+| 19 | - | - | [Geprägtes Gut zwischen öffentlicher und privater Religion](#geprägtes-gut-zwischen-öffentlicher-und-privater-religion) |
+| 20 | Systematic Theology | - | [Glaubenslehre revisited](#glaubenslehre-revisited) |
+| 21 | Philosophy of Religion | - | [Bultmanns Jenseits als entmythologisierter Begriff](#bultmanns-jenseits-als-entmythologisierter-begriff) |
+| 22 | - | - | [Kirchenräume ohne Mauern](#kirchenräume-ohne-mauern) |
+| 23 | Systematic Theology | - | [Welche Rechtfertigung braucht der Mensch?](#welche-rechtfertigung-braucht-der-mensch) |
 
 ---
 
@@ -53,14 +53,14 @@ arc_score: 6
 
 ---
 
-### . . . damit Gott alles in allen sei. 1 Kor 1528
+### ». . . damit Gott alles in allen sei.« (1 Kor 15,28)
 - **DOI**: [10.1628/zthk-2025-0003](https://doi.org/10.1628/zthk-2025-0003)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: The statement in 1 Corinthians 15:28c »that God may be all in all« is usually interpretedin terms of dominion. Accordingly, this formulation is seen as a statement of Gods »absolutedominion«. This article scrutinises this interpretation and instead interprets it as astatement of the perfect and most intimate communion that renounces all forms of dominion.
 
 ---
 
-### Das Konzil von Nizäa 325 in patristischer und reformatorischer Perspektive
+### Das Konzil von Nizäa (325) in patristischer und reformatorischer Perspektive
 - **DOI**: [10.1628/zthk-2025-0004](https://doi.org/10.1628/zthk-2025-0004)
 - **Analytical Tags**: `Church History / - / Contemporary;Patristic;Reformation`
 - **Abstract**: The present contribution focuses on the impact of the Council of Nicaea (325) on thethought of Martin Luther and Philipp Melanchthon. It discusses, on the one hand, thedebates surrounding the Leipzig disputation and, on the other hand, the hermeneutics oftradition that both reformers advanced in the late 1530s. A comparison with contemporaryresearch on Nicaea and its reception in Late Antiquity highlights which images ofthe council the Reformers employed to argue their case. Observing the tension betweenNicaea as an ideal orthodox synod and the controversies about this council in its immediateaftermath leads to the question of how protestant theology and churches may usethe anniversary in 2025 to clarify the relationship to the patristic and conciliar tradition.
@@ -74,7 +74,7 @@ arc_score: 6
 
 ---
 
-### Theologen mit Stil oder Menschenfresser
+### »Theologen mit Stil« oder »Menschenfresser«?
 - **DOI**: [10.1628/zthk-2025-0006](https://doi.org/10.1628/zthk-2025-0006)
 - **Analytical Tags**: `Church History / - / Modern;Reformation`
 - **Abstract**: From the beginning of his academic career, Karl Barth had a very critical relationshipwith the neo-Calvinism of Abraham Kuyper and Herman Bavinck. Failed attempts at rapprochement,misunderstandings, polemics and fundamental theological differences seemto have prevented any cooperation. At the same time, a major parallel between the twotheological concepts, namely the endeavour to update the theology of Reformation forthe present and to develop it politically and culturally, has been recognised repeatedly andrecently discussed anew. This study therefore traces Barths assessment of neo-Calvinismand asks about the causes of the mutual rejection as well as points of contact for a constructivediscourse on the theological approaches of Barth and neo-Calvinism.
@@ -88,7 +88,7 @@ arc_score: 6
 
 ---
 
-### Verstoßt den Bösen aus eurer Mitte 1 Kor 513
+### »Verstoßt den Bösen aus eurer Mitte!« (1 Kor 5,13)
 - **DOI**: [10.1628/zthk-2025-0008](https://doi.org/10.1628/zthk-2025-0008)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: The article explores the question of how the presence of evil (poneros) actors was addressed in the early Christian community of Corinth. Drawing on the doctrine of fundamental salvation for believers and acknowledging their presence in the evil aion, Paul crafts an apotropaic formula against the enemies of Christ in 1 Corinthians 16:22. Concurrently, in 1 Corinthians 5:1 – 13, Paul provides the Corinthians with instructions on how to address a currently evil individual, with the objective of returning the evil to the evil aion.
@@ -123,7 +123,7 @@ arc_score: 6
 
 ---
 
-### Jan Assmann 19382024. Ägyptologe  Kulturwissenschaftler  Religionshistoriker
+### Jan Assmann (1938–2024). Ägyptologe – Kulturwissenschaftler – Religionshistoriker
 - **DOI**: [10.1628/zthk-2025-0013](https://doi.org/10.1628/zthk-2025-0013)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: This article is dedicated to the life and work of Egyptologist and cultural scholar Jan Assmann, who died in 2024 at the age of 85. It places Assmanns cultural-historical theses, such as those on cultural memory and the Mosaic distinction, in the context of his Egyptological work, beginning with his biographical stages and how he was influenced by his Egyptology teachers Georges Posener and Eberhard Otto. Particularly prominent among his research contributions are his studies on Egyptian religion, for which he developed the significant concept of cosmotheism. Furthermore, tribute is also paid to the contribution of Aleida Assmann, whose constant dialogue with her husband helped develop his influential cultural-historical theories.
@@ -137,7 +137,7 @@ arc_score: 6
 
 ---
 
-### Wahrheit  Wirklichkeit  Glaube. Über einen unaufgebbaren Zusammenhang
+### Wahrheit – Wirklichkeit – Glaube. Über einen unaufgebbaren Zusammenhang
 - **DOI**: [10.1628/zthk-2025-0015](https://doi.org/10.1628/zthk-2025-0015)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: True statements are required to reflect reality appropriately. And whilst reality is that which is given to mankind in its entirety, ultimately it can only be discovered through an existential approach. Truth, reality and faith therefore belong together, finds this article.
@@ -193,7 +193,7 @@ arc_score: 6
 
 ---
 
-### Welche Rechtfertigung braucht der Mensch
+### Welche Rechtfertigung braucht der Mensch?
 - **DOI**: [10.1628/zthk-2025-0023](https://doi.org/10.1628/zthk-2025-0023)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: The reception of the doctrine of justification is a striking touchstone for the theological quality of sermons and their relevance in the everyday lives of listeners. In both respects, it proves to be a problem: sermons that refer to the topos of justification usually do so in the speech act of assertion; and they often claim the justification of the sinner for experiences for which no justification is needed at all, which paradoxically gives them a legal note. This homiletical practice is, among other things, the consequence of inconsistent but highly effective anthropological premises concerning human freedom and dignity. This article takes the view that part of the challenge of a justifying sermon is not simply to proclaim freedom and dignity as a gift, but to support the audience in appropriating, deepening and consolidating them as an attitude.

@@ -13,56 +13,56 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | Medieval | [[#Aquinas on Beauty and Umberto Ecos Interpretation|Aquinas on Beauty and Umberto Eco’s Interpretation]] |
-| 2 | Systematic Theology | Contemporary | [[#Hermann Cohens Shadow Dialogue with the Ritschlian School on Atonement|Hermann Cohen’s Shadow Dialogue with the Ritschlian School on Atonement]] |
-| 3 | - | Contemporary | [[#Varieties of Religious Naturalism A Conceptual Investigation|Varieties of Religious Naturalism: A Conceptual Investigation]] |
-| 4 | - | - | [[#Das Gute und Gewissen in Hegels Rechtsphilosophie  das Wahre im christlichen Gottesbild und Glauben|Das Gute und Gewissen in Hegels Rechtsphilosophie – das Wahre im christlichen Gottesbild und Glauben]] |
-| 5 | - | - | [[#The Epistemic and Other Virtues of Non-Socratic Dialogue|The Epistemic and Other Virtues of Non-Socratic Dialogue]] |
-| 6 | - | - | [[#Heiko Schulz Perfect Partner in Dialogue|Heiko Schulz, Perfect Partner in Dialogue]] |
-| 7 | - | - | [[#Rejoinder to Menachem Fisch A Few Stubbornly Penultimate Reflections|Rejoinder to Menachem Fisch: A Few Stubbornly Penultimate Reflections]] |
-| 8 | - | - | [[#When the Second-Person Perspective is the First On the Interconnection between Second- and First-Person Perspective regarding an Individuals Self-Relationship and its Theological Consequences|When the Second-Person Perspective is the First: On the Interconnection between Second- and First-Person Perspective regarding an Individual’s Self-Relationship and its Theological Consequences]] |
-| 9 | - | Reformation | [[#A Dialogue of Mutual Recognition|A Dialogue of Mutual Recognition]] |
-| 10 | - | - | [[#Dialogue and Relational Ontology Rethinking the Significance of the Second-Person Perspective|Dialogue and Relational Ontology: Rethinking the Significance of the Second-Person Perspective]] |
-| 11 | Philosophy of Religion | - | [[#Response to Bishop and Perszyk|Response to Bishop and Perszyk]] |
-| 12 | - | - | [[#Pagan Religious Naturalism|Pagan Religious Naturalism]] |
-| 13 | Systematic Theology | - | [[#Humor und Glaube|Humor und Glaube]] |
-| 14 | Systematic Theology | - | [[#Vom moralischen Beweis zur Vernunftkritik|Vom moralischen Beweis zur Vernunftkritik]] |
-| 15 | NT, Systematic Theology | - | [[#Bound to be free|Bound to be free?]] |
-| 16 | OT | - | [[#Covenant Sacrifice and Familial Relationships|Covenant, Sacrifice, and Familial Relationships]] |
-| 17 | - | - | [[#Promises Limits Covenants Promise|Promises’ Limits, Covenant’s Promise]] |
-| 18 | - | Modern | [[#iRezeptionsgeschichtei of Schleiermachers religious and theological thought in the Chinese-speaking World|<i>Rezeptionsgeschichte</i> of Schleiermacher’s religious and theological thought in the Chinese-speaking World]] |
-| 19 | Systematic Theology | - | [[#Vom                    iBlamingi                    zum                    iShamingi|Vom
+| 1 | - | Medieval | [Aquinas on Beauty and Umberto Eco’s Interpretation](#aquinas-on-beauty-and-umberto-ecos-interpretation) |
+| 2 | Systematic Theology | Contemporary | [Hermann Cohen’s Shadow Dialogue with the Ritschlian School on Atonement](#hermann-cohens-shadow-dialogue-with-the-ritschlian-school-on-atonement) |
+| 3 | - | Contemporary | [Varieties of Religious Naturalism: A Conceptual Investigation](#varieties-of-religious-naturalism-a-conceptual-investigation) |
+| 4 | - | - | [Das Gute und Gewissen in Hegels Rechtsphilosophie – das Wahre im christlichen Gottesbild und Glauben](#das-gute-und-gewissen-in-hegels-rechtsphilosophie-das-wahre-im-christlichen-gottesbild-und-glauben) |
+| 5 | - | - | [The Epistemic and Other Virtues of Non-Socratic Dialogue](#the-epistemic-and-other-virtues-of-non-socratic-dialogue) |
+| 6 | - | - | [Heiko Schulz, Perfect Partner in Dialogue](#heiko-schulz-perfect-partner-in-dialogue) |
+| 7 | - | - | [Rejoinder to Menachem Fisch: A Few Stubbornly Penultimate Reflections](#rejoinder-to-menachem-fisch-a-few-stubbornly-penultimate-reflections) |
+| 8 | - | - | [When the Second-Person Perspective is the First: On the Interconnection between Second- and First-Person Perspective regarding an Individual’s Self-Relationship and its Theological Consequences](#when-the-second-person-perspective-is-the-first-on-the-interconnection-between-second-and-first-person-perspective-regarding-an-individuals-self-relationship-and-its-theological-consequences) |
+| 9 | - | Reformation | [A Dialogue of Mutual Recognition](#a-dialogue-of-mutual-recognition) |
+| 10 | - | - | [Dialogue and Relational Ontology: Rethinking the Significance of the Second-Person Perspective](#dialogue-and-relational-ontology-rethinking-the-significance-of-the-second-person-perspective) |
+| 11 | Philosophy of Religion | - | [Response to Bishop and Perszyk](#response-to-bishop-and-perszyk) |
+| 12 | - | - | [Pagan Religious Naturalism](#pagan-religious-naturalism) |
+| 13 | Systematic Theology | - | [Humor und Glaube](#humor-und-glaube) |
+| 14 | Systematic Theology | - | [Vom moralischen Beweis zur Vernunftkritik](#vom-moralischen-beweis-zur-vernunftkritik) |
+| 15 | NT, Systematic Theology | - | [Bound to be free?](#bound-to-be-free) |
+| 16 | OT | - | [Covenant, Sacrifice, and Familial Relationships](#covenant-sacrifice-and-familial-relationships) |
+| 17 | - | - | [Promises’ Limits, Covenant’s Promise](#promises-limits-covenants-promise) |
+| 18 | - | Modern | [<i>Rezeptionsgeschichte</i> of Schleiermacher’s religious and theological thought in the Chinese-speaking World](#irezeptionsgeschichtei-of-schleiermachers-religious-and-theological-thought-in-the-chinese-speaking-world) |
+| 19 | Systematic Theology | - | [Vom
                     <i>Blaming</i>
                     zum
-                    <i>Shaming</i>]] |
-| 20 | NT, Philosophy of Religion, Systematic Theology | - | [[#Der große Pan-Theismusstreit der deutschen Religionsphilosophie Sentimentalisten gegen Idealisten|Der große (Pan-)Theismusstreit der deutschen Religionsphilosophie: Sentimentalisten gegen Idealisten]] |
-| 21 | - | - | [[#The Meaning of History According to the Covenant|The Meaning of History According to the Covenant]] |
-| 22 | Systematic Theology | Contemporary | [[#Selbstverständigung Selbsterkenntnis und Religion|Selbstverständigung, Selbsterkenntnis und Religion]] |
-| 23 | Systematic Theology | - | [[#iChristus Victori                    Revisited A Proposal for a Thoroughly Dramatic View of the Atonement|<i>Christus Victor</i>
-                    Revisited: A Proposal for a Thoroughly Dramatic View of the Atonement]] |
-| 24 | - | Modern | [[#iWirkungsgeschichtei and Jürgen Moltmanns Theological Reception in China A Response to Naomi Thurston|<i>Wirkungsgeschichte</i> and Jürgen Moltmann’s Theological Reception in China: A Response to Naomi Thurston]] |
-| 25 | - | - | [[#Hope Abiding|Hope Abiding]] |
-| 26 | - | - | [[#Replies to Gasser Schellenberg and Steinhart|Replies to Gasser, Schellenberg and Steinhart]] |
-| 27 | NT, OT | Contemporary | [[#The Reception of Paul Tillich in Sino-Christian Theology|The Reception of Paul Tillich in Sino-Christian Theology]] |
-| 28 | NT, Systematic Theology | Modern, Reformation | [[#Wolfhart Pannenberg for Sino-Christian Theology A Third Way between Liu Xiaofeng and He Guanghu|Wolfhart Pannenberg for Sino-Christian Theology: A Third Way between Liu Xiaofeng and He Guanghu]] |
-| 29 | NT, Systematic Theology | Modern | [[#After Nietzsche How Can We Do Sino-Christian Theology Today  Critical Assessment of Liu Xiaofengs Sino-Christian Theological Proposals in 1994 and 1999|After Nietzsche: How Can We Do Sino-Christian Theology Today? – Critical Assessment of Liu Xiaofeng’s Sino-Christian Theological Proposals in 1994 and 1999]] |
-| 30 | - | Contemporary | [[#From Chinese Theology to Alternative Sinicizations Theological Reception History and Moltmanns Theology in Greater China|From Chinese Theology to Alternative Sinicizations: Theological Reception History and Moltmann’s Theology in Greater China]] |
-| 31 | - | - | [[#The Art of Retrieval and the Science of History or How to Think                    iRessourcementi                    Historically|The Art of Retrieval and the Science of History, or How to Think
+                    <i>Shaming</i>](#vom-iblamingi-zum-ishamingi) |
+| 20 | NT, Philosophy of Religion, Systematic Theology | - | [Der große (Pan-)Theismusstreit der deutschen Religionsphilosophie: Sentimentalisten gegen Idealisten](#der-große-pan-theismusstreit-der-deutschen-religionsphilosophie-sentimentalisten-gegen-idealisten) |
+| 21 | - | - | [The Meaning of History According to the Covenant](#the-meaning-of-history-according-to-the-covenant) |
+| 22 | Systematic Theology | Contemporary | [Selbstverständigung, Selbsterkenntnis und Religion](#selbstverständigung-selbsterkenntnis-und-religion) |
+| 23 | Systematic Theology | - | [<i>Christus Victor</i>
+                    Revisited: A Proposal for a Thoroughly Dramatic View of the Atonement](#ichristus-victori-revisited-a-proposal-for-a-thoroughly-dramatic-view-of-the-atonement) |
+| 24 | - | Modern | [<i>Wirkungsgeschichte</i> and Jürgen Moltmann’s Theological Reception in China: A Response to Naomi Thurston](#iwirkungsgeschichtei-and-jürgen-moltmanns-theological-reception-in-china-a-response-to-naomi-thurston) |
+| 25 | - | - | [Hope Abiding](#hope-abiding) |
+| 26 | - | - | [Replies to Gasser, Schellenberg and Steinhart](#replies-to-gasser-schellenberg-and-steinhart) |
+| 27 | NT, OT | Contemporary | [The Reception of Paul Tillich in Sino-Christian Theology](#the-reception-of-paul-tillich-in-sino-christian-theology) |
+| 28 | NT, Systematic Theology | Modern, Reformation | [Wolfhart Pannenberg for Sino-Christian Theology: A Third Way between Liu Xiaofeng and He Guanghu](#wolfhart-pannenberg-for-sino-christian-theology-a-third-way-between-liu-xiaofeng-and-he-guanghu) |
+| 29 | NT, Systematic Theology | Modern | [After Nietzsche: How Can We Do Sino-Christian Theology Today? – Critical Assessment of Liu Xiaofeng’s Sino-Christian Theological Proposals in 1994 and 1999](#after-nietzsche-how-can-we-do-sino-christian-theology-today-critical-assessment-of-liu-xiaofengs-sino-christian-theological-proposals-in-1994-and-1999) |
+| 30 | - | Contemporary | [From Chinese Theology to Alternative Sinicizations: Theological Reception History and Moltmann’s Theology in Greater China](#from-chinese-theology-to-alternative-sinicizations-theological-reception-history-and-moltmanns-theology-in-greater-china) |
+| 31 | - | - | [The Art of Retrieval and the Science of History, or How to Think
                     <i>Ressourcement</i>
-                    Historically]] |
-| 32 | - | Reformation | [[#Ertöt uns durch dein Güte  Das Werk Christi nach Martin Luther|„Ertöt‘ uns durch dein Güte“ – Das Werk Christi nach Martin Luther]] |
-| 33 | - | - | [[#Editorial|Editorial]] |
-| 34 | - | - | [[#Verantwortliches Denken und Handeln bei Hannah Arendt und Hermann Cohen|Verantwortliches Denken und Handeln bei Hannah Arendt und Hermann Cohen]] |
-| 35 | - | - | [[#Editorial|Editorial]] |
-| 36 | - | - | [[#The Present State of Systematic Theology Some Fragmentary Remarks|The Present State of Systematic Theology: Some Fragmentary Remarks]] |
-| 37 | - | - | [[#Frontmatter|Frontmatter]] |
-| 38 | - | - | [[#Frontmatter|Frontmatter]] |
-| 39 | - | - | [[#Frontmatter|Frontmatter]] |
-| 40 | - | - | [[#Frontmatter|Frontmatter]] |
+                    Historically](#the-art-of-retrieval-and-the-science-of-history-or-how-to-think-iressourcementi-historically) |
+| 32 | - | Reformation | [„Ertöt‘ uns durch dein Güte“ – Das Werk Christi nach Martin Luther](#ertöt-uns-durch-dein-güte-das-werk-christi-nach-martin-luther) |
+| 33 | - | - | [Editorial](#editorial) |
+| 34 | - | - | [Verantwortliches Denken und Handeln bei Hannah Arendt und Hermann Cohen](#verantwortliches-denken-und-handeln-bei-hannah-arendt-und-hermann-cohen) |
+| 35 | - | - | [Editorial](#editorial) |
+| 36 | - | - | [The Present State of Systematic Theology: Some Fragmentary Remarks](#the-present-state-of-systematic-theology-some-fragmentary-remarks) |
+| 37 | - | - | [Frontmatter](#frontmatter) |
+| 38 | - | - | [Frontmatter](#frontmatter) |
+| 39 | - | - | [Frontmatter](#frontmatter) |
+| 40 | - | - | [Frontmatter](#frontmatter) |
 
 ---
 
-### Aquinas on Beauty and Umberto Ecos Interpretation
+### Aquinas on Beauty and Umberto Eco’s Interpretation
 - **DOI**: [10.1515/nzsth-2024-0060](https://doi.org/10.1515/nzsth-2024-0060)
 - **Analytical Tags**: `- / - / Medieval`
 - **Abstract**: Abstract
@@ -70,7 +70,7 @@ arc_score: 6
 
 ---
 
-### Hermann Cohens Shadow Dialogue with the Ritschlian School on Atonement
+### Hermann Cohen’s Shadow Dialogue with the Ritschlian School on Atonement
 - **DOI**: [10.1515/nzsth-2024-0062](https://doi.org/10.1515/nzsth-2024-0062)
 - **Analytical Tags**: `Systematic Theology / - / Contemporary`
 - **Abstract**: Abstract
@@ -87,7 +87,7 @@ arc_score: 6
 
 ---
 
-### Varieties of Religious Naturalism A Conceptual Investigation
+### Varieties of Religious Naturalism: A Conceptual Investigation
 - **DOI**: [10.1515/nzsth-2024-0063](https://doi.org/10.1515/nzsth-2024-0063)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: Abstract
@@ -95,7 +95,7 @@ arc_score: 6
 
 ---
 
-### Das Gute und Gewissen in Hegels Rechtsphilosophie  das Wahre im christlichen Gottesbild und Glauben
+### Das Gute und Gewissen in Hegels Rechtsphilosophie – das Wahre im christlichen Gottesbild und Glauben
 - **DOI**: [10.1515/nzsth-2024-0064](https://doi.org/10.1515/nzsth-2024-0064)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Zusammenfassung
@@ -111,7 +111,7 @@ arc_score: 6
 
 ---
 
-### Heiko Schulz Perfect Partner in Dialogue
+### Heiko Schulz, Perfect Partner in Dialogue
 - **DOI**: [10.1515/nzsth-2024-0067](https://doi.org/10.1515/nzsth-2024-0067)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -119,7 +119,7 @@ arc_score: 6
 
 ---
 
-### Rejoinder to Menachem Fisch A Few Stubbornly Penultimate Reflections
+### Rejoinder to Menachem Fisch: A Few Stubbornly Penultimate Reflections
 - **DOI**: [10.1515/nzsth-2024-0068](https://doi.org/10.1515/nzsth-2024-0068)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -127,7 +127,7 @@ arc_score: 6
 
 ---
 
-### When the Second-Person Perspective is the First On the Interconnection between Second- and First-Person Perspective regarding an Individuals Self-Relationship and its Theological Consequences
+### When the Second-Person Perspective is the First: On the Interconnection between Second- and First-Person Perspective regarding an Individual’s Self-Relationship and its Theological Consequences
 - **DOI**: [10.1515/nzsth-2024-0070](https://doi.org/10.1515/nzsth-2024-0070)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -144,7 +144,7 @@ arc_score: 6
 
 ---
 
-### Dialogue and Relational Ontology Rethinking the Significance of the Second-Person Perspective
+### Dialogue and Relational Ontology: Rethinking the Significance of the Second-Person Perspective
 - **DOI**: [10.1515/nzsth-2025-0002](https://doi.org/10.1515/nzsth-2025-0002)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -183,7 +183,7 @@ arc_score: 6
 
 ---
 
-### Bound to be free
+### Bound to be free?
 - **DOI**: [10.1515/nzsth-2025-0007](https://doi.org/10.1515/nzsth-2025-0007)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -198,7 +198,7 @@ arc_score: 6
 
 ---
 
-### Covenant Sacrifice and Familial Relationships
+### Covenant, Sacrifice, and Familial Relationships
 - **DOI**: [10.1515/nzsth-2025-0009](https://doi.org/10.1515/nzsth-2025-0009)
 - **Analytical Tags**: `OT / Method / -`
 - **Abstract**: Abstract
@@ -206,7 +206,7 @@ arc_score: 6
 
 ---
 
-### Promises Limits Covenants Promise
+### Promises’ Limits, Covenant’s Promise
 - **DOI**: [10.1515/nzsth-2025-0011](https://doi.org/10.1515/nzsth-2025-0011)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -214,7 +214,7 @@ arc_score: 6
 
 ---
 
-### iRezeptionsgeschichtei of Schleiermachers religious and theological thought in the Chinese-speaking World
+### <i>Rezeptionsgeschichte</i> of Schleiermacher’s religious and theological thought in the Chinese-speaking World
 - **DOI**: [10.1515/nzsth-2025-0012](https://doi.org/10.1515/nzsth-2025-0012)
 - **Analytical Tags**: `- / - / Modern`
 - **Abstract**: Abstract
@@ -222,7 +222,10 @@ arc_score: 6
 
 ---
 
-### Vom                    iBlamingi                    zum                    iShamingi
+### Vom
+                    <i>Blaming</i>
+                    zum
+                    <i>Shaming</i>
 - **DOI**: [10.1515/nzsth-2025-0013](https://doi.org/10.1515/nzsth-2025-0013)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Zusammenfassung
@@ -255,7 +258,7 @@ arc_score: 6
 
 ---
 
-### Der große Pan-Theismusstreit der deutschen Religionsphilosophie Sentimentalisten gegen Idealisten
+### Der große (Pan-)Theismusstreit der deutschen Religionsphilosophie: Sentimentalisten gegen Idealisten
 - **DOI**: [10.1515/nzsth-2025-0017](https://doi.org/10.1515/nzsth-2025-0017)
 - **Analytical Tags**: `NT;Philosophy of Religion;Systematic Theology / - / -`
 - **Abstract**: Zusammenfassung
@@ -277,7 +280,7 @@ arc_score: 6
 
 ---
 
-### Selbstverständigung Selbsterkenntnis und Religion
+### Selbstverständigung, Selbsterkenntnis und Religion
 - **DOI**: [10.1515/nzsth-2025-0021](https://doi.org/10.1515/nzsth-2025-0021)
 - **Analytical Tags**: `Systematic Theology / - / Contemporary`
 - **Abstract**: Abstract
@@ -285,7 +288,8 @@ arc_score: 6
 
 ---
 
-### iChristus Victori                    Revisited A Proposal for a Thoroughly Dramatic View of the Atonement
+### <i>Christus Victor</i>
+                    Revisited: A Proposal for a Thoroughly Dramatic View of the Atonement
 - **DOI**: [10.1515/nzsth-2025-0026](https://doi.org/10.1515/nzsth-2025-0026)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -306,7 +310,7 @@ arc_score: 6
 
 ---
 
-### iWirkungsgeschichtei and Jürgen Moltmanns Theological Reception in China A Response to Naomi Thurston
+### <i>Wirkungsgeschichte</i> and Jürgen Moltmann’s Theological Reception in China: A Response to Naomi Thurston
 - **DOI**: [10.1515/nzsth-2025-0027](https://doi.org/10.1515/nzsth-2025-0027)
 - **Analytical Tags**: `- / - / Modern`
 - **Abstract**: Abstract
@@ -322,7 +326,7 @@ arc_score: 6
 
 ---
 
-### Replies to Gasser Schellenberg and Steinhart
+### Replies to Gasser, Schellenberg and Steinhart
 - **DOI**: [10.1515/nzsth-2025-0030](https://doi.org/10.1515/nzsth-2025-0030)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -338,7 +342,7 @@ arc_score: 6
 
 ---
 
-### Wolfhart Pannenberg for Sino-Christian Theology A Third Way between Liu Xiaofeng and He Guanghu
+### Wolfhart Pannenberg for Sino-Christian Theology: A Third Way between Liu Xiaofeng and He Guanghu
 - **DOI**: [10.1515/nzsth-2025-0033](https://doi.org/10.1515/nzsth-2025-0033)
 - **Analytical Tags**: `NT;Systematic Theology / - / Modern;Reformation`
 - **Abstract**: Abstract
@@ -346,7 +350,7 @@ arc_score: 6
 
 ---
 
-### After Nietzsche How Can We Do Sino-Christian Theology Today  Critical Assessment of Liu Xiaofengs Sino-Christian Theological Proposals in 1994 and 1999
+### After Nietzsche: How Can We Do Sino-Christian Theology Today? – Critical Assessment of Liu Xiaofeng’s Sino-Christian Theological Proposals in 1994 and 1999
 - **DOI**: [10.1515/nzsth-2025-0036](https://doi.org/10.1515/nzsth-2025-0036)
 - **Analytical Tags**: `NT;Systematic Theology / - / Modern`
 - **Abstract**: Abstract
@@ -354,7 +358,7 @@ arc_score: 6
 
 ---
 
-### From Chinese Theology to Alternative Sinicizations Theological Reception History and Moltmanns Theology in Greater China
+### From Chinese Theology to Alternative Sinicizations: Theological Reception History and Moltmann’s Theology in Greater China
 - **DOI**: [10.1515/nzsth-2025-0037](https://doi.org/10.1515/nzsth-2025-0037)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: Abstract
@@ -362,7 +366,9 @@ arc_score: 6
 
 ---
 
-### The Art of Retrieval and the Science of History or How to Think                    iRessourcementi                    Historically
+### The Art of Retrieval and the Science of History, or How to Think
+                    <i>Ressourcement</i>
+                    Historically
 - **DOI**: [10.1515/nzsth-2025-0039](https://doi.org/10.1515/nzsth-2025-0039)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -370,7 +376,7 @@ arc_score: 6
 
 ---
 
-### Ertöt uns durch dein Güte  Das Werk Christi nach Martin Luther
+### „Ertöt‘ uns durch dein Güte“ – Das Werk Christi nach Martin Luther
 - **DOI**: [10.1515/nzsth-2025-0041](https://doi.org/10.1515/nzsth-2025-0041)
 - **Analytical Tags**: `- / - / Reformation`
 - **Abstract**: Zusammenfassung
@@ -420,7 +426,7 @@ arc_score: 6
 
 ---
 
-### The Present State of Systematic Theology Some Fragmentary Remarks
+### The Present State of Systematic Theology: Some Fragmentary Remarks
 - **DOI**: [10.1515/nzsth-2025-0053](https://doi.org/10.1515/nzsth-2025-0053)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract

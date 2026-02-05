@@ -13,24 +13,24 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Front matter|Front matter]] |
-| 2 | - | - | [[#Editorial|Editorial]] |
-| 3 | Church History | Medieval | [[#The Riddles of Nerses Shnorhali in the Yaysmawurk Collections|The Riddles of Nerses Shnorhali in the Yaysmawurk Collections]] |
-| 4 | Church History | Medieval | [[#The Martyrdom of Vahan Goghtnatsi and its Spatio-Temporal Features|The Martyrdom of Vahan Goghtnatsi and its Spatio-Temporal Features]] |
-| 5 | - | - | [[#Slavonic Sirach from the Library of F.A. Tolstoy|Slavonic Sirach from the Library of F.A. Tolstoy]] |
-| 6 | - | - | [[#An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodromos|An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodromos]] |
-| 7 | Church History | Medieval | [[#The Cult of Nilus of Stolobny Lake Following the Church Reforms of the Early 18th Century|The Cult of Nilus of Stolobny Lake Following the Church Reforms of the Early 18th Century]] |
-| 8 | - | - | [[#Two Patriarchs and One Profession a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople|Two Patriarchs and One Profession: a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople]] |
-| 9 | - | - | [[#A Commented Psalter under the Name of Nicephorus Blemmydes ScholPs|A Commented Psalter under the Name of Nicephorus Blemmydes (ScholPs)]] |
-| 10 | NT | - | [[#Manuscript Sinai Greek 1338|Manuscript Sinai Greek 1338]] |
-| 11 | - | - | [[#Syriac Christian Polemic against Popular Religion|Syriac Christian Polemic against Popular Religion]] |
-| 12 | NT | Patristic | [[#The Pluralistic Contexts of Four Sets of Chrysostoms Homilies on the Letters of the Apostle Paul|The “Pluralistic” Contexts of Four Sets of Chrysostom’s Homilies on the Letters of the Apostle Paul]] |
-| 13 | Church History | - | [[#Codex X Reconstructing Two Manuscripts from the New Finds at St. Catherines Monastery Mount Sinai|Codex X: Reconstructing Two Manuscripts from the New Finds at St. Catherine’s Monastery (Mount Sinai)]] |
-| 14 | Church History, Systematic Theology | Medieval | [[#The Place of Adams Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles|The Place of Adam’s Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles]] |
-| 15 | - | - | [[#Ascetics Missionaries Lovers Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives|Ascetics, Missionaries, Lovers: Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives]] |
-| 16 | Systematic Theology | - | [[#The Οἰκονομικὴ Πραγματεία of Iobios the Monk Bibl. cod. 222|The Οἰκονομικὴ Πραγματεία of Iobios the Monk (Bibl. cod. 222)]] |
-| 17 | - | - | [[#Cult of Equestrian Saints and al-Muqawqis|Cult of Equestrian Saints and al-Muqawqis]] |
-| 18 | Systematic Theology | - | [[#From the Function of Agathangelos of Gregory the Illuminator to The History of Armenia by Agathangelos|From the Function of ‘Agathangelos’ of Gregory the Illuminator to “The History of Armenia” by Agathangelos]] |
+| 1 | - | - | [Front matter](#front-matter) |
+| 2 | - | - | [Editorial](#editorial) |
+| 3 | Church History | Medieval | [The Riddles of Nerses Shnorhali in the Yaysmawurk Collections](#the-riddles-of-nerses-shnorhali-in-the-yaysmawurk-collections) |
+| 4 | Church History | Medieval | [The Martyrdom of Vahan Goghtnatsi and its Spatio-Temporal Features](#the-martyrdom-of-vahan-goghtnatsi-and-its-spatio-temporal-features) |
+| 5 | - | - | [Slavonic Sirach from the Library of F.A. Tolstoy](#slavonic-sirach-from-the-library-of-fa-tolstoy) |
+| 6 | - | - | [An Unknown Opuscule by Barlaam of Calabria in Vaticanus Graecus 671 Misattributed to Theodore Prodromos](#an-unknown-opuscule-by-barlaam-of-calabria-in-vaticanus-graecus-671-misattributed-to-theodore-prodromos) |
+| 7 | Church History | Medieval | [The Cult of Nilus of Stolobny Lake Following the Church Reforms of the Early 18th Century](#the-cult-of-nilus-of-stolobny-lake-following-the-church-reforms-of-the-early-18th-century) |
+| 8 | - | - | [Two Patriarchs and One Profession: a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople](#two-patriarchs-and-one-profession-a-middle-byzantine-theological-compilation-misattributed-to-germanos-and-methodios-of-constantinople) |
+| 9 | - | - | [A Commented Psalter under the Name of Nicephorus Blemmydes (ScholPs)](#a-commented-psalter-under-the-name-of-nicephorus-blemmydes-scholps) |
+| 10 | NT | - | [Manuscript Sinai Greek 1338](#manuscript-sinai-greek-1338) |
+| 11 | - | - | [Syriac Christian Polemic against Popular Religion](#syriac-christian-polemic-against-popular-religion) |
+| 12 | NT | Patristic | [The “Pluralistic” Contexts of Four Sets of Chrysostom’s Homilies on the Letters of the Apostle Paul](#the-pluralistic-contexts-of-four-sets-of-chrysostoms-homilies-on-the-letters-of-the-apostle-paul) |
+| 13 | Church History | - | [Codex X: Reconstructing Two Manuscripts from the New Finds at St. Catherine’s Monastery (Mount Sinai)](#codex-x-reconstructing-two-manuscripts-from-the-new-finds-at-st-catherines-monastery-mount-sinai) |
+| 14 | Church History, Systematic Theology | Medieval | [The Place of Adam’s Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles](#the-place-of-adams-creation-and-his-sins-according-to-armenian-diagrammatic-biblical-chronicles) |
+| 15 | - | - | [Ascetics, Missionaries, Lovers: Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives](#ascetics-missionaries-lovers-interconfessional-confrontation-and-interaction-in-seventeenth-century-ottoman-armenian-eyewitness-narratives) |
+| 16 | Systematic Theology | - | [The Οἰκονομικὴ Πραγματεία of Iobios the Monk (Bibl. cod. 222)](#the-οἰκονομικὴ-πραγματεία-of-iobios-the-monk-bibl-cod-222) |
+| 17 | - | - | [Cult of Equestrian Saints and al-Muqawqis](#cult-of-equestrian-saints-and-al-muqawqis) |
+| 18 | Systematic Theology | - | [From the Function of ‘Agathangelos’ of Gregory the Illuminator to “The History of Armenia” by Agathangelos](#from-the-function-of-agathangelos-of-gregory-the-illuminator-to-the-history-of-armenia-by-agathangelos) |
 
 ---
 
@@ -116,7 +116,7 @@ arc_score: 6
 
 ---
 
-### Two Patriarchs and One Profession a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople
+### Two Patriarchs and One Profession: a Middle Byzantine Theological Compilation Misattributed to Germanos and Methodios of Constantinople
 - **DOI**: [10.1163/18177565-bja10126](https://doi.org/10.1163/18177565-bja10126)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -135,7 +135,7 @@ arc_score: 6
 
 ---
 
-### A Commented Psalter under the Name of Nicephorus Blemmydes ScholPs
+### A Commented Psalter under the Name of Nicephorus Blemmydes (ScholPs)
 - **DOI**: [10.1163/18177565-bja10127](https://doi.org/10.1163/18177565-bja10127)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -176,7 +176,7 @@ arc_score: 6
 
 ---
 
-### The Pluralistic Contexts of Four Sets of Chrysostoms Homilies on the Letters of the Apostle Paul
+### The “Pluralistic” Contexts of Four Sets of Chrysostom’s Homilies on the Letters of the Apostle Paul
 - **DOI**: [10.1163/18177565-bja10130](https://doi.org/10.1163/18177565-bja10130)
 - **Analytical Tags**: `NT / - / Patristic`
 - **Abstract**: Abstract
@@ -184,7 +184,7 @@ arc_score: 6
 
 ---
 
-### Codex X Reconstructing Two Manuscripts from the New Finds at St. Catherines Monastery Mount Sinai
+### Codex X: Reconstructing Two Manuscripts from the New Finds at St. Catherine’s Monastery (Mount Sinai)
 - **DOI**: [10.1163/18177565-bja10131](https://doi.org/10.1163/18177565-bja10131)
 - **Analytical Tags**: `Church History / - / -`
 - **Abstract**: Abstract
@@ -192,7 +192,7 @@ arc_score: 6
 
 ---
 
-### The Place of Adams Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles
+### The Place of Adam’s Creation and His Sins According to Armenian Diagrammatic Biblical Chronicles
 - **DOI**: [10.1163/18177565-bja10132](https://doi.org/10.1163/18177565-bja10132)
 - **Analytical Tags**: `Church History;Systematic Theology / - / Medieval`
 - **Abstract**: Abstract
@@ -201,7 +201,7 @@ arc_score: 6
 
 ---
 
-### Ascetics Missionaries Lovers Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives
+### Ascetics, Missionaries, Lovers: Interconfessional Confrontation and Interaction in Seventeenth Century Ottoman Armenian Eyewitness Narratives
 - **DOI**: [10.1163/18177565-bja10133](https://doi.org/10.1163/18177565-bja10133)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -209,7 +209,7 @@ arc_score: 6
 
 ---
 
-### The Οἰκονομικὴ Πραγματεία of Iobios the Monk Bibl. cod. 222
+### The Οἰκονομικὴ Πραγματεία of Iobios the Monk (Bibl. cod. 222)
 - **DOI**: [10.1163/18177565-bja10134](https://doi.org/10.1163/18177565-bja10134)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -269,7 +269,7 @@ arc_score: 6
 
 ---
 
-### From the Function of Agathangelos of Gregory the Illuminator to The History of Armenia by Agathangelos
+### From the Function of ‘Agathangelos’ of Gregory the Illuminator to “The History of Armenia” by Agathangelos
 - **DOI**: [10.1163/18177565-bja10136](https://doi.org/10.1163/18177565-bja10136)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract

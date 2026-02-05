@@ -13,32 +13,32 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Front matter|Front matter]] |
-| 2 | - | - | [[#Westwerk oder Tempelumbauung Ezechiels binjān Ez 411215b|„Westwerk“ oder Tempelumbauung? Ezechiels „binjān“ (Ez 41,12–15b)]] |
-| 3 | OT | - | [[#Maleachi ein Ausleger des Hosea Hosea und Maleachi als literarischer Rahmen des Zwölfprophetenbuches|Maleachi, ein Ausleger des Hosea? Hosea und Maleachi als literarischer Rahmen des Zwölfprophetenbuches]] |
-| 4 | NT, Systematic Theology | - | [[#The Sublimity of the Language of Jesus in the Gospel of John a Comparison with De sublimitate|The Sublimity of the Language of Jesus in the Gospel of John: a Comparison with De sublimitate]] |
-| 5 | NT | - | [[#Petrus die Reinigung der Herzen und die Inklusion in das Volk Gottes Apg 159|Petrus, die Reinigung der Herzen und die Inklusion in das Volk Gottes (Apg 15,9)]] |
-| 6 | NT, Systematic Theology | - | [[#Beschneidung und Neue Schöpfung in Gal 615. Was hat das eine mit dem anderen zu tun|Beschneidung und Neue Schöpfung in Gal 6,15. Was hat das eine mit dem anderen zu tun?]] |
-| 7 | OT | - | [[#Canaan in Genesis 92527 Servant of Brothers Servant of God|Canaan in Genesis 9,25–27: Servant of Brothers, Servant of God]] |
-| 8 | - | - | [[#Ehescheidung und Hass. Textkritisches zu Mal 216|Ehescheidung und Hass. Textkritisches zu Mal 2,16]] |
-| 9 | - | - | [[#Alttestamentliche Rezensionen|Alttestamentliche Rezensionen]] |
-| 10 | - | - | [[#78. SNTS Annual Meeting 2024 in Melbourne|78. SNTS Annual Meeting 2024 in Melbourne]] |
-| 11 | - | - | [[#Autorinnenspiegel|Autor*innenspiegel]] |
-| 12 | OT | - | [[#Ambiguity in Hezekiahs Last Words in Isaiah 398|Ambiguity in Hezekiah’s Last Words in Isaiah 39:8]] |
-| 13 | OT | - | [[#Der Knecht als Bild Gottes|Der Knecht als Bild Gottes]] |
-| 14 | NT | - | [[#Der geschützte Anfang  Hananias und Saphira in Apg 5111|Der geschützte Anfang – Hananias und Saphira in Apg 5,1–11]] |
-| 15 | - | - | [[#Bronze Stamps from Antioch-on-the-Orontes and Rest of Turkey|Bronze Stamps from Antioch-on-the-Orontes and Rest of Turkey]] |
-| 16 | - | - | [[#לך Second Person Feminine Singular or Second Person Masculine Singular The Study of Tiberian Prosodic Hierarchy|לָךְ: Second Person Feminine Singular or Second Person Masculine Singular? The Study of Tiberian Prosodic Hierarchy]] |
-| 17 | - | - | [[#A Mouthy Psalm the Poetics of MT Psalm 50 LXX Psalm 49|A Mouthy Psalm: the Poetics of MT Psalm 50/ LXX Psalm 49]] |
-| 18 | - | - | [[#Lukan Joy and the Life of Discipleship written by Julie Newberry|Lukan Joy and the Life of Discipleship, written by Julie Newberry]] |
-| 19 | NT | - | [[#The Message of the Jerusalem Council in the Acts of the Apostle written by Zachary K. Dawson|The Message of the Jerusalem Council in the Acts of the Apostle, written by Zachary K. Dawson]] |
-| 20 | NT | - | [[#Parodien in den Paulusbriefen written by Karina Barczyk|Parodien in den Paulusbriefen?, written by Karina Barczyk]] |
-| 21 | - | - | [[#Korinth II Das römische Korinth edited by Christoph Auffahrt|Korinth II: Das römische Korinth, edited by Christoph Auffahrt]] |
-| 22 | - | - | [[#Leiblich vermitteltes Leben written by Christine Jacobi|Leiblich vermitteltes Leben, written by Christine Jacobi]] |
-| 23 | - | - | [[#Dissertationen und Habilitationsschriften im Zeitraum 20222025|Dissertationen und Habilitationsschriften im Zeitraum 2022–2025]] |
-| 24 | - | - | [[#Zum Tod von Prof. em. Dr. Hans-Josef Klauck Ein Meister der Gelehrsamkeit|Zum Tod von Prof. em. Dr. Hans-Josef Klauck: Ein Meister der Gelehrsamkeit]] |
-| 25 | - | - | [[#Autorinnenspiegel|Autor*innenspiegel]] |
-| 26 | - | - | [[#Back matter|Back matter]] |
+| 1 | - | - | [Front matter](#front-matter) |
+| 2 | - | - | [„Westwerk“ oder Tempelumbauung? Ezechiels „binjān“ (Ez 41,12–15b)](#westwerk-oder-tempelumbauung-ezechiels-binjān-ez-411215b) |
+| 3 | OT | - | [Maleachi, ein Ausleger des Hosea? Hosea und Maleachi als literarischer Rahmen des Zwölfprophetenbuches](#maleachi-ein-ausleger-des-hosea-hosea-und-maleachi-als-literarischer-rahmen-des-zwölfprophetenbuches) |
+| 4 | NT, Systematic Theology | - | [The Sublimity of the Language of Jesus in the Gospel of John: a Comparison with De sublimitate](#the-sublimity-of-the-language-of-jesus-in-the-gospel-of-john-a-comparison-with-de-sublimitate) |
+| 5 | NT | - | [Petrus, die Reinigung der Herzen und die Inklusion in das Volk Gottes (Apg 15,9)](#petrus-die-reinigung-der-herzen-und-die-inklusion-in-das-volk-gottes-apg-159) |
+| 6 | NT, Systematic Theology | - | [Beschneidung und Neue Schöpfung in Gal 6,15. Was hat das eine mit dem anderen zu tun?](#beschneidung-und-neue-schöpfung-in-gal-615-was-hat-das-eine-mit-dem-anderen-zu-tun) |
+| 7 | OT | - | [Canaan in Genesis 9,25–27: Servant of Brothers, Servant of God](#canaan-in-genesis-92527-servant-of-brothers-servant-of-god) |
+| 8 | - | - | [Ehescheidung und Hass. Textkritisches zu Mal 2,16](#ehescheidung-und-hass-textkritisches-zu-mal-216) |
+| 9 | - | - | [Alttestamentliche Rezensionen](#alttestamentliche-rezensionen) |
+| 10 | - | - | [78. SNTS Annual Meeting 2024 in Melbourne](#78-snts-annual-meeting-2024-in-melbourne) |
+| 11 | - | - | [Autor*innenspiegel](#autorinnenspiegel) |
+| 12 | OT | - | [Ambiguity in Hezekiah’s Last Words in Isaiah 39:8](#ambiguity-in-hezekiahs-last-words-in-isaiah-398) |
+| 13 | OT | - | [Der Knecht als Bild Gottes](#der-knecht-als-bild-gottes) |
+| 14 | NT | - | [Der geschützte Anfang – Hananias und Saphira in Apg 5,1–11](#der-geschützte-anfang-hananias-und-saphira-in-apg-5111) |
+| 15 | - | - | [Bronze Stamps from Antioch-on-the-Orontes and Rest of Turkey](#bronze-stamps-from-antioch-on-the-orontes-and-rest-of-turkey) |
+| 16 | - | - | [לָךְ: Second Person Feminine Singular or Second Person Masculine Singular? The Study of Tiberian Prosodic Hierarchy](#לך-second-person-feminine-singular-or-second-person-masculine-singular-the-study-of-tiberian-prosodic-hierarchy) |
+| 17 | - | - | [A Mouthy Psalm: the Poetics of MT Psalm 50/ LXX Psalm 49](#a-mouthy-psalm-the-poetics-of-mt-psalm-50-lxx-psalm-49) |
+| 18 | - | - | [Lukan Joy and the Life of Discipleship, written by Julie Newberry](#lukan-joy-and-the-life-of-discipleship-written-by-julie-newberry) |
+| 19 | NT | - | [The Message of the Jerusalem Council in the Acts of the Apostle, written by Zachary K. Dawson](#the-message-of-the-jerusalem-council-in-the-acts-of-the-apostle-written-by-zachary-k-dawson) |
+| 20 | NT | - | [Parodien in den Paulusbriefen?, written by Karina Barczyk](#parodien-in-den-paulusbriefen-written-by-karina-barczyk) |
+| 21 | - | - | [Korinth II: Das römische Korinth, edited by Christoph Auffahrt](#korinth-ii-das-römische-korinth-edited-by-christoph-auffahrt) |
+| 22 | - | - | [Leiblich vermitteltes Leben, written by Christine Jacobi](#leiblich-vermitteltes-leben-written-by-christine-jacobi) |
+| 23 | - | - | [Dissertationen und Habilitationsschriften im Zeitraum 2022–2025](#dissertationen-und-habilitationsschriften-im-zeitraum-20222025) |
+| 24 | - | - | [Zum Tod von Prof. em. Dr. Hans-Josef Klauck: Ein Meister der Gelehrsamkeit](#zum-tod-von-prof-em-dr-hans-josef-klauck-ein-meister-der-gelehrsamkeit) |
+| 25 | - | - | [Autor*innenspiegel](#autorinnenspiegel) |
+| 26 | - | - | [Back matter](#back-matter) |
 
 ---
 
@@ -49,7 +49,7 @@ arc_score: 6
 
 ---
 
-### Westwerk oder Tempelumbauung Ezechiels binjān Ez 411215b
+### „Westwerk“ oder Tempelumbauung? Ezechiels „binjān“ (Ez 41,12–15b)
 - **DOI**: [10.30965/25890468-06901001](https://doi.org/10.30965/25890468-06901001)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -57,7 +57,7 @@ In his vision of a future temple (cf. Ezek. 40–42), the prophet Ezekiel mentio
 
 ---
 
-### Maleachi ein Ausleger des Hosea Hosea und Maleachi als literarischer Rahmen des Zwölfprophetenbuches
+### Maleachi, ein Ausleger des Hosea? Hosea und Maleachi als literarischer Rahmen des Zwölfprophetenbuches
 - **DOI**: [10.30965/25890468-06901002](https://doi.org/10.30965/25890468-06901002)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -65,7 +65,7 @@ In theories that argue for an original, coherent corpus of the Twelve Minor Prop
 
 ---
 
-### The Sublimity of the Language of Jesus in the Gospel of John a Comparison with De sublimitate
+### The Sublimity of the Language of Jesus in the Gospel of John: a Comparison with De sublimitate
 - **DOI**: [10.30965/25890468-06901003](https://doi.org/10.30965/25890468-06901003)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -73,7 +73,7 @@ This article employs Longinus’ concept of the sublime to interpret and explain
 
 ---
 
-### Petrus die Reinigung der Herzen und die Inklusion in das Volk Gottes Apg 159
+### Petrus, die Reinigung der Herzen und die Inklusion in das Volk Gottes (Apg 15,9)
 - **DOI**: [10.30965/25890468-06901004](https://doi.org/10.30965/25890468-06901004)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -82,7 +82,7 @@ The present article sheds light on the motif of the purification of hearts expre
 
 ---
 
-### Beschneidung und Neue Schöpfung in Gal 615. Was hat das eine mit dem anderen zu tun
+### Beschneidung und Neue Schöpfung in Gal 6,15. Was hat das eine mit dem anderen zu tun?
 - **DOI**: [10.30965/25890468-06901005](https://doi.org/10.30965/25890468-06901005)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -90,7 +90,7 @@ The Byzantine Chronographer Syncellos claims that καινὴ κτίσις („
 
 ---
 
-### Canaan in Genesis 92527 Servant of Brothers Servant of God
+### Canaan in Genesis 9,25–27: Servant of Brothers, Servant of God
 - **DOI**: [10.30965/25890468-06901006](https://doi.org/10.30965/25890468-06901006)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -98,7 +98,7 @@ The final clauses in Genesis 9,26–27 are often seen as continuing the curse on
 
 ---
 
-### Ehescheidung und Hass. Textkritisches zu Mal 216
+### Ehescheidung und Hass. Textkritisches zu Mal 2,16
 - **DOI**: [10.30965/25890468-06901007](https://doi.org/10.30965/25890468-06901007)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -120,14 +120,14 @@ Does Mal 2:16 quote God as hating divorce, or does the verse – on the contrary
 
 ---
 
-### Autorinnenspiegel
+### Autor*innenspiegel
 - **DOI**: [10.30965/25890468-06901010](https://doi.org/10.30965/25890468-06901010)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Ambiguity in Hezekiahs Last Words in Isaiah 398
+### Ambiguity in Hezekiah’s Last Words in Isaiah 39:8
 - **DOI**: [10.30965/25890468-06902001](https://doi.org/10.30965/25890468-06902001)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -143,7 +143,7 @@ This article deals with the theology of the so-called Servant Songs in Isaiah 41
 
 ---
 
-### Der geschützte Anfang  Hananias und Saphira in Apg 5111
+### Der geschützte Anfang – Hananias und Saphira in Apg 5,1–11
 - **DOI**: [10.30965/25890468-06902003](https://doi.org/10.30965/25890468-06902003)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -160,7 +160,7 @@ At appendix 1 at the end of the paper seven Roman and Early Byzantine bronze and
 
 ---
 
-### לך Second Person Feminine Singular or Second Person Masculine Singular The Study of Tiberian Prosodic Hierarchy
+### לָךְ: Second Person Feminine Singular or Second Person Masculine Singular? The Study of Tiberian Prosodic Hierarchy
 - **DOI**: [10.30965/25890468-06902005](https://doi.org/10.30965/25890468-06902005)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -168,7 +168,7 @@ Textbooks on Biblical Hebrew grammar, including works by Futato (2003), Verbrugg
 
 ---
 
-### A Mouthy Psalm the Poetics of MT Psalm 50 LXX Psalm 49
+### A Mouthy Psalm: the Poetics of MT Psalm 50/ LXX Psalm 49
 - **DOI**: [10.30965/25890468-06902006](https://doi.org/10.30965/25890468-06902006)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -176,56 +176,56 @@ The present article observes that Psalm 50 foregrounds mouth activities of speak
 
 ---
 
-### Lukan Joy and the Life of Discipleship written by Julie Newberry
+### Lukan Joy and the Life of Discipleship, written by Julie Newberry
 - **DOI**: [10.30965/25890468-06902007](https://doi.org/10.30965/25890468-06902007)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Message of the Jerusalem Council in the Acts of the Apostle written by Zachary K. Dawson
+### The Message of the Jerusalem Council in the Acts of the Apostle, written by Zachary K. Dawson
 - **DOI**: [10.30965/25890468-06902008](https://doi.org/10.30965/25890468-06902008)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Parodien in den Paulusbriefen written by Karina Barczyk
+### Parodien in den Paulusbriefen?, written by Karina Barczyk
 - **DOI**: [10.30965/25890468-06902009](https://doi.org/10.30965/25890468-06902009)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Korinth II Das römische Korinth edited by Christoph Auffahrt
+### Korinth II: Das römische Korinth, edited by Christoph Auffahrt
 - **DOI**: [10.30965/25890468-06902010](https://doi.org/10.30965/25890468-06902010)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Leiblich vermitteltes Leben written by Christine Jacobi
+### Leiblich vermitteltes Leben, written by Christine Jacobi
 - **DOI**: [10.30965/25890468-06902011](https://doi.org/10.30965/25890468-06902011)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Dissertationen und Habilitationsschriften im Zeitraum 20222025
+### Dissertationen und Habilitationsschriften im Zeitraum 2022–2025
 - **DOI**: [10.30965/25890468-06902012](https://doi.org/10.30965/25890468-06902012)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Zum Tod von Prof. em. Dr. Hans-Josef Klauck Ein Meister der Gelehrsamkeit
+### Zum Tod von Prof. em. Dr. Hans-Josef Klauck: Ein Meister der Gelehrsamkeit
 - **DOI**: [10.30965/25890468-06902013](https://doi.org/10.30965/25890468-06902013)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Autorinnenspiegel
+### Autor*innenspiegel
 - **DOI**: [10.30965/25890468-06902014](https://doi.org/10.30965/25890468-06902014)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available

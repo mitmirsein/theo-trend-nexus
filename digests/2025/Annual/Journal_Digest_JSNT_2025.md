@@ -13,94 +13,94 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | NT, Systematic Theology | - | [[#On Behalf of Creation Reading the Destructive Cosmic Eschatology of 2 Peter 3 in the Light of the Transfiguration|On Behalf of Creation: Reading the Destructive Cosmic Eschatology of 2 Peter 3 in the Light of the Transfiguration]] |
-| 2 | Systematic Theology | - | [[#JSNT Special Issue on Creation Introduction|JSNT Special Issue on Creation: Introduction]] |
-| 3 | Systematic Theology | - | [[#Matthew 13.19 and Soil Degradation A Subaltern and Ecological Reading|Matthew 13.1–9 and Soil Degradation: A Subaltern and Ecological Reading]] |
-| 4 | NT, Systematic Theology | - | [[#Christ and Creation in the Synoptic Gospels|Christ and Creation in the Synoptic Gospels]] |
-| 5 | NT, OT, Systematic Theology | - | [[#Upon All Flesh An Ecological Reading of Acts 2.1721|Upon All Flesh: An Ecological Reading of Acts 2.17–21]] |
-| 6 | NT | Contemporary | [[#The Fig Tree at the End of the World Reading Mark 111225 and Enduring Creaturely Violence|The Fig Tree at the End of the World: Reading Mark 11:12–25 and Enduring Creaturely Violence]] |
-| 7 | NT, Systematic Theology | - | [[#Cosmos κόσμος in the Gospel of John Humanity and the Nonhuman Creation|Cosmos (κόσμος) in the Gospel of John: Humanity and the Nonhuman Creation]] |
-| 8 | NT | - | [[#Social Fractures in the            iHabitusi             Pauls κατάρτισ- Language of Preventative and Responsive Care|Social Fractures in the
+| 1 | NT, Systematic Theology | - | [On Behalf of Creation: Reading the Destructive Cosmic Eschatology of 2 Peter 3 in the Light of the Transfiguration](#on-behalf-of-creation-reading-the-destructive-cosmic-eschatology-of-2-peter-3-in-the-light-of-the-transfiguration) |
+| 2 | Systematic Theology | - | [JSNT Special Issue on Creation: Introduction](#jsnt-special-issue-on-creation-introduction) |
+| 3 | Systematic Theology | - | [Matthew 13.1–9 and Soil Degradation: A Subaltern and Ecological Reading](#matthew-1319-and-soil-degradation-a-subaltern-and-ecological-reading) |
+| 4 | NT, Systematic Theology | - | [Christ and Creation in the Synoptic Gospels](#christ-and-creation-in-the-synoptic-gospels) |
+| 5 | NT, OT, Systematic Theology | - | [Upon All Flesh: An Ecological Reading of Acts 2.17–21](#upon-all-flesh-an-ecological-reading-of-acts-21721) |
+| 6 | NT | Contemporary | [The Fig Tree at the End of the World: Reading Mark 11:12–25 and Enduring Creaturely Violence](#the-fig-tree-at-the-end-of-the-world-reading-mark-111225-and-enduring-creaturely-violence) |
+| 7 | NT, Systematic Theology | - | [Cosmos (κόσμος) in the Gospel of John: Humanity and the Nonhuman Creation](#cosmos-κόσμος-in-the-gospel-of-john-humanity-and-the-nonhuman-creation) |
+| 8 | NT | - | [Social Fractures in the
             <i>Habitus</i>
-            : Paul’s κατάρτισ- Language of Preventative and Responsive Care]] |
-| 9 | NT | - | [[#Pauls Iconic Christ among Mediterranean Cult Statues A Comparison of Divine Images|Paul’s Iconic Christ among Mediterranean Cult Statues: A Comparison of Divine Images]] |
-| 10 | - | - | [[#He Came and Proclaimed Peace Christ as Herald in Ephesians 2.17|He Came and Proclaimed Peace: Christ as Herald in Ephesians 2.17]] |
-| 11 | NT, Systematic Theology | - | [[#The Salvation to All Creation Motif in Rom. 8.1825 Implications for            iAsase Yaai            Care in Ghana|The Salvation to All Creation Motif in Rom. 8.18–25: Implications for
+            : Paul’s κατάρτισ- Language of Preventative and Responsive Care](#social-fractures-in-the-ihabitusi-pauls-κατάρτισ-language-of-preventative-and-responsive-care) |
+| 9 | NT | - | [Paul’s Iconic Christ among Mediterranean Cult Statues: A Comparison of Divine Images](#pauls-iconic-christ-among-mediterranean-cult-statues-a-comparison-of-divine-images) |
+| 10 | - | - | [He Came and Proclaimed Peace: Christ as Herald in Ephesians 2.17](#he-came-and-proclaimed-peace-christ-as-herald-in-ephesians-217) |
+| 11 | NT, Systematic Theology | - | [The Salvation to All Creation Motif in Rom. 8.18–25: Implications for
             <i>Asase Yaa</i>
-            Care in Ghana]] |
-| 12 | - | - | [[#Pilate Barabbas and the                    iPrivilegium Paschalei                     Law and Leverage in Roman Judaea|Pilate, Barabbas, and the
+            Care in Ghana](#the-salvation-to-all-creation-motif-in-rom-81825-implications-for-iasase-yaai-care-in-ghana) |
+| 12 | - | - | [Pilate, Barabbas, and the
                     <i>Privilegium Paschale</i>
-                    : Law and Leverage in Roman Judaea]] |
-| 13 | NT | - | [[#Appearances Can Be Deceiving Transformation and Identity in 2 Corinthians 11.1315|Appearances Can Be Deceiving: Transformation and Identity in 2 Corinthians 11.13–15]] |
-| 14 | NT, Systematic Theology | - | [[#The Mercy Seat of the Risen Christ Atonement and the Glory of God in Romans 3.2126|The Mercy Seat of the Risen Christ: Atonement and the Glory of God in Romans 3.21–26]] |
-| 15 | NT | - | [[#Contextualizing the Decalogue The Invention of the Ten-Commandments in Late Ancient Christianity|Contextualizing the Decalogue: The Invention of the Ten-Commandments in Late Ancient Christianity]] |
-| 16 | NT | - | [[#The Intersectionality of Gender and Slavery Pauls Social Creativity within an Unchangeable System|The Intersectionality of Gender and Slavery: Paul’s Social Creativity within an Unchangeable System]] |
-| 17 | NT | - | [[#The Spiritless Son of Man Disentangling λόγος and πνεῦμα in the Fourth Gospel|The Spiritless Son of Man: Disentangling λόγος and πνεῦμα in the Fourth Gospel]] |
-| 18 | Systematic Theology | - | [[#Revisiting Mercy in Jude Intervention Intercession and the Intruders|Revisiting Mercy in Jude: Intervention, Intercession, and the Intruders]] |
-| 19 | - | - | [[#Bear with My Word of Comfort Consolatory Strategies in the Letter to the Hebrews|‘Bear with My Word of Comfort’: Consolatory Strategies in the Letter to the Hebrews]] |
-| 20 | - | - | [[#Examining the Third View of Πίστις Χριστοῦ|Examining the ‘Third View’ of Πίστις Χριστοῦ]] |
-| 21 | NT | - | [[#The Rhetoric and Ethic of Translating and Representing Enslaved Persons in New Testament and Early Christian Studies|The Rhetoric and Ethic of Translating and Representing Enslaved Persons in New Testament and Early Christian Studies]] |
-| 22 | NT, Systematic Theology | - | [[#A Fragmented Revelation Paragraph Delimitation of Johns Apocalypse in Codex Sinaiticus and Codex Alexandrinus|A Fragmented Revelation: Paragraph Delimitation of John’s Apocalypse in Codex Sinaiticus and Codex Alexandrinus]] |
-| 23 | Systematic Theology | - | [[#The Jerusalem Oracle Reconsidered Mt. 23.3739 The Grammar of Messianism and the Future Coming of Jesus|The Jerusalem Oracle Reconsidered (Mt. 23.37–39): The Grammar of Messianism and the Future Coming of Jesus]] |
-| 24 | NT | - | [[#iCollegiai            of Brothers The Semantics of Brotherhood in Greco-Roman Associations and the New Testament|<i>Collegia</i>
-            of Brothers? The Semantics of Brotherhood in Greco-Roman Associations and the New Testament]] |
-| 25 | NT, Systematic Theology | - | [[#The Construction of Authorial Authority in John and Revelation|The Construction of Authorial Authority in John and Revelation]] |
-| 26 | - | - | [[#Bond Favour Bank and Social Capital A Social-Scientific Reading of the Parable of the Dishonest Steward in Luke 16.19|Bond, Favour Bank, and Social Capital: A Social-Scientific Reading of the Parable of the Dishonest Steward in Luke 16.1–9]] |
-| 27 | NT | - | [[#Did Paul Expect to Survive until the Parousia A Suggested Re-reading of 1 Cor. 15.5152|Did Paul Expect to Survive until the Parousia? A Suggested Re-reading of 1 Cor. 15.51–52]] |
-| 28 | - | - | [[#Contributors|Contributors]] |
-| 29 | - | - | [[#Editorial|Editorial]] |
-| 30 | NT | - | [[#1. New Testament General and Topics Engaging the New Testament A Short Introduction for Students and MinistersMiguel G.EchevarríaGrand Rapids Baker Academic 2024. ix  227 pp. 24.99. ISBN 9781540963796.|1. New Testament General and Topics Engaging the New Testament: A Short Introduction for Students and Ministers;Miguel G.EchevarríaGrand Rapids: Baker Academic, 2024. ix + 227 pp. $24.99. ISBN 9781540963796.]] |
-| 31 | NT | - | [[#2. Gospels and Acts Mary of Nazareth The Mother of Jesus in the Memory of the Earliest ChristiansBryanChristopherNew York Seabury books 2024. xii  240 pp. 28.29. ISBN 9781640657465.|2. Gospels and Acts Mary of Nazareth: The Mother of Jesus in the Memory of the Earliest ChristiansBryanChristopherNew York: Seabury books, 2024. xii + 240 pp. $28.29. ISBN 9781640657465.]] |
-| 32 | - | - | [[#Josephuss Rhetorical Construction of the Galileans as Proximate            iOthersi|Josephus’s Rhetorical Construction of the Galileans as Proximate
-            <i>Others</i>]] |
-| 33 | NT | Contemporary | [[#Populating the Middle The Social Location of the Author of Luke-Acts|Populating the Middle: The Social Location of the Author of Luke-Acts]] |
-| 34 | - | - | [[#Fearful and Joyous Old Men Old Age Masculinity and Emotions in Lukes Account of Zechariah Lk. 1 and the Fables of Babrios             iFabi            . 98 136|Fearful and Joyous Old Men: Old Age, Masculinity, and Emotions in Luke’s Account of Zechariah (Lk. 1) and the Fables of Babrios (
+                    : Law and Leverage in Roman Judaea](#pilate-barabbas-and-the-iprivilegium-paschalei-law-and-leverage-in-roman-judaea) |
+| 13 | NT | - | [Appearances Can Be Deceiving: Transformation and Identity in 2 Corinthians 11.13–15](#appearances-can-be-deceiving-transformation-and-identity-in-2-corinthians-111315) |
+| 14 | NT, Systematic Theology | - | [The Mercy Seat of the Risen Christ: Atonement and the Glory of God in Romans 3.21–26](#the-mercy-seat-of-the-risen-christ-atonement-and-the-glory-of-god-in-romans-32126) |
+| 15 | NT | - | [Contextualizing the Decalogue: The Invention of the Ten-Commandments in Late Ancient Christianity](#contextualizing-the-decalogue-the-invention-of-the-ten-commandments-in-late-ancient-christianity) |
+| 16 | NT | - | [The Intersectionality of Gender and Slavery: Paul’s Social Creativity within an Unchangeable System](#the-intersectionality-of-gender-and-slavery-pauls-social-creativity-within-an-unchangeable-system) |
+| 17 | NT | - | [The Spiritless Son of Man: Disentangling λόγος and πνεῦμα in the Fourth Gospel](#the-spiritless-son-of-man-disentangling-λόγος-and-πνεῦμα-in-the-fourth-gospel) |
+| 18 | Systematic Theology | - | [Revisiting Mercy in Jude: Intervention, Intercession, and the Intruders](#revisiting-mercy-in-jude-intervention-intercession-and-the-intruders) |
+| 19 | - | - | [‘Bear with My Word of Comfort’: Consolatory Strategies in the Letter to the Hebrews](#bear-with-my-word-of-comfort-consolatory-strategies-in-the-letter-to-the-hebrews) |
+| 20 | - | - | [Examining the ‘Third View’ of Πίστις Χριστοῦ](#examining-the-third-view-of-πίστις-χριστοῦ) |
+| 21 | NT | - | [The Rhetoric and Ethic of Translating and Representing Enslaved Persons in New Testament and Early Christian Studies](#the-rhetoric-and-ethic-of-translating-and-representing-enslaved-persons-in-new-testament-and-early-christian-studies) |
+| 22 | NT, Systematic Theology | - | [A Fragmented Revelation: Paragraph Delimitation of John’s Apocalypse in Codex Sinaiticus and Codex Alexandrinus](#a-fragmented-revelation-paragraph-delimitation-of-johns-apocalypse-in-codex-sinaiticus-and-codex-alexandrinus) |
+| 23 | Systematic Theology | - | [The Jerusalem Oracle Reconsidered (Mt. 23.37–39): The Grammar of Messianism and the Future Coming of Jesus](#the-jerusalem-oracle-reconsidered-mt-233739-the-grammar-of-messianism-and-the-future-coming-of-jesus) |
+| 24 | NT | - | [<i>Collegia</i>
+            of Brothers? The Semantics of Brotherhood in Greco-Roman Associations and the New Testament](#icollegiai-of-brothers-the-semantics-of-brotherhood-in-greco-roman-associations-and-the-new-testament) |
+| 25 | NT, Systematic Theology | - | [The Construction of Authorial Authority in John and Revelation](#the-construction-of-authorial-authority-in-john-and-revelation) |
+| 26 | - | - | [Bond, Favour Bank, and Social Capital: A Social-Scientific Reading of the Parable of the Dishonest Steward in Luke 16.1–9](#bond-favour-bank-and-social-capital-a-social-scientific-reading-of-the-parable-of-the-dishonest-steward-in-luke-1619) |
+| 27 | NT | - | [Did Paul Expect to Survive until the Parousia? A Suggested Re-reading of 1 Cor. 15.51–52](#did-paul-expect-to-survive-until-the-parousia-a-suggested-re-reading-of-1-cor-155152) |
+| 28 | - | - | [Contributors](#contributors) |
+| 29 | - | - | [Editorial](#editorial) |
+| 30 | NT | - | [1. New Testament General and Topics Engaging the New Testament: A Short Introduction for Students and Ministers;Miguel G.EchevarríaGrand Rapids: Baker Academic, 2024. ix + 227 pp. $24.99. ISBN 9781540963796.](#1-new-testament-general-and-topics-engaging-the-new-testament-a-short-introduction-for-students-and-ministersmiguel-gechevarríagrand-rapids-baker-academic-2024-ix-227-pp-2499-isbn-9781540963796) |
+| 31 | NT | - | [2. Gospels and Acts Mary of Nazareth: The Mother of Jesus in the Memory of the Earliest ChristiansBryanChristopherNew York: Seabury books, 2024. xii + 240 pp. $28.29. ISBN 9781640657465.](#2-gospels-and-acts-mary-of-nazareth-the-mother-of-jesus-in-the-memory-of-the-earliest-christiansbryanchristophernew-york-seabury-books-2024-xii-240-pp-2829-isbn-9781640657465) |
+| 32 | - | - | [Josephus’s Rhetorical Construction of the Galileans as Proximate
+            <i>Others</i>](#josephuss-rhetorical-construction-of-the-galileans-as-proximate-iothersi) |
+| 33 | NT | Contemporary | [Populating the Middle: The Social Location of the Author of Luke-Acts](#populating-the-middle-the-social-location-of-the-author-of-luke-acts) |
+| 34 | - | - | [Fearful and Joyous Old Men: Old Age, Masculinity, and Emotions in Luke’s Account of Zechariah (Lk. 1) and the Fables of Babrios (
             <i>Fab</i>
-            . 98, 136)]] |
-| 35 | - | - | [[#Reading Luke 2.4152 in the Post-War Context War Trauma Intergenerational Tension and Therapeutic Reading Experience|Reading Luke 2.41–52 in the Post-War Context: War Trauma, Intergenerational Tension, and Therapeutic Reading Experience]] |
-| 36 | - | - | [[#Index of Authors|Index of Authors]] |
-| 37 | - | - | [[#Index of Publishers|Index of Publishers]] |
-| 38 | - | - | [[#Index of Titles|Index of Titles]] |
-| 39 | - | - | [[#Letter from the New Editor|Letter from the New Editor]] |
-| 40 | NT | - | [[#3. Paul 40 Questions about the Apostle PaulEchevarríaMiguel G.LairdBenjaminGrand Rapids MI Kregel Academic 2023. xii  319 pp. 24.99. ISBN 9780825446668.|3. Paul 40 Questions about the Apostle PaulEchevarríaMiguel G.LairdBenjaminGrand Rapids, MI: Kregel Academic, 2023. xii + 319 pp. $24.99. ISBN 9780825446668.]] |
-| 41 | NT, OT, Systematic Theology | - | [[#4. Other Letters and Revelation From Qumran to Jude A History of Social Crisis at Qumran and in Early Jewish ChristianityArmitageChrisSheffield Sheffield Phoenix Press 2023. xi  195 pp. 85.00. ISBN 9781914490293.|4. Other Letters and Revelation From Qumran to Jude: A History of Social Crisis at Qumran and in Early Jewish ChristianityArmitageChrisSheffield: Sheffield Phoenix Press, 2023. xi + 195 pp. £85.00. ISBN 9781914490293.]] |
-| 42 | - | - | [[#5. Non-Canonical Texts Journeys to Heaven and Hell Tours of the Afterlife in the Early Christian TraditionEhrmanBart D.New Haven Yale University Press 2022. xii  328 pp. 23.00. ISBN 9780300271041.|5. Non-Canonical Texts Journeys to Heaven and Hell: Tours of the Afterlife in the Early Christian TraditionEhrmanBart D.New Haven: Yale University Press, 2022. xii + 328 pp. $23.00. ISBN 9780300271041.]] |
-| 43 | NT, OT | - | [[#The Range of Rejoicing in Luke-Acts Exploring the Precision and Power of Lukes Positive Emotion Terminology|The Range of Rejoicing in Luke-Acts: Exploring the Precision and Power of Luke’s Positive Emotion Terminology]] |
-| 44 | NT | - | [[#The Parousia of the Lord in 1 Thessalonians 4.1318 as an                    iAdventusi|The Parousia of the Lord in 1 Thessalonians 4.13–18 as an
-                    <i>Adventus</i>]] |
-| 45 | NT, OT, Systematic Theology | - | [[#Ephesians 3.15 as an Allusion to Genesis Abrahamic Covenant Texts in the Context of Household Ecclesiology in Ephesians|Ephesians 3.15 as an Allusion to Genesis Abrahamic Covenant Texts in the Context of Household Ecclesiology in Ephesians]] |
-| 46 | NT | - | [[#Re-Examining the Statistical Methodology and Onomastic Claims of Gregor and Blais Argument from Name Popularity|Re-Examining the Statistical Methodology and Onomastic Claims of Gregor and Blais’ Argument from Name Popularity]] |
-| 47 | - | - | [[#Caesar as Title and Name The Dual Function of καῖσαρ in Mark 12.1417|Caesar as Title and Name: The Dual Function of καῖσαρ in Mark 12.14–17]] |
-| 48 | NT | Contemporary | [[#The Salvation of All Israel in Romans 11.26 A New Exegetical Perspective|The Salvation of All Israel in Romans 11.26: A New Exegetical Perspective]] |
-| 49 | NT | - | [[#Re-Judaizing Jesus Remembering the Sacrificial Cult in the Gospel of Matthew|Re-Judaizing Jesus: Remembering the Sacrificial Cult in the Gospel of Matthew]] |
-| 50 | NT | - | [[#The Pernicious Supremacy of the Christian Codex|The Pernicious Supremacy of the Christian Codex]] |
-| 51 | NT, Systematic Theology | - | [[#The Screaming Apocalypse Revelation Gender and the Coloniality of Knowledge|The Screaming Apocalypse: Revelation, Gender, and the Coloniality of Knowledge]] |
-| 52 | NT | - | [[#Ethnic Differentiations in Sin Mapping Jewish Sin in Romans|Ethnic Differentiations in Sin? Mapping Jewish Sin in Romans]] |
-| 53 | NT, Systematic Theology | - | [[#Gender in the Apocalypse A Story of Containers|Gender in the Apocalypse: A Story of Containers]] |
-| 54 | NT, Systematic Theology | - | [[#Revelation Gender and the Brooten Phenomenon|Revelation, Gender, and the ‘Brooten Phenomenon’]] |
-| 55 | NT, Systematic Theology | - | [[#Gender Coloniality and Revelation|Gender, Coloniality, and Revelation]] |
-| 56 | NT, Systematic Theology | - | [[#Black Trans Flourishing as a Sign Semeia of the Future Revelation 12|Black Trans Flourishing as a Sign (Semeia) of the Future: Revelation 12]] |
-| 57 | NT, Systematic Theology | - | [[#Introduction to Special Issue The Future of Revelation and Gender Studies|Introduction to Special Issue: The Future of Revelation and Gender Studies]] |
-| 58 | - | Contemporary | [[#Response Babylon Is Burning The Futures of Apocalyptic Sex|Response: Babylon Is Burning: The Futures of Apocalyptic Sex]] |
-| 59 | - | - | [[#Language Games and the Meanings of Meaning Two Problems with Jonathan Rowlandss Defense of Theological Readings|Language Games and the Meaning(s) of ‘Meaning’: Two Problems with Jonathan Rowlands’s Defense of ‘Theological Readings’]] |
+            . 98, 136)](#fearful-and-joyous-old-men-old-age-masculinity-and-emotions-in-lukes-account-of-zechariah-lk-1-and-the-fables-of-babrios-ifabi-98-136) |
+| 35 | - | - | [Reading Luke 2.41–52 in the Post-War Context: War Trauma, Intergenerational Tension, and Therapeutic Reading Experience](#reading-luke-24152-in-the-post-war-context-war-trauma-intergenerational-tension-and-therapeutic-reading-experience) |
+| 36 | - | - | [Index of Authors](#index-of-authors) |
+| 37 | - | - | [Index of Publishers](#index-of-publishers) |
+| 38 | - | - | [Index of Titles](#index-of-titles) |
+| 39 | - | - | [Letter from the New Editor](#letter-from-the-new-editor) |
+| 40 | NT | - | [3. Paul 40 Questions about the Apostle PaulEchevarríaMiguel G.LairdBenjaminGrand Rapids, MI: Kregel Academic, 2023. xii + 319 pp. $24.99. ISBN 9780825446668.](#3-paul-40-questions-about-the-apostle-paulechevarríamiguel-glairdbenjamingrand-rapids-mi-kregel-academic-2023-xii-319-pp-2499-isbn-9780825446668) |
+| 41 | NT, OT, Systematic Theology | - | [4. Other Letters and Revelation From Qumran to Jude: A History of Social Crisis at Qumran and in Early Jewish ChristianityArmitageChrisSheffield: Sheffield Phoenix Press, 2023. xi + 195 pp. £85.00. ISBN 9781914490293.](#4-other-letters-and-revelation-from-qumran-to-jude-a-history-of-social-crisis-at-qumran-and-in-early-jewish-christianityarmitagechrissheffield-sheffield-phoenix-press-2023-xi-195-pp-8500-isbn-9781914490293) |
+| 42 | - | - | [5. Non-Canonical Texts Journeys to Heaven and Hell: Tours of the Afterlife in the Early Christian TraditionEhrmanBart D.New Haven: Yale University Press, 2022. xii + 328 pp. $23.00. ISBN 9780300271041.](#5-non-canonical-texts-journeys-to-heaven-and-hell-tours-of-the-afterlife-in-the-early-christian-traditionehrmanbart-dnew-haven-yale-university-press-2022-xii-328-pp-2300-isbn-9780300271041) |
+| 43 | NT, OT | - | [The Range of Rejoicing in Luke-Acts: Exploring the Precision and Power of Luke’s Positive Emotion Terminology](#the-range-of-rejoicing-in-luke-acts-exploring-the-precision-and-power-of-lukes-positive-emotion-terminology) |
+| 44 | NT | - | [The Parousia of the Lord in 1 Thessalonians 4.13–18 as an
+                    <i>Adventus</i>](#the-parousia-of-the-lord-in-1-thessalonians-41318-as-an-iadventusi) |
+| 45 | NT, OT, Systematic Theology | - | [Ephesians 3.15 as an Allusion to Genesis Abrahamic Covenant Texts in the Context of Household Ecclesiology in Ephesians](#ephesians-315-as-an-allusion-to-genesis-abrahamic-covenant-texts-in-the-context-of-household-ecclesiology-in-ephesians) |
+| 46 | NT | - | [Re-Examining the Statistical Methodology and Onomastic Claims of Gregor and Blais’ Argument from Name Popularity](#re-examining-the-statistical-methodology-and-onomastic-claims-of-gregor-and-blais-argument-from-name-popularity) |
+| 47 | - | - | [Caesar as Title and Name: The Dual Function of καῖσαρ in Mark 12.14–17](#caesar-as-title-and-name-the-dual-function-of-καῖσαρ-in-mark-121417) |
+| 48 | NT | Contemporary | [The Salvation of All Israel in Romans 11.26: A New Exegetical Perspective](#the-salvation-of-all-israel-in-romans-1126-a-new-exegetical-perspective) |
+| 49 | NT | - | [Re-Judaizing Jesus: Remembering the Sacrificial Cult in the Gospel of Matthew](#re-judaizing-jesus-remembering-the-sacrificial-cult-in-the-gospel-of-matthew) |
+| 50 | NT | - | [The Pernicious Supremacy of the Christian Codex](#the-pernicious-supremacy-of-the-christian-codex) |
+| 51 | NT, Systematic Theology | - | [The Screaming Apocalypse: Revelation, Gender, and the Coloniality of Knowledge](#the-screaming-apocalypse-revelation-gender-and-the-coloniality-of-knowledge) |
+| 52 | NT | - | [Ethnic Differentiations in Sin? Mapping Jewish Sin in Romans](#ethnic-differentiations-in-sin-mapping-jewish-sin-in-romans) |
+| 53 | NT, Systematic Theology | - | [Gender in the Apocalypse: A Story of Containers](#gender-in-the-apocalypse-a-story-of-containers) |
+| 54 | NT, Systematic Theology | - | [Revelation, Gender, and the ‘Brooten Phenomenon’](#revelation-gender-and-the-brooten-phenomenon) |
+| 55 | NT, Systematic Theology | - | [Gender, Coloniality, and Revelation](#gender-coloniality-and-revelation) |
+| 56 | NT, Systematic Theology | - | [Black Trans Flourishing as a Sign (Semeia) of the Future: Revelation 12](#black-trans-flourishing-as-a-sign-semeia-of-the-future-revelation-12) |
+| 57 | NT, Systematic Theology | - | [Introduction to Special Issue: The Future of Revelation and Gender Studies](#introduction-to-special-issue-the-future-of-revelation-and-gender-studies) |
+| 58 | - | Contemporary | [Response: Babylon Is Burning: The Futures of Apocalyptic Sex](#response-babylon-is-burning-the-futures-of-apocalyptic-sex) |
+| 59 | - | - | [Language Games and the Meaning(s) of ‘Meaning’: Two Problems with Jonathan Rowlands’s Defense of ‘Theological Readings’](#language-games-and-the-meanings-of-meaning-two-problems-with-jonathan-rowlandss-defense-of-theological-readings) |
 
 ---
 
-### On Behalf of Creation Reading the Destructive Cosmic Eschatology of 2 Peter 3 in the Light of the Transfiguration
+### On Behalf of Creation: Reading the Destructive Cosmic Eschatology of 2 Peter 3 in the Light of the Transfiguration
 - **DOI**: [10.1177/0142064x241299828](https://doi.org/10.1177/0142064x241299828)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: God’s creation of the cosmos is an elemental premise of the New Testament letter known as 2 Peter. Perhaps more overtly than in any other New Testament document, however, 2 Peter anticipates cosmic destruction on the day of divine judgment, when the created order will apparently be subjected to fiery dissolution. As well as looking back to creation and forward to the unpredictable ‘day of the Lord’, 2 Peter also references the historic parousia of Jesus by recalling his transfiguration. Since 2 Peter envisages judgment and salvation as two dimensions of one divine initiative already inaugurated by the historic mission of Jesus, this study looks to the past parousia of Jesus for orientation to his future parousia, both of which are referenced in the letter. This article has a twofold focus: first, destructive cosmic eschatology in 2 Pet. 3 and its potential ecological implications; and second, the hermeneutical value of 2 Peter’s appeal to the transfiguration of Jesus for reflecting on and evaluating 2 Peter’s eschatology—on behalf of creation.
 
 ---
 
-### JSNT Special Issue on Creation Introduction
+### JSNT Special Issue on Creation: Introduction
 - **DOI**: [10.1177/0142064x241300110](https://doi.org/10.1177/0142064x241300110)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Matthew 13.19 and Soil Degradation A Subaltern and Ecological Reading
+### Matthew 13.1–9 and Soil Degradation: A Subaltern and Ecological Reading
 - **DOI**: [10.1177/0142064x241300112](https://doi.org/10.1177/0142064x241300112)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: This article contributes to the discussion of soil degradation from the perspective of ecological biblical hermeneutics. It characterizes the interrelationship of human and more-than-human creation, particularly the various kinds of soils, in Mt. 13.1–9 through the lens of subalternity and symbiotic interrelationship. While the original application of subalternity was primarily focused on humans, its use was expanded by including the subordinated (subaltern) pair in traditional binaries: human/animal, culture/nature, and subject/object. This paper holds that the various kinds of soils, regarded as subalterns in this parable, are active characters in warning about soil degradation. They also hint at how they collaborate with more-than-human characters towards the lengthy process of soil regeneration and sustainability amidst the extractive agriculture in Roman-colonized Galilee. This ecological biblical reading of the parable contributes to ecological education to help achieve the United Nations Sustainable Development Goal 15: Life on Land amid eco-critical times.
@@ -114,56 +114,62 @@ arc_score: 6
 
 ---
 
-### Upon All Flesh An Ecological Reading of Acts 2.1721
+### Upon All Flesh: An Ecological Reading of Acts 2.17–21
 - **DOI**: [10.1177/0142064x241301095](https://doi.org/10.1177/0142064x241301095)
 - **Analytical Tags**: `NT;OT;Systematic Theology / - / -`
 - **Abstract**: The Lukan Peter’s quotation of LXX Joel 3.1–5a is the central co-text that frames the outpouring of the Spirit in Acts 2. In this article, I offer three supporting arguments for understanding πᾶσα σάρξ found in Acts 2.17 as referencing all of creation. First, the connection between the Spirit of God and all flesh in the Hebrew Bible always has a creation-wide context. This connection between Spirit and flesh then introduces the flood narrative as a key co-text for Joel 2.28, as Joel sees the outpouring of the Spirit as an inversion of the withdrawal of the Spirit at the flood. Third, this creation-wide understanding of πᾶσα σάρξ in Acts 2.17 is further supported by three editorial changes the Lukan Peter makes to his quotation of LXX Joel 3.1–5a. Therefore, the outpouring of the Spirit at Pentecost is a creation-wide event.
 
 ---
 
-### The Fig Tree at the End of the World Reading Mark 111225 and Enduring Creaturely Violence
+### The Fig Tree at the End of the World: Reading Mark 11:12–25 and Enduring Creaturely Violence
 - **DOI**: [10.1177/0142064x241301101](https://doi.org/10.1177/0142064x241301101)
 - **Analytical Tags**: `NT / - / Contemporary`
 - **Abstract**: By establishing a horizon of contemporary ecological thought, this article seeks to offer a new ‘more-than-human’ interpretation of Mk 11.12–25. Rather than treating more-than-human perspectives simply as benign, universal solutions to all-too-human violence, this interpretation uses them as an invitation to explore the ethical complexity of how humans and nonhumans struggle to build a more liveable world together. Interpretations of Jesus’s curse of the fig tree have often come up against what Anna Lowenhaupt Tsing calls ‘the problem with scale’ in the face of environmental destruction, either sweeping over or overstating the curse’s potential ethical significance. This new interpretation draws on Tsing, alongside other recent ethnographers of more-than-human relations, to contextualise Jesus’s actions in relation to Mark’s representation of the Jerusalem temple as a site of exploitative resource extraction: human and nonhuman creatures fitfully resist this exploitation, but in ways which make their damage and competition inevitable. This interpretation is offered as distinctively Markan in its irresolution and irony, and recognising such irony signals new ways that the New Testament can resource a more granular environmental ethics.
 
 ---
 
-### Cosmos κόσμος in the Gospel of John Humanity and the Nonhuman Creation
+### Cosmos (κόσμος) in the Gospel of John: Humanity and the Nonhuman Creation
 - **DOI**: [10.1177/0142064x241301102](https://doi.org/10.1177/0142064x241301102)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: There is a tendency in recent Johannine scholarship to understand κόσμος in the majority of instances in the Gospel of John as ‘humanity’. It is assumed that the meaning ‘creation’ is appropriate only in a few occurrences. In this article, I want to challenge this consensus in three steps. First, a survey of the scholarship on the Johannine use of κόσμος will focus on the question of whether there is an anthropocentric bias in the history of reception. Second, a semantic analysis will explore the possible passages in which the κόσμος cannot be reduced to humanity but also includes nonhuman creation. Third, an eco-hermeneutical outlook will set the debate in the context of the ecological crisis and focus on the interdependence between humanity and the rest of the cosmos. Is it time to rethink the meaning of κόσμος in light of the climate crises? Does God only love humanity or does he care about his whole creation (3.16)? Is Jesus, according to 4.42, only the savior of humans or also of the ‘more than human creation’? And if so, does doing the works of God (6.28) imply caring for the creation?
 
 ---
 
-### Social Fractures in the            iHabitusi             Pauls κατάρτισ- Language of Preventative and Responsive Care
+### Social Fractures in the
+            <i>Habitus</i>
+            : Paul’s κατάρτισ- Language of Preventative and Responsive Care
 - **DOI**: [10.1177/0142064x241303155](https://doi.org/10.1177/0142064x241303155)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: While recent research has focused on human agency in Pauline literature, less attention is given to the forms of care portrayed by Paul’s κατάρτισ- language. In this article, I propose that Pierre Bourdieu’s theory of habitus provides fresh insight on how Paul’s letters restructure habitus and early Christian praxis that generate social fractures. To develop this argument, I first describe Bourdieu’s conception of habitus, which elucidates human agents’ interactions with the social fields that shape their practices. Second, I provide conceptual contextualization by exploring κατάρτισ- language in ancient medicine, philosophy, and Jewish sources, particularly in relation to current understandings of healing in Jewish and early Christian conceptualization. Third, I apply Bourdieu’s theory of habitus to Pauline texts that use forms of καταρτίζω and κατάρτισις: 1 Thess. 3.9–10; 1 Cor. 1.10; 2 Cor. 13.9–11; Gal. 6.1; Rom. 9.22–23. In the final section, I offer reflection on a Pauline theology of care in relation to his forms of care, situating Paul more critically within a cultural and theological history of caring. Paul’s letter-writing constitutes interventionist and improvisational care for healing social fractures in early Christians’ habitus.
 
 ---
 
-### Pauls Iconic Christ among Mediterranean Cult Statues A Comparison of Divine Images
+### Paul’s Iconic Christ among Mediterranean Cult Statues: A Comparison of Divine Images
 - **DOI**: [10.1177/0142064x241303439](https://doi.org/10.1177/0142064x241303439)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: While scholars continue to debate whether Paul ever explicitly called the messiah a god, there can be no question that he called the messiah an image of a god (2 Cor. 4.4). Even so, there has been no shortage of comparative studies that situate Paul’s messiah among ancient Mediterranean gods, including the Jewish god himself, whereas what is arguably more proximate comparanda for Paul’s iconic claims tend not to be taken into consideration, namely, ancient Mediterranean images of gods. Taking for granted that Paul’s god—the Jewish god—was a Mediterranean god among others, in this article I redescribe Paul’s messiah as a Mediterranean cult image among others. By exploring the relation between gods and their images, between divinity and materiality, with images of gods as material media that make present the gods they image, new light is cast on the debated relation between the Jewish god and his christological image in Paul’s letters.
 
 ---
 
-### He Came and Proclaimed Peace Christ as Herald in Ephesians 2.17
+### He Came and Proclaimed Peace: Christ as Herald in Ephesians 2.17
 - **DOI**: [10.1177/0142064x241304085](https://doi.org/10.1177/0142064x241304085)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Scholars often disagree about how to interpret the narrative description of Christ as a proclaimer of peace in Ephesians 2.17. Most understand Ephesians to be either referring to the earthly ministry of Jesus or attributing to him the work of later apostolic preaching. This article argues that none of the existing interpretations is adequate, and instead maintains that Ephesians is advancing a metaphorical depiction of Christ as a diplomatic peace herald (caduceator) commissioned to call for the cessation of hostilities between God and humanity, and consequently between Jews and Gentiles. The article explores the purposes and practices of Greco-Roman diplomacy, paying special attention to the contribution of peace heralds in times of interstate conflict and how they came to signify the entire peacemaking process. The article then analyzes how Ephesians 2.11–22 deploys terminology commonly used to convey sociopolitical rivalry as a way to portray the Jew-Gentile relationship as one of figurative warfare. It is in within this symbolic world of ethnic conflict and diplomacy that Ephesians casts Christ in the image of a peace herald, whose metaphorical proclamation of peace to those far and near signifies the totality and finality of Christ’s conciliatory work.
 
 ---
 
-### The Salvation to All Creation Motif in Rom. 8.1825 Implications for            iAsase Yaai            Care in Ghana
+### The Salvation to All Creation Motif in Rom. 8.18–25: Implications for
+            <i>Asase Yaa</i>
+            Care in Ghana
 - **DOI**: [10.1177/0142064x241304453](https://doi.org/10.1177/0142064x241304453)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: This article explores the impetus towards creation care that can be found in Rom. 8.18–25, particularly in dialogue with the Ghanaian Akan concept of Asase Yaa (Mother Earth). New Testament scholars have variously interpreted Rom. 8.18–25 to emphasize the contrast between the two ages or aeons, the eschatological glory of believers, the cosmological theory of κτίσις, and the relationship between humans and inanimate creatures. This study draws on the analytical lens of socio-rhetorical criticism propounded by Vernon K. Robbins (1996) to re-interpret Rom. 8.18–25, with particular focus on the terms κτίσις (creation, creature) and ἐλπίς (hope). It attempts to construct the world in the text by examining what the implied author expects from the implied reader, and how the world in front of the text—in particular Ghanaian Christians—can interpret the text in light of Asase Yaa and the ecological threats that illegal mining poses to the creation. This exercise makes Rom. 8.18–25 a lived Pauline text that can readily resonate in the Ghanaian Christian context as a biblical passage advocating care for creation.
 
 ---
 
-### Pilate Barabbas and the                    iPrivilegium Paschalei                     Law and Leverage in Roman Judaea
+### Pilate, Barabbas, and the
+                    <i>Privilegium Paschale</i>
+                    : Law and Leverage in Roman Judaea
 - **DOI**: [10.1177/0142064x241307204](https://doi.org/10.1177/0142064x241307204)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Pilate’s Passover offer to release ‘Barabbas’ has long been considered one of the least historically credible details of the Passion narrative. This paper returns to the so-called
@@ -172,56 +178,56 @@ arc_score: 6
 
 ---
 
-### Appearances Can Be Deceiving Transformation and Identity in 2 Corinthians 11.1315
+### Appearances Can Be Deceiving: Transformation and Identity in 2 Corinthians 11.13–15
 - **DOI**: [10.1177/0142064x241309934](https://doi.org/10.1177/0142064x241309934)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: In 2 Corinthians 11.13–15, Paul uses the verb μετασχηματίζω in the middle voice to claim that his opponents are, in the NRSV’s rendering, ‘disguising themselves as apostles of Christ’. Yet one could more literally translate the verb with ‘transform themselves’. Although either translation is defensible, I submit that Paul’s use of μετασχηματίζω invokes notions of transformation that are key to his rhetorical purposes in 2 Cor. 11, as well as in other parts of 2 Corinthians. I argue that in 2 Cor. 11.13–15, Paul employs ‘transformation discourse’ and that he does so for the purpose of identity-construction. I demonstrate this by situating Paul’s descriptions within ancient transformation traditions and by using positioning theory to analyze his rhetoric. Moreover, reading 2 Cor. 11 in conversation with 2 Cor. 3–4 reveals that Paul uses transformation discourse strategically to differentiate between his and his opponents’ identities. I show that Paul seeks to identify himself as a true apostle, as proven in part by his experience of genuine metamorphosis, and his opponents as deceptive imposters, as shown by the transformation only of their appearances.
 
 ---
 
-### The Mercy Seat of the Risen Christ Atonement and the Glory of God in Romans 3.2126
+### The Mercy Seat of the Risen Christ: Atonement and the Glory of God in Romans 3.21–26
 - **DOI**: [10.1177/0142064x241309937](https://doi.org/10.1177/0142064x241309937)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Scholarship on Romans 3.21–26 typically isolates the death of Jesus on the cross as the moment when Paul says the righteousness of God was disclosed, leading to the justification of all who believe the gospel. In this paper I argue that, although the death of Christ relates in important ways to Paul’s claims in the paragraph, this reading does not fully account for his metaphorical description of Christ as a ‘mercy seat’ (ἱλαστήριον), nor his assertion that those who believe are ‘justified through the redemption that is in Christ Jesus’. I show that Paul uses this language and imagery to characterize the risen Christ as the sacrificial abode of the glory of God (δόξα θεοῦ) that humanity forfeited through sin and idolatry. His larger claims in the paragraph concerning the revelation of God’s righteousness through faith are thus inclusive of Christ’s ongoing status as the risen Lord, and are not limited to the moment of his death.
 
 ---
 
-### Contextualizing the Decalogue The Invention of the Ten-Commandments in Late Ancient Christianity
+### Contextualizing the Decalogue: The Invention of the Ten-Commandments in Late Ancient Christianity
 - **DOI**: [10.1177/0142064x241311835](https://doi.org/10.1177/0142064x241311835)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: This article argues that while several Decalogue precepts are mentioned in the New Testament, the Decalogue as a distinct normative category is completely absent. This goes in line with the evidence from Second Temple Jewish sources, where very limited attention is given to the Decalogue, with Philo serving as an exception. I further propose that the formation of the Decalogue as a distinct normative category comes accompanied by a specific anti-Jewish discourse, beginning in the late second century and continuing into the fourth century. Authors such as Irenaeus of Lyon, Ptolemy, Aphrahat, and the anonymous author of the Syriac Book of Steps construct ‘the Decalogue’ as a category for commandments that Christians must still follow, as opposed to the rest of Law. The latter is characterized as ‘not good laws’, given to the Jews only on account of their sins.
 
 ---
 
-### The Intersectionality of Gender and Slavery Pauls Social Creativity within an Unchangeable System
+### The Intersectionality of Gender and Slavery: Paul’s Social Creativity within an Unchangeable System
 - **DOI**: [10.1177/0142064x241313487](https://doi.org/10.1177/0142064x241313487)
 - **Analytical Tags**: `NT / Method / -`
 - **Abstract**: Roman statuary of colonized peoples depicted as personified and feminized figures indicates that slavery was backed by the military might of Rome and thus was an unchangeable system. The reality that many slaves were conquered peoples justifies reading Paul’s exhortation to ‘remain as you are’ in 1 Cor. 7.17–24 in light of both the intersection of gender and slavery for women slaves subject to the sexual whims of male masters and their double marginalization by imperial propaganda. Given the impossibility of changing the slavery system, Paul sketches an ideological resistance when he portrays Christ as the ultimate Master but one who first suffered and died as a slave, that is, as one with no bodily autonomy. Thus Paul practices social creativity by offering a Christocentric counternarrative that provides the ideological basis for equality among Jesus-followers even though social inequity outside the communities remains an unavoidable reality.
 
 ---
 
-### The Spiritless Son of Man Disentangling λόγος and πνεῦμα in the Fourth Gospel
+### The Spiritless Son of Man: Disentangling λόγος and πνεῦμα in the Fourth Gospel
 - **DOI**: [10.1177/0142064x251313793](https://doi.org/10.1177/0142064x251313793)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: The phrase ‘the Word became flesh’ (Jn 1.14) is underdetermined. The author apparently depended on mutually informed context to communicate its meaning. In recent years, Francis Watson and Troels Engberg-Pedersen have proposed different contexts for understanding John, but have agreed that, when the appropriate context is provided, λόγος and πνεῦμα can be read synonymously. On the basis of this judgment, Watson and Engberg-Pedersen each settle on an ‘adoptionist’ reading of John: that the Word became flesh when the Spirit descended on Jesus (Jn 1.32–34). Both scholars argue that the adoptionist perspective ‘works’ when posited throughout the rest of the narrative. However, I argue that these readings are unable to fully incorporate John’s Son of Man theme. I argue that John’s Jesus is subtly depicted as the Son of Man both before he receives the πνεῦμα and after he gives it up. Furthermore, if the ‘adoptionist’ view is ruled out then the traditional reading––that Jn 1.14 refers to the miraculous conception of Jesus by the Holy Spirit––becomes a more attractive possibility. John may know this tradition through oral reports, but the ambiguity of Jn 1.14 may also serve as indirect evidence for the growing view that John knows the Synoptic Gospels.
 
 ---
 
-### Revisiting Mercy in Jude Intervention Intercession and the Intruders
+### Revisiting Mercy in Jude: Intervention, Intercession, and the Intruders
 - **DOI**: [10.1177/0142064x251313839](https://doi.org/10.1177/0142064x251313839)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Though it is often read merely as a letter of condemnation, theological and literary studies have opened up new vistas for understanding Jude’s argument, theological outlook, and its positive call for the addressees to have ‘mercy’ and save those in danger of eschatological ‘fire’. Debate remains, however, as to the scope of such commands and whether Jude’s soteriology could countenance any hope for the ‘ungodly’ intruders. Further, it remains unclear what sorts of mercy or intervention could be envisioned and, thus, what Jude’s exhortations might really mean. This article surveys Jude’s eschatological horizon and the negative characterizations of the intruders and finds, ultimately, that the soteriology envisioned here allows a hope of mercy for the intruders. Further, it revisits Jude’s references to sin and judgment in scripture and illustrates how these narratives could also suggest paradigms of faithfulness and mercy to Jude’s audience.
 
 ---
 
-### Bear with My Word of Comfort Consolatory Strategies in the Letter to the Hebrews
+### ‘Bear with My Word of Comfort’: Consolatory Strategies in the Letter to the Hebrews
 - **DOI**: [10.1177/0142064x251314115](https://doi.org/10.1177/0142064x251314115)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: In this study, I argue that the book of Hebrews contains five consolatory strategies that recur in the letters of Cicero, Seneca, and Plutarch. I relate Hebrews to the Greco-Roman consolatory tradition in terms of general modes of socio-literary practice that cut across traditional dividing lines such as ethnicity, language, and philosophical outlook. In this way, I show how Greco-Roman consolation, which is typically overlooked in scholarship on Hebrews, sheds informative light on the author’s literary strategies and aims. I situate Hebrews against the background of hostilities faced by the original audience and the destruction of the temple, both of which caused distress and disorientation and thereby created the need for consolation. I argue that, given the historical circumstances that provided the occasion for writing and the consolatory strategies the author deploys, consolation is among the author’s primary literary objectives. As a result, I find that the author’s designation of his work in Heb. 13.22 is best translated as a ‘word of comfort’.
 
 ---
 
-### Examining the Third View of Πίστις Χριστοῦ
+### Examining the ‘Third View’ of Πίστις Χριστοῦ
 - **DOI**: [10.1177/0142064x251314374](https://doi.org/10.1177/0142064x251314374)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: A recent
@@ -237,7 +243,7 @@ arc_score: 6
 
 ---
 
-### A Fragmented Revelation Paragraph Delimitation of Johns Apocalypse in Codex Sinaiticus and Codex Alexandrinus
+### A Fragmented Revelation: Paragraph Delimitation of John’s Apocalypse in Codex Sinaiticus and Codex Alexandrinus
 - **DOI**: [10.1177/0142064x251330236](https://doi.org/10.1177/0142064x251330236)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Scholars possess considerable knowledge of segmentation practices and technologies before the adoption of dominant chapter systems for the different New Testament sub-corpora. One exception is the book of Revelation, whose segmentation before Andrew of Caesarea’s chapter system has largely been overlooked. To address this lacuna, I explore the paragraph delimitation of Revelation in Codex Sinaiticus and Codex Alexandrinus. I show that the scribe(s) of both codices employed blank space, line breaks, line ends,
@@ -246,14 +252,15 @@ arc_score: 6
 
 ---
 
-### The Jerusalem Oracle Reconsidered Mt. 23.3739 The Grammar of Messianism and the Future Coming of Jesus
+### The Jerusalem Oracle Reconsidered (Mt. 23.37–39): The Grammar of Messianism and the Future Coming of Jesus
 - **DOI**: [10.1177/0142064x251330929](https://doi.org/10.1177/0142064x251330929)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: An increasing number of exegetes have understood the Jerusalem oracle in Matthew and Luke to express a conditional eschatological perspective: namely, if ‘Jerusalem’ blesses Jesus along the lines of Ps. 118, then Jesus will return. Important for this argument has been the identification of similar conditional statements (so it is claimed) in later rabbinic sources. This essay argues against that interpretation, focusing on Matthew’s version, by uncovering an earlier and more widespread feature of ‘the grammar of messianism’: the use of temporal ‘until’ statements to refer to the coming of eschatological redeemer figures. Such messianic ‘grammar’ offers a more suitable parallel to Mt. 23.37–39 that is consistent with the eschatology of the rest of the Gospel, wherein Jesus’ future return is sudden, interrupts increasingly dismal circumstances, and brings about the hoped-for ingathering of God’s people.
 
 ---
 
-### iCollegiai            of Brothers The Semantics of Brotherhood in Greco-Roman Associations and the New Testament
+### <i>Collegia</i>
+            of Brothers? The Semantics of Brotherhood in Greco-Roman Associations and the New Testament
 - **DOI**: [10.1177/0142064x251333440](https://doi.org/10.1177/0142064x251333440)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: In recent decades, there has been a proliferation of studies assimilating Greco-Roman associations and first Christian communities. One of the analogies between these groups proposed by some scholars is the use of the vocabulary of brotherhood to denote their members. The article reviews epigraphic and papyrological sources using this language for associations and New Testament passages in which Christians are referred to as brothers. The common use of this vocabulary is not sufficient to establish an analogy, but it is necessary to consider the different connotations it takes on.
@@ -267,14 +274,14 @@ arc_score: 6
 
 ---
 
-### Bond Favour Bank and Social Capital A Social-Scientific Reading of the Parable of the Dishonest Steward in Luke 16.19
+### Bond, Favour Bank, and Social Capital: A Social-Scientific Reading of the Parable of the Dishonest Steward in Luke 16.1–9
 - **DOI**: [10.1177/0142064x251342188](https://doi.org/10.1177/0142064x251342188)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Luke 16.1–9 is enigmatic. Many interpretative contexts have been offered to illuminate this parable. A social-scientific optic provides an interpretation mostly from the lens of shame, honour, generosity and a patron-client relationship. Reconsidering the parable from a social-scientific lens, this article proposes social capital theory as a good interpretative context, arguing that the dishonest debt reduction by the steward was simply a way through which he built social capital. Social capital building was not new in the Greco-Roman world; it was practised among groups of people to solidify ‘favour banking’, which explains why the master praised the steward’s action since he was aware that such ‘favour banking’ was possible in their world. Jesus then adopted the same position and tasked his disciples to build social capital, to solidify relationships with others by doing favours to them so that when in need, such favours would be returned to them.
 
 ---
 
-### Did Paul Expect to Survive until the Parousia A Suggested Re-reading of 1 Cor. 15.5152
+### Did Paul Expect to Survive until the Parousia? A Suggested Re-reading of 1 Cor. 15.51–52
 - **DOI**: [10.1177/0142064x251345487](https://doi.org/10.1177/0142064x251345487)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: This article questions the conventional interpretation of 1 Corinthians 15.51–52, especially as evidence that Paul assumed an imminent parousia. There are two main problems with the conventional view. First, the majority view of 1 Cor. 15.51 relies on a counter-intuitive reading of the syntax. Second, on 15.52, the usual interpretation must assume that the reference to ‘change’ there has a different scope from the similar statement earlier in 15.51. The constructive argument takes vv. 51 and 52 in turn. First, the proposed reading of v. 51 adopts a more natural understanding of πάντες οὐ and reconsiders the meaning of ‘shall sleep’ (κοιμηθησόμεθα). This yields the following sense: ‘None of us shall
@@ -301,21 +308,22 @@ arc_score: 6
 
 ---
 
-### 1. New Testament General and Topics Engaging the New Testament A Short Introduction for Students and MinistersMiguel G.EchevarríaGrand Rapids Baker Academic 2024. ix  227 pp. 24.99. ISBN 9781540963796.
+### 1. New Testament General and Topics Engaging the New Testament: A Short Introduction for Students and Ministers;Miguel G.EchevarríaGrand Rapids: Baker Academic, 2024. ix + 227 pp. $24.99. ISBN 9781540963796.
 - **DOI**: [10.1177/0142064x251346004](https://doi.org/10.1177/0142064x251346004)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### 2. Gospels and Acts Mary of Nazareth The Mother of Jesus in the Memory of the Earliest ChristiansBryanChristopherNew York Seabury books 2024. xii  240 pp. 28.29. ISBN 9781640657465.
+### 2. Gospels and Acts Mary of Nazareth: The Mother of Jesus in the Memory of the Earliest ChristiansBryanChristopherNew York: Seabury books, 2024. xii + 240 pp. $28.29. ISBN 9781640657465.
 - **DOI**: [10.1177/0142064x251346005](https://doi.org/10.1177/0142064x251346005)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Josephuss Rhetorical Construction of the Galileans as Proximate            iOthersi
+### Josephus’s Rhetorical Construction of the Galileans as Proximate
+            <i>Others</i>
 - **DOI**: [10.1177/0142064x251351861](https://doi.org/10.1177/0142064x251351861)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: This study explores Josephus’s rhetorical portrayal of the Galileans in an intricate web of interactions with the Judeans/Jews. The Galileans’ identity, as presented by Josephus, is a literary construct that is rhetorically flexible and malleable when viewed through various analytical lenses, such as ethnicity, geography, politics, religion, and culture. Ethnically, Josephus depicts the Galileans as a fragmented yet significant presence in the Hasmonean and early Roman imperial periods. Geographically, they emerge as a group in Galilee as opposed to a uniform presence in the region. Politically, they are an assertive actor who resists imperial threats but whose mob impulses can be harnessed by a capable Judean aristocratic leader. In terms of religion and culture, they exhibit a close connection to the Jewish tradition. By portraying the Galileans as proximate
@@ -326,7 +334,7 @@ arc_score: 6
 
 ---
 
-### Populating the Middle The Social Location of the Author of Luke-Acts
+### Populating the Middle: The Social Location of the Author of Luke-Acts
 - **DOI**: [10.1177/0142064x251353233](https://doi.org/10.1177/0142064x251353233)
 - **Analytical Tags**: `NT / - / Contemporary`
 - **Abstract**: Despite recent theorizing about variegated literacies in the ancient world, evidence remains scarce for authors or literary-textual communities that fall between elite contexts and basic functional literacy, understandably leading some scholars to continue to work with a binary frame, ignoring the middle ground. I suggest that we can begin to populate this middle ground by 1) arguing that recent scholarship supports Loveday Alexander’s conception of the author of Luke-Acts as a sub-elite author, placing him in this ‘middling’ territory (along with the rest of the New Testament) and 2) suggesting three other ‘middling’ literary-textual communities roughly contemporary with early Christianity. In doing so I emphasize the importance of paying attention to the
@@ -335,7 +343,9 @@ arc_score: 6
 
 ---
 
-### Fearful and Joyous Old Men Old Age Masculinity and Emotions in Lukes Account of Zechariah Lk. 1 and the Fables of Babrios             iFabi            . 98 136
+### Fearful and Joyous Old Men: Old Age, Masculinity, and Emotions in Luke’s Account of Zechariah (Lk. 1) and the Fables of Babrios (
+            <i>Fab</i>
+            . 98, 136)
 - **DOI**: [10.1177/0142064x251354947](https://doi.org/10.1177/0142064x251354947)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: In Graeco-Roman antiquity, the elderly, especially elderly men, were typically regarded as timid, cowardly, fearful, ill-tempered, and prone to anger. The Gospel of Luke, however, deviates from this stereotype of emotions by attributing to the aged priest Zechariah an emotional transformation from fear to joy. This article compares Luke’s characterization of Zechariah’s emotions with that of a happy and a timorous old father in Babrios’s fable collection, the
@@ -346,7 +356,7 @@ arc_score: 6
 
 ---
 
-### Reading Luke 2.4152 in the Post-War Context War Trauma Intergenerational Tension and Therapeutic Reading Experience
+### Reading Luke 2.41–52 in the Post-War Context: War Trauma, Intergenerational Tension, and Therapeutic Reading Experience
 - **DOI**: [10.1177/0142064x251355332](https://doi.org/10.1177/0142064x251355332)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: This paper reads Luke 2.41–52 in light of war trauma and intergenerational tensions surrounding the Temple in the post-Jewish War context. The war was a deeply traumatic event for diaspora
@@ -383,28 +393,28 @@ arc_score: 6
 
 ---
 
-### 3. Paul 40 Questions about the Apostle PaulEchevarríaMiguel G.LairdBenjaminGrand Rapids MI Kregel Academic 2023. xii  319 pp. 24.99. ISBN 9780825446668.
+### 3. Paul 40 Questions about the Apostle PaulEchevarríaMiguel G.LairdBenjaminGrand Rapids, MI: Kregel Academic, 2023. xii + 319 pp. $24.99. ISBN 9780825446668.
 - **DOI**: [10.1177/0142064x251360698](https://doi.org/10.1177/0142064x251360698)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### 4. Other Letters and Revelation From Qumran to Jude A History of Social Crisis at Qumran and in Early Jewish ChristianityArmitageChrisSheffield Sheffield Phoenix Press 2023. xi  195 pp. 85.00. ISBN 9781914490293.
+### 4. Other Letters and Revelation From Qumran to Jude: A History of Social Crisis at Qumran and in Early Jewish ChristianityArmitageChrisSheffield: Sheffield Phoenix Press, 2023. xi + 195 pp. £85.00. ISBN 9781914490293.
 - **DOI**: [10.1177/0142064x251360699](https://doi.org/10.1177/0142064x251360699)
 - **Analytical Tags**: `NT;OT;Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### 5. Non-Canonical Texts Journeys to Heaven and Hell Tours of the Afterlife in the Early Christian TraditionEhrmanBart D.New Haven Yale University Press 2022. xii  328 pp. 23.00. ISBN 9780300271041.
+### 5. Non-Canonical Texts Journeys to Heaven and Hell: Tours of the Afterlife in the Early Christian TraditionEhrmanBart D.New Haven: Yale University Press, 2022. xii + 328 pp. $23.00. ISBN 9780300271041.
 - **DOI**: [10.1177/0142064x251360983](https://doi.org/10.1177/0142064x251360983)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Range of Rejoicing in Luke-Acts Exploring the Precision and Power of Lukes Positive Emotion Terminology
+### The Range of Rejoicing in Luke-Acts: Exploring the Precision and Power of Luke’s Positive Emotion Terminology
 - **DOI**: [10.1177/0142064x251362507](https://doi.org/10.1177/0142064x251362507)
 - **Analytical Tags**: `NT;OT / - / -`
 - **Abstract**: The author of Luke-Acts demonstrates granularity and skill in his precise use of positive emotion terminology, here labelled as ‘rejoicing’. The theory of culturally constructed emotions and the use of semantic mapping provide helpful tools for analysing the range of rejoicing terminology in Luke-Acts. This study compares Luke’s positive emotion terminology with Josephus’s
@@ -413,7 +423,8 @@ arc_score: 6
 
 ---
 
-### The Parousia of the Lord in 1 Thessalonians 4.1318 as an                    iAdventusi
+### The Parousia of the Lord in 1 Thessalonians 4.13–18 as an
+                    <i>Adventus</i>
 - **DOI**: [10.1177/0142064x251367474](https://doi.org/10.1177/0142064x251367474)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: In 1930 Erik Peterson put forth the argument that in 1 Thess. 4.13–18 Paul depicts the Parousia of Jesus as an
@@ -429,7 +440,7 @@ arc_score: 6
 
 ---
 
-### Re-Examining the Statistical Methodology and Onomastic Claims of Gregor and Blais Argument from Name Popularity
+### Re-Examining the Statistical Methodology and Onomastic Claims of Gregor and Blais’ Argument from Name Popularity
 - **DOI**: [10.1177/0142064x251377023](https://doi.org/10.1177/0142064x251377023)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: In 2024 Gregor and Blais published a
@@ -438,7 +449,7 @@ arc_score: 6
 
 ---
 
-### Caesar as Title and Name The Dual Function of καῖσαρ in Mark 12.1417
+### Caesar as Title and Name: The Dual Function of καῖσαρ in Mark 12.14–17
 - **DOI**: [10.1177/0142064x251377343](https://doi.org/10.1177/0142064x251377343)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Much has been written about Mark’s pericope on the payment of taxes to Caesar (Mk 12.14–17), but there has been no analysis of whether the word καῖσαρ functions as a title or a proper name. Nor is there a clear consensus as to when the
@@ -449,14 +460,14 @@ arc_score: 6
 
 ---
 
-### The Salvation of All Israel in Romans 11.26 A New Exegetical Perspective
+### The Salvation of All Israel in Romans 11.26: A New Exegetical Perspective
 - **DOI**: [10.1177/0142064x251377789](https://doi.org/10.1177/0142064x251377789)
 - **Analytical Tags**: `NT / - / Contemporary`
 - **Abstract**: The understanding of the salvation of all Israel in Rom. 11.26 remains controversial. In this article I propose a new perspective—the genealogical-religious Israelite view—based on Paul’s distinctive use of ‘Jews’ and ‘Israel’ and the occasion of his writing. Paul’s contemporary Israelites are a subset of Jews. Insofar as ‘Jews’ includes proselytes (Gentile Judaizers), Israelites are the subgroup of Jews with genealogical credentials. Paul yearns for the salvation of more of these genealogical Israelites in his time, and ‘all Israel’ is the sum of the remnant and the portion of the hardened genealogical Israelites who would ultimately believe in Jesus. Against Jason A. Staples, Gentiles-in-Christ are not resurrected Israelites. Rather, Paul presents descent from Jacob as a credential beyond Gentile reach. Gentiles can never become Israelites.
 
 ---
 
-### Re-Judaizing Jesus Remembering the Sacrificial Cult in the Gospel of Matthew
+### Re-Judaizing Jesus: Remembering the Sacrificial Cult in the Gospel of Matthew
 - **DOI**: [10.1177/0142064x251380686](https://doi.org/10.1177/0142064x251380686)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: The Gospel of Matthew is commonly regarded as ‘the most Jewish’ of the four New Testament Gospels. Some biblical scholars who specialize in the Gospel of Matthew now hold it to be a relatively faithful account or representation of Jesus’s own ‘Jewishness’. This article questions the relationship between the historical Jesus and the narrative representation of Jesus in the Gospel of Matthew, particularly vis-à-vis Jesus’s relationship to the Temple. Here I seek to problematize facile assessments of Jesus and Matthew’s ‘Jewishness’ by delineating the chronologically successive stages in which the figure of Jesus was conceptualized through sacralization in the pre-Gospel period, the de-Judaization of Jesus in the Gospel of Mark, and the re-Judaization of Jesus in the Gospel of Matthew. I also challenge recent assertions that ‘social memory’—in contradistinction to the traditional ‘criteria of authenticity’—provides a more methodologically and historiographically reliable approach to the Quest for the Historical Jesus vis-a-vis the historical author of the Gospel of Matthew.
@@ -470,7 +481,7 @@ arc_score: 6
 
 ---
 
-### The Screaming Apocalypse Revelation Gender and the Coloniality of Knowledge
+### The Screaming Apocalypse: Revelation, Gender, and the Coloniality of Knowledge
 - **DOI**: [10.1177/0142064x251383576](https://doi.org/10.1177/0142064x251383576)
 - **Analytical Tags**: `NT;Systematic Theology / Method / -`
 - **Abstract**: This short article considers the coloniality of Revelation, and scholarship about Revelation, through feminist and decolonial lenses, centering the sonic and epistemic reverberations of (post)apocalyptic discourse in the wake of Hurricanes Irma and María. Engaging with the work of feminist, postcolonial, and decolonial scholars, the essay expands upon decolonial feminist ethicist Melissa Pagán’s ‘hermeneutics of
@@ -479,14 +490,14 @@ arc_score: 6
 
 ---
 
-### Ethnic Differentiations in Sin Mapping Jewish Sin in Romans
+### Ethnic Differentiations in Sin? Mapping Jewish Sin in Romans
 - **DOI**: [10.1177/0142064x251384664](https://doi.org/10.1177/0142064x251384664)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Are gentile and Jewish sin in Romans differentiated, so that chs. 9–11 are set apart from how Paul speaks of sin earlier in the epistle? Stephen L. Young has argued just that, and this article critically addresses his position, which is exaggerated and overlooks the textual habitat of the scriptural evidence used in Rom. 9–11. Cognitive sins are found among both gentiles and Jews. Paul’s eschatological framework enhances moral decline in general and is not susceptible to ethnic diversity. Rom. 1.18–3.20 and 9–11 are entangled in a complex web of terms and motifs. The past sins of Israel in Scripture are blended with experiences from Paul’s present mission.
 
 ---
 
-### Gender in the Apocalypse A Story of Containers
+### Gender in the Apocalypse: A Story of Containers
 - **DOI**: [10.1177/0142064x251385004](https://doi.org/10.1177/0142064x251385004)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Drawing on Ursula K. Le Guin’s
@@ -495,42 +506,42 @@ arc_score: 6
 
 ---
 
-### Revelation Gender and the Brooten Phenomenon
+### Revelation, Gender, and the ‘Brooten Phenomenon’
 - **DOI**: [10.1177/0142064x251385088](https://doi.org/10.1177/0142064x251385088)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Drawing inspiration from Sara Parks’s article on the ‘Brooten Phenomenon’, which references Bernadette J. Brooten’s groundbreaking work on women’s lives in the ancient world, this article addresses the tendency to overlook scholarship on Revelation by women and about gender. The article offers close analyses of recent commentaries and articles on Revelation and finds that women’s scholarship is cited mainly when discussing gender and often relegated to footnotes. This lack of citation belies the significant presence of women-identified scholars publishing on Revelation.
 
 ---
 
-### Gender Coloniality and Revelation
+### Gender, Coloniality, and Revelation
 - **DOI**: [10.1177/0142064x251387683](https://doi.org/10.1177/0142064x251387683)
 - **Analytical Tags**: `NT;Systematic Theology / Method / -`
 - **Abstract**: This article offers a decolonial feminist and affective reading of the book of Revelation. I examine how Revelation’s ‘marks’ can function as tools of social, political, and racial control by reinforcing insider/outsider boundaries and gendered hierarchies. This article also examines how Revelation’s language of purity and exclusion can move through bodies and emotions, shaping lived experiences and communities.
 
 ---
 
-### Black Trans Flourishing as a Sign Semeia of the Future Revelation 12
+### Black Trans Flourishing as a Sign (Semeia) of the Future: Revelation 12
 - **DOI**: [10.1177/0142064x251390585](https://doi.org/10.1177/0142064x251390585)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: This paper scripturalizes Revelation 12 through an Africana queer lens to advance the survival and flourishing of Black and brown people of transgender experience. The woman is read as a transcestor of trans women and gender non-conforming people from William Dorsey, Sylvia Rivera, Marsha P. Johnson, Pepper LaBeija, and RuPaul to signify a community screaming for survival, freedom, and flourishing. This approach brings Black Transgender Studies into conversation with the topic of Gender and the study of Revelation.
 
 ---
 
-### Introduction to Special Issue The Future of Revelation and Gender Studies
+### Introduction to Special Issue: The Future of Revelation and Gender Studies
 - **DOI**: [10.1177/0142064x251394443](https://doi.org/10.1177/0142064x251394443)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: This introduction lays out the premise for this special edition, which arose from a panel session at the 2024 Society of Biblical Literature Annual Meeting which explored ‘The Future of Revelation and Gender Studies’. It explains how those included in the volume build on previous trends in scholarship and offer insights into avenues they would like to see further research on in relation to Revelation and gender take. Taken together, the pieces offer a rich set of diverse perspectives on the book of Revelation and its study in relation to gender.
 
 ---
 
-### Response Babylon Is Burning The Futures of Apocalyptic Sex
+### Response: Babylon Is Burning: The Futures of Apocalyptic Sex
 - **DOI**: [10.1177/0142064x251394753](https://doi.org/10.1177/0142064x251394753)
 - **Analytical Tags**: `- / Method / Contemporary`
 - **Abstract**: The challenging and inventive articles in this volume push scholarship in the Apocalypse of John further in both hopeful and liberatory ways. Social location, intersectionality, and connections with contemporary politics are in conversation with John’s ancient text, which forms the bookend to the Christian Bible. The questions these authors raise are necessary for locating the both ethical and oppressive uses of this apocalyptic text in our times.
 
 ---
 
-### Language Games and the Meanings of Meaning Two Problems with Jonathan Rowlandss Defense of Theological Readings
+### Language Games and the Meaning(s) of ‘Meaning’: Two Problems with Jonathan Rowlands’s Defense of ‘Theological Readings’
 - **DOI**: [10.1177/0142064x251403218](https://doi.org/10.1177/0142064x251403218)
 - **Analytical Tags**: `- / Method / -`
 - **Abstract**: Jonathan Rowlands recently argued that the historical-critical and the TIS approaches to reading Scripture are both justified, by their own lights, in that each represents a ‘language game’ whose rules are grounded in nothing more than a preference for a particular reading goal. This brief response will challenge two of Rowlands’s main claims: (1) that Wittgenstein’s ‘language game’ concept is applicable to the reading of texts, and (2) that the coexistence of authorial and textual (types of) meaning in a text justifies a plurality of approaches.

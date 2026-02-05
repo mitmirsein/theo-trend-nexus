@@ -13,57 +13,57 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | Contemporary | [[#God the Feminine and Other Struggles|God, the Feminine, and Other Struggles]] |
-| 2 | OT | - | [[#Thinking about Thinking Recent Research on the Mind in Ancient Israel|Thinking about Thinking: Recent Research on the “Mind” in Ancient Israel]] |
-| 3 | OT | - | [[#Violence in the Hebrew Bible A Review of Works by Amy C. Cottrill Erasmus Gaß Jacques van Ruiten and Koert van Bekkum and Claude Mariottini|Violence in the Hebrew Bible: A Review of Works by Amy C. Cottrill, Erasmus Gaß, Jacques van Ruiten and Koert van Bekkum, and Claude Mariottini]] |
-| 4 | OT | - | [[#Nation and National Identity in the Hebrew Bible and Ancient Israel|Nation and National Identity in the Hebrew Bible and Ancient Israel?]] |
-| 5 | - | - | [[#Nomination to the Presidency of the I.O.S.O.T. and of Congress Location 20282031|Nomination to the Presidency of the I.O.S.O.T. (and of Congress Location) 2028–2031]] |
-| 6 | - | - | [[#Front matter|Front matter]] |
-| 7 | - | - | [[#Back matter|Back matter]] |
-| 8 | OT | - | [[#On the Disparity of Penalties in Deuteronomy 221321|On the Disparity of Penalties in Deuteronomy 22:13–21*]] |
-| 9 | - | - | [[#The Forgotten Meaning of אות|The Forgotten Meaning of אוֹת]] |
-| 10 | OT | - | [[#The Wheat Exported from Israel to Tyre|The Wheat Exported from Israel to Tyre]] |
-| 11 | Church History, OT | Patristic | [[#Alternative Readings in the Septuagint as Snapshots of Textual Development|Alternative Readings in the Septuagint as “Snapshots” of Textual Development]] |
-| 12 | - | - | [[#1 Kings 19 and Its Emotional Repertoires|1 Kings 19 and Its Emotional Repertoires]] |
-| 13 | OT | - | [[#On Wings like Eagles Isa 4031|“On Wings like Eagles!” (Isa 40:31)]] |
-| 14 | OT | - | [[#Seen from Afar Genesis 224 in Comparative Perspective|Seen from Afar: Genesis 22:4 in Comparative Perspective]] |
-| 15 | OT | - | [[#An Intertextual Reading of Amos 37|An Intertextual Reading of Amos 3:7]] |
-| 16 | - | - | [[#Why Susa|Why Susa?]] |
-| 17 | - | - | [[#People and Botanical Metaphors in the Hebrew Text of Ben Sira|People and Botanical Metaphors in the Hebrew Text of Ben Sira]] |
-| 18 | OT | - | [[#The Festival Legislation in Numbers 2829|The Festival Legislation in Numbers 28–29]] |
-| 19 | - | - | [[#Two Unnoticed Telestics in Psalm 145|Two Unnoticed Telestics in Psalm 145]] |
-| 20 | OT | - | [[#Die Vetus Latina der Klagelieder als Zeugin für den Bedeutungswandel hebräischer Lexeme im Licht ihrer aramäischen Umwelt|Die Vetus Latina der Klagelieder als Zeugin für den Bedeutungswandel hebräischer Lexeme im Licht ihrer aramäischen Umwelt]] |
-| 21 | - | - | [[#The Buried Abimelech Tradition in Judges 101|The Buried Abimelech Tradition in Judges 10:1]] |
-| 22 | OT | - | [[#Pinocchio in the Vulgate|Pinocchio in the Vulgate]] |
-| 23 | - | Contemporary | [[#Have You Called Us Here to Dispossess Us Judg 1415|“Have You Called Us Here to Dispossess Us?” (Judg 14:15)]] |
-| 24 | - | - | [[#תבניתthe Semantic Development of a Loanword in the Persian Period|תבנית—the Semantic Development of a Loanword in the Persian Period]] |
-| 25 | OT | - | [[#Qualified Continuity|Qualified Continuity]] |
-| 26 | - | - | [[#A TEL of No City|A TEL of No City]] |
-| 27 | - | - | [[#The Judgments of the Israelite and Judahite Kings in Diachronic and Historical Perspective|The Judgments of the Israelite and Judahite Kings in Diachronic and Historical Perspective]] |
-| 28 | OT | - | [[#The Gatekeeper|The Gatekeeper]] |
-| 29 | - | - | [[#ומבין חידות in Daniel 823 as Part of a Literary Contrast|ומבין חידות in Daniel 8:23 as Part of a Literary Contrast]] |
-| 30 | - | - | [[#Town and Country Jephthah Gilead and the Preservation of Late Bronze Age Politics|Town and Country: Jephthah, Gilead, and the Preservation of Late Bronze Age Politics]] |
-| 31 | - | - | [[#From Military Coup to Temple Coronation|From Military Coup to Temple Coronation]] |
-| 32 | OT | - | [[#Pferde und Raubvögel im Hebräischen und Ägyptischen|Pferde und Raubvögel im Hebräischen und Ägyptischen]] |
-| 33 | Systematic Theology | - | [[#The First Rainfall in History|The First Rainfall in History]] |
-| 34 | Systematic Theology | - | [[#Ringen mit Gott|Ringen mit Gott]] |
-| 35 | - | - | [[#Interpreting the Ehud Narrative through Grotesque Realism and Menippean Satire|Interpreting the Ehud Narrative through Grotesque Realism and Menippean Satire]] |
-| 36 | - | - | [[#Strange Textiles Materiality Wealth and Wisdom in Proverbs 7|Strange Textiles: Materiality, Wealth, and Wisdom in Proverbs 7]] |
-| 37 | - | - | [[#Divine Blueprints|Divine Blueprints]] |
-| 38 | NT | - | [[#On Emphasis and Exegesis|On Emphasis and Exegesis]] |
-| 39 | OT | - | [[#The Hebrew Bible and the Theory of Anachronism|The Hebrew Bible and the Theory of Anachronism]] |
-| 40 | - | - | [[#The Booty Call|The Booty Call]] |
-| 41 | Practical Theology | - | [[#Slavery and Exile in the Book of Baruch|Slavery and Exile in the Book of Baruch]] |
-| 42 | OT | - | [[#Zions Taunt 3722 and Tirade 4914 in Isaiah|Zion’s Taunt (37:22) and Tirade (49:14) in Isaiah]] |
-| 43 | - | - | [[#Tithes and Imperial Taxes|Tithes and Imperial Taxes]] |
-| 44 | OT | - | [[#Measuring Conceptual Complexification in the Pentateuch|Measuring Conceptual Complexification in the Pentateuch]] |
-| 45 | - | - | [[#Girdles of Fig Foliage|Girdles of Fig Foliage]] |
-| 46 | OT | - | [[#Jewish Identity Exclusion of Foreigners and Group Survival|Jewish Identity, Exclusion of Foreigners, and Group Survival]] |
-| 47 | - | - | [[#Spätbronzezeit neuassyrische Zeit oder babylonisches Exil|Spätbronzezeit, neuassyrische Zeit oder babylonisches Exil]] |
+| 1 | - | Contemporary | [God, the Feminine, and Other Struggles](#god-the-feminine-and-other-struggles) |
+| 2 | OT | - | [Thinking about Thinking: Recent Research on the “Mind” in Ancient Israel](#thinking-about-thinking-recent-research-on-the-mind-in-ancient-israel) |
+| 3 | OT | - | [Violence in the Hebrew Bible: A Review of Works by Amy C. Cottrill, Erasmus Gaß, Jacques van Ruiten and Koert van Bekkum, and Claude Mariottini](#violence-in-the-hebrew-bible-a-review-of-works-by-amy-c-cottrill-erasmus-gaß-jacques-van-ruiten-and-koert-van-bekkum-and-claude-mariottini) |
+| 4 | OT | - | [Nation and National Identity in the Hebrew Bible and Ancient Israel?](#nation-and-national-identity-in-the-hebrew-bible-and-ancient-israel) |
+| 5 | - | - | [Nomination to the Presidency of the I.O.S.O.T. (and of Congress Location) 2028–2031](#nomination-to-the-presidency-of-the-iosot-and-of-congress-location-20282031) |
+| 6 | - | - | [Front matter](#front-matter) |
+| 7 | - | - | [Back matter](#back-matter) |
+| 8 | OT | - | [On the Disparity of Penalties in Deuteronomy 22:13–21*](#on-the-disparity-of-penalties-in-deuteronomy-221321) |
+| 9 | - | - | [The Forgotten Meaning of אוֹת](#the-forgotten-meaning-of-אות) |
+| 10 | OT | - | [The Wheat Exported from Israel to Tyre](#the-wheat-exported-from-israel-to-tyre) |
+| 11 | Church History, OT | Patristic | [Alternative Readings in the Septuagint as “Snapshots” of Textual Development](#alternative-readings-in-the-septuagint-as-snapshots-of-textual-development) |
+| 12 | - | - | [1 Kings 19 and Its Emotional Repertoires](#1-kings-19-and-its-emotional-repertoires) |
+| 13 | OT | - | [“On Wings like Eagles!” (Isa 40:31)](#on-wings-like-eagles-isa-4031) |
+| 14 | OT | - | [Seen from Afar: Genesis 22:4 in Comparative Perspective](#seen-from-afar-genesis-224-in-comparative-perspective) |
+| 15 | OT | - | [An Intertextual Reading of Amos 3:7](#an-intertextual-reading-of-amos-37) |
+| 16 | - | - | [Why Susa?](#why-susa) |
+| 17 | - | - | [People and Botanical Metaphors in the Hebrew Text of Ben Sira](#people-and-botanical-metaphors-in-the-hebrew-text-of-ben-sira) |
+| 18 | OT | - | [The Festival Legislation in Numbers 28–29](#the-festival-legislation-in-numbers-2829) |
+| 19 | - | - | [Two Unnoticed Telestics in Psalm 145](#two-unnoticed-telestics-in-psalm-145) |
+| 20 | OT | - | [Die Vetus Latina der Klagelieder als Zeugin für den Bedeutungswandel hebräischer Lexeme im Licht ihrer aramäischen Umwelt](#die-vetus-latina-der-klagelieder-als-zeugin-für-den-bedeutungswandel-hebräischer-lexeme-im-licht-ihrer-aramäischen-umwelt) |
+| 21 | - | - | [The Buried Abimelech Tradition in Judges 10:1](#the-buried-abimelech-tradition-in-judges-101) |
+| 22 | OT | - | [Pinocchio in the Vulgate](#pinocchio-in-the-vulgate) |
+| 23 | - | Contemporary | [“Have You Called Us Here to Dispossess Us?” (Judg 14:15)](#have-you-called-us-here-to-dispossess-us-judg-1415) |
+| 24 | - | - | [תבנית—the Semantic Development of a Loanword in the Persian Period](#תבניתthe-semantic-development-of-a-loanword-in-the-persian-period) |
+| 25 | OT | - | [Qualified Continuity](#qualified-continuity) |
+| 26 | - | - | [A TEL of No City](#a-tel-of-no-city) |
+| 27 | - | - | [The Judgments of the Israelite and Judahite Kings in Diachronic and Historical Perspective](#the-judgments-of-the-israelite-and-judahite-kings-in-diachronic-and-historical-perspective) |
+| 28 | OT | - | [The Gatekeeper](#the-gatekeeper) |
+| 29 | - | - | [ומבין חידות in Daniel 8:23 as Part of a Literary Contrast](#ומבין-חידות-in-daniel-823-as-part-of-a-literary-contrast) |
+| 30 | - | - | [Town and Country: Jephthah, Gilead, and the Preservation of Late Bronze Age Politics](#town-and-country-jephthah-gilead-and-the-preservation-of-late-bronze-age-politics) |
+| 31 | - | - | [From Military Coup to Temple Coronation](#from-military-coup-to-temple-coronation) |
+| 32 | OT | - | [Pferde und Raubvögel im Hebräischen und Ägyptischen](#pferde-und-raubvögel-im-hebräischen-und-ägyptischen) |
+| 33 | Systematic Theology | - | [The First Rainfall in History](#the-first-rainfall-in-history) |
+| 34 | Systematic Theology | - | [Ringen mit Gott](#ringen-mit-gott) |
+| 35 | - | - | [Interpreting the Ehud Narrative through Grotesque Realism and Menippean Satire](#interpreting-the-ehud-narrative-through-grotesque-realism-and-menippean-satire) |
+| 36 | - | - | [Strange Textiles: Materiality, Wealth, and Wisdom in Proverbs 7](#strange-textiles-materiality-wealth-and-wisdom-in-proverbs-7) |
+| 37 | - | - | [Divine Blueprints](#divine-blueprints) |
+| 38 | NT | - | [On Emphasis and Exegesis](#on-emphasis-and-exegesis) |
+| 39 | OT | - | [The Hebrew Bible and the Theory of Anachronism](#the-hebrew-bible-and-the-theory-of-anachronism) |
+| 40 | - | - | [The Booty Call](#the-booty-call) |
+| 41 | Practical Theology | - | [Slavery and Exile in the Book of Baruch](#slavery-and-exile-in-the-book-of-baruch) |
+| 42 | OT | - | [Zion’s Taunt (37:22) and Tirade (49:14) in Isaiah](#zions-taunt-3722-and-tirade-4914-in-isaiah) |
+| 43 | - | - | [Tithes and Imperial Taxes](#tithes-and-imperial-taxes) |
+| 44 | OT | - | [Measuring Conceptual Complexification in the Pentateuch](#measuring-conceptual-complexification-in-the-pentateuch) |
+| 45 | - | - | [Girdles of Fig Foliage](#girdles-of-fig-foliage) |
+| 46 | OT | - | [Jewish Identity, Exclusion of Foreigners, and Group Survival](#jewish-identity-exclusion-of-foreigners-and-group-survival) |
+| 47 | - | - | [Spätbronzezeit, neuassyrische Zeit oder babylonisches Exil](#spätbronzezeit-neuassyrische-zeit-oder-babylonisches-exil) |
 
 ---
 
-### God the Feminine and Other Struggles
+### God, the Feminine, and Other Struggles
 - **DOI**: [10.1163/15685330-00001163](https://doi.org/10.1163/15685330-00001163)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: Abstract
@@ -71,7 +71,7 @@ This review examines three recent contributions to the Song of Songs scholarship
 
 ---
 
-### Thinking about Thinking Recent Research on the Mind in Ancient Israel
+### Thinking about Thinking: Recent Research on the “Mind” in Ancient Israel
 - **DOI**: [10.1163/15685330-00001164](https://doi.org/10.1163/15685330-00001164)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -79,7 +79,7 @@ Two anthologies on the anthropology of the mind have appeared in the last years:
 
 ---
 
-### Violence in the Hebrew Bible A Review of Works by Amy C. Cottrill Erasmus Gaß Jacques van Ruiten and Koert van Bekkum and Claude Mariottini
+### Violence in the Hebrew Bible: A Review of Works by Amy C. Cottrill, Erasmus Gaß, Jacques van Ruiten and Koert van Bekkum, and Claude Mariottini
 - **DOI**: [10.1163/15685330-00001165](https://doi.org/10.1163/15685330-00001165)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -87,7 +87,7 @@ Four recent books address the ethical notion of violence in the Hebrew Bible fro
 
 ---
 
-### Nation and National Identity in the Hebrew Bible and Ancient Israel
+### Nation and National Identity in the Hebrew Bible and Ancient Israel?
 - **DOI**: [10.1163/15685330-00001166](https://doi.org/10.1163/15685330-00001166)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -95,7 +95,7 @@ Four recent books address the ethical notion of violence in the Hebrew Bible fro
 
 ---
 
-### Nomination to the Presidency of the I.O.S.O.T. and of Congress Location 20282031
+### Nomination to the Presidency of the I.O.S.O.T. (and of Congress Location) 2028–2031
 - **DOI**: [10.1163/15685330-00001167](https://doi.org/10.1163/15685330-00001167)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -116,7 +116,7 @@ Four recent books address the ethical notion of violence in the Hebrew Bible fro
 
 ---
 
-### On the Disparity of Penalties in Deuteronomy 221321
+### On the Disparity of Penalties in Deuteronomy 22:13–21*
 - **DOI**: [10.1163/15685330-bja10183](https://doi.org/10.1163/15685330-bja10183)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -124,7 +124,7 @@ Deuteronomy 19:16–21 states that a false accuser should face the same punishme
 
 ---
 
-### The Forgotten Meaning of אות
+### The Forgotten Meaning of אוֹת
 - **DOI**: [10.1163/15685330-bja10189](https://doi.org/10.1163/15685330-bja10189)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -140,7 +140,7 @@ The Hebrew Bible contains three references to the export of wheat from Israel to
 
 ---
 
-### Alternative Readings in the Septuagint as Snapshots of Textual Development
+### Alternative Readings in the Septuagint as “Snapshots” of Textual Development
 - **DOI**: [10.1163/15685330-bja10191](https://doi.org/10.1163/15685330-bja10191)
 - **Analytical Tags**: `Church History;OT / - / Patristic`
 - **Abstract**: Abstract
@@ -156,7 +156,7 @@ Biblical scholarship and cognate disciplines have seen a surge in publications o
 
 ---
 
-### On Wings like Eagles Isa 4031
+### “On Wings like Eagles!” (Isa 40:31)
 - **DOI**: [10.1163/15685330-bja10195](https://doi.org/10.1163/15685330-bja10195)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -164,7 +164,7 @@ Faunal imagery in ancient literature has been the focus of many discussions, so 
 
 ---
 
-### Seen from Afar Genesis 224 in Comparative Perspective
+### Seen from Afar: Genesis 22:4 in Comparative Perspective
 - **DOI**: [10.1163/15685330-bja10196](https://doi.org/10.1163/15685330-bja10196)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -172,7 +172,7 @@ This article conducts a broad comparative analysis of the idiomatic phrase “he
 
 ---
 
-### An Intertextual Reading of Amos 37
+### An Intertextual Reading of Amos 3:7
 - **DOI**: [10.1163/15685330-bja10197](https://doi.org/10.1163/15685330-bja10197)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -180,7 +180,7 @@ This essay argues that Amos 3:7 was interpolated into Amos 3:3–8 to create an 
 
 ---
 
-### Why Susa
+### Why Susa?
 - **DOI**: [10.1163/15685330-bja10198](https://doi.org/10.1163/15685330-bja10198)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -196,7 +196,7 @@ This paper deals with several metaphors found in the Hebrew text of Ben Sira tha
 
 ---
 
-### The Festival Legislation in Numbers 2829
+### The Festival Legislation in Numbers 28–29
 - **DOI**: [10.1163/15685330-bja10200](https://doi.org/10.1163/15685330-bja10200)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -220,7 +220,7 @@ The fragments of the Vetus Latina are rightly regarded as valuable witnesses for
 
 ---
 
-### The Buried Abimelech Tradition in Judges 101
+### The Buried Abimelech Tradition in Judges 10:1
 - **DOI**: [10.1163/15685330-bja10203](https://doi.org/10.1163/15685330-bja10203)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -236,7 +236,7 @@ The paper summarizes Jerome’s Latin translation of the law against kidnapping 
 
 ---
 
-### Have You Called Us Here to Dispossess Us Judg 1415
+### “Have You Called Us Here to Dispossess Us?” (Judg 14:15)
 - **DOI**: [10.1163/15685330-bja10205](https://doi.org/10.1163/15685330-bja10205)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: Abstract
@@ -244,7 +244,7 @@ Samson’s riddle (Judg 14:14) has inspired interpretation for millennia. Told d
 
 ---
 
-### תבניתthe Semantic Development of a Loanword in the Persian Period
+### תבנית—the Semantic Development of a Loanword in the Persian Period
 - **DOI**: [10.1163/15685330-bja10206](https://doi.org/10.1163/15685330-bja10206)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -284,7 +284,7 @@ The Priestly portion in the Pentateuch is named so due to its concentrated conce
 
 ---
 
-### ומבין חידות in Daniel 823 as Part of a Literary Contrast
+### ומבין חידות in Daniel 8:23 as Part of a Literary Contrast
 - **DOI**: [10.1163/15685330-bja10212](https://doi.org/10.1163/15685330-bja10212)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -292,7 +292,7 @@ The phrase ומבין חידות in Dan 8:23 has been variously interpreted as �
 
 ---
 
-### Town and Country Jephthah Gilead and the Preservation of Late Bronze Age Politics
+### Town and Country: Jephthah, Gilead, and the Preservation of Late Bronze Age Politics
 - **DOI**: [10.1163/15685330-bja10213](https://doi.org/10.1163/15685330-bja10213)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -341,7 +341,7 @@ Building on Bakhtin’s theories, this study seeks to pinpoint the carnivalesque
 
 ---
 
-### Strange Textiles Materiality Wealth and Wisdom in Proverbs 7
+### Strange Textiles: Materiality, Wealth, and Wisdom in Proverbs 7
 - **DOI**: [10.1163/15685330-bja10220](https://doi.org/10.1163/15685330-bja10220)
 - **Analytical Tags**: `- / Method / -`
 - **Abstract**: Abstract
@@ -389,7 +389,7 @@ Words and images associated with the topic of slavery appear throughout the litu
 
 ---
 
-### Zions Taunt 3722 and Tirade 4914 in Isaiah
+### Zion’s Taunt (37:22) and Tirade (49:14) in Isaiah
 - **DOI**: [10.1163/15685330-bja10231](https://doi.org/10.1163/15685330-bja10231)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -435,7 +435,7 @@ The near ubiquitousness of Zion in the Hebrew Bible has been well noted. The sam
 
 ---
 
-### Jewish Identity Exclusion of Foreigners and Group Survival
+### Jewish Identity, Exclusion of Foreigners, and Group Survival
 - **DOI**: [10.1163/15685330-bja10235](https://doi.org/10.1163/15685330-bja10235)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -443,7 +443,7 @@ The near ubiquitousness of Zion in the Hebrew Bible has been well noted. The sam
 
 ---
 
-### Spätbronzezeit neuassyrische Zeit oder babylonisches Exil
+### Spätbronzezeit, neuassyrische Zeit oder babylonisches Exil
 - **DOI**: [10.1163/15685330-bja10237](https://doi.org/10.1163/15685330-bja10237)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract

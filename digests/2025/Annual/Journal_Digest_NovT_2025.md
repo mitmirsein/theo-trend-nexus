@@ -13,42 +13,42 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Front matter|Front matter]] |
-| 2 | - | - | [[#Back matter|Back matter]] |
-| 3 | - | - | [[#Der Philipperbrief written by Angela Standhartinger|Der Philipperbrief, written by Angela Standhartinger]] |
-| 4 | - | - | [[#Ephesos as a Religious Center under the Principate edited by Allen C. Black Christine M. Thomas and Trevor W. Thompson|Ephesos as a Religious Center under the Principate, edited by Allen C. Black, Christine M. Thomas, and Trevor W. Thompson]] |
-| 5 | - | - | [[#Honouring Age The Social Dynamics of Age Structure in 1 Timothy written by Mona Tokarek LaFosse|Honouring Age: The Social Dynamics of Age Structure in 1 Timothy, written by Mona Tokarek LaFosse]] |
-| 6 | - | - | [[#Letters and Letter Writing written by Peter Arzt-Grabner|Letters and Letter Writing, written by Peter Arzt-Grabner]] |
-| 7 | - | - | [[#Singing Reconciliation Inhabiting the Moral Life according to Colossians 316 written by Amy Whisenand Krall|Singing Reconciliation: Inhabiting the Moral Life according to Colossians 3:16, written by Amy Whisenand Krall]] |
-| 8 | OT | - | [[#Körper und Verkörperung Biblische Anthropologie im Kontext antiker Medizin und Philosophie Ein Quellenbuch für die Septuaginta und das Neue Testament edited by Annette Weissenrieder and Katrin Dolle|Körper und Verkörperung: Biblische Anthropologie im Kontext antiker Medizin und Philosophie; Ein Quellenbuch für die Septuaginta und das Neue Testament, edited by Annette Weissenrieder and Katrin Dolle]] |
-| 9 | - | - | [[#Korinth II Das römische Korinth edited by Christoph Auffarth and Stefan Krauter|Korinth II: Das römische Korinth, edited by Christoph Auffarth and Stefan Krauter]] |
-| 10 | - | - | [[#Studies on the Intersection of Text Paratext and Reception A Festschrift in Honor of Charles E. Hill edited by Gregory R. Lanier and J. Nicholas Reid|Studies on the Intersection of Text, Paratext, and Reception: A Festschrift in Honor of Charles E. Hill, edited by Gregory R. Lanier and J. Nicholas Reid]] |
-| 11 | NT | - | [[#Early Christianity in Macedonia Scholarship Evidence Methodology Interpretation|Early Christianity in Macedonia: Scholarship, Evidence, Methodology, Interpretation]] |
-| 12 | NT | - | [[#Novum Testamentum Graecum Editio Critica Maior vol. 12 Die Synoptischen EvangelienThe Synoptic Gospels Das MarkusevangeliumThe Gospel according to Mark edited by Holger Strutwolf Georg Gäbel Annette Hüffmeier Marie-Luise Lakmann Gregory S. Paulson and Klaus Wachtel|Novum Testamentum Graecum: Editio Critica Maior, vol. 1/2: Die Synoptischen Evangelien/The Synoptic Gospels: Das Markusevangelium/The Gospel according to Mark, edited by Holger Strutwolf, Georg Gäbel, Annette Hüffmeier, Marie-Luise Lakmann, Gregory S. Paulson, and Klaus Wachtel]] |
-| 13 | NT | - | [[#A Handbook on the Greek Text vol. 1 Acts 114 vol. 2 Acts 1528 written by Martin M. Culy Mikeal C. Parsons and Josiah D. Hall|A Handbook on the Greek Text, vol. 1: Acts 1–14; vol. 2: Acts 15–28, written by Martin M. Culy, Mikeal C. Parsons, and Josiah D. Hall]] |
-| 14 | - | - | [[#A Thousand Years of Christianity in Phrygia|A Thousand Years of Christianity in Phrygia]] |
-| 15 | - | - | [[#Satirizing Christianity in Lucians Peregrinus and Achilles Tatius Leucippe and Clitophon|Satirizing Christianity in Lucian’s Peregrinus and Achilles Tatius’ Leucippe and Clitophon]] |
-| 16 | NT | - | [[#Who Forgives Sins but God None One or Many|Who Forgives Sins but God? None, One, or Many?]] |
-| 17 | OT | - | [[#Reading the Tabernacle in Hebrews 9610|Reading the Tabernacle in Hebrews 9:6–10]] |
-| 18 | Systematic Theology | - | [[#Peace and Harmony|Peace and Harmony]] |
-| 19 | NT | - | [[#Echoes of the Kingdom|Echoes of the Kingdom]] |
-| 20 | - | - | [[#The Descent from the Cross and Roman Crucifixion Practice|“The Descent from the Cross” and Roman Crucifixion Practice]] |
-| 21 | - | - | [[#Excision as Exorcism|Excision as Exorcism]] |
-| 22 | NT | - | [[#To Repoliticize Paul|To Repoliticize Paul]] |
-| 23 | NT | - | [[#Overwhelmed by Emotions|Overwhelmed by Emotions]] |
-| 24 | Church History, NT | - | [[#The Multiple Occurrences of Acts 172234 in GA L60|The Multiple Occurrences of Acts 17:22–34 in GA L60]] |
-| 25 | NT | - | [[#Jouer avec les mots pour faire rire|Jouer avec les mots pour faire rire]] |
-| 26 | NT | - | [[#A New Leaf of GA 2311|A New Leaf of GA 2311]] |
-| 27 | - | - | [[#Matthean Posteriority|Matthean Posteriority]] |
-| 28 | NT | - | [[#The Meaning of Ephesians|The Meaning of Ephesians]] |
-| 29 | NT, Systematic Theology | - | [[#Rethinking Taxonomies|Rethinking Taxonomies]] |
-| 30 | OT, Systematic Theology | - | [[#Gods λόγος in James and Early Judaism|God’s λόγος in James and Early Judaism]] |
-| 31 | NT | - | [[#An Archimedean Point for Dating the Gospels|An Archimedean Point for Dating the Gospels]] |
-| 32 | Church History, NT | Medieval | [[#Apocryphal Acts of the Apostles|“Apocryphal Acts of the Apostles”]] |
-| 33 | NT | - | [[#The History of Codex Alexandrinus|The History of Codex Alexandrinus]] |
-| 34 | - | Contemporary | [[#Historiographische Wunderdarstellung im lukanischen Doppelwerk|Historiographische Wunderdarstellung im lukanischen Doppelwerk]] |
-| 35 | NT | - | [[#Jesus of Nazareth the Mountain of the Lord|Jesus of Nazareth, the Mountain of the Lord]] |
-| 36 | - | - | [[#When the Salt of the Earth Spoils|When the Salt of the Earth Spoils]] |
+| 1 | - | - | [Front matter](#front-matter) |
+| 2 | - | - | [Back matter](#back-matter) |
+| 3 | - | - | [Der Philipperbrief, written by Angela Standhartinger](#der-philipperbrief-written-by-angela-standhartinger) |
+| 4 | - | - | [Ephesos as a Religious Center under the Principate, edited by Allen C. Black, Christine M. Thomas, and Trevor W. Thompson](#ephesos-as-a-religious-center-under-the-principate-edited-by-allen-c-black-christine-m-thomas-and-trevor-w-thompson) |
+| 5 | - | - | [Honouring Age: The Social Dynamics of Age Structure in 1 Timothy, written by Mona Tokarek LaFosse](#honouring-age-the-social-dynamics-of-age-structure-in-1-timothy-written-by-mona-tokarek-lafosse) |
+| 6 | - | - | [Letters and Letter Writing, written by Peter Arzt-Grabner](#letters-and-letter-writing-written-by-peter-arzt-grabner) |
+| 7 | - | - | [Singing Reconciliation: Inhabiting the Moral Life according to Colossians 3:16, written by Amy Whisenand Krall](#singing-reconciliation-inhabiting-the-moral-life-according-to-colossians-316-written-by-amy-whisenand-krall) |
+| 8 | OT | - | [Körper und Verkörperung: Biblische Anthropologie im Kontext antiker Medizin und Philosophie; Ein Quellenbuch für die Septuaginta und das Neue Testament, edited by Annette Weissenrieder and Katrin Dolle](#körper-und-verkörperung-biblische-anthropologie-im-kontext-antiker-medizin-und-philosophie-ein-quellenbuch-für-die-septuaginta-und-das-neue-testament-edited-by-annette-weissenrieder-and-katrin-dolle) |
+| 9 | - | - | [Korinth II: Das römische Korinth, edited by Christoph Auffarth and Stefan Krauter](#korinth-ii-das-römische-korinth-edited-by-christoph-auffarth-and-stefan-krauter) |
+| 10 | - | - | [Studies on the Intersection of Text, Paratext, and Reception: A Festschrift in Honor of Charles E. Hill, edited by Gregory R. Lanier and J. Nicholas Reid](#studies-on-the-intersection-of-text-paratext-and-reception-a-festschrift-in-honor-of-charles-e-hill-edited-by-gregory-r-lanier-and-j-nicholas-reid) |
+| 11 | NT | - | [Early Christianity in Macedonia: Scholarship, Evidence, Methodology, Interpretation](#early-christianity-in-macedonia-scholarship-evidence-methodology-interpretation) |
+| 12 | NT | - | [Novum Testamentum Graecum: Editio Critica Maior, vol. 1/2: Die Synoptischen Evangelien/The Synoptic Gospels: Das Markusevangelium/The Gospel according to Mark, edited by Holger Strutwolf, Georg Gäbel, Annette Hüffmeier, Marie-Luise Lakmann, Gregory S. Paulson, and Klaus Wachtel](#novum-testamentum-graecum-editio-critica-maior-vol-12-die-synoptischen-evangelienthe-synoptic-gospels-das-markusevangeliumthe-gospel-according-to-mark-edited-by-holger-strutwolf-georg-gäbel-annette-hüffmeier-marie-luise-lakmann-gregory-s-paulson-and-klaus-wachtel) |
+| 13 | NT | - | [A Handbook on the Greek Text, vol. 1: Acts 1–14; vol. 2: Acts 15–28, written by Martin M. Culy, Mikeal C. Parsons, and Josiah D. Hall](#a-handbook-on-the-greek-text-vol-1-acts-114-vol-2-acts-1528-written-by-martin-m-culy-mikeal-c-parsons-and-josiah-d-hall) |
+| 14 | - | - | [A Thousand Years of Christianity in Phrygia](#a-thousand-years-of-christianity-in-phrygia) |
+| 15 | - | - | [Satirizing Christianity in Lucian’s Peregrinus and Achilles Tatius’ Leucippe and Clitophon](#satirizing-christianity-in-lucians-peregrinus-and-achilles-tatius-leucippe-and-clitophon) |
+| 16 | NT | - | [Who Forgives Sins but God? None, One, or Many?](#who-forgives-sins-but-god-none-one-or-many) |
+| 17 | OT | - | [Reading the Tabernacle in Hebrews 9:6–10](#reading-the-tabernacle-in-hebrews-9610) |
+| 18 | Systematic Theology | - | [Peace and Harmony](#peace-and-harmony) |
+| 19 | NT | - | [Echoes of the Kingdom](#echoes-of-the-kingdom) |
+| 20 | - | - | [“The Descent from the Cross” and Roman Crucifixion Practice](#the-descent-from-the-cross-and-roman-crucifixion-practice) |
+| 21 | - | - | [Excision as Exorcism](#excision-as-exorcism) |
+| 22 | NT | - | [To Repoliticize Paul](#to-repoliticize-paul) |
+| 23 | NT | - | [Overwhelmed by Emotions](#overwhelmed-by-emotions) |
+| 24 | Church History, NT | - | [The Multiple Occurrences of Acts 17:22–34 in GA L60](#the-multiple-occurrences-of-acts-172234-in-ga-l60) |
+| 25 | NT | - | [Jouer avec les mots pour faire rire](#jouer-avec-les-mots-pour-faire-rire) |
+| 26 | NT | - | [A New Leaf of GA 2311](#a-new-leaf-of-ga-2311) |
+| 27 | - | - | [Matthean Posteriority](#matthean-posteriority) |
+| 28 | NT | - | [The Meaning of Ephesians](#the-meaning-of-ephesians) |
+| 29 | NT, Systematic Theology | - | [Rethinking Taxonomies](#rethinking-taxonomies) |
+| 30 | OT, Systematic Theology | - | [God’s λόγος in James and Early Judaism](#gods-λόγος-in-james-and-early-judaism) |
+| 31 | NT | - | [An Archimedean Point for Dating the Gospels](#an-archimedean-point-for-dating-the-gospels) |
+| 32 | Church History, NT | Medieval | [“Apocryphal Acts of the Apostles”](#apocryphal-acts-of-the-apostles) |
+| 33 | NT | - | [The History of Codex Alexandrinus](#the-history-of-codex-alexandrinus) |
+| 34 | - | Contemporary | [Historiographische Wunderdarstellung im lukanischen Doppelwerk](#historiographische-wunderdarstellung-im-lukanischen-doppelwerk) |
+| 35 | NT | - | [Jesus of Nazareth, the Mountain of the Lord](#jesus-of-nazareth-the-mountain-of-the-lord) |
+| 36 | - | - | [When the Salt of the Earth Spoils](#when-the-salt-of-the-earth-spoils) |
 
 ---
 
@@ -66,63 +66,63 @@ arc_score: 6
 
 ---
 
-### Der Philipperbrief written by Angela Standhartinger
+### Der Philipperbrief, written by Angela Standhartinger
 - **DOI**: [10.1163/15685365-12341743](https://doi.org/10.1163/15685365-12341743)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Ephesos as a Religious Center under the Principate edited by Allen C. Black Christine M. Thomas and Trevor W. Thompson
+### Ephesos as a Religious Center under the Principate, edited by Allen C. Black, Christine M. Thomas, and Trevor W. Thompson
 - **DOI**: [10.1163/15685365-12341744](https://doi.org/10.1163/15685365-12341744)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Honouring Age The Social Dynamics of Age Structure in 1 Timothy written by Mona Tokarek LaFosse
+### Honouring Age: The Social Dynamics of Age Structure in 1 Timothy, written by Mona Tokarek LaFosse
 - **DOI**: [10.1163/15685365-12341745](https://doi.org/10.1163/15685365-12341745)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Letters and Letter Writing written by Peter Arzt-Grabner
+### Letters and Letter Writing, written by Peter Arzt-Grabner
 - **DOI**: [10.1163/15685365-12341746](https://doi.org/10.1163/15685365-12341746)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Singing Reconciliation Inhabiting the Moral Life according to Colossians 316 written by Amy Whisenand Krall
+### Singing Reconciliation: Inhabiting the Moral Life according to Colossians 3:16, written by Amy Whisenand Krall
 - **DOI**: [10.1163/15685365-12341747](https://doi.org/10.1163/15685365-12341747)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Körper und Verkörperung Biblische Anthropologie im Kontext antiker Medizin und Philosophie Ein Quellenbuch für die Septuaginta und das Neue Testament edited by Annette Weissenrieder and Katrin Dolle
+### Körper und Verkörperung: Biblische Anthropologie im Kontext antiker Medizin und Philosophie; Ein Quellenbuch für die Septuaginta und das Neue Testament, edited by Annette Weissenrieder and Katrin Dolle
 - **DOI**: [10.1163/15685365-12341748](https://doi.org/10.1163/15685365-12341748)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Korinth II Das römische Korinth edited by Christoph Auffarth and Stefan Krauter
+### Korinth II: Das römische Korinth, edited by Christoph Auffarth and Stefan Krauter
 - **DOI**: [10.1163/15685365-12341749](https://doi.org/10.1163/15685365-12341749)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Studies on the Intersection of Text Paratext and Reception A Festschrift in Honor of Charles E. Hill edited by Gregory R. Lanier and J. Nicholas Reid
+### Studies on the Intersection of Text, Paratext, and Reception: A Festschrift in Honor of Charles E. Hill, edited by Gregory R. Lanier and J. Nicholas Reid
 - **DOI**: [10.1163/15685365-12341750](https://doi.org/10.1163/15685365-12341750)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Early Christianity in Macedonia Scholarship Evidence Methodology Interpretation
+### Early Christianity in Macedonia: Scholarship, Evidence, Methodology, Interpretation
 - **DOI**: [10.1163/15685365-12341751](https://doi.org/10.1163/15685365-12341751)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -130,14 +130,14 @@ Prompted by the recent book of Julien Ogereau on Early Christianity in Macedonia
 
 ---
 
-### Novum Testamentum Graecum Editio Critica Maior vol. 12 Die Synoptischen EvangelienThe Synoptic Gospels Das MarkusevangeliumThe Gospel according to Mark edited by Holger Strutwolf Georg Gäbel Annette Hüffmeier Marie-Luise Lakmann Gregory S. Paulson and Klaus Wachtel
+### Novum Testamentum Graecum: Editio Critica Maior, vol. 1/2: Die Synoptischen Evangelien/The Synoptic Gospels: Das Markusevangelium/The Gospel according to Mark, edited by Holger Strutwolf, Georg Gäbel, Annette Hüffmeier, Marie-Luise Lakmann, Gregory S. Paulson, and Klaus Wachtel
 - **DOI**: [10.1163/15685365-12341752](https://doi.org/10.1163/15685365-12341752)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### A Handbook on the Greek Text vol. 1 Acts 114 vol. 2 Acts 1528 written by Martin M. Culy Mikeal C. Parsons and Josiah D. Hall
+### A Handbook on the Greek Text, vol. 1: Acts 1–14; vol. 2: Acts 15–28, written by Martin M. Culy, Mikeal C. Parsons, and Josiah D. Hall
 - **DOI**: [10.1163/15685365-12341756](https://doi.org/10.1163/15685365-12341756)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
@@ -152,7 +152,7 @@ This review article centers on the research contribution made by Stephen Mitchel
 
 ---
 
-### Satirizing Christianity in Lucians Peregrinus and Achilles Tatius Leucippe and Clitophon
+### Satirizing Christianity in Lucian’s Peregrinus and Achilles Tatius’ Leucippe and Clitophon
 - **DOI**: [10.1163/15685365-bja10083](https://doi.org/10.1163/15685365-bja10083)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -160,7 +160,7 @@ This article focuses on early pagan references to the Christian movement with a 
 
 ---
 
-### Who Forgives Sins but God None One or Many
+### Who Forgives Sins but God? None, One, or Many?
 - **DOI**: [10.1163/15685365-bja10084](https://doi.org/10.1163/15685365-bja10084)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -168,7 +168,7 @@ In the wider scope of Luke-Acts, the forgiveness of the paralyzed man (Luke 5:17
 
 ---
 
-### Reading the Tabernacle in Hebrews 9610
+### Reading the Tabernacle in Hebrews 9:6–10
 - **DOI**: [10.1163/15685365-bja10085](https://doi.org/10.1163/15685365-bja10085)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -192,7 +192,7 @@ This study demonstrates the parallels between the use of the phrase “kingdom o
 
 ---
 
-### The Descent from the Cross and Roman Crucifixion Practice
+### “The Descent from the Cross” and Roman Crucifixion Practice
 - **DOI**: [10.1163/15685365-bja10088](https://doi.org/10.1163/15685365-bja10088)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -224,7 +224,7 @@ While explicit references to Elijah by name cease after the transfiguration scen
 
 ---
 
-### The Multiple Occurrences of Acts 172234 in GA L60
+### The Multiple Occurrences of Acts 17:22–34 in GA L60
 - **DOI**: [10.1163/15685365-bja10092](https://doi.org/10.1163/15685365-bja10092)
 - **Analytical Tags**: `Church History;NT / - / -`
 - **Abstract**: Abstract
@@ -272,7 +272,7 @@ For centuries, philologists have employed various taxonomies to textual traditio
 
 ---
 
-### Gods λόγος in James and Early Judaism
+### God’s λόγος in James and Early Judaism
 - **DOI**: [10.1163/15685365-bja10099](https://doi.org/10.1163/15685365-bja10099)
 - **Analytical Tags**: `OT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -288,7 +288,7 @@ Based on new arguments for a pre-66 CE dating of John’s Gospel, this article a
 
 ---
 
-### Apocryphal Acts of the Apostles
+### “Apocryphal Acts of the Apostles”
 - **DOI**: [10.1163/15685365-bja10102](https://doi.org/10.1163/15685365-bja10102)
 - **Analytical Tags**: `Church History;NT / - / Medieval`
 - **Abstract**: Abstract
@@ -312,7 +312,7 @@ It is widely acknowledged among exegetes that Luke, unlike his contemporary hist
 
 ---
 
-### Jesus of Nazareth the Mountain of the Lord
+### Jesus of Nazareth, the Mountain of the Lord
 - **DOI**: [10.1163/15685365-bja10106](https://doi.org/10.1163/15685365-bja10106)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract

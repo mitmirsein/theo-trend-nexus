@@ -13,111 +13,111 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | Systematic Theology | Contemporary | [[#Taking up the Mask of Humanity Clement of Alexandrias Dramatic Understanding of the Two Natures of Christ|‘Taking up the Mask of Humanity’: Clement of Alexandria’s Dramatic Understanding of the Two Natures of Christ]] |
-| 2 | NT | - | [[#A List of the Books of the Old and New Testament with Stichometrical Annotations Oxford Bodleian Library MS. Gr. th. g. 7 P|A List of the Books of the Old and New Testament with Stichometrical Annotations (Oxford, Bodleian Library, MS. Gr. th. g. 7 [P])]] |
-| 3 | NT | Reformation | [[#iAkoē Pisteōsi Gal. 325 and Martin Luthers Place in Pauline Scholarship|<i>Akoē Pisteōs</i> (Gal. 3:2–5) and Martin Luther’s Place in Pauline Scholarship]] |
-| 4 | - | - | [[#A Passion Narrative Synopsis in Codex Climaci Rescriptus A New Edition Based on Multispectral Images|A Passion Narrative Synopsis in Codex Climaci Rescriptus: A New Edition Based on Multispectral Images]] |
-| 5 | NT, OT, Systematic Theology | - | [[#How Are the Gentiles Changed The Influence of Micah on the iAnimal Apocalypsei and Revelation 2122|How Are the Gentiles Changed? The Influence of Micah on the <i>Animal Apocalypse</i> and Revelation 21–22]] |
-| 6 | OT | - | [[#A Commentary on Jeremiah By Michael B. Shepherd|A Commentary on Jeremiah By Michael B. Shepherd]] |
-| 7 | Systematic Theology | - | [[#On the Hegemony of Ancestral Sin in Early Greek Thought A Hesitation|On the Hegemony of Ancestral Sin in Early Greek Thought: A Hesitation]] |
-| 8 | Systematic Theology | - | [[#Heteroousios or Social Trinitarianism Entailments of the Eternal Relations of Origin|Heteroousios or Social Trinitarianism: Entailments of the Eternal Relations of Origin]] |
-| 9 | NT, OT | - | [[#The Book of Malachi Its Place in the Twelve Minor Prophets in Jewish and in Christian Canon|The Book of Malachi: Its Place in the Twelve Minor Prophets, in Jewish and in Christian Canon]] |
-| 10 | Systematic Theology | - | [[#The Last Day in John Future or Realized|‘The Last Day’ in John: Future or Realized?]] |
-| 11 | NT, Systematic Theology | - | [[#And Then They Will Fast on That Day Mark 220 The Absent Bridegroom and the Day of Atonement in Early Christianity|‘And Then They Will Fast on That Day’ (Mark 2:20): The Absent Bridegroom and the Day of Atonement in Early Christianity]] |
-| 12 | - | - | [[#Story Ritual Prophecy Wisdom Reading and Teaching the Bible Today. By Mark W. Hamilton and Samjung Kang-Hamilton|Story, Ritual, Prophecy, Wisdom: Reading and Teaching the Bible Today. By Mark W. Hamilton and Samjung Kang-Hamilton]] |
-| 13 | - | Medieval | [[#Aquinass iSumma Theologiaei and Eucharistic Sacrifice in the Early Modern Period. By Reginald M. Lynch|Aquinas’s <i>Summa Theologiae</i> and Eucharistic Sacrifice in the Early Modern Period. By Reginald M. Lynch]] |
-| 14 | - | - | [[#Origen of Alexandria and the Theology of the Holy Spirit. By Micah M. Miller|Origen of Alexandria and the Theology of the Holy Spirit. By Micah M. Miller]] |
-| 15 | - | - | [[#Religion as Make-Believe A Theory of Belief Imagination and Group Identity. By Neil Van Leeuwen|Religion as Make-Believe: A Theory of Belief, Imagination, and Group Identity. By Neil Van Leeuwen]] |
-| 16 | Systematic Theology | - | [[#Theology and the Public Reflections on Hans W. Frei on Hermeneutics Christology and Theological Method. By Daniel D. Shin|Theology and the Public: Reflections on Hans W. Frei on Hermeneutics, Christology, and Theological Method. By Daniel D. Shin]] |
-| 17 | NT, Systematic Theology | Medieval | [[#A Concealed Claudian The Meaning of 666 in Revelation|A Concealed Claudian: The Meaning of 666 in Revelation]] |
-| 18 | - | - | [[#Unleashing the Trickster A New Look at the Lying Prophet of Bethel|Unleashing the Trickster: A New Look at the Lying Prophet of Bethel]] |
-| 19 | - | Patristic | [[#Fallen Angels in the Theology of Saint Augustine. By Gregory D. Wiebe|Fallen Angels in the Theology of Saint Augustine. By Gregory D. Wiebe]] |
-| 20 | - | - | [[#The Zurich Origins of Reformed Covenant Theology. By Pierrick Hildebrand|The Zurich Origins of Reformed Covenant Theology. By Pierrick Hildebrand]] |
-| 21 | - | - | [[#Ecclesiastes and the Meaning of Life in the Ancient World. By Arthur Jan Keefer|Ecclesiastes and the Meaning of Life in the Ancient World. By Arthur Jan Keefer]] |
-| 22 | - | - | [[#The Book of Micah. By James D. Nogalski|The Book of Micah. By James D. Nogalski]] |
-| 23 | NT | - | [[#Honoring the Wise Wisdom in Scripture Ministry and Life Celebrating Lindsay Wilsons Thirty Years at Ridley. Edited by Jill Firth and Paul A. Barker|Honoring the Wise: Wisdom in Scripture, Ministry, and Life: Celebrating Lindsay Wilson's Thirty Years at Ridley. Edited by Jill Firth and Paul A. Barker]] |
-| 24 | OT | - | [[#Unparalleled Poetry A Cognitive Approach to the Free-Rhythm Verse of the Hebrew Bible. By Emmylou J. Grosser|Unparalleled Poetry: A Cognitive Approach to the Free-Rhythm Verse of the Hebrew Bible. By Emmylou J. Grosser]] |
-| 25 | NT | - | [[#Hellenism Early Judaism and Early Christianity. Transmission and Transformation of Ideas. Edited by Radka Fialová Jiří Hoblík and Petr Kitzler|Hellenism, Early Judaism, and Early Christianity. Transmission and Transformation of Ideas. Edited by Radka Fialová, Jiří Hoblík, and Petr Kitzler]] |
-| 26 | - | Modern | [[#The Enlightenment and Original Sin. By Matthew Kadane|The Enlightenment and Original Sin. By Matthew Kadane]] |
-| 27 | Systematic Theology | Reformation | [[#Calvins Christology and the Accusation of Nestorianism|Calvin’s Christology and the Accusation of Nestorianism]] |
-| 28 | - | Contemporary | [[#Welcoming the Stranger Abrahamic Hospitality and Its Contemporary Implications. Edited by Ori Z. Soltes and Rachel Stern|Welcoming the Stranger: Abrahamic Hospitality and Its Contemporary Implications. Edited by Ori Z. Soltes and Rachel Stern]] |
-| 29 | OT | - | [[#Reading the Prophets as Christian Scripture A Literary Canonical and Theological Introduction. By Eric J. Tully|Reading the Prophets as Christian Scripture: A Literary, Canonical, and Theological Introduction. By Eric J. Tully]] |
-| 30 | - | - | [[#The Return of the Kingdom A Biblical Theology of Gods Reign. By Stephen G. Dempster|The Return of the Kingdom: A Biblical Theology of God’s Reign. By Stephen G. Dempster]] |
-| 31 | - | - | [[#Berolinensia Beiträge zur Geschichte der Berliner Universität und ihrer Theologischen Fakultät. By Christoph Markschies|Berolinensia: Beiträge zur Geschichte der Berliner Universität und ihrer Theologischen Fakultät. By Christoph Markschies]] |
-| 32 | - | Modern | [[#Friedrich Daniel Ernst Schleiermacher Kritische Gesamtausgabe. 4. Abteilung Band 2. Joseph Fawcett Predigten aus dem Englischen übersetzt 1798. Mungo Park Reisen im Innern von Afrika. Aus dem Englischen Berlin 1799. Mit Synopse der Übersetzungsvorlagen. Edited by Günter Meckenstock|Friedrich Daniel Ernst Schleiermacher: Kritische Gesamtausgabe. 4. Abteilung, Band 2. Joseph Fawcett: Predigten aus dem Englischen übersetzt (1798). Mungo Park: Reisen im Innern von Afrika. Aus dem Englischen (Berlin, 1799). Mit Synopse der Übersetzungsvorlagen. Edited by Günter Meckenstock]] |
-| 33 | - | - | [[#Catholics Without Rome Old Catholics Eastern Orthodox Anglicans and the Reunion Negotiations of the 1870s. By Bryn Geffert and LeRoy Boerneke|Catholics Without Rome: Old Catholics, Eastern Orthodox, Anglicans, and the Reunion Negotiations of the 1870s. By Bryn Geffert and LeRoy Boerneke]] |
-| 34 | - | - | [[#John Lockes Theology An Ecumenical Irenic and Controversial Project. By Jonathan S. Marko|John Locke’s Theology: An Ecumenical, Irenic, and Controversial Project. By Jonathan S. Marko]] |
-| 35 | - | - | [[#Undocumented Migration as a Theologizing Experience Religious Stories Korean American Dreamers Tell in the Face of Uncertainty. By Eunil David Cho|Undocumented Migration as a Theologizing Experience: Religious Stories Korean American Dreamers Tell in the Face of Uncertainty. By Eunil David Cho]] |
-| 36 | Philosophy of Religion | - | [[#The Consciousness of the Historical Jesus Historiography Theology and Metaphysics. By Austin Stevenson|The Consciousness of the Historical Jesus: Historiography, Theology, and Metaphysics. By Austin Stevenson]] |
-| 37 | - | Reformation | [[#A Civic Spirituality of Sanctification John Calvin. Edited by Roger Haight SJ Alfred Pach III and Amanda Avila Kaminski|A Civic Spirituality of Sanctification: John Calvin. Edited by Roger Haight, SJ, Alfred Pach III, and Amanda Avila Kaminski]] |
-| 38 | NT | - | [[#Multiplicity and the Idea of Scripture|Multiplicity and the Idea of Scripture]] |
-| 39 | - | Patristic | [[#Vision iPoikiliai and a Platonic Allusion in Asterius of Amaseias Ekphrasis of the Eye|Vision, <i>Poikilia</i>, and a Platonic Allusion in Asterius of Amaseia’s Ekphrasis of the Eye]] |
-| 40 | - | Patristic | [[#A Note on the Homily iIn decem uirginesi in the Codex iAthous Koutloumousioui 11|A Note on the Homily <i>In decem uirgines</i> in the Codex <i>Athous Koutloumousiou</i> 11]] |
-| 41 | NT | - | [[#ἘΠΙΘΥΜΙΑ  ΝΟΥΣ and the I in Romans 7725 A New Solution to an Old Problem|ἘΠΙΘΥΜΙΑ,  ΝΟΥΣ, and the ‘I’ in Romans 7:7–25: A New Solution to an Old Problem]] |
-| 42 | Church History, Systematic Theology | Patristic, Reformation | [[#Christ Wholly and Always Everywhere Augustine on Christ iExtra Carnemi in iEpi. 187|Christ Wholly and Always Everywhere: Augustine on Christ <i>Extra Carnem</i> in <i>Ep</i>. 187]] |
-| 43 | - | - | [[#The Sun in Marks Crisis Management Narratological Observations|The Sun in Mark’s Crisis Management: Narratological Observations]] |
-| 44 | NT | - | [[#Those in the Lord Are Free 1 Corinthians 7 and a Stoic Paradox|Those ‘in the Lord’ Are Free: 1 Corinthians 7 and a Stoic Paradox]] |
-| 45 | NT, Systematic Theology | - | [[#New Birth Adoption and the Πνεῦμα The Roles of the Holy Spirit Within Pauls Kinship Discourse|New Birth, Adoption, and the Πνεῦμα: The Role(s) of the Holy Spirit Within Paul’s Kinship Discourse]] |
-| 46 | - | - | [[#Yet not as I will but as you will On the Development of Partitive Exegesis in the Early Arian Controversy|‘Yet not as I will, but as you will’: On the Development of Partitive Exegesis in the Early Arian Controversy]] |
-| 47 | OT | - | [[#Hedged in Hunted Haunted Hiding Divine Presence and Absence in the Dialogues in Job|Hedged in, Hunted, Haunted, Hiding: Divine Presence and Absence in the Dialogues in Job]] |
-| 48 | NT, OT | - | [[#Understanding the New Testament Use of the Old Testament Forms Features Framings and Functions. By Douglas S. Huffman|Understanding the New Testament Use of the Old Testament: Forms, Features, Framings, and Functions. By Douglas S. Huffman]] |
-| 49 | - | - | [[#The Final Triumph of God Jesus the Eyewitnesses and the Resurrection of the Body in 1 Corinthians 15. By James P. Ware|The Final Triumph of God: Jesus, the Eyewitnesses, and the Resurrection of the Body in 1 Corinthians 15. By James P. Ware]] |
-| 50 | - | - | [[#Gods Ghostwriters Enslaved Christians and the Making of the Bible. By Candida Moss|God’s Ghostwriters: Enslaved Christians and the Making of the Bible. By Candida Moss]] |
-| 51 | Ethics | - | [[#Ancient Christians and the Power of Curses Magic Aesthetics and Justice. By Laura Salah Nasrallah|Ancient Christians and the Power of Curses: Magic, Aesthetics, and Justice. By Laura Salah Nasrallah]] |
-| 52 | - | - | [[#The Transfiguration of Christ An Exegetical and Theological Reading. By Patrick Schreiner|The Transfiguration of Christ: An Exegetical and Theological Reading. By Patrick Schreiner]] |
-| 53 | - | - | [[#Joshua. By John Goldingay|Joshua. By John Goldingay]] |
-| 54 | - | - | [[#God Becoming Human Incarnation in the Christian Bible. By Reinhard Feldmeier and Hermann Spieckermann translated by Brian McNeil|God Becoming Human: Incarnation in the Christian Bible. By Reinhard Feldmeier and Hermann Spieckermann (translated by Brian McNeil)]] |
-| 55 | NT | Reformation | [[#Revelatory Ontological or Transformative On Luther and the Theological Function of Pauls Strength in Weakness 2 Cor. 12910|Revelatory, Ontological, or Transformative? On Luther and the Theological Function of Paul’s ‘Strength in Weakness’ (2 Cor. 12:9–10)]] |
-| 56 | OT | - | [[#Psalm 51 and Original Sin An Exercise in Reading the Old Testament as Christian Scripture|Psalm 51 and Original Sin: An Exercise in Reading the Old Testament as Christian Scripture]] |
-| 57 | - | - | [[#Micah A New Translation With Introduction and Commentary. Bob Becking|Micah: A New Translation With Introduction and Commentary. Bob Becking]] |
-| 58 | NT | - | [[#Paul the Storyteller A Narratological Approach. By Christoph Heilig|Paul the Storyteller: A Narratological Approach. By Christoph Heilig]] |
-| 59 | OT, Philosophy of Religion | - | [[#Voices from the Ruins Theodicy and the Fall of Jerusalem in the Hebrew Bible. By Dalit Rom-Shiloni|Voices from the Ruins: Theodicy and the Fall of Jerusalem in the Hebrew Bible. By Dalit Rom-Shiloni]] |
-| 60 | NT | - | [[#Psalm 137 and Its Contribution to Book V of the Psalter|Psalm 137 and Its Contribution to Book V of the Psalter]] |
-| 61 | - | - | [[#Macrinas Hippocratic Method Science and Theology in Gregory of Nyssas iDe anima et resurrectionei|Macrina’s Hippocratic Method: Science and Theology in Gregory of Nyssa’s <i>De anima et resurrectione</i>]] |
-| 62 | - | - | [[#Becoming a Neighbour A Process-Relational Reading of the Parable of the Good Samaritan|Becoming a Neighbour: A Process-Relational Reading of the Parable of the Good Samaritan]] |
-| 63 | - | - | [[#Rereading Ruth. By William A. Tooman with Marian Kelsey|(Re)reading Ruth. By William A. Tooman with Marian Kelsey]] |
-| 64 | - | - | [[#The Destruction of the Canaanites God Genocide and Biblical Interpretation. By Charlie Trimm|The Destruction of the Canaanites: God, Genocide, and Biblical Interpretation. By Charlie Trimm]] |
-| 65 | NT | - | [[#The Open Sanctuary Access to God and the Heavenly Temple in the New Testament. By Nicholas J. Moore|The Open Sanctuary: Access to God and the Heavenly Temple in the New Testament. By Nicholas J. Moore]] |
-| 66 | - | - | [[#Ben Sira in Conversation With Traditions A Festschrift for Prof. Núria Calduch-Benages on the Occasion of Her 65th Birthday. Edited by Francis M. Macatangay and Francisco-Javier Ruiz-Ortiz|Ben Sira in Conversation With Traditions: A Festschrift for Prof. Núria Calduch-Benages on the Occasion of Her 65th Birthday. Edited by Francis M. Macatangay and Francisco-Javier Ruiz-Ortiz]] |
-| 67 | - | - | [[#King David Innocent Blood and Bloodguilt. By David J. Shepherd|King David, Innocent Blood, and Bloodguilt. By David J. Shepherd]] |
-| 68 | - | - | [[#The Making of the Tabernacle and the Construction of Priestly Hegemony. By Nathan MacDonald|The Making of the Tabernacle and the Construction of Priestly Hegemony. By Nathan MacDonald]] |
-| 69 | - | - | [[#The Book of Samuel Studies in History Historiography Theology and Poetics Combined. Part Two A Study of the Narratives Depicting Four National Leaders and Their Dynasties. By Moshe Garsiel|The Book of Samuel: Studies in History, Historiography, Theology and Poetics Combined. Part Two: A Study of the Narratives Depicting Four National Leaders and Their Dynasties. By Moshe Garsiel]] |
-| 70 | NT | - | [[#2 Maccabees 815 A Handbook on the Greek Text. By Seth M. Ehorn|2 Maccabees 8–15: A Handbook on the Greek Text. By Seth M. Ehorn]] |
-| 71 | OT | - | [[#The TampT Clark Handbook of Septuagint Research. Edited by William A. Ross and W. Edward Glenny|The T&amp;T Clark Handbook of Septuagint Research. Edited by William A. Ross and W. Edward Glenny]] |
-| 72 | - | - | [[#Exile Incorporated The Body in the Book of Ezekiel. By Rosanne Liebermann|Exile, Incorporated: The Body in the Book of Ezekiel. By Rosanne Liebermann]] |
-| 73 | - | - | [[#The Philocalia of Origen. A New Translation With Annotations. Edited by Ronald E. Heine|The Philocalia of Origen. A New Translation With Annotations. Edited by Ronald E. Heine]] |
-| 74 | - | - | [[#Healthcare Chaplaincy as Specialised Spiritual Care The Christian Call for Healing in a Global Health Context. Simon Peng-Keller|Healthcare Chaplaincy as Specialised Spiritual Care: The Christian Call for Healing in a Global Health Context. Simon Peng-Keller]] |
-| 75 | - | - | [[#Theosis and Religion Participation in Divine Life in the Eastern and Western Traditions. By Norman Russell|Theosis and Religion: Participation in Divine Life in the Eastern and Western Traditions. By Norman Russell]] |
-| 76 | - | - | [[#Ishoʿdad of Merv Commentary on Daniel. Edited by T. C. Schmidt|Ishoʿdad of Merv: Commentary on Daniel. Edited by T. C. Schmidt]] |
-| 77 | - | - | [[#Life The Natural History of an Early Christian Universe. Catherine Michael Chin|Life: The Natural History of an Early Christian Universe. Catherine Michael Chin]] |
-| 78 | - | - | [[#Sensing the Sacred Recovering a Mystagogical Vision of Knowledge and Salvation. Hanna J. Lucas|Sensing the Sacred: Recovering a Mystagogical Vision of Knowledge and Salvation. Hanna J. Lucas]] |
-| 79 | - | - | [[#The Cambridge Companion to Joseph Ratzinger. Edited by Daniel Cardó and Uwe Michael Lang|The Cambridge Companion to Joseph Ratzinger. Edited by Daniel Cardó and Uwe Michael Lang]] |
-| 80 | Church History, NT, Systematic Theology | - | [[#The                    iActs of Johni                    in Antiochus the Monks                    iPandecti|The
+| 1 | Systematic Theology | Contemporary | [‘Taking up the Mask of Humanity’: Clement of Alexandria’s Dramatic Understanding of the Two Natures of Christ](#taking-up-the-mask-of-humanity-clement-of-alexandrias-dramatic-understanding-of-the-two-natures-of-christ) |
+| 2 | NT | - | [A List of the Books of the Old and New Testament with Stichometrical Annotations (Oxford, Bodleian Library, MS. Gr. th. g. 7 [P])](#a-list-of-the-books-of-the-old-and-new-testament-with-stichometrical-annotations-oxford-bodleian-library-ms-gr-th-g-7-p) |
+| 3 | NT | Reformation | [<i>Akoē Pisteōs</i> (Gal. 3:2–5) and Martin Luther’s Place in Pauline Scholarship](#iakoē-pisteōsi-gal-325-and-martin-luthers-place-in-pauline-scholarship) |
+| 4 | - | - | [A Passion Narrative Synopsis in Codex Climaci Rescriptus: A New Edition Based on Multispectral Images](#a-passion-narrative-synopsis-in-codex-climaci-rescriptus-a-new-edition-based-on-multispectral-images) |
+| 5 | NT, OT, Systematic Theology | - | [How Are the Gentiles Changed? The Influence of Micah on the <i>Animal Apocalypse</i> and Revelation 21–22](#how-are-the-gentiles-changed-the-influence-of-micah-on-the-ianimal-apocalypsei-and-revelation-2122) |
+| 6 | OT | - | [A Commentary on Jeremiah By Michael B. Shepherd](#a-commentary-on-jeremiah-by-michael-b-shepherd) |
+| 7 | Systematic Theology | - | [On the Hegemony of Ancestral Sin in Early Greek Thought: A Hesitation](#on-the-hegemony-of-ancestral-sin-in-early-greek-thought-a-hesitation) |
+| 8 | Systematic Theology | - | [Heteroousios or Social Trinitarianism: Entailments of the Eternal Relations of Origin](#heteroousios-or-social-trinitarianism-entailments-of-the-eternal-relations-of-origin) |
+| 9 | NT, OT | - | [The Book of Malachi: Its Place in the Twelve Minor Prophets, in Jewish and in Christian Canon](#the-book-of-malachi-its-place-in-the-twelve-minor-prophets-in-jewish-and-in-christian-canon) |
+| 10 | Systematic Theology | - | [‘The Last Day’ in John: Future or Realized?](#the-last-day-in-john-future-or-realized) |
+| 11 | NT, Systematic Theology | - | [‘And Then They Will Fast on That Day’ (Mark 2:20): The Absent Bridegroom and the Day of Atonement in Early Christianity](#and-then-they-will-fast-on-that-day-mark-220-the-absent-bridegroom-and-the-day-of-atonement-in-early-christianity) |
+| 12 | - | - | [Story, Ritual, Prophecy, Wisdom: Reading and Teaching the Bible Today. By Mark W. Hamilton and Samjung Kang-Hamilton](#story-ritual-prophecy-wisdom-reading-and-teaching-the-bible-today-by-mark-w-hamilton-and-samjung-kang-hamilton) |
+| 13 | - | Medieval | [Aquinas’s <i>Summa Theologiae</i> and Eucharistic Sacrifice in the Early Modern Period. By Reginald M. Lynch](#aquinass-isumma-theologiaei-and-eucharistic-sacrifice-in-the-early-modern-period-by-reginald-m-lynch) |
+| 14 | - | - | [Origen of Alexandria and the Theology of the Holy Spirit. By Micah M. Miller](#origen-of-alexandria-and-the-theology-of-the-holy-spirit-by-micah-m-miller) |
+| 15 | - | - | [Religion as Make-Believe: A Theory of Belief, Imagination, and Group Identity. By Neil Van Leeuwen](#religion-as-make-believe-a-theory-of-belief-imagination-and-group-identity-by-neil-van-leeuwen) |
+| 16 | Systematic Theology | - | [Theology and the Public: Reflections on Hans W. Frei on Hermeneutics, Christology, and Theological Method. By Daniel D. Shin](#theology-and-the-public-reflections-on-hans-w-frei-on-hermeneutics-christology-and-theological-method-by-daniel-d-shin) |
+| 17 | NT, Systematic Theology | Medieval | [A Concealed Claudian: The Meaning of 666 in Revelation](#a-concealed-claudian-the-meaning-of-666-in-revelation) |
+| 18 | - | - | [Unleashing the Trickster: A New Look at the Lying Prophet of Bethel](#unleashing-the-trickster-a-new-look-at-the-lying-prophet-of-bethel) |
+| 19 | - | Patristic | [Fallen Angels in the Theology of Saint Augustine. By Gregory D. Wiebe](#fallen-angels-in-the-theology-of-saint-augustine-by-gregory-d-wiebe) |
+| 20 | - | - | [The Zurich Origins of Reformed Covenant Theology. By Pierrick Hildebrand](#the-zurich-origins-of-reformed-covenant-theology-by-pierrick-hildebrand) |
+| 21 | - | - | [Ecclesiastes and the Meaning of Life in the Ancient World. By Arthur Jan Keefer](#ecclesiastes-and-the-meaning-of-life-in-the-ancient-world-by-arthur-jan-keefer) |
+| 22 | - | - | [The Book of Micah. By James D. Nogalski](#the-book-of-micah-by-james-d-nogalski) |
+| 23 | NT | - | [Honoring the Wise: Wisdom in Scripture, Ministry, and Life: Celebrating Lindsay Wilson's Thirty Years at Ridley. Edited by Jill Firth and Paul A. Barker](#honoring-the-wise-wisdom-in-scripture-ministry-and-life-celebrating-lindsay-wilsons-thirty-years-at-ridley-edited-by-jill-firth-and-paul-a-barker) |
+| 24 | OT | - | [Unparalleled Poetry: A Cognitive Approach to the Free-Rhythm Verse of the Hebrew Bible. By Emmylou J. Grosser](#unparalleled-poetry-a-cognitive-approach-to-the-free-rhythm-verse-of-the-hebrew-bible-by-emmylou-j-grosser) |
+| 25 | NT | - | [Hellenism, Early Judaism, and Early Christianity. Transmission and Transformation of Ideas. Edited by Radka Fialová, Jiří Hoblík, and Petr Kitzler](#hellenism-early-judaism-and-early-christianity-transmission-and-transformation-of-ideas-edited-by-radka-fialová-jiří-hoblík-and-petr-kitzler) |
+| 26 | - | Modern | [The Enlightenment and Original Sin. By Matthew Kadane](#the-enlightenment-and-original-sin-by-matthew-kadane) |
+| 27 | Systematic Theology | Reformation | [Calvin’s Christology and the Accusation of Nestorianism](#calvins-christology-and-the-accusation-of-nestorianism) |
+| 28 | - | Contemporary | [Welcoming the Stranger: Abrahamic Hospitality and Its Contemporary Implications. Edited by Ori Z. Soltes and Rachel Stern](#welcoming-the-stranger-abrahamic-hospitality-and-its-contemporary-implications-edited-by-ori-z-soltes-and-rachel-stern) |
+| 29 | OT | - | [Reading the Prophets as Christian Scripture: A Literary, Canonical, and Theological Introduction. By Eric J. Tully](#reading-the-prophets-as-christian-scripture-a-literary-canonical-and-theological-introduction-by-eric-j-tully) |
+| 30 | - | - | [The Return of the Kingdom: A Biblical Theology of God’s Reign. By Stephen G. Dempster](#the-return-of-the-kingdom-a-biblical-theology-of-gods-reign-by-stephen-g-dempster) |
+| 31 | - | - | [Berolinensia: Beiträge zur Geschichte der Berliner Universität und ihrer Theologischen Fakultät. By Christoph Markschies](#berolinensia-beiträge-zur-geschichte-der-berliner-universität-und-ihrer-theologischen-fakultät-by-christoph-markschies) |
+| 32 | - | Modern | [Friedrich Daniel Ernst Schleiermacher: Kritische Gesamtausgabe. 4. Abteilung, Band 2. Joseph Fawcett: Predigten aus dem Englischen übersetzt (1798). Mungo Park: Reisen im Innern von Afrika. Aus dem Englischen (Berlin, 1799). Mit Synopse der Übersetzungsvorlagen. Edited by Günter Meckenstock](#friedrich-daniel-ernst-schleiermacher-kritische-gesamtausgabe-4-abteilung-band-2-joseph-fawcett-predigten-aus-dem-englischen-übersetzt-1798-mungo-park-reisen-im-innern-von-afrika-aus-dem-englischen-berlin-1799-mit-synopse-der-übersetzungsvorlagen-edited-by-günter-meckenstock) |
+| 33 | - | - | [Catholics Without Rome: Old Catholics, Eastern Orthodox, Anglicans, and the Reunion Negotiations of the 1870s. By Bryn Geffert and LeRoy Boerneke](#catholics-without-rome-old-catholics-eastern-orthodox-anglicans-and-the-reunion-negotiations-of-the-1870s-by-bryn-geffert-and-leroy-boerneke) |
+| 34 | - | - | [John Locke’s Theology: An Ecumenical, Irenic, and Controversial Project. By Jonathan S. Marko](#john-lockes-theology-an-ecumenical-irenic-and-controversial-project-by-jonathan-s-marko) |
+| 35 | - | - | [Undocumented Migration as a Theologizing Experience: Religious Stories Korean American Dreamers Tell in the Face of Uncertainty. By Eunil David Cho](#undocumented-migration-as-a-theologizing-experience-religious-stories-korean-american-dreamers-tell-in-the-face-of-uncertainty-by-eunil-david-cho) |
+| 36 | Philosophy of Religion | - | [The Consciousness of the Historical Jesus: Historiography, Theology, and Metaphysics. By Austin Stevenson](#the-consciousness-of-the-historical-jesus-historiography-theology-and-metaphysics-by-austin-stevenson) |
+| 37 | - | Reformation | [A Civic Spirituality of Sanctification: John Calvin. Edited by Roger Haight, SJ, Alfred Pach III, and Amanda Avila Kaminski](#a-civic-spirituality-of-sanctification-john-calvin-edited-by-roger-haight-sj-alfred-pach-iii-and-amanda-avila-kaminski) |
+| 38 | NT | - | [Multiplicity and the Idea of Scripture](#multiplicity-and-the-idea-of-scripture) |
+| 39 | - | Patristic | [Vision, <i>Poikilia</i>, and a Platonic Allusion in Asterius of Amaseia’s Ekphrasis of the Eye](#vision-ipoikiliai-and-a-platonic-allusion-in-asterius-of-amaseias-ekphrasis-of-the-eye) |
+| 40 | - | Patristic | [A Note on the Homily <i>In decem uirgines</i> in the Codex <i>Athous Koutloumousiou</i> 11](#a-note-on-the-homily-iin-decem-uirginesi-in-the-codex-iathous-koutloumousioui-11) |
+| 41 | NT | - | [ἘΠΙΘΥΜΙΑ,  ΝΟΥΣ, and the ‘I’ in Romans 7:7–25: A New Solution to an Old Problem](#ἐπιθυμια-νους-and-the-i-in-romans-7725-a-new-solution-to-an-old-problem) |
+| 42 | Church History, Systematic Theology | Patristic, Reformation | [Christ Wholly and Always Everywhere: Augustine on Christ <i>Extra Carnem</i> in <i>Ep</i>. 187](#christ-wholly-and-always-everywhere-augustine-on-christ-iextra-carnemi-in-iepi-187) |
+| 43 | - | - | [The Sun in Mark’s Crisis Management: Narratological Observations](#the-sun-in-marks-crisis-management-narratological-observations) |
+| 44 | NT | - | [Those ‘in the Lord’ Are Free: 1 Corinthians 7 and a Stoic Paradox](#those-in-the-lord-are-free-1-corinthians-7-and-a-stoic-paradox) |
+| 45 | NT, Systematic Theology | - | [New Birth, Adoption, and the Πνεῦμα: The Role(s) of the Holy Spirit Within Paul’s Kinship Discourse](#new-birth-adoption-and-the-πνεῦμα-the-roles-of-the-holy-spirit-within-pauls-kinship-discourse) |
+| 46 | - | - | [‘Yet not as I will, but as you will’: On the Development of Partitive Exegesis in the Early Arian Controversy](#yet-not-as-i-will-but-as-you-will-on-the-development-of-partitive-exegesis-in-the-early-arian-controversy) |
+| 47 | OT | - | [Hedged in, Hunted, Haunted, Hiding: Divine Presence and Absence in the Dialogues in Job](#hedged-in-hunted-haunted-hiding-divine-presence-and-absence-in-the-dialogues-in-job) |
+| 48 | NT, OT | - | [Understanding the New Testament Use of the Old Testament: Forms, Features, Framings, and Functions. By Douglas S. Huffman](#understanding-the-new-testament-use-of-the-old-testament-forms-features-framings-and-functions-by-douglas-s-huffman) |
+| 49 | - | - | [The Final Triumph of God: Jesus, the Eyewitnesses, and the Resurrection of the Body in 1 Corinthians 15. By James P. Ware](#the-final-triumph-of-god-jesus-the-eyewitnesses-and-the-resurrection-of-the-body-in-1-corinthians-15-by-james-p-ware) |
+| 50 | - | - | [God’s Ghostwriters: Enslaved Christians and the Making of the Bible. By Candida Moss](#gods-ghostwriters-enslaved-christians-and-the-making-of-the-bible-by-candida-moss) |
+| 51 | Ethics | - | [Ancient Christians and the Power of Curses: Magic, Aesthetics, and Justice. By Laura Salah Nasrallah](#ancient-christians-and-the-power-of-curses-magic-aesthetics-and-justice-by-laura-salah-nasrallah) |
+| 52 | - | - | [The Transfiguration of Christ: An Exegetical and Theological Reading. By Patrick Schreiner](#the-transfiguration-of-christ-an-exegetical-and-theological-reading-by-patrick-schreiner) |
+| 53 | - | - | [Joshua. By John Goldingay](#joshua-by-john-goldingay) |
+| 54 | - | - | [God Becoming Human: Incarnation in the Christian Bible. By Reinhard Feldmeier and Hermann Spieckermann (translated by Brian McNeil)](#god-becoming-human-incarnation-in-the-christian-bible-by-reinhard-feldmeier-and-hermann-spieckermann-translated-by-brian-mcneil) |
+| 55 | NT | Reformation | [Revelatory, Ontological, or Transformative? On Luther and the Theological Function of Paul’s ‘Strength in Weakness’ (2 Cor. 12:9–10)](#revelatory-ontological-or-transformative-on-luther-and-the-theological-function-of-pauls-strength-in-weakness-2-cor-12910) |
+| 56 | OT | - | [Psalm 51 and Original Sin: An Exercise in Reading the Old Testament as Christian Scripture](#psalm-51-and-original-sin-an-exercise-in-reading-the-old-testament-as-christian-scripture) |
+| 57 | - | - | [Micah: A New Translation With Introduction and Commentary. Bob Becking](#micah-a-new-translation-with-introduction-and-commentary-bob-becking) |
+| 58 | NT | - | [Paul the Storyteller: A Narratological Approach. By Christoph Heilig](#paul-the-storyteller-a-narratological-approach-by-christoph-heilig) |
+| 59 | OT, Philosophy of Religion | - | [Voices from the Ruins: Theodicy and the Fall of Jerusalem in the Hebrew Bible. By Dalit Rom-Shiloni](#voices-from-the-ruins-theodicy-and-the-fall-of-jerusalem-in-the-hebrew-bible-by-dalit-rom-shiloni) |
+| 60 | NT | - | [Psalm 137 and Its Contribution to Book V of the Psalter](#psalm-137-and-its-contribution-to-book-v-of-the-psalter) |
+| 61 | - | - | [Macrina’s Hippocratic Method: Science and Theology in Gregory of Nyssa’s <i>De anima et resurrectione</i>](#macrinas-hippocratic-method-science-and-theology-in-gregory-of-nyssas-ide-anima-et-resurrectionei) |
+| 62 | - | - | [Becoming a Neighbour: A Process-Relational Reading of the Parable of the Good Samaritan](#becoming-a-neighbour-a-process-relational-reading-of-the-parable-of-the-good-samaritan) |
+| 63 | - | - | [(Re)reading Ruth. By William A. Tooman with Marian Kelsey](#rereading-ruth-by-william-a-tooman-with-marian-kelsey) |
+| 64 | - | - | [The Destruction of the Canaanites: God, Genocide, and Biblical Interpretation. By Charlie Trimm](#the-destruction-of-the-canaanites-god-genocide-and-biblical-interpretation-by-charlie-trimm) |
+| 65 | NT | - | [The Open Sanctuary: Access to God and the Heavenly Temple in the New Testament. By Nicholas J. Moore](#the-open-sanctuary-access-to-god-and-the-heavenly-temple-in-the-new-testament-by-nicholas-j-moore) |
+| 66 | - | - | [Ben Sira in Conversation With Traditions: A Festschrift for Prof. Núria Calduch-Benages on the Occasion of Her 65th Birthday. Edited by Francis M. Macatangay and Francisco-Javier Ruiz-Ortiz](#ben-sira-in-conversation-with-traditions-a-festschrift-for-prof-núria-calduch-benages-on-the-occasion-of-her-65th-birthday-edited-by-francis-m-macatangay-and-francisco-javier-ruiz-ortiz) |
+| 67 | - | - | [King David, Innocent Blood, and Bloodguilt. By David J. Shepherd](#king-david-innocent-blood-and-bloodguilt-by-david-j-shepherd) |
+| 68 | - | - | [The Making of the Tabernacle and the Construction of Priestly Hegemony. By Nathan MacDonald](#the-making-of-the-tabernacle-and-the-construction-of-priestly-hegemony-by-nathan-macdonald) |
+| 69 | - | - | [The Book of Samuel: Studies in History, Historiography, Theology and Poetics Combined. Part Two: A Study of the Narratives Depicting Four National Leaders and Their Dynasties. By Moshe Garsiel](#the-book-of-samuel-studies-in-history-historiography-theology-and-poetics-combined-part-two-a-study-of-the-narratives-depicting-four-national-leaders-and-their-dynasties-by-moshe-garsiel) |
+| 70 | NT | - | [2 Maccabees 8–15: A Handbook on the Greek Text. By Seth M. Ehorn](#2-maccabees-815-a-handbook-on-the-greek-text-by-seth-m-ehorn) |
+| 71 | OT | - | [The T&amp;T Clark Handbook of Septuagint Research. Edited by William A. Ross and W. Edward Glenny](#the-tampt-clark-handbook-of-septuagint-research-edited-by-william-a-ross-and-w-edward-glenny) |
+| 72 | - | - | [Exile, Incorporated: The Body in the Book of Ezekiel. By Rosanne Liebermann](#exile-incorporated-the-body-in-the-book-of-ezekiel-by-rosanne-liebermann) |
+| 73 | - | - | [The Philocalia of Origen. A New Translation With Annotations. Edited by Ronald E. Heine](#the-philocalia-of-origen-a-new-translation-with-annotations-edited-by-ronald-e-heine) |
+| 74 | - | - | [Healthcare Chaplaincy as Specialised Spiritual Care: The Christian Call for Healing in a Global Health Context. Simon Peng-Keller](#healthcare-chaplaincy-as-specialised-spiritual-care-the-christian-call-for-healing-in-a-global-health-context-simon-peng-keller) |
+| 75 | - | - | [Theosis and Religion: Participation in Divine Life in the Eastern and Western Traditions. By Norman Russell](#theosis-and-religion-participation-in-divine-life-in-the-eastern-and-western-traditions-by-norman-russell) |
+| 76 | - | - | [Ishoʿdad of Merv: Commentary on Daniel. Edited by T. C. Schmidt](#ishoʿdad-of-merv-commentary-on-daniel-edited-by-t-c-schmidt) |
+| 77 | - | - | [Life: The Natural History of an Early Christian Universe. Catherine Michael Chin](#life-the-natural-history-of-an-early-christian-universe-catherine-michael-chin) |
+| 78 | - | - | [Sensing the Sacred: Recovering a Mystagogical Vision of Knowledge and Salvation. Hanna J. Lucas](#sensing-the-sacred-recovering-a-mystagogical-vision-of-knowledge-and-salvation-hanna-j-lucas) |
+| 79 | - | - | [The Cambridge Companion to Joseph Ratzinger. Edited by Daniel Cardó and Uwe Michael Lang](#the-cambridge-companion-to-joseph-ratzinger-edited-by-daniel-cardó-and-uwe-michael-lang) |
+| 80 | Church History, NT, Systematic Theology | - | [The
                     <i>Acts of John</i>
                     in Antiochus the Monk's
-                    <i>Pandect</i>]] |
-| 81 | NT | - | [[#The Origins of the Corinthian Christ Group Pauls Chord of Gods By Stephen P. Ahearne-Kroll|The Origins of the Corinthian Christ Group: Paul’s Chord of Gods, By Stephen P. Ahearne-Kroll]] |
-| 82 | - | - | [[#A Social History of Christian Origins The Rejected Jesus By Simon J. Joseph|A Social History of Christian Origins: The Rejected Jesus, By Simon J. Joseph]] |
-| 83 | NT, Systematic Theology | - | [[#Immigration and Apocalypse How the Book of Revelation Shaped American Immigration By Yii-Jan Lin|Immigration and Apocalypse: How the Book of Revelation Shaped American Immigration By Yii-Jan Lin]] |
-| 84 | - | - | [[#Playing with Scripture Reading Contested Biblical Texts with Gadamer and Genre Theory|Playing with Scripture: Reading Contested Biblical Texts with Gadamer and Genre Theory]] |
-| 85 | - | - | [[#Now and Not Yet Theology and Mission in Ezra-Nehemiah. By Dean R. Ulrich|Now and Not Yet: Theology and Mission in Ezra-Nehemiah. By Dean R. Ulrich]] |
-| 86 | NT | Contemporary | [[#The Eusebian Canons in Arabic Gospel Manuscripts A Survey of Evidence|The Eusebian Canons in Arabic Gospel Manuscripts: A Survey of Evidence]] |
-| 87 | Systematic Theology | - | [[#Sacrifice and Wills in Bede|Sacrifice and Will(s) in Bede]] |
-| 88 | Church History, OT | Medieval | [[#Ancient Israel and the Modern Bounded State|Ancient Israel and the Modern Bounded State]] |
-| 89 | Church History, NT | Patristic | [[#For a Meeting With the Lord in the Air The Early Christian Exegesis of 1 Thess. 41318|‘For a Meeting With the Lord in the Air’: The Early Christian Exegesis of 1 Thess. 4:13–18]] |
-| 90 | - | - | [[#The Oxford Handbook of the Latin Bible Edited by H.A.G. Houghton|The Oxford Handbook of the Latin Bible, Edited by H.A.G. Houghton]] |
-| 91 | Systematic Theology | - | [[#Jesus and Divine Christology By Brant Pitre|Jesus and Divine Christology, By Brant Pitre]] |
-| 92 | NT | - | [[#The Trials of Jesus Evidence Conclusions and Aftermath By Paul Barnett|The Trials of Jesus: Evidence, Conclusions, and Aftermath, By Paul Barnett]] |
-| 93 | - | - | [[#The Book of Job in Wonderland Making NonSense of Jobs Mediators By Ryan M. Armstrong|The Book of Job in Wonderland: Making (Non)Sense of Job’s Mediators, By Ryan M. Armstrong]] |
-| 94 | Systematic Theology | - | [[#Newman and Justification Newmans via Media Doctrine of the Justifying Presence By T. L. Holtzen|Newman and Justification: Newman's via Media ‘Doctrine of the Justifying Presence’ By T. L. Holtzen]] |
-| 95 | Church History | Medieval | [[#A Hidden Wisdom Medieval Contemplatives on Self-Knowledge Reason Love Persons and Immortality. By Christina Van Dyke|A Hidden Wisdom: Medieval Contemplatives on Self-Knowledge, Reason, Love, Persons, and Immortality. By Christina Van Dyke]] |
-| 96 | - | - | [[#Mirrors of the Divine Late Ancient Christianity and the Vision of God. By Emily R. Cain|Mirrors of the Divine: Late Ancient Christianity and the Vision of God. By Emily R. Cain]] |
-| 97 | - | - | [[#What It Means to Be Protestant The Case for an Always-Reforming Church. By Gavin Ortlund|What It Means to Be Protestant: The Case for an Always-Reforming Church. By Gavin Ortlund]] |
-| 98 | - | - | [[#The Oxford Handbook of Vatican II. Edited by Catherine E. Clifford and Massimo Faggioli|The Oxford Handbook of Vatican II. Edited by Catherine E. Clifford and Massimo Faggioli]] |
+                    <i>Pandect</i>](#the-iacts-of-johni-in-antiochus-the-monks-ipandecti) |
+| 81 | NT | - | [The Origins of the Corinthian Christ Group: Paul’s Chord of Gods, By Stephen P. Ahearne-Kroll](#the-origins-of-the-corinthian-christ-group-pauls-chord-of-gods-by-stephen-p-ahearne-kroll) |
+| 82 | - | - | [A Social History of Christian Origins: The Rejected Jesus, By Simon J. Joseph](#a-social-history-of-christian-origins-the-rejected-jesus-by-simon-j-joseph) |
+| 83 | NT, Systematic Theology | - | [Immigration and Apocalypse: How the Book of Revelation Shaped American Immigration By Yii-Jan Lin](#immigration-and-apocalypse-how-the-book-of-revelation-shaped-american-immigration-by-yii-jan-lin) |
+| 84 | - | - | [Playing with Scripture: Reading Contested Biblical Texts with Gadamer and Genre Theory](#playing-with-scripture-reading-contested-biblical-texts-with-gadamer-and-genre-theory) |
+| 85 | - | - | [Now and Not Yet: Theology and Mission in Ezra-Nehemiah. By Dean R. Ulrich](#now-and-not-yet-theology-and-mission-in-ezra-nehemiah-by-dean-r-ulrich) |
+| 86 | NT | Contemporary | [The Eusebian Canons in Arabic Gospel Manuscripts: A Survey of Evidence](#the-eusebian-canons-in-arabic-gospel-manuscripts-a-survey-of-evidence) |
+| 87 | Systematic Theology | - | [Sacrifice and Will(s) in Bede](#sacrifice-and-wills-in-bede) |
+| 88 | Church History, OT | Medieval | [Ancient Israel and the Modern Bounded State](#ancient-israel-and-the-modern-bounded-state) |
+| 89 | Church History, NT | Patristic | [‘For a Meeting With the Lord in the Air’: The Early Christian Exegesis of 1 Thess. 4:13–18](#for-a-meeting-with-the-lord-in-the-air-the-early-christian-exegesis-of-1-thess-41318) |
+| 90 | - | - | [The Oxford Handbook of the Latin Bible, Edited by H.A.G. Houghton](#the-oxford-handbook-of-the-latin-bible-edited-by-hag-houghton) |
+| 91 | Systematic Theology | - | [Jesus and Divine Christology, By Brant Pitre](#jesus-and-divine-christology-by-brant-pitre) |
+| 92 | NT | - | [The Trials of Jesus: Evidence, Conclusions, and Aftermath, By Paul Barnett](#the-trials-of-jesus-evidence-conclusions-and-aftermath-by-paul-barnett) |
+| 93 | - | - | [The Book of Job in Wonderland: Making (Non)Sense of Job’s Mediators, By Ryan M. Armstrong](#the-book-of-job-in-wonderland-making-nonsense-of-jobs-mediators-by-ryan-m-armstrong) |
+| 94 | Systematic Theology | - | [Newman and Justification: Newman's via Media ‘Doctrine of the Justifying Presence’ By T. L. Holtzen](#newman-and-justification-newmans-via-media-doctrine-of-the-justifying-presence-by-t-l-holtzen) |
+| 95 | Church History | Medieval | [A Hidden Wisdom: Medieval Contemplatives on Self-Knowledge, Reason, Love, Persons, and Immortality. By Christina Van Dyke](#a-hidden-wisdom-medieval-contemplatives-on-self-knowledge-reason-love-persons-and-immortality-by-christina-van-dyke) |
+| 96 | - | - | [Mirrors of the Divine: Late Ancient Christianity and the Vision of God. By Emily R. Cain](#mirrors-of-the-divine-late-ancient-christianity-and-the-vision-of-god-by-emily-r-cain) |
+| 97 | - | - | [What It Means to Be Protestant: The Case for an Always-Reforming Church. By Gavin Ortlund](#what-it-means-to-be-protestant-the-case-for-an-always-reforming-church-by-gavin-ortlund) |
+| 98 | - | - | [The Oxford Handbook of Vatican II. Edited by Catherine E. Clifford and Massimo Faggioli](#the-oxford-handbook-of-vatican-ii-edited-by-catherine-e-clifford-and-massimo-faggioli) |
 
 ---
 
-### Taking up the Mask of Humanity Clement of Alexandrias Dramatic Understanding of the Two Natures of Christ
+### ‘Taking up the Mask of Humanity’: Clement of Alexandria’s Dramatic Understanding of the Two Natures of Christ
 - **DOI**: [10.1093/jts/flae087](https://doi.org/10.1093/jts/flae087)
 - **Analytical Tags**: `Systematic Theology / - / Contemporary`
 - **Abstract**: Abstract
@@ -125,7 +125,7 @@ arc_score: 6
 
 ---
 
-### A List of the Books of the Old and New Testament with Stichometrical Annotations Oxford Bodleian Library MS. Gr. th. g. 7 P
+### A List of the Books of the Old and New Testament with Stichometrical Annotations (Oxford, Bodleian Library, MS. Gr. th. g. 7 [P])
 - **DOI**: [10.1093/jts/flae088](https://doi.org/10.1093/jts/flae088)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -133,7 +133,7 @@ arc_score: 6
 
 ---
 
-### iAkoē Pisteōsi Gal. 325 and Martin Luthers Place in Pauline Scholarship
+### <i>Akoē Pisteōs</i> (Gal. 3:2–5) and Martin Luther’s Place in Pauline Scholarship
 - **DOI**: [10.1093/jts/flaf001](https://doi.org/10.1093/jts/flaf001)
 - **Analytical Tags**: `NT / - / Reformation`
 - **Abstract**: Abstract
@@ -141,7 +141,7 @@ arc_score: 6
 
 ---
 
-### A Passion Narrative Synopsis in Codex Climaci Rescriptus A New Edition Based on Multispectral Images
+### A Passion Narrative Synopsis in Codex Climaci Rescriptus: A New Edition Based on Multispectral Images
 - **DOI**: [10.1093/jts/flaf002](https://doi.org/10.1093/jts/flaf002)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: ABSTRACT
@@ -149,7 +149,7 @@ arc_score: 6
 
 ---
 
-### How Are the Gentiles Changed The Influence of Micah on the iAnimal Apocalypsei and Revelation 2122
+### How Are the Gentiles Changed? The Influence of Micah on the <i>Animal Apocalypse</i> and Revelation 21–22
 - **DOI**: [10.1093/jts/flaf003](https://doi.org/10.1093/jts/flaf003)
 - **Analytical Tags**: `NT;OT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -164,7 +164,7 @@ arc_score: 6
 
 ---
 
-### On the Hegemony of Ancestral Sin in Early Greek Thought A Hesitation
+### On the Hegemony of Ancestral Sin in Early Greek Thought: A Hesitation
 - **DOI**: [10.1093/jts/flaf005](https://doi.org/10.1093/jts/flaf005)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -172,7 +172,7 @@ arc_score: 6
 
 ---
 
-### Heteroousios or Social Trinitarianism Entailments of the Eternal Relations of Origin
+### Heteroousios or Social Trinitarianism: Entailments of the Eternal Relations of Origin
 - **DOI**: [10.1093/jts/flaf006](https://doi.org/10.1093/jts/flaf006)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -180,7 +180,7 @@ arc_score: 6
 
 ---
 
-### The Book of Malachi Its Place in the Twelve Minor Prophets in Jewish and in Christian Canon
+### The Book of Malachi: Its Place in the Twelve Minor Prophets, in Jewish and in Christian Canon
 - **DOI**: [10.1093/jts/flaf007](https://doi.org/10.1093/jts/flaf007)
 - **Analytical Tags**: `NT;OT / - / -`
 - **Abstract**: ABSTRACT
@@ -188,7 +188,7 @@ arc_score: 6
 
 ---
 
-### The Last Day in John Future or Realized
+### ‘The Last Day’ in John: Future or Realized?
 - **DOI**: [10.1093/jts/flaf008](https://doi.org/10.1093/jts/flaf008)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -196,7 +196,7 @@ arc_score: 6
 
 ---
 
-### And Then They Will Fast on That Day Mark 220 The Absent Bridegroom and the Day of Atonement in Early Christianity
+### ‘And Then They Will Fast on That Day’ (Mark 2:20): The Absent Bridegroom and the Day of Atonement in Early Christianity
 - **DOI**: [10.1093/jts/flaf009](https://doi.org/10.1093/jts/flaf009)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -204,14 +204,14 @@ arc_score: 6
 
 ---
 
-### Story Ritual Prophecy Wisdom Reading and Teaching the Bible Today. By Mark W. Hamilton and Samjung Kang-Hamilton
+### Story, Ritual, Prophecy, Wisdom: Reading and Teaching the Bible Today. By Mark W. Hamilton and Samjung Kang-Hamilton
 - **DOI**: [10.1093/jts/flaf010](https://doi.org/10.1093/jts/flaf010)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Aquinass iSumma Theologiaei and Eucharistic Sacrifice in the Early Modern Period. By Reginald M. Lynch
+### Aquinas’s <i>Summa Theologiae</i> and Eucharistic Sacrifice in the Early Modern Period. By Reginald M. Lynch
 - **DOI**: [10.1093/jts/flaf011](https://doi.org/10.1093/jts/flaf011)
 - **Analytical Tags**: `- / - / Medieval`
 - **Abstract**: No abstract available
@@ -225,21 +225,21 @@ arc_score: 6
 
 ---
 
-### Religion as Make-Believe A Theory of Belief Imagination and Group Identity. By Neil Van Leeuwen
+### Religion as Make-Believe: A Theory of Belief, Imagination, and Group Identity. By Neil Van Leeuwen
 - **DOI**: [10.1093/jts/flaf013](https://doi.org/10.1093/jts/flaf013)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Theology and the Public Reflections on Hans W. Frei on Hermeneutics Christology and Theological Method. By Daniel D. Shin
+### Theology and the Public: Reflections on Hans W. Frei on Hermeneutics, Christology, and Theological Method. By Daniel D. Shin
 - **DOI**: [10.1093/jts/flaf014](https://doi.org/10.1093/jts/flaf014)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### A Concealed Claudian The Meaning of 666 in Revelation
+### A Concealed Claudian: The Meaning of 666 in Revelation
 - **DOI**: [10.1093/jts/flaf015](https://doi.org/10.1093/jts/flaf015)
 - **Analytical Tags**: `NT;Systematic Theology / - / Medieval`
 - **Abstract**: ABSTRACT
@@ -247,7 +247,7 @@ arc_score: 6
 
 ---
 
-### Unleashing the Trickster A New Look at the Lying Prophet of Bethel
+### Unleashing the Trickster: A New Look at the Lying Prophet of Bethel
 - **DOI**: [10.1093/jts/flaf016](https://doi.org/10.1093/jts/flaf016)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -283,21 +283,21 @@ arc_score: 6
 
 ---
 
-### Honoring the Wise Wisdom in Scripture Ministry and Life Celebrating Lindsay Wilsons Thirty Years at Ridley. Edited by Jill Firth and Paul A. Barker
+### Honoring the Wise: Wisdom in Scripture, Ministry, and Life: Celebrating Lindsay Wilson's Thirty Years at Ridley. Edited by Jill Firth and Paul A. Barker
 - **DOI**: [10.1093/jts/flaf022](https://doi.org/10.1093/jts/flaf022)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Unparalleled Poetry A Cognitive Approach to the Free-Rhythm Verse of the Hebrew Bible. By Emmylou J. Grosser
+### Unparalleled Poetry: A Cognitive Approach to the Free-Rhythm Verse of the Hebrew Bible. By Emmylou J. Grosser
 - **DOI**: [10.1093/jts/flaf023](https://doi.org/10.1093/jts/flaf023)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Hellenism Early Judaism and Early Christianity. Transmission and Transformation of Ideas. Edited by Radka Fialová Jiří Hoblík and Petr Kitzler
+### Hellenism, Early Judaism, and Early Christianity. Transmission and Transformation of Ideas. Edited by Radka Fialová, Jiří Hoblík, and Petr Kitzler
 - **DOI**: [10.1093/jts/flaf024](https://doi.org/10.1093/jts/flaf024)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
@@ -311,7 +311,7 @@ arc_score: 6
 
 ---
 
-### Calvins Christology and the Accusation of Nestorianism
+### Calvin’s Christology and the Accusation of Nestorianism
 - **DOI**: [10.1093/jts/flaf026](https://doi.org/10.1093/jts/flaf026)
 - **Analytical Tags**: `Systematic Theology / - / Reformation`
 - **Abstract**: Abstract
@@ -319,70 +319,70 @@ arc_score: 6
 
 ---
 
-### Welcoming the Stranger Abrahamic Hospitality and Its Contemporary Implications. Edited by Ori Z. Soltes and Rachel Stern
+### Welcoming the Stranger: Abrahamic Hospitality and Its Contemporary Implications. Edited by Ori Z. Soltes and Rachel Stern
 - **DOI**: [10.1093/jts/flaf027](https://doi.org/10.1093/jts/flaf027)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: No abstract available
 
 ---
 
-### Reading the Prophets as Christian Scripture A Literary Canonical and Theological Introduction. By Eric J. Tully
+### Reading the Prophets as Christian Scripture: A Literary, Canonical, and Theological Introduction. By Eric J. Tully
 - **DOI**: [10.1093/jts/flaf028](https://doi.org/10.1093/jts/flaf028)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Return of the Kingdom A Biblical Theology of Gods Reign. By Stephen G. Dempster
+### The Return of the Kingdom: A Biblical Theology of God’s Reign. By Stephen G. Dempster
 - **DOI**: [10.1093/jts/flaf029](https://doi.org/10.1093/jts/flaf029)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Berolinensia Beiträge zur Geschichte der Berliner Universität und ihrer Theologischen Fakultät. By Christoph Markschies
+### Berolinensia: Beiträge zur Geschichte der Berliner Universität und ihrer Theologischen Fakultät. By Christoph Markschies
 - **DOI**: [10.1093/jts/flaf030](https://doi.org/10.1093/jts/flaf030)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Friedrich Daniel Ernst Schleiermacher Kritische Gesamtausgabe. 4. Abteilung Band 2. Joseph Fawcett Predigten aus dem Englischen übersetzt 1798. Mungo Park Reisen im Innern von Afrika. Aus dem Englischen Berlin 1799. Mit Synopse der Übersetzungsvorlagen. Edited by Günter Meckenstock
+### Friedrich Daniel Ernst Schleiermacher: Kritische Gesamtausgabe. 4. Abteilung, Band 2. Joseph Fawcett: Predigten aus dem Englischen übersetzt (1798). Mungo Park: Reisen im Innern von Afrika. Aus dem Englischen (Berlin, 1799). Mit Synopse der Übersetzungsvorlagen. Edited by Günter Meckenstock
 - **DOI**: [10.1093/jts/flaf031](https://doi.org/10.1093/jts/flaf031)
 - **Analytical Tags**: `- / - / Modern`
 - **Abstract**: No abstract available
 
 ---
 
-### Catholics Without Rome Old Catholics Eastern Orthodox Anglicans and the Reunion Negotiations of the 1870s. By Bryn Geffert and LeRoy Boerneke
+### Catholics Without Rome: Old Catholics, Eastern Orthodox, Anglicans, and the Reunion Negotiations of the 1870s. By Bryn Geffert and LeRoy Boerneke
 - **DOI**: [10.1093/jts/flaf032](https://doi.org/10.1093/jts/flaf032)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### John Lockes Theology An Ecumenical Irenic and Controversial Project. By Jonathan S. Marko
+### John Locke’s Theology: An Ecumenical, Irenic, and Controversial Project. By Jonathan S. Marko
 - **DOI**: [10.1093/jts/flaf033](https://doi.org/10.1093/jts/flaf033)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Undocumented Migration as a Theologizing Experience Religious Stories Korean American Dreamers Tell in the Face of Uncertainty. By Eunil David Cho
+### Undocumented Migration as a Theologizing Experience: Religious Stories Korean American Dreamers Tell in the Face of Uncertainty. By Eunil David Cho
 - **DOI**: [10.1093/jts/flaf034](https://doi.org/10.1093/jts/flaf034)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Consciousness of the Historical Jesus Historiography Theology and Metaphysics. By Austin Stevenson
+### The Consciousness of the Historical Jesus: Historiography, Theology, and Metaphysics. By Austin Stevenson
 - **DOI**: [10.1093/jts/flaf035](https://doi.org/10.1093/jts/flaf035)
 - **Analytical Tags**: `Philosophy of Religion / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### A Civic Spirituality of Sanctification John Calvin. Edited by Roger Haight SJ Alfred Pach III and Amanda Avila Kaminski
+### A Civic Spirituality of Sanctification: John Calvin. Edited by Roger Haight, SJ, Alfred Pach III, and Amanda Avila Kaminski
 - **DOI**: [10.1093/jts/flaf036](https://doi.org/10.1093/jts/flaf036)
 - **Analytical Tags**: `- / - / Reformation`
 - **Abstract**: No abstract available
@@ -397,7 +397,7 @@ arc_score: 6
 
 ---
 
-### Vision iPoikiliai and a Platonic Allusion in Asterius of Amaseias Ekphrasis of the Eye
+### Vision, <i>Poikilia</i>, and a Platonic Allusion in Asterius of Amaseia’s Ekphrasis of the Eye
 - **DOI**: [10.1093/jts/flaf038](https://doi.org/10.1093/jts/flaf038)
 - **Analytical Tags**: `- / - / Patristic`
 - **Abstract**: Abstract
@@ -405,7 +405,7 @@ arc_score: 6
 
 ---
 
-### A Note on the Homily iIn decem uirginesi in the Codex iAthous Koutloumousioui 11
+### A Note on the Homily <i>In decem uirgines</i> in the Codex <i>Athous Koutloumousiou</i> 11
 - **DOI**: [10.1093/jts/flaf039](https://doi.org/10.1093/jts/flaf039)
 - **Analytical Tags**: `- / - / Patristic`
 - **Abstract**: Abstract
@@ -413,7 +413,7 @@ arc_score: 6
 
 ---
 
-### ἘΠΙΘΥΜΙΑ  ΝΟΥΣ and the I in Romans 7725 A New Solution to an Old Problem
+### ἘΠΙΘΥΜΙΑ,  ΝΟΥΣ, and the ‘I’ in Romans 7:7–25: A New Solution to an Old Problem
 - **DOI**: [10.1093/jts/flaf040](https://doi.org/10.1093/jts/flaf040)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -421,7 +421,7 @@ arc_score: 6
 
 ---
 
-### Christ Wholly and Always Everywhere Augustine on Christ iExtra Carnemi in iEpi. 187
+### Christ Wholly and Always Everywhere: Augustine on Christ <i>Extra Carnem</i> in <i>Ep</i>. 187
 - **DOI**: [10.1093/jts/flaf041](https://doi.org/10.1093/jts/flaf041)
 - **Analytical Tags**: `Church History;Systematic Theology / - / Patristic;Reformation`
 - **Abstract**: Abstract
@@ -429,7 +429,7 @@ arc_score: 6
 
 ---
 
-### The Sun in Marks Crisis Management Narratological Observations
+### The Sun in Mark’s Crisis Management: Narratological Observations
 - **DOI**: [10.1093/jts/flaf042](https://doi.org/10.1093/jts/flaf042)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -437,7 +437,7 @@ arc_score: 6
 
 ---
 
-### Those in the Lord Are Free 1 Corinthians 7 and a Stoic Paradox
+### Those ‘in the Lord’ Are Free: 1 Corinthians 7 and a Stoic Paradox
 - **DOI**: [10.1093/jts/flaf043](https://doi.org/10.1093/jts/flaf043)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -445,7 +445,7 @@ arc_score: 6
 
 ---
 
-### New Birth Adoption and the Πνεῦμα The Roles of the Holy Spirit Within Pauls Kinship Discourse
+### New Birth, Adoption, and the Πνεῦμα: The Role(s) of the Holy Spirit Within Paul’s Kinship Discourse
 - **DOI**: [10.1093/jts/flaf044](https://doi.org/10.1093/jts/flaf044)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -453,7 +453,7 @@ arc_score: 6
 
 ---
 
-### Yet not as I will but as you will On the Development of Partitive Exegesis in the Early Arian Controversy
+### ‘Yet not as I will, but as you will’: On the Development of Partitive Exegesis in the Early Arian Controversy
 - **DOI**: [10.1093/jts/flaf045](https://doi.org/10.1093/jts/flaf045)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -461,7 +461,7 @@ arc_score: 6
 
 ---
 
-### Hedged in Hunted Haunted Hiding Divine Presence and Absence in the Dialogues in Job
+### Hedged in, Hunted, Haunted, Hiding: Divine Presence and Absence in the Dialogues in Job
 - **DOI**: [10.1093/jts/flaf046](https://doi.org/10.1093/jts/flaf046)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -469,35 +469,35 @@ arc_score: 6
 
 ---
 
-### Understanding the New Testament Use of the Old Testament Forms Features Framings and Functions. By Douglas S. Huffman
+### Understanding the New Testament Use of the Old Testament: Forms, Features, Framings, and Functions. By Douglas S. Huffman
 - **DOI**: [10.1093/jts/flaf047](https://doi.org/10.1093/jts/flaf047)
 - **Analytical Tags**: `NT;OT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Final Triumph of God Jesus the Eyewitnesses and the Resurrection of the Body in 1 Corinthians 15. By James P. Ware
+### The Final Triumph of God: Jesus, the Eyewitnesses, and the Resurrection of the Body in 1 Corinthians 15. By James P. Ware
 - **DOI**: [10.1093/jts/flaf048](https://doi.org/10.1093/jts/flaf048)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Gods Ghostwriters Enslaved Christians and the Making of the Bible. By Candida Moss
+### God’s Ghostwriters: Enslaved Christians and the Making of the Bible. By Candida Moss
 - **DOI**: [10.1093/jts/flaf049](https://doi.org/10.1093/jts/flaf049)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Ancient Christians and the Power of Curses Magic Aesthetics and Justice. By Laura Salah Nasrallah
+### Ancient Christians and the Power of Curses: Magic, Aesthetics, and Justice. By Laura Salah Nasrallah
 - **DOI**: [10.1093/jts/flaf050](https://doi.org/10.1093/jts/flaf050)
 - **Analytical Tags**: `Ethics / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Transfiguration of Christ An Exegetical and Theological Reading. By Patrick Schreiner
+### The Transfiguration of Christ: An Exegetical and Theological Reading. By Patrick Schreiner
 - **DOI**: [10.1093/jts/flaf051](https://doi.org/10.1093/jts/flaf051)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -511,14 +511,14 @@ arc_score: 6
 
 ---
 
-### God Becoming Human Incarnation in the Christian Bible. By Reinhard Feldmeier and Hermann Spieckermann translated by Brian McNeil
+### God Becoming Human: Incarnation in the Christian Bible. By Reinhard Feldmeier and Hermann Spieckermann (translated by Brian McNeil)
 - **DOI**: [10.1093/jts/flaf053](https://doi.org/10.1093/jts/flaf053)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Revelatory Ontological or Transformative On Luther and the Theological Function of Pauls Strength in Weakness 2 Cor. 12910
+### Revelatory, Ontological, or Transformative? On Luther and the Theological Function of Paul’s ‘Strength in Weakness’ (2 Cor. 12:9–10)
 - **DOI**: [10.1093/jts/flaf054](https://doi.org/10.1093/jts/flaf054)
 - **Analytical Tags**: `NT / - / Reformation`
 - **Abstract**: Abstract
@@ -526,7 +526,7 @@ arc_score: 6
 
 ---
 
-### Psalm 51 and Original Sin An Exercise in Reading the Old Testament as Christian Scripture
+### Psalm 51 and Original Sin: An Exercise in Reading the Old Testament as Christian Scripture
 - **DOI**: [10.1093/jts/flaf055](https://doi.org/10.1093/jts/flaf055)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -534,21 +534,21 @@ arc_score: 6
 
 ---
 
-### Micah A New Translation With Introduction and Commentary. Bob Becking
+### Micah: A New Translation With Introduction and Commentary. Bob Becking
 - **DOI**: [10.1093/jts/flaf056](https://doi.org/10.1093/jts/flaf056)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Paul the Storyteller A Narratological Approach. By Christoph Heilig
+### Paul the Storyteller: A Narratological Approach. By Christoph Heilig
 - **DOI**: [10.1093/jts/flaf057](https://doi.org/10.1093/jts/flaf057)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Voices from the Ruins Theodicy and the Fall of Jerusalem in the Hebrew Bible. By Dalit Rom-Shiloni
+### Voices from the Ruins: Theodicy and the Fall of Jerusalem in the Hebrew Bible. By Dalit Rom-Shiloni
 - **DOI**: [10.1093/jts/flaf058](https://doi.org/10.1093/jts/flaf058)
 - **Analytical Tags**: `OT;Philosophy of Religion / - / -`
 - **Abstract**: No abstract available
@@ -563,7 +563,7 @@ arc_score: 6
 
 ---
 
-### Macrinas Hippocratic Method Science and Theology in Gregory of Nyssas iDe anima et resurrectionei
+### Macrina’s Hippocratic Method: Science and Theology in Gregory of Nyssa’s <i>De anima et resurrectione</i>
 - **DOI**: [10.1093/jts/flaf060](https://doi.org/10.1093/jts/flaf060)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -571,7 +571,7 @@ arc_score: 6
 
 ---
 
-### Becoming a Neighbour A Process-Relational Reading of the Parable of the Good Samaritan
+### Becoming a Neighbour: A Process-Relational Reading of the Parable of the Good Samaritan
 - **DOI**: [10.1093/jts/flaf061](https://doi.org/10.1093/jts/flaf061)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -579,35 +579,35 @@ arc_score: 6
 
 ---
 
-### Rereading Ruth. By William A. Tooman with Marian Kelsey
+### (Re)reading Ruth. By William A. Tooman with Marian Kelsey
 - **DOI**: [10.1093/jts/flaf062](https://doi.org/10.1093/jts/flaf062)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Destruction of the Canaanites God Genocide and Biblical Interpretation. By Charlie Trimm
+### The Destruction of the Canaanites: God, Genocide, and Biblical Interpretation. By Charlie Trimm
 - **DOI**: [10.1093/jts/flaf063](https://doi.org/10.1093/jts/flaf063)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Open Sanctuary Access to God and the Heavenly Temple in the New Testament. By Nicholas J. Moore
+### The Open Sanctuary: Access to God and the Heavenly Temple in the New Testament. By Nicholas J. Moore
 - **DOI**: [10.1093/jts/flaf064](https://doi.org/10.1093/jts/flaf064)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Ben Sira in Conversation With Traditions A Festschrift for Prof. Núria Calduch-Benages on the Occasion of Her 65th Birthday. Edited by Francis M. Macatangay and Francisco-Javier Ruiz-Ortiz
+### Ben Sira in Conversation With Traditions: A Festschrift for Prof. Núria Calduch-Benages on the Occasion of Her 65th Birthday. Edited by Francis M. Macatangay and Francisco-Javier Ruiz-Ortiz
 - **DOI**: [10.1093/jts/flaf065](https://doi.org/10.1093/jts/flaf065)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### King David Innocent Blood and Bloodguilt. By David J. Shepherd
+### King David, Innocent Blood, and Bloodguilt. By David J. Shepherd
 - **DOI**: [10.1093/jts/flaf066](https://doi.org/10.1093/jts/flaf066)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -621,28 +621,28 @@ arc_score: 6
 
 ---
 
-### The Book of Samuel Studies in History Historiography Theology and Poetics Combined. Part Two A Study of the Narratives Depicting Four National Leaders and Their Dynasties. By Moshe Garsiel
+### The Book of Samuel: Studies in History, Historiography, Theology and Poetics Combined. Part Two: A Study of the Narratives Depicting Four National Leaders and Their Dynasties. By Moshe Garsiel
 - **DOI**: [10.1093/jts/flaf068](https://doi.org/10.1093/jts/flaf068)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### 2 Maccabees 815 A Handbook on the Greek Text. By Seth M. Ehorn
+### 2 Maccabees 8–15: A Handbook on the Greek Text. By Seth M. Ehorn
 - **DOI**: [10.1093/jts/flaf069](https://doi.org/10.1093/jts/flaf069)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The TampT Clark Handbook of Septuagint Research. Edited by William A. Ross and W. Edward Glenny
+### The T&amp;T Clark Handbook of Septuagint Research. Edited by William A. Ross and W. Edward Glenny
 - **DOI**: [10.1093/jts/flaf070](https://doi.org/10.1093/jts/flaf070)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Exile Incorporated The Body in the Book of Ezekiel. By Rosanne Liebermann
+### Exile, Incorporated: The Body in the Book of Ezekiel. By Rosanne Liebermann
 - **DOI**: [10.1093/jts/flaf071](https://doi.org/10.1093/jts/flaf071)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -656,35 +656,35 @@ arc_score: 6
 
 ---
 
-### Healthcare Chaplaincy as Specialised Spiritual Care The Christian Call for Healing in a Global Health Context. Simon Peng-Keller
+### Healthcare Chaplaincy as Specialised Spiritual Care: The Christian Call for Healing in a Global Health Context. Simon Peng-Keller
 - **DOI**: [10.1093/jts/flaf073](https://doi.org/10.1093/jts/flaf073)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Theosis and Religion Participation in Divine Life in the Eastern and Western Traditions. By Norman Russell
+### Theosis and Religion: Participation in Divine Life in the Eastern and Western Traditions. By Norman Russell
 - **DOI**: [10.1093/jts/flaf074](https://doi.org/10.1093/jts/flaf074)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Ishoʿdad of Merv Commentary on Daniel. Edited by T. C. Schmidt
+### Ishoʿdad of Merv: Commentary on Daniel. Edited by T. C. Schmidt
 - **DOI**: [10.1093/jts/flaf075](https://doi.org/10.1093/jts/flaf075)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Life The Natural History of an Early Christian Universe. Catherine Michael Chin
+### Life: The Natural History of an Early Christian Universe. Catherine Michael Chin
 - **DOI**: [10.1093/jts/flaf076](https://doi.org/10.1093/jts/flaf076)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Sensing the Sacred Recovering a Mystagogical Vision of Knowledge and Salvation. Hanna J. Lucas
+### Sensing the Sacred: Recovering a Mystagogical Vision of Knowledge and Salvation. Hanna J. Lucas
 - **DOI**: [10.1093/jts/flaf078](https://doi.org/10.1093/jts/flaf078)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -698,7 +698,10 @@ arc_score: 6
 
 ---
 
-### The                    iActs of Johni                    in Antiochus the Monks                    iPandecti
+### The
+                    <i>Acts of John</i>
+                    in Antiochus the Monk's
+                    <i>Pandect</i>
 - **DOI**: [10.1093/jts/flaf080](https://doi.org/10.1093/jts/flaf080)
 - **Analytical Tags**: `Church History;NT;Systematic Theology / - / -`
 - **Abstract**: ABSTRACT
@@ -706,42 +709,42 @@ arc_score: 6
 
 ---
 
-### The Origins of the Corinthian Christ Group Pauls Chord of Gods By Stephen P. Ahearne-Kroll
+### The Origins of the Corinthian Christ Group: Paul’s Chord of Gods, By Stephen P. Ahearne-Kroll
 - **DOI**: [10.1093/jts/flaf083](https://doi.org/10.1093/jts/flaf083)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### A Social History of Christian Origins The Rejected Jesus By Simon J. Joseph
+### A Social History of Christian Origins: The Rejected Jesus, By Simon J. Joseph
 - **DOI**: [10.1093/jts/flaf084](https://doi.org/10.1093/jts/flaf084)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Immigration and Apocalypse How the Book of Revelation Shaped American Immigration By Yii-Jan Lin
+### Immigration and Apocalypse: How the Book of Revelation Shaped American Immigration By Yii-Jan Lin
 - **DOI**: [10.1093/jts/flaf085](https://doi.org/10.1093/jts/flaf085)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Playing with Scripture Reading Contested Biblical Texts with Gadamer and Genre Theory
+### Playing with Scripture: Reading Contested Biblical Texts with Gadamer and Genre Theory
 - **DOI**: [10.1093/jts/flaf086](https://doi.org/10.1093/jts/flaf086)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Now and Not Yet Theology and Mission in Ezra-Nehemiah. By Dean R. Ulrich
+### Now and Not Yet: Theology and Mission in Ezra-Nehemiah. By Dean R. Ulrich
 - **DOI**: [10.1093/jts/flaf087](https://doi.org/10.1093/jts/flaf087)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Eusebian Canons in Arabic Gospel Manuscripts A Survey of Evidence
+### The Eusebian Canons in Arabic Gospel Manuscripts: A Survey of Evidence
 - **DOI**: [10.1093/jts/flaf088](https://doi.org/10.1093/jts/flaf088)
 - **Analytical Tags**: `NT / - / Contemporary`
 - **Abstract**: ABSTRACT
@@ -749,7 +752,7 @@ arc_score: 6
 
 ---
 
-### Sacrifice and Wills in Bede
+### Sacrifice and Will(s) in Bede
 - **DOI**: [10.1093/jts/flaf089](https://doi.org/10.1093/jts/flaf089)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -765,7 +768,7 @@ arc_score: 6
 
 ---
 
-### For a Meeting With the Lord in the Air The Early Christian Exegesis of 1 Thess. 41318
+### ‘For a Meeting With the Lord in the Air’: The Early Christian Exegesis of 1 Thess. 4:13–18
 - **DOI**: [10.1093/jts/flaf091](https://doi.org/10.1093/jts/flaf091)
 - **Analytical Tags**: `Church History;NT / - / Patristic`
 - **Abstract**: Abstract
@@ -773,56 +776,56 @@ arc_score: 6
 
 ---
 
-### The Oxford Handbook of the Latin Bible Edited by H.A.G. Houghton
+### The Oxford Handbook of the Latin Bible, Edited by H.A.G. Houghton
 - **DOI**: [10.1093/jts/flaf092](https://doi.org/10.1093/jts/flaf092)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Jesus and Divine Christology By Brant Pitre
+### Jesus and Divine Christology, By Brant Pitre
 - **DOI**: [10.1093/jts/flaf093](https://doi.org/10.1093/jts/flaf093)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Trials of Jesus Evidence Conclusions and Aftermath By Paul Barnett
+### The Trials of Jesus: Evidence, Conclusions, and Aftermath, By Paul Barnett
 - **DOI**: [10.1093/jts/flaf094](https://doi.org/10.1093/jts/flaf094)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Book of Job in Wonderland Making NonSense of Jobs Mediators By Ryan M. Armstrong
+### The Book of Job in Wonderland: Making (Non)Sense of Job’s Mediators, By Ryan M. Armstrong
 - **DOI**: [10.1093/jts/flaf095](https://doi.org/10.1093/jts/flaf095)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Newman and Justification Newmans via Media Doctrine of the Justifying Presence By T. L. Holtzen
+### Newman and Justification: Newman's via Media ‘Doctrine of the Justifying Presence’ By T. L. Holtzen
 - **DOI**: [10.1093/jts/flaf101](https://doi.org/10.1093/jts/flaf101)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### A Hidden Wisdom Medieval Contemplatives on Self-Knowledge Reason Love Persons and Immortality. By Christina Van Dyke
+### A Hidden Wisdom: Medieval Contemplatives on Self-Knowledge, Reason, Love, Persons, and Immortality. By Christina Van Dyke
 - **DOI**: [10.1093/jts/flaf102](https://doi.org/10.1093/jts/flaf102)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: No abstract available
 
 ---
 
-### Mirrors of the Divine Late Ancient Christianity and the Vision of God. By Emily R. Cain
+### Mirrors of the Divine: Late Ancient Christianity and the Vision of God. By Emily R. Cain
 - **DOI**: [10.1093/jts/flaf103](https://doi.org/10.1093/jts/flaf103)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### What It Means to Be Protestant The Case for an Always-Reforming Church. By Gavin Ortlund
+### What It Means to Be Protestant: The Case for an Always-Reforming Church. By Gavin Ortlund
 - **DOI**: [10.1093/jts/flaf104](https://doi.org/10.1093/jts/flaf104)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available

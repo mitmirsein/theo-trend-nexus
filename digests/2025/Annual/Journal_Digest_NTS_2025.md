@@ -13,95 +13,95 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | NT, Philosophy of Religion | - | [[#Paul and Prepositional MetaphysicsA Brief Response to George H. van Kooten|‘Paul and “Prepositional Metaphysics”: A Brief Response to George H. van Kooten’]] |
-| 2 | NT | - | [[#From Unfulled Rag to New Cloak Lukan Clarifications on a Markan Theme|From Unfulled Rag to New Cloak: Lukan Clarifications on a Markan Theme]] |
-| 3 | NT | - | [[#iEἴ πωςi and Pauls Hope for Death before the Parousia Phil 3.11|<i>Eἴ πως</i> and Paul’s Hope for Death before the Parousia (Phil 3.11)]] |
-| 4 | - | - | [[#The Pre-70 scpcescp Dating of the Gospel of JohnThere iisi ἔστιν in Jerusalem  a pool  which has five porticoes 5.2|The Pre-70 <scp>ce</scp> Dating of the Gospel of John: ‘There <i>is</i> (ἔστιν) in Jerusalem … a pool … which has five porticoes’ (5.2)]] |
-| 5 | NT, OT, Systematic Theology | - | [[#The Entire Cosmos Voluntary and Involuntary Homage to Jesus as Lord.An Investigation into the Scope and Background of Philippians 2.911 in Psalm 148 and Isaiah 45.205|The Entire Cosmos’ Voluntary and Involuntary Homage to Jesus as Lord. An Investigation into the Scope and Background of Philippians 2.9–11 in Psalm 148 and Isaiah 45.20–5]] |
-| 6 | - | - | [[#Senses of οὐρανός Hebrews 12.2529 and the Destiny of the Cosmos|Senses of οὐρανός, Hebrews 12.25–29, and the Destiny of the Cosmos]] |
-| 7 | - | - | [[#Marks Mothers and the Matronymic Linking The Son of Mary Mk 6.3 to The Daughter of Herodias Mk 6.22|Mark’s Mothers and the Matronymic: Linking ‘The Son of Mary’ (Mk 6.3) to ‘The Daughter of Herodias’ (Mk 6.22)]] |
-| 8 | - | - | [[#A Negative Testimonium A Response to Fernando Bermejo-Rubio|A Negative Testimonium?:  A Response to Fernando Bermejo-Rubio]] |
-| 9 | NT | Contemporary | [[#Transcending Epistolary Communication Prayer in First Thessalonians|Transcending Epistolary Communication: Prayer in First Thessalonians]] |
-| 10 | NT | - | [[#Where do you want us to go  so that you may eat Performing the Lords Supper in Cemeteries and Cities|“Where do you want us to go …, so that you may eat?” Performing the Lord’s Supper in Cemeteries and Cities]] |
-| 11 | NT | - | [[#How Διακρίνοµαι became DoubtThe Jewish Two Ways Tradition and the Christian Discourse of Prayer|‘How Διακρίνοµαι became “Doubt”: The Jewish Two Ways Tradition and the Christian Discourse of Prayer’]] |
-| 12 | Church History, NT | - | [[#Secondary Prefaces and the Composition of Luke-Acts|Secondary Prefaces and the Composition of Luke-Acts]] |
-| 13 | NT, OT | Patristic | [[#Contra Graecum Bilingual Observations from 1 Corinthians|Contra Graecum: Bilingual Observations from 1 Corinthians]] |
-| 14 | - | - | [[#The Missing Masters of 1 Peter|The Missing Masters of 1 Peter]] |
-| 15 | NT | - | [[#The Old Paul Philemon 9 in Light of Recent Research on the Experience and Ideology of Age in Antiquity|The Old Paul: Philemon 9 in Light of Recent Research on the Experience and Ideology of Age in Antiquity]] |
-| 16 | NT | - | [[#Studies of Shapes Subjectivity in Palaeography and Understanding|Studies of Shapes: Subjectivity in Palaeography and Understanding]] |
-| 17 | - | - | [[#Reading Gesture in John 20.1617 and Its Afterlives|Reading Gesture in John 20.16–17 and Its Afterlives]] |
-| 18 | - | - | [[#NTS volume 71 issue 1 Cover and Front matter|NTS volume 71 issue 1 Cover and Front matter]] |
-| 19 | - | - | [[#NTS volume 71 issue 1 Cover and Back matter|NTS volume 71 issue 1 Cover and Back matter]] |
-| 20 | - | - | [[#NTS volume 71 issue 2 Cover and Front matter|NTS volume 71 issue 2 Cover and Front matter]] |
-| 21 | - | - | [[#NTS volume 71 issue 2 Cover and Back matter|NTS volume 71 issue 2 Cover and Back matter]] |
-| 22 | - | - | [[#The Seventy-Eighth General Meeting|The Seventy-Eighth General Meeting]] |
+| 1 | NT, Philosophy of Religion | - | [‘Paul and “Prepositional Metaphysics”: A Brief Response to George H. van Kooten’](#paul-and-prepositional-metaphysics-a-brief-response-to-george-h-van-kooten) |
+| 2 | NT | - | [From Unfulled Rag to New Cloak: Lukan Clarifications on a Markan Theme](#from-unfulled-rag-to-new-cloak-lukan-clarifications-on-a-markan-theme) |
+| 3 | NT | - | [<i>Eἴ πως</i> and Paul’s Hope for Death before the Parousia (Phil 3.11)](#ieἴ-πωςi-and-pauls-hope-for-death-before-the-parousia-phil-311) |
+| 4 | - | - | [The Pre-70 <scp>ce</scp> Dating of the Gospel of John: ‘There <i>is</i> (ἔστιν) in Jerusalem … a pool … which has five porticoes’ (5.2)](#the-pre-70-scpcescp-dating-of-the-gospel-of-john-there-iisi-ἔστιν-in-jerusalem-a-pool-which-has-five-porticoes-52) |
+| 5 | NT, OT, Systematic Theology | - | [The Entire Cosmos’ Voluntary and Involuntary Homage to Jesus as Lord. An Investigation into the Scope and Background of Philippians 2.9–11 in Psalm 148 and Isaiah 45.20–5](#the-entire-cosmos-voluntary-and-involuntary-homage-to-jesus-as-lord-an-investigation-into-the-scope-and-background-of-philippians-2911-in-psalm-148-and-isaiah-45205) |
+| 6 | - | - | [Senses of οὐρανός, Hebrews 12.25–29, and the Destiny of the Cosmos](#senses-of-οὐρανός-hebrews-122529-and-the-destiny-of-the-cosmos) |
+| 7 | - | - | [Mark’s Mothers and the Matronymic: Linking ‘The Son of Mary’ (Mk 6.3) to ‘The Daughter of Herodias’ (Mk 6.22)](#marks-mothers-and-the-matronymic-linking-the-son-of-mary-mk-63-to-the-daughter-of-herodias-mk-622) |
+| 8 | - | - | [A Negative Testimonium?:  A Response to Fernando Bermejo-Rubio](#a-negative-testimonium-a-response-to-fernando-bermejo-rubio) |
+| 9 | NT | Contemporary | [Transcending Epistolary Communication: Prayer in First Thessalonians](#transcending-epistolary-communication-prayer-in-first-thessalonians) |
+| 10 | NT | - | [“Where do you want us to go …, so that you may eat?” Performing the Lord’s Supper in Cemeteries and Cities](#where-do-you-want-us-to-go-so-that-you-may-eat-performing-the-lords-supper-in-cemeteries-and-cities) |
+| 11 | NT | - | [‘How Διακρίνοµαι became “Doubt”: The Jewish Two Ways Tradition and the Christian Discourse of Prayer’](#how-διακρίνοµαι-became-doubt-the-jewish-two-ways-tradition-and-the-christian-discourse-of-prayer) |
+| 12 | Church History, NT | - | [Secondary Prefaces and the Composition of Luke-Acts](#secondary-prefaces-and-the-composition-of-luke-acts) |
+| 13 | NT, OT | Patristic | [Contra Graecum: Bilingual Observations from 1 Corinthians](#contra-graecum-bilingual-observations-from-1-corinthians) |
+| 14 | - | - | [The Missing Masters of 1 Peter](#the-missing-masters-of-1-peter) |
+| 15 | NT | - | [The Old Paul: Philemon 9 in Light of Recent Research on the Experience and Ideology of Age in Antiquity](#the-old-paul-philemon-9-in-light-of-recent-research-on-the-experience-and-ideology-of-age-in-antiquity) |
+| 16 | NT | - | [Studies of Shapes: Subjectivity in Palaeography and Understanding](#studies-of-shapes-subjectivity-in-palaeography-and-understanding) |
+| 17 | - | - | [Reading Gesture in John 20.16–17 and Its Afterlives](#reading-gesture-in-john-201617-and-its-afterlives) |
+| 18 | - | - | [NTS volume 71 issue 1 Cover and Front matter](#nts-volume-71-issue-1-cover-and-front-matter) |
+| 19 | - | - | [NTS volume 71 issue 1 Cover and Back matter](#nts-volume-71-issue-1-cover-and-back-matter) |
+| 20 | - | - | [NTS volume 71 issue 2 Cover and Front matter](#nts-volume-71-issue-2-cover-and-front-matter) |
+| 21 | - | - | [NTS volume 71 issue 2 Cover and Back matter](#nts-volume-71-issue-2-cover-and-back-matter) |
+| 22 | - | - | [The Seventy-Eighth General Meeting](#the-seventy-eighth-general-meeting) |
 
 ---
 
-### Paul and Prepositional MetaphysicsA Brief Response to George H. van Kooten
+### ‘Paul and “Prepositional Metaphysics”: A Brief Response to George H. van Kooten’
 - **DOI**: [10.1017/s002868852400016x](https://doi.org/10.1017/s002868852400016x)
 - **Analytical Tags**: `NT;Philosophy of Religion / - / -`
 - **Abstract**: AbstractGeorge H. van Kooten has recently argued that Paul’s use of ‘from him/whom’ language with reference to God the father in Romans 11.36 and 1 Corinthians 8.6, in light of the semi-technical use of this prepositional formula in the Greek metaphysical traditions, indicates that God/the father is a material cause. And this coheres, so van Kooten further argues, with other indications that Paul’s metaphysic is fundamentally Stoic. This article focuses on van Kooten’s claim that Paul’s use of ‘from him/whom’ language with reference to God the father indicates that the latter is, for Paul, a material cause. In this regard, van Kooten has mistranslated and misconstrued key data both in the ancient metaphysical traditions and in Paul and also committed the genealogical fallacy: taking individual lexemes, formulas and/or tropes to suggest that the entire metaphysical construct of one of the earlier philosophical schools (in this case, Stoicism) from which they derive should wholly govern their interpretation in a much later and different text.
 
 ---
 
-### From Unfulled Rag to New Cloak Lukan Clarifications on a Markan Theme
+### From Unfulled Rag to New Cloak: Lukan Clarifications on a Markan Theme
 - **DOI**: [10.1017/s0028688524000195](https://doi.org/10.1017/s0028688524000195)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: AbstractMark 2.21 uses unusual terminology in describing the ‘patch of an unfulled rag’ (ἐπίβλημα ῥάκους ἀγνάφου) as well as in relation to what happens when the patch subsequently fails (αἴρει τὸ πλήρωμα ἀπ’ αὐτοῦ τὸ καινὸν τοῦ παλαιοῦ καὶ χεῖρον σχίσμα γίνεται). While Matthew largely repeats Mark’s version verbatim (with only minor changes), Luke appears to make substantive changes to the ‘parable’. Several scholars have suggested that Luke lacked an understanding of the facts and rendered the situation entirely improbable. However, if one takes account of terminology associated with fulling processes in antiquity, recently illuminated by archaeologically grounded studies of ancient fulleries, Luke’s version emerges as a plausible interpretation of his predecessor’s and, in the other direction, certain interpretive possibilities in Mark’s account become legible.
 
 ---
 
-### iEἴ πωςi and Pauls Hope for Death before the Parousia Phil 3.11
+### <i>Eἴ πως</i> and Paul’s Hope for Death before the Parousia (Phil 3.11)
 - **DOI**: [10.1017/s0028688524000201](https://doi.org/10.1017/s0028688524000201)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: AbstractThe goal of this article is to explain two words which commentators often find puzzling – Paul’s εἴ πως, which hesitantly qualify his expectation of resurrection in Phil 3.11. After considering the semantics of εἴ πως, and various scholarly interpretations of this verse, this article will propose what is very much currently a minority view, and will offer further evidence for it. The explanation for Paul’s εἴ πως καταντήσω εἰς τὴν ἐξανάστασιν τὴν ἐκ νεκρῶν in Phil 3.11 is to be found in his uncertainty about whether he will die and be raised, or whether he will survive until the parousia. The clause also indicates his preference for the former.
 
 ---
 
-### The Pre-70 scpcescp Dating of the Gospel of JohnThere iisi ἔστιν in Jerusalem  a pool  which has five porticoes 5.2
+### The Pre-70 <scp>ce</scp> Dating of the Gospel of John: ‘There <i>is</i> (ἔστιν) in Jerusalem … a pool … which has five porticoes’ (5.2)
 - **DOI**: [10.1017/s0028688524000213](https://doi.org/10.1017/s0028688524000213)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: AbstractThis article argues that the statement in John 5.2, ‘There is (ἔστιν) in Jerusalem […] a pool […] which has five porticoes’, offers internal evidence for dating the Gospel prior to 70 ce, when Jerusalem was destroyed. Scholars usually discard the use of the present tense ‘is’ as a mere instance of the historic present, but this view is untenable, as I show by discussing the most recent grammatical studies concerning the historic present. Moreover, I argue that the formula ‘There is in …’ (ἔστιν δὲ ἐν) followed by a location (in the dative), with an architectural structure as the subject, is a formula that has been used since Herodotus’ time in geographic and topographic descriptions that assume the existence of this structure at the time of writing. I subsequently demonstrate that the colonnaded pool complex of Bethzatha had likely been destroyed and/or dismantled during the First Jewish Revolt, when the Bezetha area, where the pool was located, was twice destroyed and was also stripped bare of timber to construct the Roman earthworks that were thrown up against the walls of Jerusalem to help the Romans take the city. Archaeological reports on this neighbourhood confirm its desolation after 70 ce, and Eusebius’ description of the pool confirms the disappearance of its porticoes. Finally, I draw attention to the unanimous depiction of Jerusalem in Flavian and post-Flavian literature as a city entirely destroyed, burned down and reduced to ashes. This means that if the Gospel’s author describes the colonnaded Pool of Bethzatha as still standing, then the Gospel must have been written (and edited) prior to 70 ce.
 
 ---
 
-### The Entire Cosmos Voluntary and Involuntary Homage to Jesus as Lord.An Investigation into the Scope and Background of Philippians 2.911 in Psalm 148 and Isaiah 45.205
+### The Entire Cosmos’ Voluntary and Involuntary Homage to Jesus as Lord. An Investigation into the Scope and Background of Philippians 2.9–11 in Psalm 148 and Isaiah 45.20–5
 - **DOI**: [10.1017/s0028688524000225](https://doi.org/10.1017/s0028688524000225)
 - **Analytical Tags**: `NT;OT;Systematic Theology / - / -`
 - **Abstract**: AbstractThe second stanza (v.9–11) of the Christ-hymn in Phil 2.5–11 has led to two main difficulties of interpretation: first, it is disputed to whom exactly the triad in v.10b refers and what implications this has for understanding the scope of Phil 2.10–11. Second, Otfried Hofius has prominently argued that the scene in v.10–11 must be understood as universalism in the sense of salvation for all at the end of times. According to his interpretation, everyone, whether they have already put their faith in Christ, will worship Christ as Lord in the eschaton as a salvific event. A precise exegesis of the background of Phil 2.9–11 (i.e. Ps 148 and Isa 45.20–5) reveals a clear picture contrary to Hofius. The minority opinion that the triad ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων (v.10b) is to be understood as neuter nouns and encompasses the whole of creation has been neglected in the history of interpretation, but is plausible. Ignatius, Trall. 9.1, conversely, cannot be used as a meaningful parallel because its exact meaning remains vague. Moreover, Hofius’ idea of the eschatological salvific worship of all creatures is not tenable in Isa 45.20–5 and thus highly implausible in Phil 2.9–11. The expectation of universal judgement in the eschaton is also present in Rom 14.11, the only other instance in the NT where Isa 45.23 is directly alluded to (or even quoted). All three texts disagree with a notion of universalism. Rather, Paul expects an eschatological homage of the entire cosmos before Christ as Lord, willingly or unwillingly.
 
 ---
 
-### Senses of οὐρανός Hebrews 12.2529 and the Destiny of the Cosmos
+### Senses of οὐρανός, Hebrews 12.25–29, and the Destiny of the Cosmos
 - **DOI**: [10.1017/s0028688524000250](https://doi.org/10.1017/s0028688524000250)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: AbstractHebrews scholarship regularly includes claims that the author used the word οὐρανός in either two or three distinct senses. Most basically, it is argued that the word can refer to created parts of the cosmos or to the uncreated place where God dwells, and that authors who use the word have one of these two distinct referents in mind. This is particularly important in Hebrews 12.25–9, where the οὐρανός is shaken. It is often argued that this must be the created οὐρανός in distinction to the divine or eternal οὐρανός. This article critiques this common understanding of οὐρανός and its application to Hebrews 12.25–9. First, it surveys some early Jewish and Christian texts that discuss humans ascending into heaven, illustrating that these texts do not indicate any ontological divisions between various entities named ‘heaven’. Second, it briefly examines the ten occurrences of οὐρανός in Hebrews against this background, and it becomes clear that the author of Hebrews was more interested in contrasting heaven and earth (and perhaps the highest from the lower heavens) than in separating ‘heaven’ into distinct realms based on ontology. Third, the article outlines the significance of this conclusion for understanding what Hebrews 12.25–9 says about the shaking of heaven and earth. The author of Hebrews does not mean that some uncreated οὐρανός will ‘remain’ while the created heavens and earth are shaken. Instead, all of the heavenly and earthly space will be shaken.
 
 ---
 
-### Marks Mothers and the Matronymic Linking The Son of Mary Mk 6.3 to The Daughter of Herodias Mk 6.22
+### Mark’s Mothers and the Matronymic: Linking ‘The Son of Mary’ (Mk 6.3) to ‘The Daughter of Herodias’ (Mk 6.22)
 - **DOI**: [10.1017/s0028688524000262](https://doi.org/10.1017/s0028688524000262)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: AbstractThis article argues that Mark uses matronymics, that is, identifying someone by the name of their mother, to construct female communities that resist Jesus’ message. This happens precisely twice in the Gospel of Mark, at Mk 6.3 (Jesus ‘the son of Mary’) and at Mk 6.22 (‘the daughter of Herodias’). Through comparison with other Greek uses of the matronymic, I will show that both scenes draw on the link between matronymics and female lines of authority, but with slightly different valences. Mark 6.3 heightens the female context of the Nazareth speakers and the hometown resistance, while Mk 6.22 is more concerned to establish a competing line of authority to that of Jesus in the person of Herodias and her daughter. My argument complements previous research into the Markan characterisation of the positive portrayals of multiple unnamed women in Mark’s Gospel (e.g. the women with the flow of blood (Mk 5.25–34), the Syrophoenician woman (Mk 7.24–30), the poor widow (Mk 12.41–4) and the woman who anoints Jesus in Bethany (Mk 14.3–9)). Joining the negative named women to the positive unnamed women reveals a unique feminine pattern of Markan characterisation, with its own dynamics and inflections.
 
 ---
 
-### A Negative Testimonium A Response to Fernando Bermejo-Rubio
+### A Negative Testimonium?:  A Response to Fernando Bermejo-Rubio
 - **DOI**: [10.1017/s0028688524000274](https://doi.org/10.1017/s0028688524000274)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: AbstractThis is a response to Fernando Bermejo-Rubio’s arguments that the original Testimonium Flavianum was a negative text. Bermejo-Rubio’s textual analysis ignores a great number of caveats and counterexamples that in the end render it far from certain or probable that the Testimonium Flavianum had a negative disposition towards Jesus. To the contrary, most of the terminology does not even appear to be problematic for a Christian scribe to interpolate. As a result, it is concluded that scholars are still stuck in the quagmire of attempting to arbitrate what is or is not authentic in the Testimonium Flavianum.
 
 ---
 
-### Transcending Epistolary Communication Prayer in First Thessalonians
+### Transcending Epistolary Communication: Prayer in First Thessalonians
 - **DOI**: [10.1017/s0028688524000298](https://doi.org/10.1017/s0028688524000298)
 - **Analytical Tags**: `NT / - / Contemporary`
 - **Abstract**: AbstractPrayer is one of the basic elements of religious life and is widespread in most religions. It is the human act, verbal and non-verbal, of communicating with a transcendent being (in the broadest sense). In comparison to its communicative function, the written form of prayer is secondary. This study differentiates between prayer as act, prayer as text and prayer as subject, understood as any reference to or statement made about prayer. In First Thessalonians, as in contemporary letters, prayer as subject can be found in a variety of ways. An especially remarkable feature is the prayer texts and acts of prayer (although these are not numerous and mostly short), which imply a change of addressee within the communicative situation of the letter. Against the background of ancient letters and epistolary conventions of the time, this article examines the characteristics and the specific function of prayer (as text, act and subject) in First Thessalonians. It argues that the Christian message shapes and multiplies the references to prayer, also integrating short texts and acts of prayer which transcend the epistolary communication, deepening not only the relationship between Paul, Silvanus, and Timothy and the Thessalonians but also their relationship to God and in God.
 
 ---
 
-### Where do you want us to go  so that you may eat Performing the Lords Supper in Cemeteries and Cities
+### “Where do you want us to go …, so that you may eat?” Performing the Lord’s Supper in Cemeteries and Cities
 - **DOI**: [10.1017/s0028688524000304](https://doi.org/10.1017/s0028688524000304)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -109,7 +109,7 @@ arc_score: 6
 
 ---
 
-### How Διακρίνοµαι became DoubtThe Jewish Two Ways Tradition and the Christian Discourse of Prayer
+### ‘How Διακρίνοµαι became “Doubt”: The Jewish Two Ways Tradition and the Christian Discourse of Prayer’
 - **DOI**: [10.1017/s0028688524000316](https://doi.org/10.1017/s0028688524000316)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -128,7 +128,7 @@ arc_score: 6
 
 ---
 
-### Contra Graecum Bilingual Observations from 1 Corinthians
+### Contra Graecum: Bilingual Observations from 1 Corinthians
 - **DOI**: [10.1017/s002868852400033x](https://doi.org/10.1017/s002868852400033x)
 - **Analytical Tags**: `NT;OT / - / Patristic`
 - **Abstract**: Abstract
@@ -146,7 +146,7 @@ arc_score: 6
 
 ---
 
-### The Old Paul Philemon 9 in Light of Recent Research on the Experience and Ideology of Age in Antiquity
+### The Old Paul: Philemon 9 in Light of Recent Research on the Experience and Ideology of Age in Antiquity
 - **DOI**: [10.1017/s0028688524000365](https://doi.org/10.1017/s0028688524000365)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -154,7 +154,7 @@ arc_score: 6
 
 ---
 
-### Studies of Shapes Subjectivity in Palaeography and Understanding
+### Studies of Shapes: Subjectivity in Palaeography and Understanding
 - **DOI**: [10.1017/s0028688524000377](https://doi.org/10.1017/s0028688524000377)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -162,7 +162,7 @@ arc_score: 6
 
 ---
 
-### Reading Gesture in John 20.1617 and Its Afterlives
+### Reading Gesture in John 20.16–17 and Its Afterlives
 - **DOI**: [10.1017/s0028688524000511](https://doi.org/10.1017/s0028688524000511)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract

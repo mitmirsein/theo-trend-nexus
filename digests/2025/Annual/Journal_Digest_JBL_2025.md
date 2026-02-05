@@ -13,48 +13,48 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | OT | - | [[#Challenging Emotion Is Divine Regret נחם an Anthropopathism After All|Challenging Emotion: Is Divine “Regret” (נחם) an Anthropopathism After All?]] |
-| 2 | OT | - | [[#The Covenant Code A New Way of Reading the Writing|The Covenant Code: A New Way of Reading the Writing]] |
-| 3 | - | - | [[#From Zaphon to Zion The Redaction of Psalm 20|From Zaphon to Zion: The Redaction of Psalm 20]] |
-| 4 | - | - | [[#Dont Feel It Dont Heal It Ezekiel 241527 and Divine Dissociation|Don’t Feel It, Don’t Heal It: Ezekiel 24:15–27 and Divine Dissociation]] |
-| 5 | OT | - | [[#Drinking as Slaughter in Obadiah 16|Drinking as Slaughter in Obadiah 16]] |
-| 6 | NT | - | [[#The נתינים in Tannaitic Literature The Puzzle and a Proposed Solution|The נתינים in Tannaitic Literature: The Puzzle and a Proposed Solution]] |
-| 7 | NT | - | [[#Crucifixion as Parodic Parousia Eschatological Foreshadowing and the Death of Jesus in Mark|Crucifixion as Parodic Parousia: Eschatological Foreshadowing and the Death of Jesus in Mark]] |
-| 8 | NT | - | [[#Abraham and the Jerusalem Collection Kinship Diplomacy in Pauls Letters|Abraham and the Jerusalem Collection: Kinship Diplomacy in Paul’s Letters]] |
-| 9 | NT, OT | - | [[#Who Lies Beneath Revising Paul Holloways Angelic Interpretation of Philippians 2611|Who Lies Beneath? Revising Paul Holloway’s Angelic Interpretation of Philippians 2:6–11]] |
-| 10 | - | - | [[#Introduction to the Presidential Address|Introduction to the Presidential Address]] |
-| 11 | OT | - | [[#The Bible in Politics and Politics in the Bible|The Bible in Politics and Politics in the Bible]] |
-| 12 | OT | - | [[#A History of Kissing in Ancient Israel Evidence from the Hebrew Bible|A History of Kissing in Ancient Israel: Evidence from the Hebrew Bible]] |
-| 13 | OT | - | [[#The Jurisprudential Significance of אשר A Case Study in Leviticus 1013|The Jurisprudential Significance of אשר: A Case Study in Leviticus 10:1–3]] |
-| 14 | OT | - | [[#Is Hosea Also among the Traumatized The Book of Hosea and Trauma Hermeneutics|Is Hosea Also among the Traumatized? The Book of Hosea and Trauma Hermeneutics]] |
-| 15 | Ethics, OT | - | [[#Patterns of Allusive Poetry in Jonahs Psalm Intertexts in Jonah 23a and 10c|Patterns of Allusive Poetry in Jonah’s Psalm: Intertexts in Jonah 2:3a and 10c]] |
-| 16 | - | - | [[#The Anti-Eschatological Elijah and the Reinterpretation of the Day of YHWH in Malachi 32324|The Anti-Eschatological Elijah and the Reinterpretation of the “Day of YHWH” in Malachi 3:23–24]] |
-| 17 | - | - | [[#The Hemorrhaging Woman Embodies Violence Reading Gendered Health Barriers in Mark 526|The Hemorrhaging Woman Embodies Violence: Reading Gendered Health Barriers in Mark 5:26]] |
-| 18 | NT | - | [[#The Time It Takes Prolonged Pace in Lukes Travel Narrative 9511944|The Time It Takes: Prolonged Pace in Luke’s Travel Narrative (9:51–19:44)]] |
-| 19 | Church History, NT, OT | Medieval | [[#The Story of Codex H GA 015 Manuscript Migration and Primary Sources in Biblical Studies|The Story of Codex H (GA 015): Manuscript Migration and Primary Sources in Biblical Studies]] |
-| 20 | OT | - | [[#On Having a Body Time and Divine Embodiment|On Having a Body: Time and Divine Embodiment]] |
-| 21 | OT, Systematic Theology | - | [[#Light and Luminaries A Study of Genesis 135 and 1419|Light and Luminaries: A Study of Genesis 1:3–5 and 14–19]] |
-| 22 | - | - | [[#Saul and the Not-So-Holy Ghost 1 Samuel 161423 and Ghost-Induced Illness|Saul and the Not-So-Holy Ghost: 1 Samuel 16:14–23 and Ghost-Induced Illness]] |
-| 23 | - | - | [[#Transgenerational Righteousness in Ezekiel and Aramean Samalian Texts|Transgenerational “Righteousness” in Ezekiel and Aramean (Sam’alian) Texts]] |
-| 24 | OT | - | [[#The Postexilic נתינים and the Neo-Babylonian iŠirkūi A Reassessment|The Postexilic נתינים and the Neo-Babylonian <i>Širkū</i>: A Reassessment]] |
-| 25 | OT | - | [[#Noahs Sacrifice and the Relation between Jubilees and the Genesis Apocryphon|Noah’s Sacrifice and the Relation between Jubilees and the Genesis Apocryphon]] |
-| 26 | NT, OT | - | [[#אשרי and μακάριος Contact Linguistics Constrained Language and the Nature of Judaic Greek|אַשְׁרֵי and μακάριος: Contact Linguistics, Constrained Language, and the Nature of Judaic Greek]] |
-| 27 | NT | Patristic | [[#Hagar on Sinai The Choice of Heracles Mountain Women and Pauline Allegory in Galatians|Hagar on Sinai: The Choice of Heracles, Mountain Women, and Pauline Allegory in Galatians]] |
-| 28 | Systematic Theology | - | [[#The Pro-Choice Biblical Ethic of American Evangelical Scholars before the Religious Right|The Pro-Choice Biblical Ethic of American Evangelical Scholars before the Religious Right]] |
-| 29 | NT, OT | Contemporary | [[#Legal Thinking and Notions of the Self Why Biblical Studies Needs an Anthropology of Law|Legal Thinking and Notions of the Self: Why Biblical Studies Needs an Anthropology of Law]] |
-| 30 | Church History, NT | Patristic | [[#The Text of 1 Peter in Polycarp and Irenaeus|The Text of 1 Peter in Polycarp and Irenaeus]] |
-| 31 | Church History, NT, OT | Medieval | [[#The Origins of In the Beginning ... Genesis 11 in Light of the Biblical Hebrew Reading Traditions|The Origins of “In the Beginning . . .”: Genesis 1:1 in Light of the Biblical Hebrew Reading Traditions]] |
-| 32 | - | - | [[#Abigail and Her Honor Culture Wisdom|Abigail and Her Honor Culture Wisdom]] |
-| 33 | - | - | [[#Creative Imitation in the Story of Josiah|Creative Imitation in the Story of Josiah]] |
-| 34 | NT, OT | - | [[#Exegeting God Prophetic Sign Acts and Inner-Biblical Interpretation in the Book of Jeremiah|Exegeting God: Prophetic Sign Acts and Inner-Biblical Interpretation in the Book of Jeremiah]] |
-| 35 | OT | - | [[#Always Two There Are The Combined Dragon in Job 40154126 LXX|Always Two There Are? The Combined Dragon in Job 40:15–41:26 LXX]] |
-| 36 | - | - | [[#Responsibility for Murder The Background of Judiths Legal Argumentation|Responsibility for Murder: The Background of Judith’s Legal Argumentation]] |
-| 37 | - | Contemporary | [[#Revisiting Sabbath Observance during the Great Jewish Revolt 667374 CE|Revisiting Sabbath Observance during the Great Jewish Revolt (66–73/74 CE)]] |
-| 38 | NT | - | [[#The Teachings of Demons as Magical Practices in 1 Timothy 41|The “Teachings of Demons” as “Magical” Practices in 1 Timothy 4:1]] |
+| 1 | OT | - | [Challenging Emotion: Is Divine “Regret” (נחם) an Anthropopathism After All?](#challenging-emotion-is-divine-regret-נחם-an-anthropopathism-after-all) |
+| 2 | OT | - | [The Covenant Code: A New Way of Reading the Writing](#the-covenant-code-a-new-way-of-reading-the-writing) |
+| 3 | - | - | [From Zaphon to Zion: The Redaction of Psalm 20](#from-zaphon-to-zion-the-redaction-of-psalm-20) |
+| 4 | - | - | [Don’t Feel It, Don’t Heal It: Ezekiel 24:15–27 and Divine Dissociation](#dont-feel-it-dont-heal-it-ezekiel-241527-and-divine-dissociation) |
+| 5 | OT | - | [Drinking as Slaughter in Obadiah 16](#drinking-as-slaughter-in-obadiah-16) |
+| 6 | NT | - | [The נתינים in Tannaitic Literature: The Puzzle and a Proposed Solution](#the-נתינים-in-tannaitic-literature-the-puzzle-and-a-proposed-solution) |
+| 7 | NT | - | [Crucifixion as Parodic Parousia: Eschatological Foreshadowing and the Death of Jesus in Mark](#crucifixion-as-parodic-parousia-eschatological-foreshadowing-and-the-death-of-jesus-in-mark) |
+| 8 | NT | - | [Abraham and the Jerusalem Collection: Kinship Diplomacy in Paul’s Letters](#abraham-and-the-jerusalem-collection-kinship-diplomacy-in-pauls-letters) |
+| 9 | NT, OT | - | [Who Lies Beneath? Revising Paul Holloway’s Angelic Interpretation of Philippians 2:6–11](#who-lies-beneath-revising-paul-holloways-angelic-interpretation-of-philippians-2611) |
+| 10 | - | - | [Introduction to the Presidential Address](#introduction-to-the-presidential-address) |
+| 11 | OT | - | [The Bible in Politics and Politics in the Bible](#the-bible-in-politics-and-politics-in-the-bible) |
+| 12 | OT | - | [A History of Kissing in Ancient Israel: Evidence from the Hebrew Bible](#a-history-of-kissing-in-ancient-israel-evidence-from-the-hebrew-bible) |
+| 13 | OT | - | [The Jurisprudential Significance of אשר: A Case Study in Leviticus 10:1–3](#the-jurisprudential-significance-of-אשר-a-case-study-in-leviticus-1013) |
+| 14 | OT | - | [Is Hosea Also among the Traumatized? The Book of Hosea and Trauma Hermeneutics](#is-hosea-also-among-the-traumatized-the-book-of-hosea-and-trauma-hermeneutics) |
+| 15 | Ethics, OT | - | [Patterns of Allusive Poetry in Jonah’s Psalm: Intertexts in Jonah 2:3a and 10c](#patterns-of-allusive-poetry-in-jonahs-psalm-intertexts-in-jonah-23a-and-10c) |
+| 16 | - | - | [The Anti-Eschatological Elijah and the Reinterpretation of the “Day of YHWH” in Malachi 3:23–24](#the-anti-eschatological-elijah-and-the-reinterpretation-of-the-day-of-yhwh-in-malachi-32324) |
+| 17 | - | - | [The Hemorrhaging Woman Embodies Violence: Reading Gendered Health Barriers in Mark 5:26](#the-hemorrhaging-woman-embodies-violence-reading-gendered-health-barriers-in-mark-526) |
+| 18 | NT | - | [The Time It Takes: Prolonged Pace in Luke’s Travel Narrative (9:51–19:44)](#the-time-it-takes-prolonged-pace-in-lukes-travel-narrative-9511944) |
+| 19 | Church History, NT, OT | Medieval | [The Story of Codex H (GA 015): Manuscript Migration and Primary Sources in Biblical Studies](#the-story-of-codex-h-ga-015-manuscript-migration-and-primary-sources-in-biblical-studies) |
+| 20 | OT | - | [On Having a Body: Time and Divine Embodiment](#on-having-a-body-time-and-divine-embodiment) |
+| 21 | OT, Systematic Theology | - | [Light and Luminaries: A Study of Genesis 1:3–5 and 14–19](#light-and-luminaries-a-study-of-genesis-135-and-1419) |
+| 22 | - | - | [Saul and the Not-So-Holy Ghost: 1 Samuel 16:14–23 and Ghost-Induced Illness](#saul-and-the-not-so-holy-ghost-1-samuel-161423-and-ghost-induced-illness) |
+| 23 | - | - | [Transgenerational “Righteousness” in Ezekiel and Aramean (Sam’alian) Texts](#transgenerational-righteousness-in-ezekiel-and-aramean-samalian-texts) |
+| 24 | OT | - | [The Postexilic נתינים and the Neo-Babylonian <i>Širkū</i>: A Reassessment](#the-postexilic-נתינים-and-the-neo-babylonian-iširkūi-a-reassessment) |
+| 25 | OT | - | [Noah’s Sacrifice and the Relation between Jubilees and the Genesis Apocryphon](#noahs-sacrifice-and-the-relation-between-jubilees-and-the-genesis-apocryphon) |
+| 26 | NT, OT | - | [אַשְׁרֵי and μακάριος: Contact Linguistics, Constrained Language, and the Nature of Judaic Greek](#אשרי-and-μακάριος-contact-linguistics-constrained-language-and-the-nature-of-judaic-greek) |
+| 27 | NT | Patristic | [Hagar on Sinai: The Choice of Heracles, Mountain Women, and Pauline Allegory in Galatians](#hagar-on-sinai-the-choice-of-heracles-mountain-women-and-pauline-allegory-in-galatians) |
+| 28 | Systematic Theology | - | [The Pro-Choice Biblical Ethic of American Evangelical Scholars before the Religious Right](#the-pro-choice-biblical-ethic-of-american-evangelical-scholars-before-the-religious-right) |
+| 29 | NT, OT | Contemporary | [Legal Thinking and Notions of the Self: Why Biblical Studies Needs an Anthropology of Law](#legal-thinking-and-notions-of-the-self-why-biblical-studies-needs-an-anthropology-of-law) |
+| 30 | Church History, NT | Patristic | [The Text of 1 Peter in Polycarp and Irenaeus](#the-text-of-1-peter-in-polycarp-and-irenaeus) |
+| 31 | Church History, NT, OT | Medieval | [The Origins of “In the Beginning . . .”: Genesis 1:1 in Light of the Biblical Hebrew Reading Traditions](#the-origins-of-in-the-beginning-genesis-11-in-light-of-the-biblical-hebrew-reading-traditions) |
+| 32 | - | - | [Abigail and Her Honor Culture Wisdom](#abigail-and-her-honor-culture-wisdom) |
+| 33 | - | - | [Creative Imitation in the Story of Josiah](#creative-imitation-in-the-story-of-josiah) |
+| 34 | NT, OT | - | [Exegeting God: Prophetic Sign Acts and Inner-Biblical Interpretation in the Book of Jeremiah](#exegeting-god-prophetic-sign-acts-and-inner-biblical-interpretation-in-the-book-of-jeremiah) |
+| 35 | OT | - | [Always Two There Are? The Combined Dragon in Job 40:15–41:26 LXX](#always-two-there-are-the-combined-dragon-in-job-40154126-lxx) |
+| 36 | - | - | [Responsibility for Murder: The Background of Judith’s Legal Argumentation](#responsibility-for-murder-the-background-of-judiths-legal-argumentation) |
+| 37 | - | Contemporary | [Revisiting Sabbath Observance during the Great Jewish Revolt (66–73/74 CE)](#revisiting-sabbath-observance-during-the-great-jewish-revolt-667374-ce) |
+| 38 | NT | - | [The “Teachings of Demons” as “Magical” Practices in 1 Timothy 4:1](#the-teachings-of-demons-as-magical-practices-in-1-timothy-41) |
 
 ---
 
-### Challenging Emotion Is Divine Regret נחם an Anthropopathism After All
+### Challenging Emotion: Is Divine “Regret” (נחם) an Anthropopathism After All?
 - **DOI**: [10.15699/jbl.144.2.2025.1](https://doi.org/10.15699/jbl.144.2.2025.1)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -62,7 +62,7 @@ arc_score: 6
 
 ---
 
-### The Covenant Code A New Way of Reading the Writing
+### The Covenant Code: A New Way of Reading the Writing
 - **DOI**: [10.15699/jbl.144.2.2025.2](https://doi.org/10.15699/jbl.144.2.2025.2)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -70,7 +70,7 @@ arc_score: 6
 
 ---
 
-### From Zaphon to Zion The Redaction of Psalm 20
+### From Zaphon to Zion: The Redaction of Psalm 20
 - **DOI**: [10.15699/jbl.144.2.2025.3](https://doi.org/10.15699/jbl.144.2.2025.3)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -78,7 +78,7 @@ arc_score: 6
 
 ---
 
-### Dont Feel It Dont Heal It Ezekiel 241527 and Divine Dissociation
+### Don’t Feel It, Don’t Heal It: Ezekiel 24:15–27 and Divine Dissociation
 - **DOI**: [10.15699/jbl.144.2.2025.4](https://doi.org/10.15699/jbl.144.2.2025.4)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -94,7 +94,7 @@ arc_score: 6
 
 ---
 
-### The נתינים in Tannaitic Literature The Puzzle and a Proposed Solution
+### The נתינים in Tannaitic Literature: The Puzzle and a Proposed Solution
 - **DOI**: [10.15699/jbl.144.2.2025.6](https://doi.org/10.15699/jbl.144.2.2025.6)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -102,7 +102,7 @@ arc_score: 6
 
 ---
 
-### Crucifixion as Parodic Parousia Eschatological Foreshadowing and the Death of Jesus in Mark
+### Crucifixion as Parodic Parousia: Eschatological Foreshadowing and the Death of Jesus in Mark
 - **DOI**: [10.15699/jbl.144.2.2025.7](https://doi.org/10.15699/jbl.144.2.2025.7)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -110,7 +110,7 @@ arc_score: 6
 
 ---
 
-### Abraham and the Jerusalem Collection Kinship Diplomacy in Pauls Letters
+### Abraham and the Jerusalem Collection: Kinship Diplomacy in Paul’s Letters
 - **DOI**: [10.15699/jbl.144.2.2025.8](https://doi.org/10.15699/jbl.144.2.2025.8)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -118,7 +118,7 @@ arc_score: 6
 
 ---
 
-### Who Lies Beneath Revising Paul Holloways Angelic Interpretation of Philippians 2611
+### Who Lies Beneath? Revising Paul Holloway’s Angelic Interpretation of Philippians 2:6–11
 - **DOI**: [10.15699/jbl.144.2.2025.9](https://doi.org/10.15699/jbl.144.2.2025.9)
 - **Analytical Tags**: `NT;OT / - / -`
 - **Abstract**: Abstract
@@ -141,7 +141,7 @@ arc_score: 6
 
 ---
 
-### A History of Kissing in Ancient Israel Evidence from the Hebrew Bible
+### A History of Kissing in Ancient Israel: Evidence from the Hebrew Bible
 - **DOI**: [10.15699/jbl.1441.2025.2](https://doi.org/10.15699/jbl.1441.2025.2)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -149,7 +149,7 @@ arc_score: 6
 
 ---
 
-### The Jurisprudential Significance of אשר A Case Study in Leviticus 1013
+### The Jurisprudential Significance of אשר: A Case Study in Leviticus 10:1–3
 - **DOI**: [10.15699/jbl.1441.2025.3](https://doi.org/10.15699/jbl.1441.2025.3)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -157,7 +157,7 @@ arc_score: 6
 
 ---
 
-### Is Hosea Also among the Traumatized The Book of Hosea and Trauma Hermeneutics
+### Is Hosea Also among the Traumatized? The Book of Hosea and Trauma Hermeneutics
 - **DOI**: [10.15699/jbl.1441.2025.4](https://doi.org/10.15699/jbl.1441.2025.4)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -165,7 +165,7 @@ arc_score: 6
 
 ---
 
-### Patterns of Allusive Poetry in Jonahs Psalm Intertexts in Jonah 23a and 10c
+### Patterns of Allusive Poetry in Jonah’s Psalm: Intertexts in Jonah 2:3a and 10c
 - **DOI**: [10.15699/jbl.1441.2025.5](https://doi.org/10.15699/jbl.1441.2025.5)
 - **Analytical Tags**: `Ethics;OT / - / -`
 - **Abstract**: Abstract
@@ -173,7 +173,7 @@ arc_score: 6
 
 ---
 
-### The Anti-Eschatological Elijah and the Reinterpretation of the Day of YHWH in Malachi 32324
+### The Anti-Eschatological Elijah and the Reinterpretation of the “Day of YHWH” in Malachi 3:23–24
 - **DOI**: [10.15699/jbl.1441.2025.6](https://doi.org/10.15699/jbl.1441.2025.6)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -181,7 +181,7 @@ arc_score: 6
 
 ---
 
-### The Hemorrhaging Woman Embodies Violence Reading Gendered Health Barriers in Mark 526
+### The Hemorrhaging Woman Embodies Violence: Reading Gendered Health Barriers in Mark 5:26
 - **DOI**: [10.15699/jbl.1441.2025.7](https://doi.org/10.15699/jbl.1441.2025.7)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -189,7 +189,7 @@ arc_score: 6
 
 ---
 
-### The Time It Takes Prolonged Pace in Lukes Travel Narrative 9511944
+### The Time It Takes: Prolonged Pace in Luke’s Travel Narrative (9:51–19:44)
 - **DOI**: [10.15699/jbl.1441.2025.8](https://doi.org/10.15699/jbl.1441.2025.8)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -197,7 +197,7 @@ arc_score: 6
 
 ---
 
-### The Story of Codex H GA 015 Manuscript Migration and Primary Sources in Biblical Studies
+### The Story of Codex H (GA 015): Manuscript Migration and Primary Sources in Biblical Studies
 - **DOI**: [10.15699/jbl.1441.2025.9](https://doi.org/10.15699/jbl.1441.2025.9)
 - **Analytical Tags**: `Church History;NT;OT / - / Medieval`
 - **Abstract**: Abstract
@@ -205,7 +205,7 @@ arc_score: 6
 
 ---
 
-### On Having a Body Time and Divine Embodiment
+### On Having a Body: Time and Divine Embodiment
 - **DOI**: [10.15699/jbl.1443.2025.1](https://doi.org/10.15699/jbl.1443.2025.1)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -213,7 +213,7 @@ arc_score: 6
 
 ---
 
-### Light and Luminaries A Study of Genesis 135 and 1419
+### Light and Luminaries: A Study of Genesis 1:3–5 and 14–19
 - **DOI**: [10.15699/jbl.1443.2025.2](https://doi.org/10.15699/jbl.1443.2025.2)
 - **Analytical Tags**: `OT;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -221,7 +221,7 @@ arc_score: 6
 
 ---
 
-### Saul and the Not-So-Holy Ghost 1 Samuel 161423 and Ghost-Induced Illness
+### Saul and the Not-So-Holy Ghost: 1 Samuel 16:14–23 and Ghost-Induced Illness
 - **DOI**: [10.15699/jbl.1443.2025.3](https://doi.org/10.15699/jbl.1443.2025.3)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -229,7 +229,7 @@ arc_score: 6
 
 ---
 
-### Transgenerational Righteousness in Ezekiel and Aramean Samalian Texts
+### Transgenerational “Righteousness” in Ezekiel and Aramean (Sam’alian) Texts
 - **DOI**: [10.15699/jbl.1443.2025.4](https://doi.org/10.15699/jbl.1443.2025.4)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -237,7 +237,7 @@ arc_score: 6
 
 ---
 
-### The Postexilic נתינים and the Neo-Babylonian iŠirkūi A Reassessment
+### The Postexilic נתינים and the Neo-Babylonian <i>Širkū</i>: A Reassessment
 - **DOI**: [10.15699/jbl.1443.2025.5](https://doi.org/10.15699/jbl.1443.2025.5)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -245,7 +245,7 @@ arc_score: 6
 
 ---
 
-### Noahs Sacrifice and the Relation between Jubilees and the Genesis Apocryphon
+### Noah’s Sacrifice and the Relation between Jubilees and the Genesis Apocryphon
 - **DOI**: [10.15699/jbl.1443.2025.6](https://doi.org/10.15699/jbl.1443.2025.6)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -253,7 +253,7 @@ arc_score: 6
 
 ---
 
-### אשרי and μακάριος Contact Linguistics Constrained Language and the Nature of Judaic Greek
+### אַשְׁרֵי and μακάριος: Contact Linguistics, Constrained Language, and the Nature of Judaic Greek
 - **DOI**: [10.15699/jbl.1443.2025.7](https://doi.org/10.15699/jbl.1443.2025.7)
 - **Analytical Tags**: `NT;OT / - / -`
 - **Abstract**: Abstract
@@ -261,7 +261,7 @@ arc_score: 6
 
 ---
 
-### Hagar on Sinai The Choice of Heracles Mountain Women and Pauline Allegory in Galatians
+### Hagar on Sinai: The Choice of Heracles, Mountain Women, and Pauline Allegory in Galatians
 - **DOI**: [10.15699/jbl.1443.2025.8](https://doi.org/10.15699/jbl.1443.2025.8)
 - **Analytical Tags**: `NT / - / Patristic`
 - **Abstract**: Abstract
@@ -277,7 +277,7 @@ arc_score: 6
 
 ---
 
-### Legal Thinking and Notions of the Self Why Biblical Studies Needs an Anthropology of Law
+### Legal Thinking and Notions of the Self: Why Biblical Studies Needs an Anthropology of Law
 - **DOI**: [10.15699/jbl.1444.2025.1](https://doi.org/10.15699/jbl.1444.2025.1)
 - **Analytical Tags**: `NT;OT / - / Contemporary`
 - **Abstract**: Abstract
@@ -293,7 +293,7 @@ arc_score: 6
 
 ---
 
-### The Origins of In the Beginning ... Genesis 11 in Light of the Biblical Hebrew Reading Traditions
+### The Origins of “In the Beginning . . .”: Genesis 1:1 in Light of the Biblical Hebrew Reading Traditions
 - **DOI**: [10.15699/jbl.1444.2025.2](https://doi.org/10.15699/jbl.1444.2025.2)
 - **Analytical Tags**: `Church History;NT;OT / - / Medieval`
 - **Abstract**: Abstract
@@ -317,7 +317,7 @@ arc_score: 6
 
 ---
 
-### Exegeting God Prophetic Sign Acts and Inner-Biblical Interpretation in the Book of Jeremiah
+### Exegeting God: Prophetic Sign Acts and Inner-Biblical Interpretation in the Book of Jeremiah
 - **DOI**: [10.15699/jbl.1444.2025.5](https://doi.org/10.15699/jbl.1444.2025.5)
 - **Analytical Tags**: `NT;OT / - / -`
 - **Abstract**: Abstract
@@ -325,7 +325,7 @@ arc_score: 6
 
 ---
 
-### Always Two There Are The Combined Dragon in Job 40154126 LXX
+### Always Two There Are? The Combined Dragon in Job 40:15–41:26 LXX
 - **DOI**: [10.15699/jbl.1444.2025.6](https://doi.org/10.15699/jbl.1444.2025.6)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Abstract
@@ -333,7 +333,7 @@ arc_score: 6
 
 ---
 
-### Responsibility for Murder The Background of Judiths Legal Argumentation
+### Responsibility for Murder: The Background of Judith’s Legal Argumentation
 - **DOI**: [10.15699/jbl.1444.2025.7](https://doi.org/10.15699/jbl.1444.2025.7)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -341,7 +341,7 @@ arc_score: 6
 
 ---
 
-### Revisiting Sabbath Observance during the Great Jewish Revolt 667374 CE
+### Revisiting Sabbath Observance during the Great Jewish Revolt (66–73/74 CE)
 - **DOI**: [10.15699/jbl.1444.2025.8](https://doi.org/10.15699/jbl.1444.2025.8)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: Abstract
@@ -349,7 +349,7 @@ arc_score: 6
 
 ---
 
-### The Teachings of Demons as Magical Practices in 1 Timothy 41
+### The “Teachings of Demons” as “Magical” Practices in 1 Timothy 4:1
 - **DOI**: [10.15699/jbl.1444.2025.9](https://doi.org/10.15699/jbl.1444.2025.9)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract

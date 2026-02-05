@@ -13,30 +13,30 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | Contemporary | [[#Das Geier-Logion Q 1737 und Plutarch Moralia 918C|Das „Geier“-Logion Q 17,37 und Plutarch, Moralia 918C]] |
-| 2 | - | - | [[#Reconsidering the Hyperbolic Camel Mark 1025|Reconsidering the Hyperbolic Camel (Mark 10,25)]] |
-| 3 | OT | - | [[#Die exegetische Bedeutung einer numerischen Inkongruenz von Subjekt und Verb. Das Beispiel λαός in Lk2019|Die exegetische Bedeutung einer numerischen Inkongruenz von Subjekt und Verb. Das Beispiel λαός in Lk 20,19]] |
-| 4 | NT, Systematic Theology | - | [[#Geordnete Zeiten als Jahreszeiten. Zum Verständnis von Apg1726 vor dem Hintergrund des Aratos-Zitats aus den Phainomena sowie Apg1417|Geordnete Zeiten als Jahreszeiten. Zum Verständnis von Apg 17,26 vor dem Hintergrund des Aratos-Zitats aus den Phainomena sowie Apg 14,17]] |
-| 5 | NT | - | [[#Mystic or Sarcastic 2 Corinthians 1224 as Feigned Praise of a Super-Apostle|Mystic or Sarcastic? 2 Corinthians 12,2–4 as Feigned Praise of a Super-Apostle]] |
-| 6 | NT | - | [[#Dispute at the Table. Reflections on the Incident in Antioch Gal21114 in Light of the Bylaws of Ancient b                     iCollegiai                  b|Dispute at the Table. Reflections on the Incident in Antioch (Gal 2,11–14) in Light of the Bylaws of Ancient <b>
+| 1 | - | Contemporary | [Das „Geier“-Logion Q 17,37 und Plutarch, Moralia 918C](#das-geier-logion-q-1737-und-plutarch-moralia-918c) |
+| 2 | - | - | [Reconsidering the Hyperbolic Camel (Mark 10,25)](#reconsidering-the-hyperbolic-camel-mark-1025) |
+| 3 | OT | - | [Die exegetische Bedeutung einer numerischen Inkongruenz von Subjekt und Verb. Das Beispiel λαός in Lk 20,19](#die-exegetische-bedeutung-einer-numerischen-inkongruenz-von-subjekt-und-verb-das-beispiel-λαός-in-lk-2019) |
+| 4 | NT, Systematic Theology | - | [Geordnete Zeiten als Jahreszeiten. Zum Verständnis von Apg 17,26 vor dem Hintergrund des Aratos-Zitats aus den Phainomena sowie Apg 14,17](#geordnete-zeiten-als-jahreszeiten-zum-verständnis-von-apg-1726-vor-dem-hintergrund-des-aratos-zitats-aus-den-phainomena-sowie-apg-1417) |
+| 5 | NT | - | [Mystic or Sarcastic? 2 Corinthians 12,2–4 as Feigned Praise of a Super-Apostle](#mystic-or-sarcastic-2-corinthians-1224-as-feigned-praise-of-a-super-apostle) |
+| 6 | NT | - | [Dispute at the Table. Reflections on the Incident in Antioch (Gal 2,11–14) in Light of the Bylaws of Ancient <b>
                      <i>Collegia</i>
-                  </b>]] |
-| 7 | NT | - | [[#The εἴρωνἀλαζών Dynamic and New Testament Studies The Case of the b                     iTractatus Coislinianusi                  b|The εἴρων/ἀλαζών Dynamic and New Testament Studies: The Case of the <b>
+                  </b>](#dispute-at-the-table-reflections-on-the-incident-in-antioch-gal-21114-in-light-of-the-bylaws-of-ancient-b-icollegiai-b) |
+| 7 | NT | - | [The εἴρων/ἀλαζών Dynamic and New Testament Studies: The Case of the <b>
                      <i>Tractatus Coislinianus</i>
-                  </b>]] |
-| 8 | - | - | [[#Zeitschriftenschau|Zeitschriftenschau]] |
-| 9 | NT | - | [[#Lokalkolorit. Überlegungen zu einer unterbestimmten Kategorie der Exegese|Lokalkolorit. Überlegungen zu einer unterbestimmten Kategorie der Exegese]] |
-| 10 | - | - | [[#Mit Psalmen Lobgesängen und geistlichen Liedern Eph 519. Zur Rolle des Gesangs in Versammlungen von Christusnachfolgern der neutestamentlichen Zeit|„Mit Psalmen, Lobgesängen und geistlichen Liedern“ (Eph 5,19). Zur Rolle des Gesangs in Versammlungen von Christusnachfolgern der neutestamentlichen Zeit]] |
-| 11 | NT | - | [[#Die Danielrezeption bei Paulus. Relevanz durch Orientierung und geteilte Motivwelten|Die Danielrezeption bei Paulus. Relevanz durch Orientierung und geteilte Motivwelten]] |
-| 12 | - | - | [[#Reexamining Resurrection and the Resurrection Faith of Jesus for Himself and His Siblings in Hebrews|Reexamining Resurrection and the Resurrection Faith of Jesus for Himself and His Siblings in Hebrews]] |
-| 13 | NT, Systematic Theology | - | [[#The Meaning and Uses of Oxymora in the Book of Revelation|The Meaning and Uses of Oxymora in the Book of Revelation]] |
-| 14 | - | - | [[#Zeitschriftenschau|Zeitschriftenschau]] |
-| 15 | - | - | [[#Titelseiten|Titelseiten]] |
-| 16 | - | - | [[#Titelseiten|Titelseiten]] |
+                  </b>](#the-εἴρωνἀλαζών-dynamic-and-new-testament-studies-the-case-of-the-b-itractatus-coislinianusi-b) |
+| 8 | - | - | [Zeitschriftenschau](#zeitschriftenschau) |
+| 9 | NT | - | [Lokalkolorit. Überlegungen zu einer unterbestimmten Kategorie der Exegese](#lokalkolorit-überlegungen-zu-einer-unterbestimmten-kategorie-der-exegese) |
+| 10 | - | - | [„Mit Psalmen, Lobgesängen und geistlichen Liedern“ (Eph 5,19). Zur Rolle des Gesangs in Versammlungen von Christusnachfolgern der neutestamentlichen Zeit](#mit-psalmen-lobgesängen-und-geistlichen-liedern-eph-519-zur-rolle-des-gesangs-in-versammlungen-von-christusnachfolgern-der-neutestamentlichen-zeit) |
+| 11 | NT | - | [Die Danielrezeption bei Paulus. Relevanz durch Orientierung und geteilte Motivwelten](#die-danielrezeption-bei-paulus-relevanz-durch-orientierung-und-geteilte-motivwelten) |
+| 12 | - | - | [Reexamining Resurrection and the Resurrection Faith of Jesus for Himself and His Siblings in Hebrews](#reexamining-resurrection-and-the-resurrection-faith-of-jesus-for-himself-and-his-siblings-in-hebrews) |
+| 13 | NT, Systematic Theology | - | [The Meaning and Uses of Oxymora in the Book of Revelation](#the-meaning-and-uses-of-oxymora-in-the-book-of-revelation) |
+| 14 | - | - | [Zeitschriftenschau](#zeitschriftenschau) |
+| 15 | - | - | [Titelseiten](#titelseiten) |
+| 16 | - | - | [Titelseiten](#titelseiten) |
 
 ---
 
-### Das Geier-Logion Q 1737 und Plutarch Moralia 918C
+### Das „Geier“-Logion Q 17,37 und Plutarch, Moralia 918C
 - **DOI**: [10.1515/znw-2025-0001](https://doi.org/10.1515/znw-2025-0001)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: Zusammenfassung
@@ -44,7 +44,7 @@ arc_score: 6
 
 ---
 
-### Reconsidering the Hyperbolic Camel Mark 1025
+### Reconsidering the Hyperbolic Camel (Mark 10,25)
 - **DOI**: [10.1515/znw-2025-0002](https://doi.org/10.1515/znw-2025-0002)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -52,7 +52,7 @@ arc_score: 6
 
 ---
 
-### Die exegetische Bedeutung einer numerischen Inkongruenz von Subjekt und Verb. Das Beispiel λαός in Lk2019
+### Die exegetische Bedeutung einer numerischen Inkongruenz von Subjekt und Verb. Das Beispiel λαός in Lk 20,19
 - **DOI**: [10.1515/znw-2025-0003](https://doi.org/10.1515/znw-2025-0003)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: Zusammenfassung
@@ -60,7 +60,7 @@ arc_score: 6
 
 ---
 
-### Geordnete Zeiten als Jahreszeiten. Zum Verständnis von Apg1726 vor dem Hintergrund des Aratos-Zitats aus den Phainomena sowie Apg1417
+### Geordnete Zeiten als Jahreszeiten. Zum Verständnis von Apg 17,26 vor dem Hintergrund des Aratos-Zitats aus den Phainomena sowie Apg 14,17
 - **DOI**: [10.1515/znw-2025-0004](https://doi.org/10.1515/znw-2025-0004)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: Zusammenfassung
@@ -68,7 +68,7 @@ arc_score: 6
 
 ---
 
-### Mystic or Sarcastic 2 Corinthians 1224 as Feigned Praise of a Super-Apostle
+### Mystic or Sarcastic? 2 Corinthians 12,2–4 as Feigned Praise of a Super-Apostle
 - **DOI**: [10.1515/znw-2025-0005](https://doi.org/10.1515/znw-2025-0005)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -76,7 +76,9 @@ arc_score: 6
 
 ---
 
-### Dispute at the Table. Reflections on the Incident in Antioch Gal21114 in Light of the Bylaws of Ancient b                     iCollegiai                  b
+### Dispute at the Table. Reflections on the Incident in Antioch (Gal 2,11–14) in Light of the Bylaws of Ancient <b>
+                     <i>Collegia</i>
+                  </b>
 - **DOI**: [10.1515/znw-2025-0006](https://doi.org/10.1515/znw-2025-0006)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -84,7 +86,9 @@ arc_score: 6
 
 ---
 
-### The εἴρωνἀλαζών Dynamic and New Testament Studies The Case of the b                     iTractatus Coislinianusi                  b
+### The εἴρων/ἀλαζών Dynamic and New Testament Studies: The Case of the <b>
+                     <i>Tractatus Coislinianus</i>
+                  </b>
 - **DOI**: [10.1515/znw-2025-0007](https://doi.org/10.1515/znw-2025-0007)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -107,7 +111,7 @@ arc_score: 6
 
 ---
 
-### Mit Psalmen Lobgesängen und geistlichen Liedern Eph 519. Zur Rolle des Gesangs in Versammlungen von Christusnachfolgern der neutestamentlichen Zeit
+### „Mit Psalmen, Lobgesängen und geistlichen Liedern“ (Eph 5,19). Zur Rolle des Gesangs in Versammlungen von Christusnachfolgern der neutestamentlichen Zeit
 - **DOI**: [10.1515/znw-2025-0010](https://doi.org/10.1515/znw-2025-0010)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Zusammenfassung

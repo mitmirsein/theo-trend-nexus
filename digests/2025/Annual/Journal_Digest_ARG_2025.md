@@ -13,45 +13,45 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | Church History | Medieval, Reformation | [[#Martin Luthers Schrift An die Ratsherrn 1524 Eine Flugschrift zwischen dem spätmittelalterlichen Schulwesen und dem Aufbau neuer Latein- und Mädchenschulen in Wittenberg|Martin Luthers Schrift „An die Ratsherrn“ (1524) Eine Flugschrift zwischen dem spätmittelalterlichen Schulwesen und dem Aufbau neuer Latein- und Mädchenschulen in Wittenberg]] |
-| 2 | OT | Contemporary | [[#Sebastian Francks Psalter Projects Spiritual Exegesis in the Context of Contemporary Approaches to the Psalms|Sebastian Franck’s Psalter Projects: Spiritual Exegesis in the Context of Contemporary Approaches to the Psalms]] |
-| 3 | - | - | [[#Editors Note|Editor’s Note]] |
-| 4 | - | - | [[#Introduction|Introduction]] |
-| 5 | - | - | [[#Natalie Zemon Davis and the Practice of History The Early Years|Natalie Zemon Davis and the Practice of History: The Early Years]] |
-| 6 | - | - | [[#À lécoute des mots de Natalie Zemon Davis|À l’écoute des mots de Natalie Zemon Davis]] |
-| 7 | - | - | [[#The Restless Historian Remembering Natalie Zemon Davis|The Restless Historian: Remembering Natalie Zemon Davis]] |
-| 8 | - | - | [[#A Passion for Judaism|A Passion for Judaism]] |
-| 9 | - | - | [[#Empowering Migrant Histories Maria Guimar de Pina and Her Multiethnic Communities in Siam 16641728|Empowering Migrant Histories: Maria Guimar de Pina and Her Multiethnic Communities in Siam, 1664–1728]] |
-| 10 | - | - | [[#Fashioning Self Intellectual Community and a History of Women|Fashioning Self, Intellectual Community, and a History of Women]] |
-| 11 | - | - | [[#Natalie Zemon Davis and the Origins of Womens History at Berkeley A Former Students Perspective|Natalie Zemon Davis and the Origins of Women’s History at Berkeley: A Former Student’s Perspective]] |
-| 12 | Church History | Medieval | [[#Natalie Zemon Davis and Medieval Women on the Margins|Natalie Zemon Davis and Medieval “Women on the Margins”]] |
-| 13 | - | - | [[#A Great Alarm and Emotion Among the People Reconsidering Crowd Action and Confessional Violence During the Religious Wars|“A Great Alarm and Emotion Among the People”: Reconsidering Crowd Action and Confessional Violence During the Religious Wars]] |
-| 14 | - | - | [[#Soldier or Statue-Smasher Iconoclasm and Warfare in Late Sixteenth- Century France|Soldier or Statue-Smasher? Iconoclasm and Warfare in Late Sixteenth- Century France]] |
-| 15 | - | - | [[#Ritual and Neighborly Violence A Dichotomy|Ritual and Neighborly Violence: A Dichotomy?]] |
-| 16 | - | Modern | [[#Tout oublier Penser le massacre de la Saint-Barthélemy avec Natalie Zemon Davis|Tout oublier: Penser le massacre de la Saint-Barthélemy avec Natalie Zemon Davis]] |
-| 17 | Church History | Reformation | [[#Lay People and the Reformation|Lay People and the Reformation]] |
-| 18 | - | - | [[#Listening to Natalie Natalie Zemon Davis and Religious History|Listening to Natalie: Natalie Zemon Davis and Religious History]] |
-| 19 | - | - | [[#Family History and Academic Community|Family History and Academic Community]] |
-| 20 | - | - | [[#Titelei|Titelei]] |
-| 21 | - | - | [[#INHALT|INHALT]] |
+| 1 | Church History | Medieval, Reformation | [Martin Luthers Schrift „An die Ratsherrn“ (1524) Eine Flugschrift zwischen dem spätmittelalterlichen Schulwesen und dem Aufbau neuer Latein- und Mädchenschulen in Wittenberg](#martin-luthers-schrift-an-die-ratsherrn-1524-eine-flugschrift-zwischen-dem-spätmittelalterlichen-schulwesen-und-dem-aufbau-neuer-latein-und-mädchenschulen-in-wittenberg) |
+| 2 | OT | Contemporary | [Sebastian Franck’s Psalter Projects: Spiritual Exegesis in the Context of Contemporary Approaches to the Psalms](#sebastian-francks-psalter-projects-spiritual-exegesis-in-the-context-of-contemporary-approaches-to-the-psalms) |
+| 3 | - | - | [Editor’s Note](#editors-note) |
+| 4 | - | - | [Introduction](#introduction) |
+| 5 | - | - | [Natalie Zemon Davis and the Practice of History: The Early Years](#natalie-zemon-davis-and-the-practice-of-history-the-early-years) |
+| 6 | - | - | [À l’écoute des mots de Natalie Zemon Davis](#à-lécoute-des-mots-de-natalie-zemon-davis) |
+| 7 | - | - | [The Restless Historian: Remembering Natalie Zemon Davis](#the-restless-historian-remembering-natalie-zemon-davis) |
+| 8 | - | - | [A Passion for Judaism](#a-passion-for-judaism) |
+| 9 | - | - | [Empowering Migrant Histories: Maria Guimar de Pina and Her Multiethnic Communities in Siam, 1664–1728](#empowering-migrant-histories-maria-guimar-de-pina-and-her-multiethnic-communities-in-siam-16641728) |
+| 10 | - | - | [Fashioning Self, Intellectual Community, and a History of Women](#fashioning-self-intellectual-community-and-a-history-of-women) |
+| 11 | - | - | [Natalie Zemon Davis and the Origins of Women’s History at Berkeley: A Former Student’s Perspective](#natalie-zemon-davis-and-the-origins-of-womens-history-at-berkeley-a-former-students-perspective) |
+| 12 | Church History | Medieval | [Natalie Zemon Davis and Medieval “Women on the Margins”](#natalie-zemon-davis-and-medieval-women-on-the-margins) |
+| 13 | - | - | [“A Great Alarm and Emotion Among the People”: Reconsidering Crowd Action and Confessional Violence During the Religious Wars](#a-great-alarm-and-emotion-among-the-people-reconsidering-crowd-action-and-confessional-violence-during-the-religious-wars) |
+| 14 | - | - | [Soldier or Statue-Smasher? Iconoclasm and Warfare in Late Sixteenth- Century France](#soldier-or-statue-smasher-iconoclasm-and-warfare-in-late-sixteenth-century-france) |
+| 15 | - | - | [Ritual and Neighborly Violence: A Dichotomy?](#ritual-and-neighborly-violence-a-dichotomy) |
+| 16 | - | Modern | [Tout oublier: Penser le massacre de la Saint-Barthélemy avec Natalie Zemon Davis](#tout-oublier-penser-le-massacre-de-la-saint-barthélemy-avec-natalie-zemon-davis) |
+| 17 | Church History | Reformation | [Lay People and the Reformation](#lay-people-and-the-reformation) |
+| 18 | - | - | [Listening to Natalie: Natalie Zemon Davis and Religious History](#listening-to-natalie-natalie-zemon-davis-and-religious-history) |
+| 19 | - | - | [Family History and Academic Community](#family-history-and-academic-community) |
+| 20 | - | - | [Titelei](#titelei) |
+| 21 | - | - | [INHALT](#inhalt) |
 
 ---
 
-### Martin Luthers Schrift An die Ratsherrn 1524 Eine Flugschrift zwischen dem spätmittelalterlichen Schulwesen und dem Aufbau neuer Latein- und Mädchenschulen in Wittenberg
+### Martin Luthers Schrift „An die Ratsherrn“ (1524) Eine Flugschrift zwischen dem spätmittelalterlichen Schulwesen und dem Aufbau neuer Latein- und Mädchenschulen in Wittenberg
 - **DOI**: [10.14315/arg-2025-1160101](https://doi.org/10.14315/arg-2025-1160101)
 - **Analytical Tags**: `Church History / - / Medieval;Reformation`
 - **Abstract**: No abstract available
 
 ---
 
-### Sebastian Francks Psalter Projects Spiritual Exegesis in the Context of Contemporary Approaches to the Psalms
+### Sebastian Franck’s Psalter Projects: Spiritual Exegesis in the Context of Contemporary Approaches to the Psalms
 - **DOI**: [10.14315/arg-2025-1160102](https://doi.org/10.14315/arg-2025-1160102)
 - **Analytical Tags**: `OT / - / Contemporary`
 - **Abstract**: No abstract available
 
 ---
 
-### Editors Note
+### Editor’s Note
 - **DOI**: [10.14315/arg-2025-1160103](https://doi.org/10.14315/arg-2025-1160103)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -65,21 +65,21 @@ arc_score: 6
 
 ---
 
-### Natalie Zemon Davis and the Practice of History The Early Years
+### Natalie Zemon Davis and the Practice of History: The Early Years
 - **DOI**: [10.14315/arg-2025-1160105](https://doi.org/10.14315/arg-2025-1160105)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### À lécoute des mots de Natalie Zemon Davis
+### À l’écoute des mots de Natalie Zemon Davis
 - **DOI**: [10.14315/arg-2025-1160106](https://doi.org/10.14315/arg-2025-1160106)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Restless Historian Remembering Natalie Zemon Davis
+### The Restless Historian: Remembering Natalie Zemon Davis
 - **DOI**: [10.14315/arg-2025-1160107](https://doi.org/10.14315/arg-2025-1160107)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -93,56 +93,56 @@ arc_score: 6
 
 ---
 
-### Empowering Migrant Histories Maria Guimar de Pina and Her Multiethnic Communities in Siam 16641728
+### Empowering Migrant Histories: Maria Guimar de Pina and Her Multiethnic Communities in Siam, 1664–1728
 - **DOI**: [10.14315/arg-2025-1160109](https://doi.org/10.14315/arg-2025-1160109)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Fashioning Self Intellectual Community and a History of Women
+### Fashioning Self, Intellectual Community, and a History of Women
 - **DOI**: [10.14315/arg-2025-1160110](https://doi.org/10.14315/arg-2025-1160110)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Natalie Zemon Davis and the Origins of Womens History at Berkeley A Former Students Perspective
+### Natalie Zemon Davis and the Origins of Women’s History at Berkeley: A Former Student’s Perspective
 - **DOI**: [10.14315/arg-2025-1160111](https://doi.org/10.14315/arg-2025-1160111)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Natalie Zemon Davis and Medieval Women on the Margins
+### Natalie Zemon Davis and Medieval “Women on the Margins”
 - **DOI**: [10.14315/arg-2025-1160112](https://doi.org/10.14315/arg-2025-1160112)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: No abstract available
 
 ---
 
-### A Great Alarm and Emotion Among the People Reconsidering Crowd Action and Confessional Violence During the Religious Wars
+### “A Great Alarm and Emotion Among the People”: Reconsidering Crowd Action and Confessional Violence During the Religious Wars
 - **DOI**: [10.14315/arg-2025-1160113](https://doi.org/10.14315/arg-2025-1160113)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Soldier or Statue-Smasher Iconoclasm and Warfare in Late Sixteenth- Century France
+### Soldier or Statue-Smasher? Iconoclasm and Warfare in Late Sixteenth- Century France
 - **DOI**: [10.14315/arg-2025-1160114](https://doi.org/10.14315/arg-2025-1160114)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Ritual and Neighborly Violence A Dichotomy
+### Ritual and Neighborly Violence: A Dichotomy?
 - **DOI**: [10.14315/arg-2025-1160115](https://doi.org/10.14315/arg-2025-1160115)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Tout oublier Penser le massacre de la Saint-Barthélemy avec Natalie Zemon Davis
+### Tout oublier: Penser le massacre de la Saint-Barthélemy avec Natalie Zemon Davis
 - **DOI**: [10.14315/arg-2025-1160116](https://doi.org/10.14315/arg-2025-1160116)
 - **Analytical Tags**: `- / - / Modern`
 - **Abstract**: No abstract available
@@ -156,7 +156,7 @@ arc_score: 6
 
 ---
 
-### Listening to Natalie Natalie Zemon Davis and Religious History
+### Listening to Natalie: Natalie Zemon Davis and Religious History
 - **DOI**: [10.14315/arg-2025-1160118](https://doi.org/10.14315/arg-2025-1160118)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available

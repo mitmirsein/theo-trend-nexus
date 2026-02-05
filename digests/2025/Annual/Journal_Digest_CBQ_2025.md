@@ -13,8 +13,8 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | NT | - | [[#The Acts of Thecla in the Emergent Discourse of the Early Christian Movement|The Acts of Thecla in the Emergent Discourse of the Early Christian Movement]] |
-| 2 | OT | - | [[#You Shall Purge the Evil from Your Midst Legal Omissions and Reconstructions of the Illicit Sex Laws in Deuteronomy 222229|You Shall Purge the Evil from Your Midst: Legal Omissions and Reconstructions of the Illicit Sex Laws in Deuteronomy 22:22–29]] |
+| 1 | NT | - | [The Acts of Thecla in the Emergent Discourse of the Early Christian Movement](#the-acts-of-thecla-in-the-emergent-discourse-of-the-early-christian-movement) |
+| 2 | OT | - | [You Shall Purge the Evil from Your Midst: Legal Omissions and Reconstructions of the Illicit Sex Laws in Deuteronomy 22:22–29](#you-shall-purge-the-evil-from-your-midst-legal-omissions-and-reconstructions-of-the-illicit-sex-laws-in-deuteronomy-222229) |
 
 ---
 
@@ -25,7 +25,7 @@ arc_score: 6
 
 ---
 
-### You Shall Purge the Evil from Your Midst Legal Omissions and Reconstructions of the Illicit Sex Laws in Deuteronomy 222229
+### You Shall Purge the Evil from Your Midst: Legal Omissions and Reconstructions of the Illicit Sex Laws in Deuteronomy 22:22–29
 - **DOI**: [10.1353/cbq.2025.0002](https://doi.org/10.1353/cbq.2025.0002)
 - **Analytical Tags**: `OT / - / -`
 - **Abstract**: No abstract available

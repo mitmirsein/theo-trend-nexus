@@ -13,55 +13,55 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | NT | - | [[#Apocalyptic Letter Writing in Early Christianity The Letter of Lyon and Vienne and its Reception of the Apocalypse of John|Apocalyptic Letter Writing in Early Christianity: The Letter of Lyon and Vienne and its Reception of the Apocalypse of John]] |
-| 2 | Church History, OT, Systematic Theology | Patristic | [[#God did not make death Wisdom 113 and 223 in Patristic Discussions of Human Will and Embodiment|God did not make death: Wisdom 1:13 and 2:23 in Patristic Discussions of Human Will and Embodiment]] |
-| 3 | - | - | [[#Always Son An Origenian Consensus between Alexander and Arius|Always Son: An Origenian Consensus between Alexander and Arius]] |
-| 4 | Practical Theology, Systematic Theology | - | [[#Marius Victorinus und die römische Liturgie Bemerkungen zu drei Zitaten in Adversus Arium 130.31 28|Marius Victorinus und die römische Liturgie – Bemerkungen zu drei Zitaten in Adversus Arium 1,30.31; 2,8]] |
-| 5 | Church History | Patristic | [[#The Syriac Reception of John Chrysostoms b                     iHomilies against the Jewsi                  b First Soundings|The Syriac Reception of John Chrysostom’s <b>
+| 1 | NT | - | [Apocalyptic Letter Writing in Early Christianity: The Letter of Lyon and Vienne and its Reception of the Apocalypse of John](#apocalyptic-letter-writing-in-early-christianity-the-letter-of-lyon-and-vienne-and-its-reception-of-the-apocalypse-of-john) |
+| 2 | Church History, OT, Systematic Theology | Patristic | [God did not make death: Wisdom 1:13 and 2:23 in Patristic Discussions of Human Will and Embodiment](#god-did-not-make-death-wisdom-113-and-223-in-patristic-discussions-of-human-will-and-embodiment) |
+| 3 | - | - | [Always Son: An Origenian Consensus between Alexander and Arius](#always-son-an-origenian-consensus-between-alexander-and-arius) |
+| 4 | Practical Theology, Systematic Theology | - | [Marius Victorinus und die römische Liturgie – Bemerkungen zu drei Zitaten in Adversus Arium 1,30.31; 2,8](#marius-victorinus-und-die-römische-liturgie-bemerkungen-zu-drei-zitaten-in-adversus-arium-13031-28) |
+| 5 | Church History | Patristic | [The Syriac Reception of John Chrysostom’s <b>
                      <i>Homilies against the Jews</i>
-                  </b>: First Soundings]] |
-| 6 | Church History | - | [[#Cyril of Alexandria and the Apis Bull|Cyril of Alexandria and the Apis Bull]] |
-| 7 | Systematic Theology | Patristic | [[#Manipulating the Imaginationb                     iEnargeiai and Persuasion in Augustines iConfessionsi and its Classical Rootsb|Manipulating the Imagination—<b>
-                     <i>Enargeia</i> and Persuasion in Augustine’s <i>Confessions</i> and its Classical Roots</b>]] |
-| 8 | Church History, NT, Systematic Theology | - | [[#bNathan Betz Anthony Dupont and Johan Leemans eds.b                  iRevelations New Jerusalem in Late Antiquityi History of Biblical Exegesis 6 Tübingen Mohr Siebeck 2023 348 pp. ISBN 9783161623769  109.|<b>Nathan Betz, Anthony Dupont, and Johan Leemans, eds.:</b>
-                  <i>Revelation’s New Jerusalem in Late Antiquity</i>, History of Biblical Exegesis 6, Tübingen (Mohr Siebeck) 2023, 348 pp., ISBN 9783161623769, € 109,–.]] |
-| 9 | - | - | [[#bOlga Lorgeouxb                  i Religiöse Bildungsprozesse in den Taufkatechesen Kyrills von Jerusalemi Studies in Education and Religion in Ancient and Pre-Modern History in the Mediterranean and Its Environs 17 Tübingen Mohr Siebeck 2023 XII  369pp. ISBN 9783161616730  89.|<b>Olga Lorgeoux:</b>
-                  <i> Religiöse Bildungsprozesse in den Taufkatechesen Kyrills von Jerusalem</i>, Studies in Education and Religion in Ancient and Pre-Modern History in the Mediterranean and Its Environs 17, Tübingen (Mohr Siebeck) 2023, XII + 369 pp., ISBN 9783161616730, € 89,–.]] |
-| 10 | - | - | [[#bMoysés Marcosb                  iEmperors and Rhetoricians. Panegyric Communication and Power in the Fourth-Century Roman Empirei Transformation of the Classical Heritage Berkeley University of California Press 2023 XVIII  304pp. ISBN 9780520394988 95 80.|<b>Moysés Marcos:</b>
-                  <i>Emperors and Rhetoricians. Panegyric, Communication, and Power in the Fourth-Century Roman Empire</i>, Transformation of the Classical Heritage, Berkeley (University of California Press) 2023, XVIII + 304 pp., ISBN 9780520394988, $ 95,–/ £ 80,–.]] |
-| 11 | - | - | [[#bCambryG. Pardee and JeffreyM. Tripp eds.b                  iSacred Texts amp Sacred Figures. The Reception and Use of Inherited Traditions in Early Christian Literaturei Judaïsme ancient et origins du christianisme 25 Turnhout Brepols 2022 386pp. ISBN 9782503599182  80.|<b>Cambry G. Pardee and Jeffrey M. Tripp, eds.:</b>
-                  <i>Sacred Texts &amp; Sacred Figures. The Reception and Use of Inherited Traditions in Early Christian Literature</i>, Judaïsme ancient et origins du christianisme 25, Turnhout (Brepols) 2022, 386 pp., ISBN 9782503599182, € 80,–.]] |
-| 12 | - | - | [[#bMattias Brand and Eline Scheerlinck eds.b                  iReligious Identifications in Late Antique Papyri. 3rd12th Century Egypti Abingdon and New York Routledge 2023 XII  302pp. ISBN 9781032263502 hardback  39.99 paperback and Open Access ebook.|<b>Mattias Brand and Eline Scheerlinck, eds.:</b>
-                  <i>Religious Identifications in Late Antique Papyri. 3rd–12th Century Egypt</i>, Abingdon and New York (Routledge) 2023, XII + 302 pp., ISBN 9781032263502 (hardback), £ 39.99 (paperback) and Open Access (ebook).]] |
-| 13 | - | Contemporary | [[#What Would an Ancient Person Think of a Talking Cross Reading Gospel of Peter 103842 as Ancient Mediterranean Religious Literature|What Would an Ancient Person Think of a Talking Cross? Reading Gospel of Peter 10,38–42 as Ancient Mediterranean Religious Literature]] |
-| 14 | NT | - | [[#b                     iMartyrium Polycarpii 2231 and the Question of an Earlier Archetypeb|<b>
-                     <i>Martyrium Polycarpi</i> 2,2–3,1 and the Question of an Earlier Archetype</b>]] |
-| 15 | - | Modern | [[#Justin the Seerb Viewing Christian Truth in the Second Centuryb|Justin the Seer<b>: Viewing Christian Truth in the Second Century</b>]] |
-| 16 | Church History, Systematic Theology | Patristic | [[#b                     iQuo peruersius quid dici potesti Tertulliansb                  b                     iDe animai and Its Reception in the Literature and Thought of the Early Churchb|<b>
+                  </b>: First Soundings](#the-syriac-reception-of-john-chrysostoms-b-ihomilies-against-the-jewsi-b-first-soundings) |
+| 6 | Church History | - | [Cyril of Alexandria and the Apis Bull](#cyril-of-alexandria-and-the-apis-bull) |
+| 7 | Systematic Theology | Patristic | [Manipulating the Imagination—<b>
+                     <i>Enargeia</i> and Persuasion in Augustine’s <i>Confessions</i> and its Classical Roots</b>](#manipulating-the-imaginationb-ienargeiai-and-persuasion-in-augustines-iconfessionsi-and-its-classical-rootsb) |
+| 8 | Church History, NT, Systematic Theology | - | [<b>Nathan Betz, Anthony Dupont, and Johan Leemans, eds.:</b>
+                  <i>Revelation’s New Jerusalem in Late Antiquity</i>, History of Biblical Exegesis 6, Tübingen (Mohr Siebeck) 2023, 348 pp., ISBN 9783161623769, € 109,–.](#bnathan-betz-anthony-dupont-and-johan-leemans-edsb-irevelations-new-jerusalem-in-late-antiquityi-history-of-biblical-exegesis-6-tübingen-mohr-siebeck-2023-348-pp-isbn-9783161623769-109) |
+| 9 | - | - | [<b>Olga Lorgeoux:</b>
+                  <i> Religiöse Bildungsprozesse in den Taufkatechesen Kyrills von Jerusalem</i>, Studies in Education and Religion in Ancient and Pre-Modern History in the Mediterranean and Its Environs 17, Tübingen (Mohr Siebeck) 2023, XII + 369 pp., ISBN 9783161616730, € 89,–.](#bolga-lorgeouxb-i-religiöse-bildungsprozesse-in-den-taufkatechesen-kyrills-von-jerusalemi-studies-in-education-and-religion-in-ancient-and-pre-modern-history-in-the-mediterranean-and-its-environs-17-tübingen-mohr-siebeck-2023-xii-369-pp-isbn-9783161616730-89) |
+| 10 | - | - | [<b>Moysés Marcos:</b>
+                  <i>Emperors and Rhetoricians. Panegyric, Communication, and Power in the Fourth-Century Roman Empire</i>, Transformation of the Classical Heritage, Berkeley (University of California Press) 2023, XVIII + 304 pp., ISBN 9780520394988, $ 95,–/ £ 80,–.](#bmoysés-marcosb-iemperors-and-rhetoricians-panegyric-communication-and-power-in-the-fourth-century-roman-empirei-transformation-of-the-classical-heritage-berkeley-university-of-california-press-2023-xviii-304-pp-isbn-9780520394988-95-80) |
+| 11 | - | - | [<b>Cambry G. Pardee and Jeffrey M. Tripp, eds.:</b>
+                  <i>Sacred Texts &amp; Sacred Figures. The Reception and Use of Inherited Traditions in Early Christian Literature</i>, Judaïsme ancient et origins du christianisme 25, Turnhout (Brepols) 2022, 386 pp., ISBN 9782503599182, € 80,–.](#bcambry-g-pardee-and-jeffrey-m-tripp-edsb-isacred-texts-amp-sacred-figures-the-reception-and-use-of-inherited-traditions-in-early-christian-literaturei-judaïsme-ancient-et-origins-du-christianisme-25-turnhout-brepols-2022-386-pp-isbn-9782503599182-80) |
+| 12 | - | - | [<b>Mattias Brand and Eline Scheerlinck, eds.:</b>
+                  <i>Religious Identifications in Late Antique Papyri. 3rd–12th Century Egypt</i>, Abingdon and New York (Routledge) 2023, XII + 302 pp., ISBN 9781032263502 (hardback), £ 39.99 (paperback) and Open Access (ebook).](#bmattias-brand-and-eline-scheerlinck-edsb-ireligious-identifications-in-late-antique-papyri-3rd12th-century-egypti-abingdon-and-new-york-routledge-2023-xii-302-pp-isbn-9781032263502-hardback-3999-paperback-and-open-access-ebook) |
+| 13 | - | Contemporary | [What Would an Ancient Person Think of a Talking Cross? Reading Gospel of Peter 10,38–42 as Ancient Mediterranean Religious Literature](#what-would-an-ancient-person-think-of-a-talking-cross-reading-gospel-of-peter-103842-as-ancient-mediterranean-religious-literature) |
+| 14 | NT | - | [<b>
+                     <i>Martyrium Polycarpi</i> 2,2–3,1 and the Question of an Earlier Archetype</b>](#b-imartyrium-polycarpii-2231-and-the-question-of-an-earlier-archetypeb) |
+| 15 | - | Modern | [Justin the Seer<b>: Viewing Christian Truth in the Second Century</b>](#justin-the-seerb-viewing-christian-truth-in-the-second-centuryb) |
+| 16 | Church History, Systematic Theology | Patristic | [<b>
                      <i>Quo peruersius quid dici potest?</i> Tertullian’s</b>
                   <b>
-                     <i>De anima</i> and Its Reception in the Literature and Thought of the Early Church</b>]] |
-| 17 | Church History | - | [[#Zeichen des Glaubensb Christliche Lesarten kaiserlicher Münzbilder in der Spätantikeb|Zeichen des Glaubens?<b> Christliche Lesarten kaiserlicher Münzbilder in der Spätantike</b>]] |
-| 18 | Church History | Medieval | [[#Severe Initiation Monastic Personas and Communal Membership in the Late-Antique Mediterranean|“Severe Initiation”, Monastic Personas, and Communal Membership in the Late-Antique Mediterranean]] |
-| 19 | Church History, Systematic Theology | Patristic | [[#Augustinian Theology in the Hispano-Mozarabic Eucharistic Prayers of the Holy Week|Augustinian Theology in the Hispano-Mozarabic Eucharistic Prayers of the Holy Week]] |
-| 20 | - | - | [[#bDamien Labadieb                  iLes Actes éthiopiens du diacre Étiennei Apocryphes Collection de poche de lAELAC 19 Turnhout Brepols 2024 194pp. ISBN 9782503612492  40..|<b>Damien Labadie:</b>
-                  <i>Les Actes éthiopiens du diacre Étienne</i>, Apocryphes, Collection de poche de l’AELAC 19, Turnhout (Brepols) 2024, 194 pp., ISBN 9782503612492, € 40.–.]] |
-| 21 | - | Patristic | [[#bHubertusR. Drobnerb                  iDie Chronologie der Predigten Augustins. Eine neue Methodologiei Paderborn Brill Schöningh 2024 LXVIII  1491 S. 16 Abbildungen ISBN 9783506793485 Festeinband oder 978-3-657-79348-8 E-Book  349.|<b>Hubertus R. Drobner:</b>
-                  <i>Die Chronologie der Predigten Augustins. Eine neue Methodologie,</i> Paderborn (Brill Schöningh) 2024, LXVIII + 1491 S., 16 Abbildungen, ISBN 9783506793485 (Festeinband) oder 978-3-657-79348-8 (E-Book), € 349,–.]] |
-| 22 | - | Patristic | [[#bMoritz Kuhnb                  iPhilologischer Kommentar zur Vita Augustini des Possidius von Calamai Jahrbuch für Antike und Christentum. Ergänzungsbände. Kleine Reihe 17Münster Aschendorff 2023 VI  372 S. ISBN 9783402109298  62.|<b>Moritz Kuhn:</b>
-                  <i>Philologischer Kommentar zur ‚Vita Augustini‘ des Possidius von Calama</i>, Jahrbuch für Antike und Christentum. Ergänzungsbände. Kleine Reihe 17, Münster (Aschendorff) 2023, VI + 372 S., ISBN 9783402109298, € 62,–.]] |
-| 23 | - | - | [[#bYuliya Minetsb                  iThe Slow Fall of Babel. Languages and Identities in Late Antique Christianityi Cambridge Cambridge University Press 2022 XVI  418 pp. ISBN 9781108833462 hardback  9781108970495 paperback  90.00 hardback or 27.99 paperback.|<b>Yuliya Minets:</b>
-                  <i>The Slow Fall of Babel. Languages and Identities in Late Antique Christianity</i>, Cambridge (Cambridge University Press) 2022, XVI + 418 pp., ISBN 9781108833462 (hardback) / 9781108970495 (paperback), £ 90.00 (hardback) or £ 27.99 (paperback).]] |
-| 24 | Church History | Medieval | [[#bIldikó Csepregib                  iIncubation in Early Byzantium. The Formation of Early Christian Incubation Cults and Miracle Collectionsi Cultural Encounters in Late Antiquity and the Middle Ages 41 Turnhout Brepols 2024 328pp. ISBN 9782503606606  105.|<b>Ildikó Csepregi:</b>
-                  <i>Incubation in Early Byzantium. The Formation of Early Christian Incubation Cults and Miracle Collections</i>, Cultural Encounters in Late Antiquity and the Middle Ages 41, Turnhout (Brepols) 2024, 328 pp., ISBN 9782503606606, € 105,–.]] |
-| 25 | Church History | - | [[#bLillianI. Larsen and Samuel Rubenson eds.b                  iMonastic Education in Late Antiquity. The Transformation of Classical Paideiai CambridgeNew York Cambridge University Press 2018 399pp. ISBN 9781108163842  110 hardback  2999 paperback or  3899.|<b>Lillian I. Larsen and Samuel Rubenson, eds.:</b>
-                  <i>Monastic Education in Late Antiquity. The Transformation of Classical ‘Paideia’</i>, Cambridge/New York (Cambridge University Press) 2018, 399 pp., ISBN 9781108163842, £ 110,– (hardback), £ 29,99 (paperback) or $ 38,99.]] |
-| 26 | - | - | [[#Titelseiten|Titelseiten]] |
-| 27 | - | - | [[#Titelseiten|Titelseiten]] |
+                     <i>De anima</i> and Its Reception in the Literature and Thought of the Early Church</b>](#b-iquo-peruersius-quid-dici-potesti-tertulliansb-b-ide-animai-and-its-reception-in-the-literature-and-thought-of-the-early-churchb) |
+| 17 | Church History | - | [Zeichen des Glaubens?<b> Christliche Lesarten kaiserlicher Münzbilder in der Spätantike</b>](#zeichen-des-glaubensb-christliche-lesarten-kaiserlicher-münzbilder-in-der-spätantikeb) |
+| 18 | Church History | Medieval | [“Severe Initiation”, Monastic Personas, and Communal Membership in the Late-Antique Mediterranean](#severe-initiation-monastic-personas-and-communal-membership-in-the-late-antique-mediterranean) |
+| 19 | Church History, Systematic Theology | Patristic | [Augustinian Theology in the Hispano-Mozarabic Eucharistic Prayers of the Holy Week](#augustinian-theology-in-the-hispano-mozarabic-eucharistic-prayers-of-the-holy-week) |
+| 20 | - | - | [<b>Damien Labadie:</b>
+                  <i>Les Actes éthiopiens du diacre Étienne</i>, Apocryphes, Collection de poche de l’AELAC 19, Turnhout (Brepols) 2024, 194 pp., ISBN 9782503612492, € 40.–.](#bdamien-labadieb-iles-actes-éthiopiens-du-diacre-étiennei-apocryphes-collection-de-poche-de-laelac-19-turnhout-brepols-2024-194-pp-isbn-9782503612492-40) |
+| 21 | - | Patristic | [<b>Hubertus R. Drobner:</b>
+                  <i>Die Chronologie der Predigten Augustins. Eine neue Methodologie,</i> Paderborn (Brill Schöningh) 2024, LXVIII + 1491 S., 16 Abbildungen, ISBN 9783506793485 (Festeinband) oder 978-3-657-79348-8 (E-Book), € 349,–.](#bhubertus-r-drobnerb-idie-chronologie-der-predigten-augustins-eine-neue-methodologiei-paderborn-brill-schöningh-2024-lxviii-1491-s-16-abbildungen-isbn-9783506793485-festeinband-oder-978-3-657-79348-8-e-book-349) |
+| 22 | - | Patristic | [<b>Moritz Kuhn:</b>
+                  <i>Philologischer Kommentar zur ‚Vita Augustini‘ des Possidius von Calama</i>, Jahrbuch für Antike und Christentum. Ergänzungsbände. Kleine Reihe 17, Münster (Aschendorff) 2023, VI + 372 S., ISBN 9783402109298, € 62,–.](#bmoritz-kuhnb-iphilologischer-kommentar-zur-vita-augustini-des-possidius-von-calamai-jahrbuch-für-antike-und-christentum-ergänzungsbände-kleine-reihe-17-münster-aschendorff-2023-vi-372-s-isbn-9783402109298-62) |
+| 23 | - | - | [<b>Yuliya Minets:</b>
+                  <i>The Slow Fall of Babel. Languages and Identities in Late Antique Christianity</i>, Cambridge (Cambridge University Press) 2022, XVI + 418 pp., ISBN 9781108833462 (hardback) / 9781108970495 (paperback), £ 90.00 (hardback) or £ 27.99 (paperback).](#byuliya-minetsb-ithe-slow-fall-of-babel-languages-and-identities-in-late-antique-christianityi-cambridge-cambridge-university-press-2022-xvi-418-pp-isbn-9781108833462-hardback-9781108970495-paperback-9000-hardback-or-2799-paperback) |
+| 24 | Church History | Medieval | [<b>Ildikó Csepregi:</b>
+                  <i>Incubation in Early Byzantium. The Formation of Early Christian Incubation Cults and Miracle Collections</i>, Cultural Encounters in Late Antiquity and the Middle Ages 41, Turnhout (Brepols) 2024, 328 pp., ISBN 9782503606606, € 105,–.](#bildikó-csepregib-iincubation-in-early-byzantium-the-formation-of-early-christian-incubation-cults-and-miracle-collectionsi-cultural-encounters-in-late-antiquity-and-the-middle-ages-41-turnhout-brepols-2024-328-pp-isbn-9782503606606-105) |
+| 25 | Church History | - | [<b>Lillian I. Larsen and Samuel Rubenson, eds.:</b>
+                  <i>Monastic Education in Late Antiquity. The Transformation of Classical ‘Paideia’</i>, Cambridge/New York (Cambridge University Press) 2018, 399 pp., ISBN 9781108163842, £ 110,– (hardback), £ 29,99 (paperback) or $ 38,99.](#blillian-i-larsen-and-samuel-rubenson-edsb-imonastic-education-in-late-antiquity-the-transformation-of-classical-paideiai-cambridgenew-york-cambridge-university-press-2018-399-pp-isbn-9781108163842-110-hardback-2999-paperback-or-3899) |
+| 26 | - | - | [Titelseiten](#titelseiten) |
+| 27 | - | - | [Titelseiten](#titelseiten) |
 
 ---
 
-### Apocalyptic Letter Writing in Early Christianity The Letter of Lyon and Vienne and its Reception of the Apocalypse of John
+### Apocalyptic Letter Writing in Early Christianity: The Letter of Lyon and Vienne and its Reception of the Apocalypse of John
 - **DOI**: [10.1515/zac-2025-0001](https://doi.org/10.1515/zac-2025-0001)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -69,7 +69,7 @@ arc_score: 6
 
 ---
 
-### God did not make death Wisdom 113 and 223 in Patristic Discussions of Human Will and Embodiment
+### God did not make death: Wisdom 1:13 and 2:23 in Patristic Discussions of Human Will and Embodiment
 - **DOI**: [10.1515/zac-2025-0002](https://doi.org/10.1515/zac-2025-0002)
 - **Analytical Tags**: `Church History;OT;Systematic Theology / - / Patristic`
 - **Abstract**: Abstract
@@ -77,7 +77,7 @@ arc_score: 6
 
 ---
 
-### Always Son An Origenian Consensus between Alexander and Arius
+### Always Son: An Origenian Consensus between Alexander and Arius
 - **DOI**: [10.1515/zac-2025-0003](https://doi.org/10.1515/zac-2025-0003)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -85,7 +85,7 @@ arc_score: 6
 
 ---
 
-### Marius Victorinus und die römische Liturgie Bemerkungen zu drei Zitaten in Adversus Arium 130.31 28
+### Marius Victorinus und die römische Liturgie – Bemerkungen zu drei Zitaten in Adversus Arium 1,30.31; 2,8
 - **DOI**: [10.1515/zac-2025-0004](https://doi.org/10.1515/zac-2025-0004)
 - **Analytical Tags**: `Practical Theology;Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -93,7 +93,9 @@ arc_score: 6
 
 ---
 
-### The Syriac Reception of John Chrysostoms b                     iHomilies against the Jewsi                  b First Soundings
+### The Syriac Reception of John Chrysostom’s <b>
+                     <i>Homilies against the Jews</i>
+                  </b>: First Soundings
 - **DOI**: [10.1515/zac-2025-0005](https://doi.org/10.1515/zac-2025-0005)
 - **Analytical Tags**: `Church History / - / Patristic`
 - **Abstract**: Abstract
@@ -109,7 +111,8 @@ arc_score: 6
 
 ---
 
-### Manipulating the Imaginationb                     iEnargeiai and Persuasion in Augustines iConfessionsi and its Classical Rootsb
+### Manipulating the Imagination—<b>
+                     <i>Enargeia</i> and Persuasion in Augustine’s <i>Confessions</i> and its Classical Roots</b>
 - **DOI**: [10.1515/zac-2025-0007](https://doi.org/10.1515/zac-2025-0007)
 - **Analytical Tags**: `Systematic Theology / - / Patristic`
 - **Abstract**: Abstract
@@ -117,42 +120,47 @@ arc_score: 6
 
 ---
 
-### bNathan Betz Anthony Dupont and Johan Leemans eds.b                  iRevelations New Jerusalem in Late Antiquityi History of Biblical Exegesis 6 Tübingen Mohr Siebeck 2023 348 pp. ISBN 9783161623769  109.
+### <b>Nathan Betz, Anthony Dupont, and Johan Leemans, eds.:</b>
+                  <i>Revelation’s New Jerusalem in Late Antiquity</i>, History of Biblical Exegesis 6, Tübingen (Mohr Siebeck) 2023, 348 pp., ISBN 9783161623769, € 109,–.
 - **DOI**: [10.1515/zac-2025-0008](https://doi.org/10.1515/zac-2025-0008)
 - **Analytical Tags**: `Church History;NT;Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### bOlga Lorgeouxb                  i Religiöse Bildungsprozesse in den Taufkatechesen Kyrills von Jerusalemi Studies in Education and Religion in Ancient and Pre-Modern History in the Mediterranean and Its Environs 17 Tübingen Mohr Siebeck 2023 XII  369pp. ISBN 9783161616730  89.
+### <b>Olga Lorgeoux:</b>
+                  <i> Religiöse Bildungsprozesse in den Taufkatechesen Kyrills von Jerusalem</i>, Studies in Education and Religion in Ancient and Pre-Modern History in the Mediterranean and Its Environs 17, Tübingen (Mohr Siebeck) 2023, XII + 369 pp., ISBN 9783161616730, € 89,–.
 - **DOI**: [10.1515/zac-2025-0009](https://doi.org/10.1515/zac-2025-0009)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### bMoysés Marcosb                  iEmperors and Rhetoricians. Panegyric Communication and Power in the Fourth-Century Roman Empirei Transformation of the Classical Heritage Berkeley University of California Press 2023 XVIII  304pp. ISBN 9780520394988 95 80.
+### <b>Moysés Marcos:</b>
+                  <i>Emperors and Rhetoricians. Panegyric, Communication, and Power in the Fourth-Century Roman Empire</i>, Transformation of the Classical Heritage, Berkeley (University of California Press) 2023, XVIII + 304 pp., ISBN 9780520394988, $ 95,–/ £ 80,–.
 - **DOI**: [10.1515/zac-2025-0010](https://doi.org/10.1515/zac-2025-0010)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### bCambryG. Pardee and JeffreyM. Tripp eds.b                  iSacred Texts amp Sacred Figures. The Reception and Use of Inherited Traditions in Early Christian Literaturei Judaïsme ancient et origins du christianisme 25 Turnhout Brepols 2022 386pp. ISBN 9782503599182  80.
+### <b>Cambry G. Pardee and Jeffrey M. Tripp, eds.:</b>
+                  <i>Sacred Texts &amp; Sacred Figures. The Reception and Use of Inherited Traditions in Early Christian Literature</i>, Judaïsme ancient et origins du christianisme 25, Turnhout (Brepols) 2022, 386 pp., ISBN 9782503599182, € 80,–.
 - **DOI**: [10.1515/zac-2025-0011](https://doi.org/10.1515/zac-2025-0011)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### bMattias Brand and Eline Scheerlinck eds.b                  iReligious Identifications in Late Antique Papyri. 3rd12th Century Egypti Abingdon and New York Routledge 2023 XII  302pp. ISBN 9781032263502 hardback  39.99 paperback and Open Access ebook.
+### <b>Mattias Brand and Eline Scheerlinck, eds.:</b>
+                  <i>Religious Identifications in Late Antique Papyri. 3rd–12th Century Egypt</i>, Abingdon and New York (Routledge) 2023, XII + 302 pp., ISBN 9781032263502 (hardback), £ 39.99 (paperback) and Open Access (ebook).
 - **DOI**: [10.1515/zac-2025-0012](https://doi.org/10.1515/zac-2025-0012)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### What Would an Ancient Person Think of a Talking Cross Reading Gospel of Peter 103842 as Ancient Mediterranean Religious Literature
+### What Would an Ancient Person Think of a Talking Cross? Reading Gospel of Peter 10,38–42 as Ancient Mediterranean Religious Literature
 - **DOI**: [10.1515/zac-2025-0013](https://doi.org/10.1515/zac-2025-0013)
 - **Analytical Tags**: `- / - / Contemporary`
 - **Abstract**: Abstract
@@ -160,7 +168,8 @@ arc_score: 6
 
 ---
 
-### b                     iMartyrium Polycarpii 2231 and the Question of an Earlier Archetypeb
+### <b>
+                     <i>Martyrium Polycarpi</i> 2,2–3,1 and the Question of an Earlier Archetype</b>
 - **DOI**: [10.1515/zac-2025-0014](https://doi.org/10.1515/zac-2025-0014)
 - **Analytical Tags**: `NT / - / -`
 - **Abstract**: Abstract
@@ -168,7 +177,7 @@ arc_score: 6
 
 ---
 
-### Justin the Seerb Viewing Christian Truth in the Second Centuryb
+### Justin the Seer<b>: Viewing Christian Truth in the Second Century</b>
 - **DOI**: [10.1515/zac-2025-0015](https://doi.org/10.1515/zac-2025-0015)
 - **Analytical Tags**: `- / - / Modern`
 - **Abstract**: Abstract
@@ -176,7 +185,10 @@ arc_score: 6
 
 ---
 
-### b                     iQuo peruersius quid dici potesti Tertulliansb                  b                     iDe animai and Its Reception in the Literature and Thought of the Early Churchb
+### <b>
+                     <i>Quo peruersius quid dici potest?</i> Tertullian’s</b>
+                  <b>
+                     <i>De anima</i> and Its Reception in the Literature and Thought of the Early Church</b>
 - **DOI**: [10.1515/zac-2025-0016](https://doi.org/10.1515/zac-2025-0016)
 - **Analytical Tags**: `Church History;Systematic Theology / - / Patristic`
 - **Abstract**: Abstract
@@ -184,7 +196,7 @@ arc_score: 6
 
 ---
 
-### Zeichen des Glaubensb Christliche Lesarten kaiserlicher Münzbilder in der Spätantikeb
+### Zeichen des Glaubens?<b> Christliche Lesarten kaiserlicher Münzbilder in der Spätantike</b>
 - **DOI**: [10.1515/zac-2025-0017](https://doi.org/10.1515/zac-2025-0017)
 - **Analytical Tags**: `Church History / - / -`
 - **Abstract**: Abstract
@@ -192,7 +204,7 @@ arc_score: 6
 
 ---
 
-### Severe Initiation Monastic Personas and Communal Membership in the Late-Antique Mediterranean
+### “Severe Initiation”, Monastic Personas, and Communal Membership in the Late-Antique Mediterranean
 - **DOI**: [10.1515/zac-2025-0018](https://doi.org/10.1515/zac-2025-0018)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: Abstract
@@ -208,42 +220,48 @@ arc_score: 6
 
 ---
 
-### bDamien Labadieb                  iLes Actes éthiopiens du diacre Étiennei Apocryphes Collection de poche de lAELAC 19 Turnhout Brepols 2024 194pp. ISBN 9782503612492  40..
+### <b>Damien Labadie:</b>
+                  <i>Les Actes éthiopiens du diacre Étienne</i>, Apocryphes, Collection de poche de l’AELAC 19, Turnhout (Brepols) 2024, 194 pp., ISBN 9782503612492, € 40.–.
 - **DOI**: [10.1515/zac-2025-0020](https://doi.org/10.1515/zac-2025-0020)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### bHubertusR. Drobnerb                  iDie Chronologie der Predigten Augustins. Eine neue Methodologiei Paderborn Brill Schöningh 2024 LXVIII  1491 S. 16 Abbildungen ISBN 9783506793485 Festeinband oder 978-3-657-79348-8 E-Book  349.
+### <b>Hubertus R. Drobner:</b>
+                  <i>Die Chronologie der Predigten Augustins. Eine neue Methodologie,</i> Paderborn (Brill Schöningh) 2024, LXVIII + 1491 S., 16 Abbildungen, ISBN 9783506793485 (Festeinband) oder 978-3-657-79348-8 (E-Book), € 349,–.
 - **DOI**: [10.1515/zac-2025-0021](https://doi.org/10.1515/zac-2025-0021)
 - **Analytical Tags**: `- / - / Patristic`
 - **Abstract**: No abstract available
 
 ---
 
-### bMoritz Kuhnb                  iPhilologischer Kommentar zur Vita Augustini des Possidius von Calamai Jahrbuch für Antike und Christentum. Ergänzungsbände. Kleine Reihe 17Münster Aschendorff 2023 VI  372 S. ISBN 9783402109298  62.
+### <b>Moritz Kuhn:</b>
+                  <i>Philologischer Kommentar zur ‚Vita Augustini‘ des Possidius von Calama</i>, Jahrbuch für Antike und Christentum. Ergänzungsbände. Kleine Reihe 17, Münster (Aschendorff) 2023, VI + 372 S., ISBN 9783402109298, € 62,–.
 - **DOI**: [10.1515/zac-2025-0022](https://doi.org/10.1515/zac-2025-0022)
 - **Analytical Tags**: `- / - / Patristic`
 - **Abstract**: No abstract available
 
 ---
 
-### bYuliya Minetsb                  iThe Slow Fall of Babel. Languages and Identities in Late Antique Christianityi Cambridge Cambridge University Press 2022 XVI  418 pp. ISBN 9781108833462 hardback  9781108970495 paperback  90.00 hardback or 27.99 paperback.
+### <b>Yuliya Minets:</b>
+                  <i>The Slow Fall of Babel. Languages and Identities in Late Antique Christianity</i>, Cambridge (Cambridge University Press) 2022, XVI + 418 pp., ISBN 9781108833462 (hardback) / 9781108970495 (paperback), £ 90.00 (hardback) or £ 27.99 (paperback).
 - **DOI**: [10.1515/zac-2025-0023](https://doi.org/10.1515/zac-2025-0023)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### bIldikó Csepregib                  iIncubation in Early Byzantium. The Formation of Early Christian Incubation Cults and Miracle Collectionsi Cultural Encounters in Late Antiquity and the Middle Ages 41 Turnhout Brepols 2024 328pp. ISBN 9782503606606  105.
+### <b>Ildikó Csepregi:</b>
+                  <i>Incubation in Early Byzantium. The Formation of Early Christian Incubation Cults and Miracle Collections</i>, Cultural Encounters in Late Antiquity and the Middle Ages 41, Turnhout (Brepols) 2024, 328 pp., ISBN 9782503606606, € 105,–.
 - **DOI**: [10.1515/zac-2025-0024](https://doi.org/10.1515/zac-2025-0024)
 - **Analytical Tags**: `Church History / - / Medieval`
 - **Abstract**: No abstract available
 
 ---
 
-### bLillianI. Larsen and Samuel Rubenson eds.b                  iMonastic Education in Late Antiquity. The Transformation of Classical Paideiai CambridgeNew York Cambridge University Press 2018 399pp. ISBN 9781108163842  110 hardback  2999 paperback or  3899.
+### <b>Lillian I. Larsen and Samuel Rubenson, eds.:</b>
+                  <i>Monastic Education in Late Antiquity. The Transformation of Classical ‘Paideia’</i>, Cambridge/New York (Cambridge University Press) 2018, 399 pp., ISBN 9781108163842, £ 110,– (hardback), £ 29,99 (paperback) or $ 38,99.
 - **DOI**: [10.1515/zac-2025-0025](https://doi.org/10.1515/zac-2025-0025)
 - **Analytical Tags**: `Church History / - / -`
 - **Abstract**: No abstract available

@@ -13,32 +13,32 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | - | - | [[#Front matter|Front matter]] |
-| 2 | - | - | [[#Contributors|Contributors]] |
-| 3 | - | - | [[#Ecclesial Integrity|Ecclesial Integrity]] |
-| 4 | - | - | [[#Giving the Church The Christian Community Through the Looking Glass of Generosity written by Michael Moynagh|Giving the Church: The Christian Community Through the Looking Glass of Generosity, written by Michael Moynagh]] |
-| 5 | - | - | [[#Saving Memory and the Body of Christ A Moral Liturgical Theology written by Timothy F Sedgwick|Saving Memory and the Body of Christ: A Moral Liturgical Theology, written by Timothy F Sedgwick]] |
-| 6 | Systematic Theology | - | [[#Reformed Humanism Essays on Christian Doctrine Philosophy and Church written by David Fergusson|Reformed Humanism: Essays on Christian Doctrine, Philosophy, and Church, written by David Fergusson]] |
-| 7 | Ethics | - | [[#The Development of Anglican Moral Theology 16801950 written by Peter H. Sedgwick|The Development of Anglican Moral Theology 1680–1950, written by Peter H. Sedgwick]] |
-| 8 | Church History | Reformation | [[#The Role of Music Images and Drama in Martin Luthers Reformation|The Role of Music, Images, and Drama in Martin Luther’s Reformation]] |
-| 9 | - | - | [[#Exploring Integrity in the Christian Church written by Simon Robinson|Exploring Integrity in the Christian Church, written by Simon Robinson]] |
-| 10 | - | - | [[#Hearing Our Prayers An Exploration of Liturgical Listening written by Juliette J. Day|Hearing Our Prayers: An Exploration of Liturgical Listening, written by Juliette J. Day]] |
-| 11 | - | - | [[#An Intolerable Departure from Order Setting Mission and Ministry in Covenant in the Context of Anglican Ecumenical Agreements|‘An Intolerable Departure from Order’? Setting Mission and Ministry in Covenant in the Context of Anglican Ecumenical Agreements]] |
-| 12 | - | - | [[#Ruptured Bodies A Theology of the Church Divided written by Eugene R. Schlesinger|Ruptured Bodies: A Theology of the Church Divided, written by Eugene R. Schlesinger]] |
-| 13 | Systematic Theology | - | [[#Presbyter and Priest in Sacramental Perspective|Presbyter and Priest in Sacramental Perspective]] |
-| 14 | NT, Systematic Theology | - | [[#Revelation and the Word of God written by Paul Avis|Revelation and the Word of God, written by Paul Avis]] |
-| 15 | - | - | [[#What Future for the Anglican-Methodist Covenant|What Future for the Anglican-Methodist Covenant?]] |
-| 16 | - | - | [[#Contributors|Contributors]] |
-| 17 | Systematic Theology | Contemporary | [[#Rooted in and Routed through Christ Friendship in An Anglican-Methodist Covenant|Rooted in and Routed through Christ: Friendship in An Anglican-Methodist Covenant]] |
-| 18 | - | - | [[#Queering the Church The Theological and Ecclesial Potential of Failure written by Penelope Cowell Doe|Queering the Church: The Theological and Ecclesial Potential of Failure, written by Penelope Cowell Doe]] |
-| 19 | - | - | [[#The Covenant at Work  A First-hand Cumbrian Case-Study|The Covenant at Work – A First-hand Cumbrian Case-Study]] |
-| 20 | - | - | [[#Theology comes to the Aid of Human Existence|Theology comes to the Aid of Human Existence]] |
-| 21 | Systematic Theology | - | [[#Types of Ecclesiology Five Theological Approaches written by David Emerton|Types of Ecclesiology: Five Theological Approaches, written by David Emerton]] |
-| 22 | Systematic Theology | - | [[#Ecumenism at a Crossroads Critical Factors in the Reception of Mission and Ministry in Covenant|Ecumenism at a Crossroads: ‘Critical Factors’ in the Reception of Mission and Ministry in Covenant]] |
-| 23 | Systematic Theology | - | [[#Ecumenical Openness a Mark of the Church A Trinitarian Model of Baptismal Efficacy Discipleship and Ecclesial Belonging|Ecumenical Openness, a Mark of the Church? A Trinitarian Model of Baptismal Efficacy, Discipleship, and Ecclesial Belonging]] |
-| 24 | Systematic Theology | - | [[#Appropriating The Cambridge Platforms Neo-Congregational Polity|Appropriating The Cambridge Platform’s Neo-Congregational Polity]] |
-| 25 | Systematic Theology | Reformation | [[#Christ Present in Faith  and in the Church The Parallels between Tuomo Mannermaas and Dietrich Bonhoeffers Interpretations of Luthers Theological Ontology|Christ Present in Faith – and in the Church: The Parallels between Tuomo Mannermaa’s and Dietrich Bonhoeffer’s Interpretations of Luther’s Theological Ontology]] |
-| 26 | Practical Theology, Systematic Theology | - | [[#The Eucharist as a Sacrament of Mission|The Eucharist as a Sacrament of Mission]] |
+| 1 | - | - | [Front matter](#front-matter) |
+| 2 | - | - | [Contributors](#contributors) |
+| 3 | - | - | [Ecclesial Integrity](#ecclesial-integrity) |
+| 4 | - | - | [Giving the Church: The Christian Community Through the Looking Glass of Generosity, written by Michael Moynagh](#giving-the-church-the-christian-community-through-the-looking-glass-of-generosity-written-by-michael-moynagh) |
+| 5 | - | - | [Saving Memory and the Body of Christ: A Moral Liturgical Theology, written by Timothy F Sedgwick](#saving-memory-and-the-body-of-christ-a-moral-liturgical-theology-written-by-timothy-f-sedgwick) |
+| 6 | Systematic Theology | - | [Reformed Humanism: Essays on Christian Doctrine, Philosophy, and Church, written by David Fergusson](#reformed-humanism-essays-on-christian-doctrine-philosophy-and-church-written-by-david-fergusson) |
+| 7 | Ethics | - | [The Development of Anglican Moral Theology 1680–1950, written by Peter H. Sedgwick](#the-development-of-anglican-moral-theology-16801950-written-by-peter-h-sedgwick) |
+| 8 | Church History | Reformation | [The Role of Music, Images, and Drama in Martin Luther’s Reformation](#the-role-of-music-images-and-drama-in-martin-luthers-reformation) |
+| 9 | - | - | [Exploring Integrity in the Christian Church, written by Simon Robinson](#exploring-integrity-in-the-christian-church-written-by-simon-robinson) |
+| 10 | - | - | [Hearing Our Prayers: An Exploration of Liturgical Listening, written by Juliette J. Day](#hearing-our-prayers-an-exploration-of-liturgical-listening-written-by-juliette-j-day) |
+| 11 | - | - | [‘An Intolerable Departure from Order’? Setting Mission and Ministry in Covenant in the Context of Anglican Ecumenical Agreements](#an-intolerable-departure-from-order-setting-mission-and-ministry-in-covenant-in-the-context-of-anglican-ecumenical-agreements) |
+| 12 | - | - | [Ruptured Bodies: A Theology of the Church Divided, written by Eugene R. Schlesinger](#ruptured-bodies-a-theology-of-the-church-divided-written-by-eugene-r-schlesinger) |
+| 13 | Systematic Theology | - | [Presbyter and Priest in Sacramental Perspective](#presbyter-and-priest-in-sacramental-perspective) |
+| 14 | NT, Systematic Theology | - | [Revelation and the Word of God, written by Paul Avis](#revelation-and-the-word-of-god-written-by-paul-avis) |
+| 15 | - | - | [What Future for the Anglican-Methodist Covenant?](#what-future-for-the-anglican-methodist-covenant) |
+| 16 | - | - | [Contributors](#contributors) |
+| 17 | Systematic Theology | Contemporary | [Rooted in and Routed through Christ: Friendship in An Anglican-Methodist Covenant](#rooted-in-and-routed-through-christ-friendship-in-an-anglican-methodist-covenant) |
+| 18 | - | - | [Queering the Church: The Theological and Ecclesial Potential of Failure, written by Penelope Cowell Doe](#queering-the-church-the-theological-and-ecclesial-potential-of-failure-written-by-penelope-cowell-doe) |
+| 19 | - | - | [The Covenant at Work – A First-hand Cumbrian Case-Study](#the-covenant-at-work-a-first-hand-cumbrian-case-study) |
+| 20 | - | - | [Theology comes to the Aid of Human Existence](#theology-comes-to-the-aid-of-human-existence) |
+| 21 | Systematic Theology | - | [Types of Ecclesiology: Five Theological Approaches, written by David Emerton](#types-of-ecclesiology-five-theological-approaches-written-by-david-emerton) |
+| 22 | Systematic Theology | - | [Ecumenism at a Crossroads: ‘Critical Factors’ in the Reception of Mission and Ministry in Covenant](#ecumenism-at-a-crossroads-critical-factors-in-the-reception-of-mission-and-ministry-in-covenant) |
+| 23 | Systematic Theology | - | [Ecumenical Openness, a Mark of the Church? A Trinitarian Model of Baptismal Efficacy, Discipleship, and Ecclesial Belonging](#ecumenical-openness-a-mark-of-the-church-a-trinitarian-model-of-baptismal-efficacy-discipleship-and-ecclesial-belonging) |
+| 24 | Systematic Theology | - | [Appropriating The Cambridge Platform’s Neo-Congregational Polity](#appropriating-the-cambridge-platforms-neo-congregational-polity) |
+| 25 | Systematic Theology | Reformation | [Christ Present in Faith – and in the Church: The Parallels between Tuomo Mannermaa’s and Dietrich Bonhoeffer’s Interpretations of Luther’s Theological Ontology](#christ-present-in-faith-and-in-the-church-the-parallels-between-tuomo-mannermaas-and-dietrich-bonhoeffers-interpretations-of-luthers-theological-ontology) |
+| 26 | Practical Theology, Systematic Theology | - | [The Eucharist as a Sacrament of Mission](#the-eucharist-as-a-sacrament-of-mission) |
 
 ---
 
@@ -63,56 +63,56 @@ arc_score: 6
 
 ---
 
-### Giving the Church The Christian Community Through the Looking Glass of Generosity written by Michael Moynagh
+### Giving the Church: The Christian Community Through the Looking Glass of Generosity, written by Michael Moynagh
 - **DOI**: [10.1163/17455316-21010003](https://doi.org/10.1163/17455316-21010003)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Saving Memory and the Body of Christ A Moral Liturgical Theology written by Timothy F Sedgwick
+### Saving Memory and the Body of Christ: A Moral Liturgical Theology, written by Timothy F Sedgwick
 - **DOI**: [10.1163/17455316-21010004](https://doi.org/10.1163/17455316-21010004)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Reformed Humanism Essays on Christian Doctrine Philosophy and Church written by David Fergusson
+### Reformed Humanism: Essays on Christian Doctrine, Philosophy, and Church, written by David Fergusson
 - **DOI**: [10.1163/17455316-21010005](https://doi.org/10.1163/17455316-21010005)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Development of Anglican Moral Theology 16801950 written by Peter H. Sedgwick
+### The Development of Anglican Moral Theology 1680–1950, written by Peter H. Sedgwick
 - **DOI**: [10.1163/17455316-21010006](https://doi.org/10.1163/17455316-21010006)
 - **Analytical Tags**: `Ethics / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Role of Music Images and Drama in Martin Luthers Reformation
+### The Role of Music, Images, and Drama in Martin Luther’s Reformation
 - **DOI**: [10.1163/17455316-21010007](https://doi.org/10.1163/17455316-21010007)
 - **Analytical Tags**: `Church History / - / Reformation`
 - **Abstract**: No abstract available
 
 ---
 
-### Exploring Integrity in the Christian Church written by Simon Robinson
+### Exploring Integrity in the Christian Church, written by Simon Robinson
 - **DOI**: [10.1163/17455316-21010008](https://doi.org/10.1163/17455316-21010008)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Hearing Our Prayers An Exploration of Liturgical Listening written by Juliette J. Day
+### Hearing Our Prayers: An Exploration of Liturgical Listening, written by Juliette J. Day
 - **DOI**: [10.1163/17455316-21010009](https://doi.org/10.1163/17455316-21010009)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### An Intolerable Departure from Order Setting Mission and Ministry in Covenant in the Context of Anglican Ecumenical Agreements
+### ‘An Intolerable Departure from Order’? Setting Mission and Ministry in Covenant in the Context of Anglican Ecumenical Agreements
 - **DOI**: [10.1163/17455316-21020001](https://doi.org/10.1163/17455316-21020001)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -127,7 +127,7 @@ arc_score: 6
 
 ---
 
-### Ruptured Bodies A Theology of the Church Divided written by Eugene R. Schlesinger
+### Ruptured Bodies: A Theology of the Church Divided, written by Eugene R. Schlesinger
 - **DOI**: [10.1163/17455316-21020002](https://doi.org/10.1163/17455316-21020002)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -142,14 +142,14 @@ arc_score: 6
 
 ---
 
-### Revelation and the Word of God written by Paul Avis
+### Revelation and the Word of God, written by Paul Avis
 - **DOI**: [10.1163/17455316-21020004](https://doi.org/10.1163/17455316-21020004)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### What Future for the Anglican-Methodist Covenant
+### What Future for the Anglican-Methodist Covenant?
 - **DOI**: [10.1163/17455316-21020005](https://doi.org/10.1163/17455316-21020005)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
@@ -163,7 +163,7 @@ arc_score: 6
 
 ---
 
-### Rooted in and Routed through Christ Friendship in An Anglican-Methodist Covenant
+### Rooted in and Routed through Christ: Friendship in An Anglican-Methodist Covenant
 - **DOI**: [10.1163/17455316-21020007](https://doi.org/10.1163/17455316-21020007)
 - **Analytical Tags**: `Systematic Theology / - / Contemporary`
 - **Abstract**: Abstract
@@ -174,14 +174,14 @@ arc_score: 6
 
 ---
 
-### Queering the Church The Theological and Ecclesial Potential of Failure written by Penelope Cowell Doe
+### Queering the Church: The Theological and Ecclesial Potential of Failure, written by Penelope Cowell Doe
 - **DOI**: [10.1163/17455316-21020008](https://doi.org/10.1163/17455316-21020008)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### The Covenant at Work  A First-hand Cumbrian Case-Study
+### The Covenant at Work – A First-hand Cumbrian Case-Study
 - **DOI**: [10.1163/17455316-21020009](https://doi.org/10.1163/17455316-21020009)
 - **Analytical Tags**: `- / - / -`
 - **Abstract**: Abstract
@@ -196,14 +196,14 @@ arc_score: 6
 
 ---
 
-### Types of Ecclesiology Five Theological Approaches written by David Emerton
+### Types of Ecclesiology: Five Theological Approaches, written by David Emerton
 - **DOI**: [10.1163/17455316-21020011](https://doi.org/10.1163/17455316-21020011)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: No abstract available
 
 ---
 
-### Ecumenism at a Crossroads Critical Factors in the Reception of Mission and Ministry in Covenant
+### Ecumenism at a Crossroads: ‘Critical Factors’ in the Reception of Mission and Ministry in Covenant
 - **DOI**: [10.1163/17455316-21020012](https://doi.org/10.1163/17455316-21020012)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -211,7 +211,7 @@ arc_score: 6
 
 ---
 
-### Ecumenical Openness a Mark of the Church A Trinitarian Model of Baptismal Efficacy Discipleship and Ecclesial Belonging
+### Ecumenical Openness, a Mark of the Church? A Trinitarian Model of Baptismal Efficacy, Discipleship, and Ecclesial Belonging
 - **DOI**: [10.1163/17455316-bja10049](https://doi.org/10.1163/17455316-bja10049)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -219,7 +219,7 @@ The ecumenical movement, and particularly my own Roman Catholic Church, has made
 
 ---
 
-### Appropriating The Cambridge Platforms Neo-Congregational Polity
+### Appropriating The Cambridge Platform’s Neo-Congregational Polity
 - **DOI**: [10.1163/17455316-bja10050](https://doi.org/10.1163/17455316-bja10050)
 - **Analytical Tags**: `Systematic Theology / - / -`
 - **Abstract**: Abstract
@@ -227,7 +227,7 @@ This article argues that Baptists can learn, with regard to their practice of go
 
 ---
 
-### Christ Present in Faith  and in the Church The Parallels between Tuomo Mannermaas and Dietrich Bonhoeffers Interpretations of Luthers Theological Ontology
+### Christ Present in Faith – and in the Church: The Parallels between Tuomo Mannermaa’s and Dietrich Bonhoeffer’s Interpretations of Luther’s Theological Ontology
 - **DOI**: [10.1163/17455316-bja10051](https://doi.org/10.1163/17455316-bja10051)
 - **Analytical Tags**: `Systematic Theology / - / Reformation`
 - **Abstract**: Abstract
