@@ -13,13 +13,13 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | nan | nan | [[#Die Zukunft einer Rezensionszeitschrift. Verkündigung und Forschung im 70. Jahrgang]] |
+| 1 | - | - | [[#Die Zukunft einer Rezensionszeitschrift. Verkündigung und Forschung im 70. Jahrgang]] |
 
 ---
 
 ### Die Zukunft einer Rezensionszeitschrift. Verkündigung und Forschung im 70. Jahrgang
 - **DOI**: 10.14315/vf-2025-700101
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---

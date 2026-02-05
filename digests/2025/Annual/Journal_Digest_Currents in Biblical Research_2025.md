@@ -13,26 +13,26 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | NT | nan | [[#A Survey of Scholarship on Pauls Temple Language in 1 Corinthians]] |
-| 2 | nan | nan | [[#Lamentations in Recent Research 2013-2025]] |
-| 3 | OT | nan | [[#Utopian Studies and the Hebrew Bible]] |
-| 4 | nan | nan | [[#Editorial Foreword]] |
-| 5 | nan | nan | [[#Abbreviations]] |
-| 6 | OT | nan | [[#Death and Afterlife in Ancient Israel and the Hebrew Bible]] |
-| 7 | OT | nan | [[#The Role of Context in the Study of the Psalms]] |
-| 8 | nan | nan | [[#Editorial]] |
-| 9 | nan | nan | [[#Abbreviations]] |
-| 10 | OT | nan | [[#Septuagint Origins The State of the Question]] |
-| 11 | OT | nan | [[#Restoring the Whole Matthaean Discipleship in Recent Research]] |
-| 12 | OT | nan | [[#Migration and Refugee Studies as Interpretive Heuristics for the Hebrew Bible A Review of Recent Sch]] |
-| 13 | nan | nan | [[#Editorial Foreword]] |
-| 14 | nan | nan | [[#Abbreviations]] |
+| 1 | NT | - | [[#A Survey of Scholarship on Pauls Temple Language in 1 Corinthians]] |
+| 2 | - | - | [[#Lamentations in Recent Research 2013-2025]] |
+| 3 | OT | - | [[#Utopian Studies and the Hebrew Bible]] |
+| 4 | - | - | [[#Editorial Foreword]] |
+| 5 | - | - | [[#Abbreviations]] |
+| 6 | OT | - | [[#Death and Afterlife in Ancient Israel and the Hebrew Bible]] |
+| 7 | OT | - | [[#The Role of Context in the Study of the Psalms]] |
+| 8 | - | - | [[#Editorial]] |
+| 9 | - | - | [[#Abbreviations]] |
+| 10 | OT | - | [[#Septuagint Origins The State of the Question]] |
+| 11 | OT | - | [[#Restoring the Whole Matthaean Discipleship in Recent Research]] |
+| 12 | OT | - | [[#Migration and Refugee Studies as Interpretive Heuristics for the Hebrew Bible A Review of Recent Sch]] |
+| 13 | - | - | [[#Editorial Foreword]] |
+| 14 | - | - | [[#Abbreviations]] |
 
 ---
 
 ### A Survey of Scholarship on Pauls Temple Language in 1 Corinthians
 - **DOI**: 10.1177/1476993x241291573
-- **Analytical Tags**: `NT / nan / nan`
+- **Analytical Tags**: `NT / - / nan`
 - **Abstract**: <jats:p>The temple metaphor occupies a central place in 1 Corinthians. It appears in two chapters and is closely connected to several recurring themes across the letter. Both Jews and non-Jews in Paul’s audience had strong associations and experience with temples. In this article, we review how scholars have envisaged how Paul contextualized his message in this ethno-cultural and religious context. We also review studies on the connections that Paul’s temple motif has with other metaphors in the letter, such as wisdom, field, building, and body, and how they tie in together around the key themes, such as holiness and glory.</jats:p>
 
 ---
@@ -46,35 +46,35 @@ arc_score: 6
 
 ### Utopian Studies and the Hebrew Bible
 - **DOI**: 10.1177/1476993x251323283
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:p>Interest from biblical scholars in the concept of utopia and the discipline of utopian studies has steadily risen in the last 30 years. This article examines how these discussions have thus far taken place with regard to the Hebrew Bible. Chronologically surveying the small set of published works demonstrates that Hebrew Bible scholars are actively engaging with a variety of theories and definitions from utopian studies to inform their interpretations. This article highlights that while this discussion focuses on the books of Chronicles at present, there are further fruitful areas of research emerging from the current consultation at the Society of Biblical Literature (2021–2024), particularly an opportunity to consider biblical law as utopian.</jats:p>
 
 ---
 
 ### Editorial Foreword
 - **DOI**: 10.1177/1476993x251330970
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Abbreviations
 - **DOI**: 10.1177/1476993x251331088
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Death and Afterlife in Ancient Israel and the Hebrew Bible
 - **DOI**: 10.1177/1476993x251336248
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:p>Since the decipherment of hieroglyphics and cuneiform, scholars of the ancient Near East and Hebrew Bible have debated the ways in which the afterlife in ancient Israel compared to that of its neighbors. The debate focuses on how unique Israelite afterlife views really were. Older questions surrounding cults of the dead have been met with newer questions examining purity and impurity in burials, the place of women and children in the afterlife, and how grave goods functioned. The current consensus is that Israel had similar, but distinct practices that welcomed the entire family into a cult of the dead kin.</jats:p>
 
 ---
 
 ### The Role of Context in the Study of the Psalms
 - **DOI**: 10.1177/1476993x251345835
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:p>
             The Gunkelian mode of form-critical research exerted massive influence over the last century of Psalms scholarship. In Gunkel’s articulation of the approach, psalms were studied in the context of their genre types in an ultimate bid to locate their
             <jats:italic>Sitz im Leben</jats:italic>
@@ -85,21 +85,21 @@ arc_score: 6
 
 ### Editorial
 - **DOI**: 10.1177/1476993x251355699
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Abbreviations
 - **DOI**: 10.1177/1476993x251355701
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Septuagint Origins The State of the Question
 - **DOI**: 10.1177/1476993x251363598
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:p>
                     Significant developments have taken place in the study of Septuagint origins since Dorival’s 2010 survey on the topic. This essay first outlines Dorival’s findings before reviewing subsequent research across five key areas: (1) developments in the work of scholars surveyed by Dorival, (2) potential insights from the Herakleopolis
                     <jats:italic toggle="yes">politeuma</jats:italic>
@@ -110,28 +110,28 @@ arc_score: 6
 
 ### Restoring the Whole Matthaean Discipleship in Recent Research
 - **DOI**: 10.1177/1476993x251370757
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:p>The Matthaean Jesus characterizes his followers variously as prophets, righteous persons, disciples, wise men, and scribes (cf. Mt. 10.41-42; 23.34). References to these five discipleship identities are found throughout the Gospel and have been the subject of specialized reflections. This article seeks to highlight a tendency among scholars to prioritize one or two of the five identities, giving little attention to the various identities as a composite whole. In this context, this article calls for a more integrated approach to Matthaean discipleship in which each of the five identities is given due recognition.</jats:p>
 
 ---
 
 ### Migration and Refugee Studies as Interpretive Heuristics for the Hebrew Bible A Review of Recent Sch
 - **DOI**: 10.1177/1476993x251371077
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:p>This article traces recent trajectories of appeals to migration and refugee studies in the study of the Hebrew Bible and Old Testament. While the topics of migration and mobility have been central to biblical scholars’ investigations for more than five decades, applications of social scientific hermeneutics are relatively recent. This essay reviews English-language compositions that explicitly cite the work of scholars in the fields of mobility, migration, and refugee studies. The employment of migration studies as a heuristic framework by biblical scholars has often mirrored the composite nature of migration studies as an interdisciplinary field.</jats:p>
 
 ---
 
 ### Editorial Foreword
 - **DOI**: 10.1177/1476993x251383698
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Abbreviations
 - **DOI**: 10.1177/1476993x251383699
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---

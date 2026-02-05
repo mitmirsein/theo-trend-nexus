@@ -13,14 +13,14 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | Systematic Theology | nan | [[#Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedo]] |
-| 2 | nan | Patristic | [[#Book Review                    iThe Bible and Baptism The Fountain of Salvationi                    ]] |
+| 1 | Systematic Theology | - | [[#Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedo]] |
+| 2 | - | Patristic | [[#Book Review                    iThe Bible and Baptism The Fountain of Salvationi                    ]] |
 
 ---
 
 ### Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedo
 - **DOI**: 10.1177/10638512251387107
-- **Analytical Tags**: `Systematic Theology / nan / nan`
+- **Analytical Tags**: `Systematic Theology / - / nan`
 - **Abstract**: <jats:p>
                     Steven Duby repeatedly insists on a conception of divine aseity that maintains God's being is complete without reference to another, such that his being neither entails nor precludes the existence of the world. He argues that the “specification” of God's decretive “tendency” toward creation cannot be considered an ingredient of the divine
                     <jats:italic toggle="yes">actus purus</jats:italic>
@@ -31,7 +31,7 @@ arc_score: 6
 
 ### Book Review                    iThe Bible and Baptism The Fountain of Salvationi                    
 - **DOI**: 10.1177/10638512251404361
-- **Analytical Tags**: `nan / nan / Patristic`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / Patristic`
+- **Abstract**: (Not available)
 
 ---

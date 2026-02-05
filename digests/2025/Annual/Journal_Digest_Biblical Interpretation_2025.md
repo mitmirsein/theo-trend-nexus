@@ -13,38 +13,38 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | nan | nan | [[#A Considerable Disturbance in the Holy Place Ritual Mourning as Efficacious Spatial Subversion in 3 ]] |
-| 2 | nan | nan | [[#Jesuss Sorrow Matt. 26.378 Exploring the Connotations of a Tabooed Emotion]] |
-| 3 | nan | nan | [[#Forgetting the Covenant of Her God]] |
-| 4 | OT | nan | [[#A Woman a Snake and a Bear-Woman An Intertextual Reading of the Garden of Eden Story gen 24b324 In R]] |
-| 5 | nan | nan | [[#Back matter]] |
-| 6 | nan | nan | [[#Priestly Politics]] |
-| 7 | NT, OT | nan | [[#Kissing in the Hebrew Bible The Body Makes the Bond]] |
-| 8 | NT, Systematic Theology | nan | [[#Re-Romanization in the Heavenly City World Wars Global Cities and Proto-Capitalism in the Book of Re]] |
-| 9 | OT | nan | [[#Ghosts of the Remnant]] |
-| 10 | NT | nan | [[#Habitus and Hope The Function of Early Christian Ritual Practice]] |
-| 11 | OT | nan | [[#Who is Wise to Understand this Interpreting Hosea 1410 through the Lens of the Hermeneutic of Trauma]] |
-| 12 | NT | nan | [[#An Ethnolinguistic Repertoire for the Kingdom The Sociolinguistic Function of Aramaic in Galatians 4]] |
-| 13 | NT, OT | nan | [[#Rizpah Grieving the Ungrievable 2 Sam. 21114]] |
-| 14 | nan | nan | [[#Growing Up in a Foreign Land. A Narrative Analysis from a Childist Perspective of Hananiah Mishael a]] |
-| 15 | nan | nan | [[#In Memoriam  J. Cheryl Exum19462024]] |
-| 16 | nan | nan | [[#Biblical Interpretation Reading List]] |
-| 17 | nan | nan | [[#Front matter]] |
-| 18 | nan | nan | [[#Twenty More Years of Bible and Film An Introduction]] |
-| 19 | nan | nan | [[#The Perils of Jephthahs Daughter Biblical Films as Social Problem-Solving Operations]] |
-| 20 | NT | nan | [[#The Wind Blows Where It Wishes]] |
-| 21 | nan | nan | [[#Trust and Type in Jesus Films]] |
+| 1 | - | - | [[#A Considerable Disturbance in the Holy Place Ritual Mourning as Efficacious Spatial Subversion in 3 ]] |
+| 2 | - | - | [[#Jesuss Sorrow Matt. 26.378 Exploring the Connotations of a Tabooed Emotion]] |
+| 3 | - | - | [[#Forgetting the Covenant of Her God]] |
+| 4 | OT | - | [[#A Woman a Snake and a Bear-Woman An Intertextual Reading of the Garden of Eden Story gen 24b324 In R]] |
+| 5 | - | - | [[#Back matter]] |
+| 6 | - | - | [[#Priestly Politics]] |
+| 7 | NT, OT | - | [[#Kissing in the Hebrew Bible The Body Makes the Bond]] |
+| 8 | NT, Systematic Theology | - | [[#Re-Romanization in the Heavenly City World Wars Global Cities and Proto-Capitalism in the Book of Re]] |
+| 9 | OT | - | [[#Ghosts of the Remnant]] |
+| 10 | NT | - | [[#Habitus and Hope The Function of Early Christian Ritual Practice]] |
+| 11 | OT | - | [[#Who is Wise to Understand this Interpreting Hosea 1410 through the Lens of the Hermeneutic of Trauma]] |
+| 12 | NT | - | [[#An Ethnolinguistic Repertoire for the Kingdom The Sociolinguistic Function of Aramaic in Galatians 4]] |
+| 13 | NT, OT | - | [[#Rizpah Grieving the Ungrievable 2 Sam. 21114]] |
+| 14 | - | - | [[#Growing Up in a Foreign Land. A Narrative Analysis from a Childist Perspective of Hananiah Mishael a]] |
+| 15 | - | - | [[#In Memoriam  J. Cheryl Exum19462024]] |
+| 16 | - | - | [[#Biblical Interpretation Reading List]] |
+| 17 | - | - | [[#Front matter]] |
+| 18 | - | - | [[#Twenty More Years of Bible and Film An Introduction]] |
+| 19 | - | - | [[#The Perils of Jephthahs Daughter Biblical Films as Social Problem-Solving Operations]] |
+| 20 | NT | - | [[#The Wind Blows Where It Wishes]] |
+| 21 | - | - | [[#Trust and Type in Jesus Films]] |
 | 22 | NT, Systematic Theology | Contemporary | [[#Re-forming Romans with First Reformed]] |
-| 23 | OT | nan | [[#Impious Frauds Found Footage Horror and the Book of Deuteronomy]] |
-| 24 | nan | nan | [[#The Monster Delilah and Liberation in The Shape of Water]] |
-| 25 | OT | nan | [[#Us and the Tethered of Genesis]] |
-| 26 | OT | nan | [[#Get Out of Eden]] |
+| 23 | OT | - | [[#Impious Frauds Found Footage Horror and the Book of Deuteronomy]] |
+| 24 | - | - | [[#The Monster Delilah and Liberation in The Shape of Water]] |
+| 25 | OT | - | [[#Us and the Tethered of Genesis]] |
+| 26 | OT | - | [[#Get Out of Eden]] |
 
 ---
 
 ### A Considerable Disturbance in the Holy Place Ritual Mourning as Efficacious Spatial Subversion in 3 
 - **DOI**: 10.1163/15685152-20241796
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>In 3 Maccabees, the timely prayers of two priests, Simon and Eleazar, save the people and their various holy spaces. However, one related ritual element that is often overlooked is the socially disruptive mourning rites of vulnerable women. These performances immediately precede both highly efficacious prayers and accompany the arrests of those Jewish people who resisted Ptolemy’s decree. The cities, their various urban social functions, childcare, and marital rituals are all disrupted in a hyperbolic description of the disorder caused by Ptolemy’s wanton attacks on explicitly Jewish spaces. In all three cases, the texts present a highly stylized description of mourning performed in ways that disrupt and subvert the spatial expectations of the urban environs of the narrative’s setting. This disorder is best understood as a ritual focusing that leads to the dramatic prayers of the two priests that counteract Ptolemy’s spatial trespasses.</jats:p>
 
@@ -52,7 +52,7 @@ arc_score: 6
 
 ### Jesuss Sorrow Matt. 26.378 Exploring the Connotations of a Tabooed Emotion
 - **DOI**: 10.1163/15685152-20241851
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>The attribution of λύπη to Jesus in Matthew’s Gethsemane (26.37–38) – typically translated as ‘sorrow’ or ‘grief’ – is often understood as an attempt to humanize Jesus’s anguish with a relatively benign emotion. However, interpreters rarely offer detailed analyses of the term or its connotations, particularly its physical intensity and how it readily triggered condemnation. This article employs semantic theory and affect theory to gain a fuller perspective on Jesus’s λύπη. It surveys the use of λυπ- words in ancient sources, classifies Jesus’s λύπη as ‘deep despair’, and highlights how the emotion was widely regarded as unacceptable for an honorable person, let alone a messiah. Finally, it traces allusions to the emotion within the passion narrative and offers suggestions for interpretation, including the irony that Jesus’s seemingly irredeemable qualities allow him to identify with those in emotional turmoil and more fully become Israel’s Immanuel.</jats:p>
 
@@ -60,7 +60,7 @@ arc_score: 6
 
 ### Forgetting the Covenant of Her God
 - **DOI**: 10.1163/15685152-20241871
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>Three main proposals have been put forward for how to understand the covenant of the foreign woman’s God in Prov. 2:17: (1) the marriage covenant; (2) a covenant with her foreign god; or (3) the covenant with Yhwh, usually specified as the Sinai covenant. In this essay it is argued that the Sinai covenant is indeed in view, but that to properly square this with the fact that the woman is in fact depicted as “foreign” requires further explanation. It is argued that, with due attention to the socio-political and religious dynamics of the late Persian period (when Proverbs 1–9 is widely agreed to have been written), along with a robust understanding of the constructed nature of ethnic foreignness, emerging tensions between Judah and Samaria in the late Persian period provide a probable scenario for seeing how this was so.</jats:p>
 
@@ -68,7 +68,7 @@ arc_score: 6
 
 ### A Woman a Snake and a Bear-Woman An Intertextual Reading of the Garden of Eden Story gen 24b324 In R
 - **DOI**: 10.1163/15685152-20241877
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>This article seeks an alternative interpretation of the Garden of Eden story by reading it intertextually with a Korean origin myth, <jats:italic>Dangun Shinhwa</jats:italic>. Reflecting the animistic Korean indigenous culture, the myth portrays fluid boundaries between humans, animals, and gods, serving to undermine commonly anthropocentric and androcentric interpretations of the biblical story. Cued by animistic aspects of <jats:italic>Dangun Shinhwa</jats:italic>, the first part of the article rereads Genesis 2 through animism, leading to different interpretations of the characters—human and nonhuman beings and God—and the ontology of their world. Thus informed, the second part reads Gen 3 alongside <jats:italic>Dangun Shinhwa</jats:italic>, which features a bear who becomes a woman and later the mother of Korean people. The reading yields an alternative meaning to the familiar story about the human loss of connections and soul unawareness, foretelling the tragedy of today’s carno-phallogocentric world.</jats:p>
 
@@ -76,14 +76,14 @@ arc_score: 6
 
 ### Back matter
 - **DOI**: 10.1163/15685152-20250010
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Priestly Politics
 - **DOI**: 10.1163/15685152-20251848
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>According to some scholarly consensus, the Priestly writings advance privilege and power for a group of established priests. From a political perspective, representatives of this consensus see in the Priestly writings the promotion of a centralized sociopolitical order, with priests holding political control over the Achaemenid province of Yehud, or at least attempting to do so. This article analyses two important concepts used in this characterization: hegemony and theocracy. From a more precise definition of hegemony, as found in Antonio Gramsci’s work, and theocracy, as coined by Flavius Josephus, this article shows that Priestly cultic instructions align well with the utopian and democratizing ideals that serve as a critique of every form of centralized systems of power.</jats:p>
 
@@ -91,7 +91,7 @@ arc_score: 6
 
 ### Kissing in the Hebrew Bible The Body Makes the Bond
 - **DOI**: 10.1163/15685152-20251861
-- **Analytical Tags**: `NT;OT / nan / nan`
+- **Analytical Tags**: `NT;OT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>This article explores the role of kissing (root <jats:italic>nashaq</jats:italic>) in the cultural imagination of the Hebrew Bible. Informed by current research in neuroscience and the history of emotions, it problematizes the prevailing assumption in biblical scholarship that kissing is a manifestation of love and affection. Biblical texts never explicitly present kissing as the expression of an emotion. The article examines the movements, body parts, and sensory experiences involved in kissing. As a full-body movement and close contact that heighten the sensory perception of the other, it is usually a unilateral practice that enacts social roles and shapes bonds. In biblical imaginations of kissing, cultural attention generally focuses on what bodies do and how they shape social dynamics. In line with the biblical construction of emotions, typically understood as embodied and social practices, kissing should not automatically be viewed as a manifestation of an internal state.</jats:p>
 
@@ -115,7 +115,7 @@ arc_score: 6
 
 ### Habitus and Hope The Function of Early Christian Ritual Practice
 - **DOI**: 10.1163/15685152-20251898
-- **Analytical Tags**: `NT / nan / nan`
+- **Analytical Tags**: `NT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>This contribution starts with the controversy regarding the problem of the delay of the Parousia in early Christianity and asks which processes have continually renewed and strengthened hope of Christ-followers for the future. In the early Christian ritual participation, the <jats:italic>habitus</jats:italic> of those involved was shaped. An identity is embodied though <jats:italic>mimesis</jats:italic>, which contributes toward forming values and norms of a group. In the main part of this investigation, with the help of a socio-cognitive approach, the ritual of the Eucharist is explored within early Christian literature from the New Testament times for the purpose of investigating the embodiment of eschatological hope. In the ritual process, hope about the future is ritualized through repetition, embodiment, and experienced emotions. Continual ritual participation strengthens future hope, so an active Parousia expectation is regularly confirmed and can in such a way be transmitted from one generation to the next.</jats:p>
 
@@ -123,7 +123,7 @@ arc_score: 6
 
 ### Who is Wise to Understand this Interpreting Hosea 1410 through the Lens of the Hermeneutic of Trauma
 - **DOI**: 10.1163/15685152-20251911
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>The epilogue of the Book of Hosea (Hosea 14:10 [Eng. 14:9]) presents a challenge for interpreters. This epilogue implies that the book contains elements that are difficult to comprehend and that only a wise reader can fully grasp its message. This article employs the hermeneutic of trauma as the primary method of analysis. By examining the relationship between Israel and Judah the author concludes that the two kingdoms were in a near-constant state of conflict. This hostility reached its peak during the Syro-Ephraimite War. These strained relations, particularly the Syro-Ephraimite conflict, likely had a profound traumatic effect on the people of Judah, leading them to view their northern neighbors with animosity and even hatred. Regarding the message of the Book of Hosea, it concludes on a hopeful note, promising restoration for Israel. This positive conclusion would likely have been met with rejection and confusion by the people of Judah. In response to this anticipated misunderstanding, the author adds the epilogue, emphasizing that only the wise can understand God’s redemptive love. In conclusion, the application of this analysis to the dating of Hosea 14 is done.</jats:p>
 
@@ -131,7 +131,7 @@ arc_score: 6
 
 ### An Ethnolinguistic Repertoire for the Kingdom The Sociolinguistic Function of Aramaic in Galatians 4
 - **DOI**: 10.1163/15685152-20251915
-- **Analytical Tags**: `NT / nan / nan`
+- **Analytical Tags**: `NT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>This research proposes a sociolinguistic function for the inclusion of Aramaic in Paul’s letter to the Galatians 4:6, noted by the word, <jats:italic>abba</jats:italic>. It suggests that this word is a purposeful demonstration of covenantal identity construction by Paul to his Galatian followers. This research follows other recent studies which suggest an eschatological Israelite identity for believers in the Christ-believing messianic communities of the Diaspora. The letter to the Galatians contains linguistic elements that were meant to show the Galatians how to express this religious identity through the use of marked linguistic varieties, understood in the Diaspora to correspond to Jewish religious communities. In this reading, the word, <jats:italic>abba</jats:italic>, highlights the Gentiles’ covenantal membership in the Abrahamic family through the use of a marked linguistic token, which should be understood as part of their ethnolinguistic repertoire from which they could select elements to construct their identities.</jats:p>
 
@@ -139,7 +139,7 @@ arc_score: 6
 
 ### Rizpah Grieving the Ungrievable 2 Sam. 21114
 - **DOI**: 10.1163/15685152-20251923
-- **Analytical Tags**: `NT;OT / nan / nan`
+- **Analytical Tags**: `NT;OT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
 <jats:p>The brief story of Rizpah in 2 Samuel 21 has attracted little scholarly interest but carries important commentary on the exercise of David’s reign. Enlisting a conceptual framework from Judith Butler’s <jats:italic>Precarious Life</jats:italic>, I argue that Rizpah enacts the grieving of lives hitherto designated ungrievable and draws them to public attention. This paper compares the execution and exposure of the seven to other accounts of the handling of the dead, both enemy and ally, most notably kings’ sons, in the book of Samuel. Rizpah’s mourning tableau stops the derealization of loss, forces the return of their intact remains, gathering them into their relational place, and re-inscribing them as members of the people of Israel. The conclusion draws comparisons with traditions from Deuteronomy, supporting the conclusion of Walter Brueggemann that the Rizpah story, seen as part of an editorial appendix, provides a subversive critique of Judahite kingship.</jats:p>
 
@@ -155,28 +155,28 @@ arc_score: 6
 
 ### In Memoriam  J. Cheryl Exum19462024
 - **DOI**: 10.1163/15685152-20253300
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Biblical Interpretation Reading List
 - **DOI**: 10.1163/15685152-20253302
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Front matter
 - **DOI**: 10.1163/15685152-33010000
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Twenty More Years of Bible and Film An Introduction
 - **DOI**: 10.1163/15685152-33450001
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     This special present double issue of
@@ -188,7 +188,7 @@ arc_score: 6
 
 ### The Perils of Jephthahs Daughter Biblical Films as Social Problem-Solving Operations
 - **DOI**: 10.1163/15685152-33450002
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     Between 1909 and 1913, four major studios released films retelling the story of Jephthah and his daughter in Judges 11. All four films depict the biblical tale as a melodrama—a classic genre in film studies. This article argues that, despite sharing a common genre, these films exhibit distinct ideological perspectives. Focusing on the first and last films—Vitagraph’s
@@ -202,7 +202,7 @@ arc_score: 6
 
 ### The Wind Blows Where It Wishes
 - **DOI**: 10.1163/15685152-33450003
-- **Analytical Tags**: `NT / nan / nan`
+- **Analytical Tags**: `NT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     Robert Bresson’s
@@ -218,7 +218,7 @@ arc_score: 6
 
 ### Trust and Type in Jesus Films
 - **DOI**: 10.1163/15685152-33450004
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     What types of media do we trust to tell the truth? How can cinematic technique promote or wear down such trust? As they re-tell ancient stories about Jesus, both
@@ -236,7 +236,7 @@ arc_score: 6
 
 ### Re-forming Romans with First Reformed
 - **DOI**: 10.1163/15685152-33450005
-- **Analytical Tags**: `NT;Systematic Theology / nan / Contemporary`
+- **Analytical Tags**: `NT;Systematic Theology / - / Contemporary`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     <jats:italic>First Reformed</jats:italic>
@@ -249,7 +249,7 @@ arc_score: 6
 
 ### Impious Frauds Found Footage Horror and the Book of Deuteronomy
 - **DOI**: 10.1163/15685152-33450006
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     <jats:italic>The Blair Witch Project</jats:italic>
@@ -274,7 +274,7 @@ arc_score: 6
 
 ### Us and the Tethered of Genesis
 - **DOI**: 10.1163/15685152-33450008
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     In Jordan Peele’s 2019 film
@@ -288,7 +288,7 @@ arc_score: 6
 
 ### Get Out of Eden
 - **DOI**: 10.1163/15685152-33450009
-- **Analytical Tags**: `OT / nan / nan`
+- **Analytical Tags**: `OT / - / nan`
 - **Abstract**: <jats:title>Abstract</jats:title>
                   <jats:p>
                     This article demonstrates that

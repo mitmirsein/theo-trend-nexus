@@ -13,39 +13,39 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | Ethics, OT, Practical Theology | nan | [[#Beyond Binaries Gender-Based Violence Survivors Rethreading Embodied Healing and Redefining Accompan]] |
+| 1 | Ethics, OT, Practical Theology | - | [[#Beyond Binaries Gender-Based Violence Survivors Rethreading Embodied Healing and Redefining Accompan]] |
 | 2 | Ethics | Reformation | [[#A Call to Action Embracing Liberation Ecumenism in the Struggle Against Fundamentalism in Latin Amer]] |
-| 3 | nan | nan | [[#Book Review The Dark Womb Re-Conceiving Theology Through Reproductive Loss]] |
-| 4 | Ethics | nan | [[#Liberating Justice Interpreting Lukes Parable of the Widow and the Judge in Light of Norm Theory and]] |
-| 5 | NT, Systematic Theology | nan | [[#Incarnation Dunamis amp Entanglement Is it Enough to Save the Planet]] |
+| 3 | - | - | [[#Book Review The Dark Womb Re-Conceiving Theology Through Reproductive Loss]] |
+| 4 | Ethics | - | [[#Liberating Justice Interpreting Lukes Parable of the Widow and the Judge in Light of Norm Theory and]] |
+| 5 | NT, Systematic Theology | - | [[#Incarnation Dunamis amp Entanglement Is it Enough to Save the Planet]] |
 | 6 | Systematic Theology | Contemporary | [[#Rethinking Theological Anthropology From the Notion of Imago Trinitatis Postcolonial and Feminist In]] |
-| 7 | nan | nan | [[#Editorial]] |
-| 8 | nan | nan | [[#Book Review Toward a Bai Theology. Catholic Feminism in the Philippines]] |
-| 9 | nan | nan | [[#Bleed and Blood An Indian Anathema]] |
-| 10 | nan | nan | [[#Book Review WoMen Scripture and Politics Exploring the Cultural Imprint of the Bible]] |
-| 11 | nan | nan | [[#Authoring a Muslim Feminist Self Through Travel Writing Reclaiming Agency Through Islam]] |
-| 12 | nan | nan | [[#Lang May yer Lum Reek A Queered Scottish Theological Indigenous Landscape]] |
-| 13 | nan | nan | [[#Settler Feminist Theology The Potential for Postcoloniality]] |
-| 14 | Ethics | nan | [[#Reimagining Ecotheology From Indigenous Perspective]] |
-| 15 | nan | nan | [[#Trump 2.0 Facing the Future as Feminist Theologians]] |
-| 16 | nan | Contemporary | [[#Thicc Theologies Save Lives]] |
-| 17 | nan | nan | [[#Ancestral Cosmological Spiritualities in Abya Yala]] |
-| 18 | nan | nan | [[#Black Red and Blue The Potential for Developing a Contextual Welsh Theology Through Insights From In]] |
-| 19 | nan | nan | [[#Editorial]] |
-| 20 | nan | nan | [[#Book Review Theology and Religion. Why it Matters WardGraham Theology and Religion. Why it Matters C]] |
-| 21 | nan | nan | [[#Book Review Theopoetics in Color Embodied Approaches in Theological Discourse OredeinOluwatomisin Ol]] |
-| 22 | nan | nan | [[#Interview with Dr Karen ODonnell]] |
-| 23 | nan | nan | [[#Book Review No Matter What. Crisis and the Spirit of Planetary Possibility No Matter What. Crisis an]] |
-| 24 | nan | nan | [[#Agnes Maude Royden 18761956 Campaigner for Womens Suffrage and Ordination]] |
-| 25 | nan | nan | [[#Reading the Text of Judges 191-30 from the Perspective of Grace Ji-Sun Kims Theology of Intersection]] |
-| 26 | NT | nan | [[#Humanising the Dehumanised Kavita Kanés reconstruction of the Great Epic]] |
-| 27 | nan | nan | [[#My Body My Mine Sumba Womens Authority Over Their Bodies and Sexuality]] |
-| 28 | Ethics | nan | [[#Theology and Masculinity Developments 25 Years on]] |
-| 29 | nan | nan | [[#Untangling the Patriarchal Knots Transformative Power of Feminist Poetry in Ambika Ananths Cascades]] |
-| 30 | NT | nan | [[#Book Review Sexism in Major Religions. A Comparative Introduction GwynnePaul Sexism in Major Religio]] |
-| 31 | nan | nan | [[#Does Islam have a Place in Gender Equality Perspectives from Muslim Feminism and Secular Feminism]] |
-| 32 | nan | nan | [[#Book Review Revolt Against Theocracy. The Mahsa Movement and the Feminist Uprising in Iran Khosrokha]] |
-| 33 | nan | nan | [[#Editorial]] |
+| 7 | - | - | [[#Editorial]] |
+| 8 | - | - | [[#Book Review Toward a Bai Theology. Catholic Feminism in the Philippines]] |
+| 9 | - | - | [[#Bleed and Blood An Indian Anathema]] |
+| 10 | - | - | [[#Book Review WoMen Scripture and Politics Exploring the Cultural Imprint of the Bible]] |
+| 11 | - | - | [[#Authoring a Muslim Feminist Self Through Travel Writing Reclaiming Agency Through Islam]] |
+| 12 | - | - | [[#Lang May yer Lum Reek A Queered Scottish Theological Indigenous Landscape]] |
+| 13 | - | - | [[#Settler Feminist Theology The Potential for Postcoloniality]] |
+| 14 | Ethics | - | [[#Reimagining Ecotheology From Indigenous Perspective]] |
+| 15 | - | - | [[#Trump 2.0 Facing the Future as Feminist Theologians]] |
+| 16 | - | Contemporary | [[#Thicc Theologies Save Lives]] |
+| 17 | - | - | [[#Ancestral Cosmological Spiritualities in Abya Yala]] |
+| 18 | - | - | [[#Black Red and Blue The Potential for Developing a Contextual Welsh Theology Through Insights From In]] |
+| 19 | - | - | [[#Editorial]] |
+| 20 | - | - | [[#Book Review Theology and Religion. Why it Matters WardGraham Theology and Religion. Why it Matters C]] |
+| 21 | - | - | [[#Book Review Theopoetics in Color Embodied Approaches in Theological Discourse OredeinOluwatomisin Ol]] |
+| 22 | - | - | [[#Interview with Dr Karen ODonnell]] |
+| 23 | - | - | [[#Book Review No Matter What. Crisis and the Spirit of Planetary Possibility No Matter What. Crisis an]] |
+| 24 | - | - | [[#Agnes Maude Royden 18761956 Campaigner for Womens Suffrage and Ordination]] |
+| 25 | - | - | [[#Reading the Text of Judges 191-30 from the Perspective of Grace Ji-Sun Kims Theology of Intersection]] |
+| 26 | NT | - | [[#Humanising the Dehumanised Kavita Kanés reconstruction of the Great Epic]] |
+| 27 | - | - | [[#My Body My Mine Sumba Womens Authority Over Their Bodies and Sexuality]] |
+| 28 | Ethics | - | [[#Theology and Masculinity Developments 25 Years on]] |
+| 29 | - | - | [[#Untangling the Patriarchal Knots Transformative Power of Feminist Poetry in Ambika Ananths Cascades]] |
+| 30 | NT | - | [[#Book Review Sexism in Major Religions. A Comparative Introduction GwynnePaul Sexism in Major Religio]] |
+| 31 | - | - | [[#Does Islam have a Place in Gender Equality Perspectives from Muslim Feminism and Secular Feminism]] |
+| 32 | - | - | [[#Book Review Revolt Against Theocracy. The Mahsa Movement and the Feminist Uprising in Iran Khosrokha]] |
+| 33 | - | - | [[#Editorial]] |
 
 ---
 
@@ -58,28 +58,28 @@ arc_score: 6
 
 ### A Call to Action Embracing Liberation Ecumenism in the Struggle Against Fundamentalism in Latin Amer
 - **DOI**: 10.1177/09667350241298628
-- **Analytical Tags**: `Ethics / nan / Reformation`
+- **Analytical Tags**: `Ethics / - / Reformation`
 - **Abstract**: <jats:p> This article aims to analyze the rise of fundamentalism in Latin America in recent decades and reflect on how reclaiming the roots of the region’s liberation ecumenism can serve as a crucial tool in combating this phenomenon. First, it examines how religious fundamentalism has been employed as a strategy of neocolonialism in the region. Next, the article explores how Liberation Ecumenism—an alliance between Christian churches and social movements—played a vital role in resisting dictatorships across Latin America. Through concrete examples, it demonstrates how this approach facilitated both the articulation and mobilization of social and political forces to fight authoritarian regimes, promote social justice, and defend human rights. The article then highlights recent initiatives by the Abya Yala Articulation, a movement that unites popular groups such as Brazil’s Landless Workers’ Movement with ecumenical centers like the Martin Luther King Center in Cuba and the Center for Education, Training, and Research for Peasants in Argentina. The Abya Yala Articulation seeks to propose concrete and collective actions to confront fundamentalisms, deepen the theoretical understanding of this phenomenon, and consolidate a group focused on international political and ecumenical coordination. Based on these reflections, the article aims to stimulate debate on the significance of Liberation Ecumenism in combating fundamentalism in Latin America and how this approach can contribute to the construction of a more just and equitable society in the region. </jats:p>
 
 ---
 
 ### Book Review The Dark Womb Re-Conceiving Theology Through Reproductive Loss
 - **DOI**: 10.1177/09667350241298631
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Liberating Justice Interpreting Lukes Parable of the Widow and the Judge in Light of Norm Theory and
 - **DOI**: 10.1177/09667350241298633
-- **Analytical Tags**: `Ethics / nan / nan`
+- **Analytical Tags**: `Ethics / - / nan`
 - **Abstract**: <jats:p> This article analyzes sociological underpinnings and implications of Luke’s parable of the widow and judge (Lk. 18.2-5) by reading it through the lens of norm theory. It uses the predicament of modern women politicians as norm violators within masculinized political spaces to shed light on the interaction between the widow and the judge. The judge, like male politicians interested in maintaining their privilege within normative structures, responds negatively to the widow’s display of agency. The widow, like today’s female politicians, is a “trendsetter,” a person who defies convention to spearhead new behavior. Her resistance to social sanctions models successful deviance and serves as an example to the parable’s audience of how to actively resist maladaptive social norms in order to shift society toward greater justice. </jats:p>
 
 ---
 
 ### Incarnation Dunamis amp Entanglement Is it Enough to Save the Planet
 - **DOI**: 10.1177/09667350241298634
-- **Analytical Tags**: `NT;Systematic Theology / nan / nan`
+- **Analytical Tags**: `NT;Systematic Theology / - / nan`
 - **Abstract**: <jats:p> I will examine a central doctrine of Christianity, incarnation, in the light of Catherine Keller’s theology of entanglement. I will argue that joining these two concepts together moves Christian theology beyond the idea of universal love. It grounds incarnation in the flesh and blood of all creation through the dunamis of which Jesus spoke which he said was the birthright of all. Dunamis draws us out towards others, while the notion of entanglement based in Paul’s idea of God being all in all, leads to a more personal enfleshed encounter with all that lives-human and nonhuman. Entanglement is the very ground of our being and the article will argue that by becoming more aware of this through touch and an open heart we can stop destroying our home and may even aid its renewed flourishing. </jats:p>
 
 ---
@@ -93,15 +93,15 @@ arc_score: 6
 
 ### Editorial
 - **DOI**: 10.1177/09667350241298639
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Book Review Toward a Bai Theology. Catholic Feminism in the Philippines
 - **DOI**: 10.1177/09667350241298640
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
@@ -114,8 +114,8 @@ arc_score: 6
 
 ### Book Review WoMen Scripture and Politics Exploring the Cultural Imprint of the Bible
 - **DOI**: 10.1177/09667350241298647
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
@@ -128,7 +128,7 @@ arc_score: 6
 
 ### Lang May yer Lum Reek A Queered Scottish Theological Indigenous Landscape
 - **DOI**: 10.1177/09667350251327100
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:p>There is a profound current within the Scottish psyche (as much for individuals as for nation) which looks deeply in towards that place where the core, authentic self can be found. For new friends and old, the Scottish heart desires that this core should find succour; provision for the energy that is required in order to self-actualise and ‘become’. It is a blessing offered over whisky, in front of peaty hearths, late at night, in liminal spaces.</jats:p>
 
 ---
@@ -150,20 +150,20 @@ arc_score: 6
 ### Trump 2.0 Facing the Future as Feminist Theologians
 - **DOI**: 10.1177/09667350251327107
 - **Analytical Tags**: `nan / Method / nan`
-- **Abstract**: nan
+- **Abstract**: (Not available)
 
 ---
 
 ### Thicc Theologies Save Lives
 - **DOI**: 10.1177/09667350251327109
-- **Analytical Tags**: `nan / nan / Contemporary`
+- **Analytical Tags**: `nan / - / Contemporary`
 - **Abstract**: <jats:p>The Christian tradition has long presented the ideal Christian woman as slender, serene, and fertile. In this article, I demonstrate that this is both a historical trope and a contemporary reality. Drawing on my own autoethnographic reflections of my experience in conservative Christian circles, I articulate the problems being emotional, infertile, and fat caused in this context. I turn to the Shulammite woman in the Song of Songs as offering a model for a body-loving revolution that might enable the development of thicc theologies – theologies that delight in abundance and embodiedness and resist patriarchal and colonial dominations – that might just save (spiritual) lives.</jats:p>
 
 ---
 
 ### Ancestral Cosmological Spiritualities in Abya Yala
 - **DOI**: 10.1177/09667350251327110
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:p>In the article, I present the ancestral spiritualities of Abya Yala as a living tissue of reciprocal relationships that restore balance and harmony based on the wisdom of nurturing life. This involves the awakening of the cosmic consciousness that makes possible the reconstitution of the human uprooting of its link and interaction in the fabric of life that is named in the Andean peoples as Pachamama, which has different names in each people.</jats:p>
 
 ---
@@ -177,42 +177,42 @@ arc_score: 6
 
 ### Editorial
 - **DOI**: 10.1177/09667350251327114
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Book Review Theology and Religion. Why it Matters WardGraham Theology and Religion. Why it Matters C
 - **DOI**: 10.1177/09667350251327118
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Book Review Theopoetics in Color Embodied Approaches in Theological Discourse OredeinOluwatomisin Ol
 - **DOI**: 10.1177/09667350251327121
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Interview with Dr Karen ODonnell
 - **DOI**: 10.1177/09667350251327126
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Book Review No Matter What. Crisis and the Spirit of Planetary Possibility No Matter What. Crisis an
 - **DOI**: 10.1177/09667350251362696
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Agnes Maude Royden 18761956 Campaigner for Womens Suffrage and Ordination
 - **DOI**: 10.1177/09667350251362697
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:p>Maude Royden was something of a celebrity in the first half of the twentieth century, known in Britain and internationally, for her part in campaigns for women’s suffrage, but also for her pacifism, later repudiated. Her outspoken views on the role of women in the Church – and in the Anglican Church, her belief that women should be ordained as priests – came from a firm conviction that feminism was a part of Christianity and that the freedoms and rights of women were a fundamentally theological issue. An inheritor of traditions of women’s ‘civilising’ responsibility she took this up energetically in terms of women’s professionalism and voice. Thwarted by the indifference or resistance of the Anglican Church, she set up her own ‘religious centre’ in London and used her considerable connections and networks to encourage lively and more equitable forms of worship and to sponsor the discussion of Christianity as it impacted on a wide range of issues, with invited guests from all walks of life including political leaders, philosophers and campaigners.</jats:p>
 
 ---
@@ -226,7 +226,7 @@ arc_score: 6
 
 ### Humanising the Dehumanised Kavita Kanés reconstruction of the Great Epic
 - **DOI**: 10.1177/09667350251362701
-- **Analytical Tags**: `NT / nan / nan`
+- **Analytical Tags**: `NT / - / nan`
 - **Abstract**: <jats:p>Mahabharata, one of the two grand epics of Hinduism exerts immense influence in Indian Culture. They occupy a significant space in cultural epistemology and discourse. However, they have been predominantly handled by male authors, through whose writings we often find women marginalised to a subservient position, which posits them in the lower strata of the Indian socio-cultural hierarchy. Consequently, such women characters are seen being dehumanised through objectification within this narrative. In fact, such treatment often infiltrates itself into stereotypical notions pertaining to gender roles. In recent years, however, there has been a surge of mythological reimagination of these epics, with focus on marginalised female characters who are barely highlighted in the grand narratives established by the said epics. This reimagination provides a new historicist approach to the historically present patriarchy within these narratives. This paper aims to closely investigate instances of such dehumanisation through three books of Kavita Kané: Karna’s Wife: The Outcast Queen (2013), Menaka’s Choice (2015), The Fisher Queen’s Dynasty (2017). Through her work we revisit the epic narrative to study and comprehend their socio-cultural impacts. And examine how Kavita Kané’s re-imagination can act as an effective tool to amend such subjugation and can be a site for a discursive change.</jats:p>
 
 ---
@@ -240,7 +240,7 @@ arc_score: 6
 
 ### Theology and Masculinity Developments 25 Years on
 - **DOI**: 10.1177/09667350251362703
-- **Analytical Tags**: `Ethics / nan / nan`
+- **Analytical Tags**: `Ethics / - / nan`
 - **Abstract**: <jats:p>In 1999, Graham Ward published ‘Theology and Masculinity’ which remains one of the most concise and comprehensive introductions to the theological study of masculinities. However, 25 years since publication, and in the year of Ward’s retirement, there is a need for an update on the developments that have defined this continually emerging research. As masculinities and theologies continue to grow in plurality and complexity, this article explores the significance of Ward’s introduction as well as areas that need further critical attention. Ultimately, this article shows that any theology of liberation and justice must engage constructively with masculinities.</jats:p>
 
 ---
@@ -254,14 +254,14 @@ arc_score: 6
 
 ### Book Review Sexism in Major Religions. A Comparative Introduction GwynnePaul Sexism in Major Religio
 - **DOI**: 10.1177/09667350251362707
-- **Analytical Tags**: `NT / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `NT / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### Does Islam have a Place in Gender Equality Perspectives from Muslim Feminism and Secular Feminism
 - **DOI**: 10.1177/09667350251362708
-- **Analytical Tags**: `nan / nan / nan`
+- **Analytical Tags**: `nan / - / nan`
 - **Abstract**: <jats:p>This article challenges the homogeneous portrayal of Middle East and North African feminism within Western academic discourse by examining the diverse approaches to gender equality through both secular and Islamic lenses. Highlighting the underrepresentation of female scholars from the Islamic world in scholarly discussions, it scrutinises the emergence and efficacy of Islamic feminism in achieving gender equality. Through a comparative analysis of prominent figures such as Asma Barlas, Amina Wadud, Fāṭima Marnīsī, Nawāl Al-Saʿdāwī and Ayān Ḥirsi ‘Alī, this study questions the sustainability of Islamic feminism as a distinct movement versus a pragmatic strategy within the Middle East and North African region.</jats:p>
 
 ---
@@ -269,13 +269,13 @@ arc_score: 6
 ### Book Review Revolt Against Theocracy. The Mahsa Movement and the Feminist Uprising in Iran Khosrokha
 - **DOI**: 10.1177/09667350251362709
 - **Analytical Tags**: `nan / Method / nan`
-- **Abstract**: nan
+- **Abstract**: (Not available)
 
 ---
 
 ### Editorial
 - **DOI**: 10.1177/09667350251363455
-- **Analytical Tags**: `nan / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `nan / - / nan`
+- **Abstract**: (Not available)
 
 ---

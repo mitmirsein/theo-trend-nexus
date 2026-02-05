@@ -13,21 +13,21 @@ arc_score: 6
 ## 📊 Content Table
 | No | Subfield | Era | Title |
 | :--- | :--- | :--- | :--- |
-| 1 | NT | nan | [[#The Acts of Thecla in the Emergent Discourse of the Early Christian Movement]] |
-| 2 | OT | nan | [[#You Shall Purge the Evil from Your Midst Legal Omissions and Reconstructions of the Illicit Sex Laws]] |
+| 1 | NT | - | [[#The Acts of Thecla in the Emergent Discourse of the Early Christian Movement]] |
+| 2 | OT | - | [[#You Shall Purge the Evil from Your Midst Legal Omissions and Reconstructions of the Illicit Sex Laws]] |
 
 ---
 
 ### The Acts of Thecla in the Emergent Discourse of the Early Christian Movement
 - **DOI**: 10.1353/cbq.2025.0001
-- **Analytical Tags**: `NT / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `NT / - / nan`
+- **Abstract**: (Not available)
 
 ---
 
 ### You Shall Purge the Evil from Your Midst Legal Omissions and Reconstructions of the Illicit Sex Laws
 - **DOI**: 10.1353/cbq.2025.0002
-- **Analytical Tags**: `OT / nan / nan`
-- **Abstract**: nan
+- **Analytical Tags**: `OT / - / nan`
+- **Abstract**: (Not available)
 
 ---
