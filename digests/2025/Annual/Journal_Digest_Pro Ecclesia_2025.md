@@ -25,11 +25,9 @@ arc_score: 6
 ### Is God                    iActually i                    For Us A Chalcedonian Note on Divine Freedom in Response to Steven J. Duby
 - **DOI**: [10.1177/10638512251387107](https://doi.org/10.1177/10638512251387107)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:p>
-                    Steven Duby repeatedly insists on a conception of divine aseity that maintains God's being is complete without reference to another, such that his being neither entails nor precludes the existence of the world. He argues that the “specification” of God's decretive “tendency” toward creation cannot be considered an ingredient of the divine
-                    <jats:italic toggle="yes">actus purus</jats:italic>
+- **Abstract**: Steven Duby repeatedly insists on a conception of divine aseity that maintains God's being is complete without reference to another, such that his being neither entails nor precludes the existence of the world. He argues that the “specification” of God's decretive “tendency” toward creation cannot be considered an ingredient of the divine
+                    actus purus
                     , lest it render creation absolutely necessary, or result in some divine composition. This article argues that this way of framing the issue presents a false dilemma. In dialogue with several of Duby's Reformed interlocutors, the article suggests the dilemma may be resolved when the decretive act of God is parsed synchronically through an “instants of nature” framework. This way of conceiving the divine will ensures that God's innate indifference is upheld alongside his actual non-indifference towards creation, in a way that poses no threat to his aseity or eternally actualized perfection, nor to the genuine contingency of creation.
-                  </jats:p>
 
 ---
 

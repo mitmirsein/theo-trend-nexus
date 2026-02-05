@@ -238,50 +238,46 @@ arc_score: 6
 ### Equal Dignity and Agency Catholic Social Teaching amp The Lives of Women
 - **DOI**: [10.1177/00211400251325848](https://doi.org/10.1177/00211400251325848)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>
-            Greater inclusion of women is a priority of Pope Francis’s pontificate. He has taken practical steps in appointing women within the Vatican and called for a “deeper theology of women.” Within Catholic social teaching, however, the voices and lives of women remain largely absent. Centring the complex stories from women’s lives gathered through fieldwork, this article argues that women must be embraced as “dignified agents” and not simply as the “doubly poor” or paragons of “heroic daily virtue.” First, I will examine the development of CST on women prior to Francis revealing tensions between the way the tradition treats public vs. private roles. Second, this article will analyse the contribution of Pope Francis. And finally, I will lift up
-            <jats:italic>Fratelli Tutti’s</jats:italic>
+- **Abstract**: Greater inclusion of women is a priority of Pope Francis’s pontificate. He has taken practical steps in appointing women within the Vatican and called for a “deeper theology of women.” Within Catholic social teaching, however, the voices and lives of women remain largely absent. Centring the complex stories from women’s lives gathered through fieldwork, this article argues that women must be embraced as “dignified agents” and not simply as the “doubly poor” or paragons of “heroic daily virtue.” First, I will examine the development of CST on women prior to Francis revealing tensions between the way the tradition treats public vs. private roles. Second, this article will analyse the contribution of Pope Francis. And finally, I will lift up
+            Fratelli Tutti’s
             approach to the parable of the good Samaritan as a microcosm for the moral life as opening new space for the full lives and dignity of women within the tradition.
-          </jats:p>
 
 ---
 
 ### Socrates as a Religious Figure Within a Christian Framework Socratic Irony and the Quest for Truth in Søren Kierkegaard and Hans Urs von Balthasar
 - **DOI**: [10.1177/00211400251325850](https://doi.org/10.1177/00211400251325850)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>Instead of examining Socrates and his philosophy within the realm of philosophy, this study engages with the works of two theologians—Søren Kierkegaard and Hans Urs von Balthasar—to explore the person of Socrates and his philosophical concerns. The article approaches this exploration through conceptual pairs: for example, Socratic irony is analysed in terms of whether it is a serious or unserious matter. Further, the study investigates whether Socrates’s death was a tragic event or meaningless regarding each theological framework. Then the study turns to the notion of salvation history, probing whether Socrates’s death is a prefiguration of Christ’s death, or whether it fails to have any symbolic or historical relation.</jats:p>
+- **Abstract**: Instead of examining Socrates and his philosophy within the realm of philosophy, this study engages with the works of two theologians—Søren Kierkegaard and Hans Urs von Balthasar—to explore the person of Socrates and his philosophical concerns. The article approaches this exploration through conceptual pairs: for example, Socratic irony is analysed in terms of whether it is a serious or unserious matter. Further, the study investigates whether Socrates’s death was a tragic event or meaningless regarding each theological framework. Then the study turns to the notion of salvation history, probing whether Socrates’s death is a prefiguration of Christ’s death, or whether it fails to have any symbolic or historical relation.
 
 ---
 
 ### Response to Prof. Meghan J. Clarks Equal Dignity and Agency Catholic Social Teaching amp The Lives of Women
 - **DOI**: [10.1177/00211400251325853](https://doi.org/10.1177/00211400251325853)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article has its origins in an invited response paper to Prof. Meghan J. Clark’s Irish Theological Quarterly lecture at St Patrick’s Pontifical University, Maynooth, on 14 October 2024. While incorporating many elements of the original response, it has been revised and expanded to also serve as a response to the article version of Prof. Clark’s lecture which is published in the current issue.</jats:p>
+- **Abstract**: This article has its origins in an invited response paper to Prof. Meghan J. Clark’s Irish Theological Quarterly lecture at St Patrick’s Pontifical University, Maynooth, on 14 October 2024. While incorporating many elements of the original response, it has been revised and expanded to also serve as a response to the article version of Prof. Clark’s lecture which is published in the current issue.
 
 ---
 
 ### Jean-Yves Lacostes Search for Speech in an Age of Nihilism In Search of Speech Talking Reading and Praying in an Age of Words. By Jean-Yves Lacoste. Translated by ODonovanOliver. With a Foreword by MarionJean-Luc Explorations in Philosophy and Theology. LondonNew YorkDublin Bloomsbury Academic 2024. Pp. xvi  186. Price 85.00 hbk. ISBN 9781350460423.
 - **DOI**: [10.1177/00211400251325859](https://doi.org/10.1177/00211400251325859)
 - **Analytical Tags**: `OT;Practical Theology / - / -`
-- **Abstract**: <jats:p>
-            This article provides a detailed review of the recent English translation of Jean-Yves Lacoste’s book
-            <jats:italic>In Search of Speech</jats:italic>
-            . It discusses the contrast between Lacoste’s phenomenological approach and the reduction of speech to language that is characteristic of modern linguistics in the wake of FerdiNo abstract availabled de Saussure. Despite Lacoste’s criticisms, the review draws attention to parallels between his analyses and some aspects of analytic philosophy of language. The review also highlights the particular spiritual and pastoral interest of the author’s reflections on the possibility of liturgical speech after the “death of God.” It closes with critical remarks on the accuracy of the translation.
-          </jats:p>
+- **Abstract**: This article provides a detailed review of the recent English translation of Jean-Yves Lacoste’s book
+            In Search of Speech
+            . It discusses the contrast between Lacoste’s phenomenological approach and the reduction of speech to language that is characteristic of modern linguistics in the wake of Ferdinand de Saussure. Despite Lacoste’s criticisms, the review draws attention to parallels between his analyses and some aspects of analytic philosophy of language. The review also highlights the particular spiritual and pastoral interest of the author’s reflections on the possibility of liturgical speech after the “death of God.” It closes with critical remarks on the accuracy of the translation.
 
 ---
 
 ### Divine Manifestation in Perfect Power Recognising the Spirit of Christ Crucified
 - **DOI**: [10.1177/00211400251325863](https://doi.org/10.1177/00211400251325863)
 - **Analytical Tags**: `- / - / Contemporary`
-- **Abstract**: <jats:p>Many people question whether God cares for humans. This article considers two questions. First, what kind of divine care for humans is in question? Second, what explains the widespread failure among humans to recognise divine care for them? The best answer to the first question relies on a biblical idea of divine compassion that suffers for what is good for humans as responsible and subsidiary co-rulers with God. Such compassion aims to “perfect” humans as co-rulers with God who co-value and share in divine compassion. The best answer to the second question proposes that effective recognition of divine care requires voluntary human participation in it, by co-valuing and sharing in divine compassion that suffers for humans. Neglect of co-valuing and sharing in divine compassion impedes a person’s felt recognition of the reality and goodness of God. This article develops its proposed answers, in contrast to two contemporary approaches to religious experience from Luke Timothy Johnson and Edward Schillebeeckx.</jats:p>
+- **Abstract**: Many people question whether God cares for humans. This article considers two questions. First, what kind of divine care for humans is in question? Second, what explains the widespread failure among humans to recognise divine care for them? The best answer to the first question relies on a biblical idea of divine compassion that suffers for what is good for humans as responsible and subsidiary co-rulers with God. Such compassion aims to “perfect” humans as co-rulers with God who co-value and share in divine compassion. The best answer to the second question proposes that effective recognition of divine care requires voluntary human participation in it, by co-valuing and sharing in divine compassion that suffers for humans. Neglect of co-valuing and sharing in divine compassion impedes a person’s felt recognition of the reality and goodness of God. This article develops its proposed answers, in contrast to two contemporary approaches to religious experience from Luke Timothy Johnson and Edward Schillebeeckx.
 
 ---
 
 ### Does the Kingdom Need a King Anti-Monarchical Christology in the Canonical Gospels and the Historical Jesus
 - **DOI**: [10.1177/00211400251325866](https://doi.org/10.1177/00211400251325866)
 - **Analytical Tags**: `NT;Systematic Theology / - / Contemporary`
-- **Abstract**: <jats:p>The image of Christ the King often overlooks or sidelines a distinctively anti-monarchical Christological tradition in the gospels, one that is perhaps rooted in the historical message and practice of Jesus himself. This anti-monarchical tradition, ensconced as it is within the very familiar and normative royal and messianic Christology of the NT, invites contemporary believers to reconsider the image of Christ as “king.”</jats:p>
+- **Abstract**: The image of Christ the King often overlooks or sidelines a distinctively anti-monarchical Christological tradition in the gospels, one that is perhaps rooted in the historical message and practice of Jesus himself. This anti-monarchical tradition, ensconced as it is within the very familiar and normative royal and messianic Christology of the NT, invites contemporary believers to reconsider the image of Christ as “king.”
 
 ---
 
@@ -428,35 +424,35 @@ arc_score: 6
 ### East of Eden A Case against Nostalgia
 - **DOI**: [10.1177/00211400251341454](https://doi.org/10.1177/00211400251341454)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article argues that the phenomenon of nostalgia (home-sickness or longing for home) is a dangerous and often destructive way of dealing with the past. The first section traces the evolution of nostalgia from a medical disease to a sentimental emotion. After developing a normative definition of nostalgia, the second section proceeds to critique the phenomenon. It also distinguishes nostalgia from some of its unproblematic cousins, such as historical study or lamentation for real loss. The third section draws upon the Parable of the Prodigal Son to develop a positive account of what it means for a Christian to return home again.</jats:p>
+- **Abstract**: This article argues that the phenomenon of nostalgia (home-sickness or longing for home) is a dangerous and often destructive way of dealing with the past. The first section traces the evolution of nostalgia from a medical disease to a sentimental emotion. After developing a normative definition of nostalgia, the second section proceeds to critique the phenomenon. It also distinguishes nostalgia from some of its unproblematic cousins, such as historical study or lamentation for real loss. The third section draws upon the Parable of the Prodigal Son to develop a positive account of what it means for a Christian to return home again.
 
 ---
 
 ### Abraham The Utopia of Migration Resilience and the Search for Liberation
 - **DOI**: [10.1177/00211400251341470](https://doi.org/10.1177/00211400251341470)
 - **Analytical Tags**: `- / - / Contemporary`
-- **Abstract**: <jats:p>This article examines the story of Abraham as an account of a resilient migrant in search of freedom. It begins by looking at the reality of especially internal migration in contemporary Brazil, with the challenges that presents and the need for resilience that is a part of it. It argues that there is always a utopic dimension to migration, a move to a place that it is hoped will be in some way better, but also a journey to somewhere that does not ever quite exist in the way the migrant desires. It then describes the search for liberation as a search for freedom from restraint, but also for freedom for a new way of life. With this in mind, the article re-reads the story of Abraham, a migrant facing the difficulties and upheavals that most migrants experience, meeting some of them well and failing in other instances. The article concludes with an analysis of Franz Hinkelammert’s reading of Abraham and Isaac, seeing Abraham’s final discovery of freedom in the fact that he does not kill his son. The resilience of the migrant is seen in the way in which Abraham overcomes all the temptations set before him to become eventually a blessing for all nations.</jats:p>
+- **Abstract**: This article examines the story of Abraham as an account of a resilient migrant in search of freedom. It begins by looking at the reality of especially internal migration in contemporary Brazil, with the challenges that presents and the need for resilience that is a part of it. It argues that there is always a utopic dimension to migration, a move to a place that it is hoped will be in some way better, but also a journey to somewhere that does not ever quite exist in the way the migrant desires. It then describes the search for liberation as a search for freedom from restraint, but also for freedom for a new way of life. With this in mind, the article re-reads the story of Abraham, a migrant facing the difficulties and upheavals that most migrants experience, meeting some of them well and failing in other instances. The article concludes with an analysis of Franz Hinkelammert’s reading of Abraham and Isaac, seeing Abraham’s final discovery of freedom in the fact that he does not kill his son. The resilience of the migrant is seen in the way in which Abraham overcomes all the temptations set before him to become eventually a blessing for all nations.
 
 ---
 
 ### Silent Witnesses and Intercessors Monastic Contribution in the Poetry of a Carthusian Monk
 - **DOI**: [10.1177/00211400251342268](https://doi.org/10.1177/00211400251342268)
 - **Analytical Tags**: `Church History / - / Contemporary`
-- **Abstract**: <jats:p>The Carthusian monastic tradition, characterised by solitude and silence, has endured for more than nine centuries, largely unchanged, in the changing world. This article explores the theme of enclosed contemplative monastic contribution to the world based on textual analysis of an anonymous Carthusian monk’s poetry (written in the period 1964–2024) as well as other contemporary and early monastic literature. The study identifies two themes regarding monastic contribution: (1) the silent witness of eternity and of the Divine to the secular world; and (2) prayers of intercession. In addition, the monastic enclosed contemplative traditions appear to challenge modern society through some of their countercultural elements. Paradoxically, seen from the ancient monastic perspective, patience and hiddenness may prove more influential than short-term attention-seeking, and silence may contribute more to the world than the noise of social and other media.</jats:p>
+- **Abstract**: The Carthusian monastic tradition, characterised by solitude and silence, has endured for more than nine centuries, largely unchanged, in the changing world. This article explores the theme of enclosed contemplative monastic contribution to the world based on textual analysis of an anonymous Carthusian monk’s poetry (written in the period 1964–2024) as well as other contemporary and early monastic literature. The study identifies two themes regarding monastic contribution: (1) the silent witness of eternity and of the Divine to the secular world; and (2) prayers of intercession. In addition, the monastic enclosed contemplative traditions appear to challenge modern society through some of their countercultural elements. Paradoxically, seen from the ancient monastic perspective, patience and hiddenness may prove more influential than short-term attention-seeking, and silence may contribute more to the world than the noise of social and other media.
 
 ---
 
 ### Humility versus Clericalism Juan de Ávila and Pope Francis on Spiritual Formation and Reform
 - **DOI**: [10.1177/00211400251342269](https://doi.org/10.1177/00211400251342269)
 - **Analytical Tags**: `Systematic Theology / - / Contemporary;Medieval`
-- **Abstract**: <jats:p>One of the hallmark targets of Pope Francis’s pontificate was clericalism and its attendant arrogance as roadblocks to the Church’s credibility, witness, and reform. In the Middle Ages, reformers were wary of the creeping worldliness and power politics that came with the creation of a papal monarchy. Looking at both history and the contemporary church, we might add caution against arrogant priests and prelates who see themselves as a cut above. What the Church then and now lacked in part was humility. This essay offers humility, a lost virtue, as a vaccine against religious and societal myopia and narcissism via a church history lesson from Juan de Ávila (1499–1569). Our consideration of Juan will be bracketed by considering first the situation today and then by examining how Pope Francis echoed this sixteenth-century reformer.</jats:p>
+- **Abstract**: One of the hallmark targets of Pope Francis’s pontificate was clericalism and its attendant arrogance as roadblocks to the Church’s credibility, witness, and reform. In the Middle Ages, reformers were wary of the creeping worldliness and power politics that came with the creation of a papal monarchy. Looking at both history and the contemporary church, we might add caution against arrogant priests and prelates who see themselves as a cut above. What the Church then and now lacked in part was humility. This essay offers humility, a lost virtue, as a vaccine against religious and societal myopia and narcissism via a church history lesson from Juan de Ávila (1499–1569). Our consideration of Juan will be bracketed by considering first the situation today and then by examining how Pope Francis echoed this sixteenth-century reformer.
 
 ---
 
 ### Connection and Vulnerability An Appreciation of James F. Keenans Style of Ethics
 - **DOI**: [10.1177/00211400251345494](https://doi.org/10.1177/00211400251345494)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
-- **Abstract**: <jats:p>This essay highlights the distinctive contribution that James F. KeeNo abstract available SJ has made to the field of theological ethics. It analyses his work through the lens of “style,” as the term is deployed by John O’Malley. It suggests that KeeNo abstract available’s style is performative, based in theology of connection, empathy and solidarity. The essay examines aspects of his work, specifically his retrieval of virtue and his recent work on theological anthropology rooted in vulnerability and recognition. It suggests that in each case his performative style enacts and displays the relationality that, for KeeNo abstract available, is at the heart of Christian ethics. The essay also notes KeeNo abstract available’s practices of solidarity within the academy that flow from his ethic of connection, and that illustrate further its performativity. The essay ends with a brief reflection on continuing the agenda which he has set.</jats:p>
+- **Abstract**: This essay highlights the distinctive contribution that James F. Keenan SJ has made to the field of theological ethics. It analyses his work through the lens of “style,” as the term is deployed by John O’Malley. It suggests that Keenan’s style is performative, based in theology of connection, empathy and solidarity. The essay examines aspects of his work, specifically his retrieval of virtue and his recent work on theological anthropology rooted in vulnerability and recognition. It suggests that in each case his performative style enacts and displays the relationality that, for Keenan, is at the heart of Christian ethics. The essay also notes Keenan’s practices of solidarity within the academy that flow from his ethic of connection, and that illustrate further its performativity. The essay ends with a brief reflection on continuing the agenda which he has set.
 
 ---
 
@@ -652,46 +648,42 @@ arc_score: 6
 ### From Jesus to the Fourth Gospel The Evolution of Early Christian Eschatology
 - **DOI**: [10.1177/00211400251367773](https://doi.org/10.1177/00211400251367773)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:p>The so-called “realized eschatology” of John’s Gospel is typically thought to be distinctive, to differentiate it from other early Christian sources, and so to stand in need of special explanation. Yet despite undeniable differences, there is no clean break from earlier tradition. John rather adopts and extends interpretive conventions in place before him. Indeed, the Fourth Gospel inherits, to a significant degree, a decades-long process of reinterpretation of the traditions about Jesus, a process going back to year one of the post-Easter period. Parallels from the history of religion illuminate the process of reinterpretation.</jats:p>
+- **Abstract**: The so-called “realized eschatology” of John’s Gospel is typically thought to be distinctive, to differentiate it from other early Christian sources, and so to stand in need of special explanation. Yet despite undeniable differences, there is no clean break from earlier tradition. John rather adopts and extends interpretive conventions in place before him. Indeed, the Fourth Gospel inherits, to a significant degree, a decades-long process of reinterpretation of the traditions about Jesus, a process going back to year one of the post-Easter period. Parallels from the history of religion illuminate the process of reinterpretation.
 
 ---
 
 ### iHistoria Sicut Prophetiai                     Re-Reading Joseph Ratzinger in the Light of His                    iHabilitationsschrifti                    on St Bonaventure
 - **DOI**: [10.1177/00211400251368935](https://doi.org/10.1177/00211400251368935)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>
-                    This article explores Joseph Ratzinger’s account of Bonaventure’s theological development in his
-                    <jats:italic toggle="yes">Habilitationsschrift: The Theology of History in St Bonaventure</jats:italic>
+- **Abstract**: This article explores Joseph Ratzinger’s account of Bonaventure’s theological development in his
+                    Habilitationsschrift: The Theology of History in St Bonaventure
                     . It shows that there are several parallels between the intellectual
-                    <jats:italic toggle="yes">transitus</jats:italic>
+                    transitus
                     which Ratzinger attributes to Bonaventure during the 1260s and 1270s and his own much studied intellectual journey. Ratzinger portrays Bonaventure as a thinker who, because of a series of crises at the University of Paris shifted from a sympathetic engagement with the Peripatetic and Thomist schools to a much more critical, openly hostile, attitude towards them. While much has been made of Ratzinger’s Bonaventurian heritage, this article argues that his relationship with the Franciscan possesses a dimension that goes beyond simple indebtedness: in his
-                    <jats:italic toggle="yes">Habilitationsschrift</jats:italic>
+                    Habilitationsschrift
                     , Ratzinger presents us with a blueprint of what was to be his own future development and, more importantly, a new way of approaching the controversial question of whether his core theological ideas changed.
-                  </jats:p>
 
 ---
 
 ### Notes on Biblical Mercy Gods Womb-Like Love
 - **DOI**: [10.1177/00211400251371309](https://doi.org/10.1177/00211400251371309)
 - **Analytical Tags**: `OT / - / -`
-- **Abstract**: <jats:p>
-                    This purpose of this article is to expand a Christian theology of mercy by offering a detailed analysis of
-                    <jats:italic toggle="yes">raḥamim</jats:italic>
+- **Abstract**: This purpose of this article is to expand a Christian theology of mercy by offering a detailed analysis of
+                    raḥamim
                     in the Hebrew Bible. First, I will detail the womb-like character of
-                    <jats:italic toggle="yes">raḥamim</jats:italic>
+                    raḥamim
                     and its importance for a theology of mercy. Second, I will distinguish
-                    <jats:italic toggle="yes">raḥamim</jats:italic>
+                    raḥamim
                     from
-                    <jats:italic toggle="yes">ḥesed</jats:italic>
-                    . Third, I will show how the aftermath of the Golden Calf incident in Exodus 32–34 exemplifies the power of divine mercy to reconcile and restore coveNo abstract availabletal relationship.
-                  </jats:p>
+                    ḥesed
+                    . Third, I will show how the aftermath of the Golden Calf incident in Exodus 32–34 exemplifies the power of divine mercy to reconcile and restore covenantal relationship.
 
 ---
 
 ### The Silence that Speaks Searching for the Language of Hope with Mary
 - **DOI**: [10.1177/00211400251371313](https://doi.org/10.1177/00211400251371313)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:p>This article explores the language of hope through a theological, psychological, and literary lens, with particular attention to Mary, the Mother of God, as its model. Engaging with Pope Francis’s reflections on Mary and the maternal nature of the Church, the study examines how Marian imagery intersects with poetic and psychoanalytic perspectives on language and hope. The paper argues that hope is not primarily conveyed through words but especially when the manner of expression itself embodies and enacts it. This analysis ultimately suggests that theology should cultivate a language rooted in attentiveness and relationality, highlighting its deep connection to the theology of the Incarnation, in which the Word is not merely spoken but becomes flesh.</jats:p>
+- **Abstract**: This article explores the language of hope through a theological, psychological, and literary lens, with particular attention to Mary, the Mother of God, as its model. Engaging with Pope Francis’s reflections on Mary and the maternal nature of the Church, the study examines how Marian imagery intersects with poetic and psychoanalytic perspectives on language and hope. The paper argues that hope is not primarily conveyed through words but especially when the manner of expression itself embodies and enacts it. This analysis ultimately suggests that theology should cultivate a language rooted in attentiveness and relationality, highlighting its deep connection to the theology of the Incarnation, in which the Word is not merely spoken but becomes flesh.
 
 ---
 
@@ -859,24 +851,22 @@ arc_score: 6
 ### Conversion in the Catholic School
 - **DOI**: [10.1177/00211400251377783](https://doi.org/10.1177/00211400251377783)
 - **Analytical Tags**: `Practical Theology / - / -`
-- **Abstract**: <jats:p>Conversion to Catholicism has long featured as the primary aim of the Catholic school. This perspective was interwoven with a view of Graeco-Roman culture as universally normative. Following the Church’s major assembly, Vatican II (1962–1965), this changed, primarily because the Church acknowledged that other denominations and faiths could be seen as avenues of salvation. The Church subsequently opened its school to non-Catholics, not necessarily as potential converts to Catholicism. It thus faced a dilemma of how to educate non-Catholic pupils religiously. This aim necessitated a review of its former objectives. What is presented here is a framework, developed through the reflections of the philosopher-theologian Bernard Lonergan, that respects both the identity of the Catholic school and, at the same time, allows it to provide religious education to all its students.</jats:p>
+- **Abstract**: Conversion to Catholicism has long featured as the primary aim of the Catholic school. This perspective was interwoven with a view of Graeco-Roman culture as universally normative. Following the Church’s major assembly, Vatican II (1962–1965), this changed, primarily because the Church acknowledged that other denominations and faiths could be seen as avenues of salvation. The Church subsequently opened its school to non-Catholics, not necessarily as potential converts to Catholicism. It thus faced a dilemma of how to educate non-Catholic pupils religiously. This aim necessitated a review of its former objectives. What is presented here is a framework, developed through the reflections of the philosopher-theologian Bernard Lonergan, that respects both the identity of the Catholic school and, at the same time, allows it to provide religious education to all its students.
 
 ---
 
 ### Response to Thomas Finegans An Unnoticed Body-Person Dualism A Rejoinder to Lawler and Salzman
 - **DOI**: [10.1177/00211400251378757](https://doi.org/10.1177/00211400251378757)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>
-                    This article is a brief response to Dr. Finegan’s recent rejoinder to an earlier exchange we had with him in
-                    <jats:italic toggle="yes">Irish Theological Quarterly</jats:italic>
+- **Abstract**: This article is a brief response to Dr. Finegan’s recent rejoinder to an earlier exchange we had with him in
+                    Irish Theological Quarterly
                     on the morality of same-sex civil unions.
-                  </jats:p>
 
 ---
 
 ### An Unnoticed Body-Person Dualism A Rejoinder to Lawler and Salzman
 - **DOI**: [10.1177/00211400251378758](https://doi.org/10.1177/00211400251378758)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:p>Michael G. Lawler and Todd A. Salzman argue that same-sex relationships can be genuinely marital in a sacramentally relevant sense. In an earlier critique I argue that their thesis is premised on an implicit dualism which de-personalises the body, and further argue that they fail to take account of “one flesh union” as key to Catholic-Christian marriage. In reply Lawler and Salzman claim that their thesis makes no appeal to a dualistic account of human embodiment; they also propose an understanding of “one flesh union” that can accommodate same-sex marriage. The present paper illustrates how an unnoticed body-person dualism continues to misdirect Lawler and Salzman’s understanding of marriage, in particular, now, by skewing their appropriation of the “one flesh union” idea. Lawler and Salzman’s dualist version of “one flesh union” is alien to the scriptural and hylomorphic meaning of that key moral principle. Through their revisionist version they advance an un-somatic account of marriage divorced both from the human person as a bodily being sexed as male/female, and from the personal significance of sexual-bodily union. Their implicit body-person dualism prevents them from recognizing that “one flesh union,” properly understood, involves a real somatic union of a male-female couple through sexual intercourse. Such bodily union is inherently marital-personal in significance and is thus a necessary condition for the multi-levelled, comprehensive union that is marriage.</jats:p>
+- **Abstract**: Michael G. Lawler and Todd A. Salzman argue that same-sex relationships can be genuinely marital in a sacramentally relevant sense. In an earlier critique I argue that their thesis is premised on an implicit dualism which de-personalises the body, and further argue that they fail to take account of “one flesh union” as key to Catholic-Christian marriage. In reply Lawler and Salzman claim that their thesis makes no appeal to a dualistic account of human embodiment; they also propose an understanding of “one flesh union” that can accommodate same-sex marriage. The present paper illustrates how an unnoticed body-person dualism continues to misdirect Lawler and Salzman’s understanding of marriage, in particular, now, by skewing their appropriation of the “one flesh union” idea. Lawler and Salzman’s dualist version of “one flesh union” is alien to the scriptural and hylomorphic meaning of that key moral principle. Through their revisionist version they advance an un-somatic account of marriage divorced both from the human person as a bodily being sexed as male/female, and from the personal significance of sexual-bodily union. Their implicit body-person dualism prevents them from recognizing that “one flesh union,” properly understood, involves a real somatic union of a male-female couple through sexual intercourse. Such bodily union is inherently marital-personal in significance and is thus a necessary condition for the multi-levelled, comprehensive union that is marriage.
 
 ---

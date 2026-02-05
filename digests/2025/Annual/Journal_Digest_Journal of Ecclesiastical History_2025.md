@@ -221,88 +221,86 @@ Berghahn, 2024. £99. 978 1 80539 597 3]] |
 ### Majesty and Music in Royal Worship The English Chapel Royal 15581625
 - **DOI**: [10.1017/s0022046924000939](https://doi.org/10.1017/s0022046924000939)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: <jats:p>This article revises interpretations of the post-Reformation English Chapel Royal as a place for the performance of ‘conservative’ or ‘traditional’ forms of the Book of Common Prayer and establishes its importance as a space for negotiating Protestant royal worship. By detailed analysis of the sound and appearance of royal chapels under Elizabeth <jats:sc>i</jats:sc> and James <jats:sc>vi</jats:sc> &amp; <jats:sc>i</jats:sc> the Chapel Royal is emphasised not for its anticipation of a Laudian ascendancy, but its sensitivity to the ceremonial boundaries of the reformed Church of England, and ability to negotiate a form of Protestant majesty in royal worship.</jats:p>
+- **Abstract**: This article revises interpretations of the post-Reformation English Chapel Royal as a place for the performance of ‘conservative’ or ‘traditional’ forms of the Book of Common Prayer and establishes its importance as a space for negotiating Protestant royal worship. By detailed analysis of the sound and appearance of royal chapels under Elizabeth i and James vi & i the Chapel Royal is emphasised not for its anticipation of a Laudian ascendancy, but its sensitivity to the ceremonial boundaries of the reformed Church of England, and ability to negotiate a form of Protestant majesty in royal worship.
 
 ---
 
 ### Sailors Societies and Sectarianism George Charles Boatswain Smith and the Formation of the British and Foreign Sailor Society
 - **DOI**: [10.1017/s0022046924000940](https://doi.org/10.1017/s0022046924000940)
 - **Analytical Tags**: `- / - / Contemporary`
-- **Abstract**: <jats:p>This article examines the context for the establishment of the non-denominational Port of London Society, and the dissenting Bethel Union, which came together to form the British and Foreign Sailor Society in 1833. Making forensic use of the surviving archives as well as contemporary reports in regional and national newspapers, it challenges the traditional historiography which focuses on the charismatic, but disruptive, figure of George Charles (‘Boatswain’) Smith (1782–1863). It suggests that the cult of the founder is misplaced for Smith, and that marine religious charities flourished despite, rather than because of, his contribution.</jats:p>
+- **Abstract**: This article examines the context for the establishment of the non-denominational Port of London Society, and the dissenting Bethel Union, which came together to form the British and Foreign Sailor Society in 1833. Making forensic use of the surviving archives as well as contemporary reports in regional and national newspapers, it challenges the traditional historiography which focuses on the charismatic, but disruptive, figure of George Charles (‘Boatswain’) Smith (1782–1863). It suggests that the cult of the founder is misplaced for Smith, and that marine religious charities flourished despite, rather than because of, his contribution.
 
 ---
 
 ### Strange Enthusiastical Exhortations Distress Religious Identity and the English Reformation
 - **DOI**: [10.1017/s0022046924000964](https://doi.org/10.1017/s0022046924000964)
 - **Analytical Tags**: `Church History / - / Reformation`
-- **Abstract**: <jats:p>
-                    This article uses letters from BL,
-                    <jats:sc>ms</jats:sc>
+- **Abstract**: This article uses letters from BL,
+                    ms
                     Lansdowne 99 to explore how a diverse group of individuals experiencing mental and emotional distress utilised religious ideas as a primary means of interpreting their experience and expressing themselves to those in authority in Elizabethan England. It shifts emphasis away from the causes and towards the construction and experience of distress. It argues that such letters shed important light on the character and progress of the English Reformation by the closing decades of the sixteenth century, as well as on the operation of the process of Reformation itself.
-                  </jats:p>
 
 ---
 
 ### Diluting The Saints Cordials Questioning the Canon of Richard Sibbes
 - **DOI**: [10.1017/s002204692400099x](https://doi.org/10.1017/s002204692400099x)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article notes the appearance of the same sermons on Romans viii.15–16 in the nineteenth-century editions of both James Ussher and Richard Sibbes. It explores the sources on which these editions rest and the publication history of <jats:italic>The saints cordials</jats:italic>, the contents of which were too uncritically accepted by Sibbes's nineteenth-century editor, A. B. Grosart. Manuscript evidence is employed to argue that three items in Grosart's edition of Sibbes should be attributed to Ussher, and the proveNo abstract availablece of a further eleven is questioned. The article concludes with a survey of the appearance of the disputed material in modern Sibbes scholarship.</jats:p>
+- **Abstract**: This article notes the appearance of the same sermons on Romans viii.15–16 in the nineteenth-century editions of both James Ussher and Richard Sibbes. It explores the sources on which these editions rest and the publication history of The saints cordials, the contents of which were too uncritically accepted by Sibbes's nineteenth-century editor, A. B. Grosart. Manuscript evidence is employed to argue that three items in Grosart's edition of Sibbes should be attributed to Ussher, and the provenance of a further eleven is questioned. The article concludes with a survey of the appearance of the disputed material in modern Sibbes scholarship.
 
 ---
 
 ### Byzantine Religious Policy on the Integration of the Armenian Church 860s880s
 - **DOI**: [10.1017/s0022046924001453](https://doi.org/10.1017/s0022046924001453)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>In the second half of the ninth century, a new period of confrontation between the Armenian and Byzantine Churches began. The goal of Byzantine religious policy was the abolition of the independence of the Armenian Church and its unification with the imperial Church. In his letters addressed to the ecclesiastical and political leaders of Armenia, the patriarch Photios proposed that they abandon Monophysitism and accept Chalcedonianism. Under this religious veil were disguised the empire's real political, cultural and socio-economic goals. Although Photios could not achieve the final unification of the two Churches, his mission did bring about a temporary religious <jats:italic>rapprochement</jats:italic> between the Armenians and the Greeks.</jats:p>
+- **Abstract**: In the second half of the ninth century, a new period of confrontation between the Armenian and Byzantine Churches began. The goal of Byzantine religious policy was the abolition of the independence of the Armenian Church and its unification with the imperial Church. In his letters addressed to the ecclesiastical and political leaders of Armenia, the patriarch Photios proposed that they abandon Monophysitism and accept Chalcedonianism. Under this religious veil were disguised the empire's real political, cultural and socio-economic goals. Although Photios could not achieve the final unification of the two Churches, his mission did bring about a temporary religious rapprochement between the Armenians and the Greeks.
 
 ---
 
 ### Upgrading an Old Classic The Oxford Dictionary of the Christian Church
 - **DOI**: [10.1017/s0022046924001465](https://doi.org/10.1017/s0022046924001465)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>Is the era of the reference book coming to an end? Publishers evidently don't think so. Not only have we seen an explosion in the number of handbooks, companions and dictionaries produced by the mainstream academic press in recent years, but even older, well-established ‘brands’ continue to flourish. Here is the fourth edition of Oxford University Press's ‘flagship’ <jats:italic>Oxford dictionary of the Christian Church</jats:italic> (<jats:italic>ODCC</jats:italic>), considerably expanded and revised from the third edition. Yet although libraries continue to buy works such as this, and academic colleagues to use them and refer to them, students often – if my experience is anything to go by – prefer the easier, cheaper, faster route of online sourcing, and particularly Wikipedia. A review of this edition of the <jats:italic>ODCC</jats:italic> has to reckon, then, not only with evaluating the content of the work itself, but, more sharply than perhaps was necessary before, with the questions of who exactly is likely to use it, and how it stands up in comparison with the competition.</jats:p>
+- **Abstract**: Is the era of the reference book coming to an end? Publishers evidently don't think so. Not only have we seen an explosion in the number of handbooks, companions and dictionaries produced by the mainstream academic press in recent years, but even older, well-established ‘brands’ continue to flourish. Here is the fourth edition of Oxford University Press's ‘flagship’ Oxford dictionary of the Christian Church (ODCC), considerably expanded and revised from the third edition. Yet although libraries continue to buy works such as this, and academic colleagues to use them and refer to them, students often – if my experience is anything to go by – prefer the easier, cheaper, faster route of online sourcing, and particularly Wikipedia. A review of this edition of the ODCC has to reckon, then, not only with evaluating the content of the work itself, but, more sharply than perhaps was necessary before, with the questions of who exactly is likely to use it, and how it stands up in comparison with the competition.
 
 ---
 
 ### Ecclesiastical Record Books and Political Legitimacy in Mid Seventeenth-Century Scotland
 - **DOI**: [10.1017/s0022046924001519](https://doi.org/10.1017/s0022046924001519)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article explores the ways that ecclesiastical record books produced by national and local Church courts in Scotland were bound up in the contests for legitimacy around the Scottish Revolution. The article argues that adherents to the National CoveNo abstract availablet used paper record books and the practices that surrounded them, as well as their printed output, to legitimise their protest movement and to attack their opponents. Reconstructing the Church in paper represented an essential part of the CoveNo abstract availableters’ protest, reconstructing the Church after the fall of episcopacy.</jats:p>
+- **Abstract**: This article explores the ways that ecclesiastical record books produced by national and local Church courts in Scotland were bound up in the contests for legitimacy around the Scottish Revolution. The article argues that adherents to the National Covenant used paper record books and the practices that surrounded them, as well as their printed output, to legitimise their protest movement and to attack their opponents. Reconstructing the Church in paper represented an essential part of the Covenanters’ protest, reconstructing the Church after the fall of episcopacy.
 
 ---
 
 ### Notre Dame of Paris Ansels True Cross Relic of 1120 and the Power of Relic Narratives
 - **DOI**: [10.1017/s0022046924001520](https://doi.org/10.1017/s0022046924001520)
 - **Analytical Tags**: `Practical Theology / - / -`
-- **Abstract**: <jats:p>In 1120 Notre Dame of Paris received a fragment of the True Cross from a former canon, Ansel, who had joined the First Crusade and become cantor of the Holy Sepulchre. The history of the relic was sought out, documented, inserted into the liturgy and in time revised according to political and cultural developments. This article reconstructs the story of the relic's arrival in Paris, and the way in which, through the successive narratives attached to it, it slowly gained and grew in meaning, giving definition to the Church of Paris and ultimately to the kingdom of France.</jats:p>
+- **Abstract**: In 1120 Notre Dame of Paris received a fragment of the True Cross from a former canon, Ansel, who had joined the First Crusade and become cantor of the Holy Sepulchre. The history of the relic was sought out, documented, inserted into the liturgy and in time revised according to political and cultural developments. This article reconstructs the story of the relic's arrival in Paris, and the way in which, through the successive narratives attached to it, it slowly gained and grew in meaning, giving definition to the Church of Paris and ultimately to the kingdom of France.
 
 ---
 
 ### Why Did the Mission to the Anglo-Saxons Stall in 596 Anxiety Politics or Money
 - **DOI**: [10.1017/s0022046924001532](https://doi.org/10.1017/s0022046924001532)
 - **Analytical Tags**: `- / - / Patristic`
-- **Abstract**: <jats:p>This paper explores the crisis of 596 which interrupted Augustine of Canterbury's mission to the Anglo-Saxons, necessitating his return to Rome. Bede's interpretation of this as a moment of psychological failure is discounted. Political changes in Merovingian Gaul associated with the death of Childebert are reconsidered. A new economic explanation is advanced based on the wording of Gregory the Great's letter of encouragement to Augustine and his fellow missionaries, consideration of the management of the papal estates in Gaul and the behaviour of Virgilius, metropolitan of Arles.</jats:p>
+- **Abstract**: This paper explores the crisis of 596 which interrupted Augustine of Canterbury's mission to the Anglo-Saxons, necessitating his return to Rome. Bede's interpretation of this as a moment of psychological failure is discounted. Political changes in Merovingian Gaul associated with the death of Childebert are reconsidered. A new economic explanation is advanced based on the wording of Gregory the Great's letter of encouragement to Augustine and his fellow missionaries, consideration of the management of the papal estates in Gaul and the behaviour of Virgilius, metropolitan of Arles.
 
 ---
 
 ### Count Irenaeus and the Nestorian Controversy
 - **DOI**: [10.1017/s0022046924001544](https://doi.org/10.1017/s0022046924001544)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>Irenaeus has tended to be a bit player in modern narratives of the Nestorian controversy. Where the count features in accounts of the church politics of the 430s, it is as an essentially ‘secular’ figure: a conduit to the palace and supplier of coercive force for Nestorius and his Syrian episcopal allies. This article argues that Irenaeus was much more directly involved in doctrinal debate and the mainteNo abstract availablece of ecclesiastical alliances than has been appreciated. The theological engagement and startling career shifts of this imperial count-turned-heresiarch-turned-bishop exemplify the significance of elite Christian patronage and official doctrinal engagement in 430s Constantinople.</jats:p>
+- **Abstract**: Irenaeus has tended to be a bit player in modern narratives of the Nestorian controversy. Where the count features in accounts of the church politics of the 430s, it is as an essentially ‘secular’ figure: a conduit to the palace and supplier of coercive force for Nestorius and his Syrian episcopal allies. This article argues that Irenaeus was much more directly involved in doctrinal debate and the maintenance of ecclesiastical alliances than has been appreciated. The theological engagement and startling career shifts of this imperial count-turned-heresiarch-turned-bishop exemplify the significance of elite Christian patronage and official doctrinal engagement in 430s Constantinople.
 
 ---
 
 ### A Note on the Codex Angus and its Use
 - **DOI**: [10.1017/s0022046924001556](https://doi.org/10.1017/s0022046924001556)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>The Codex Angus (Add. MS 40 in the University of Sydney Library's Rare Books and Special Collections) is a Byzantine Gospel lectionary meant for liturgical use. The findings presented here corroborate this catalogue description. There is ample evidence of its heavy use, which indicates a public not a private setting. After a brief description of the manuscript, particularities of its content and appearance are discussed, all of which point to a small rural community, in Northern Greece, as its original owner and user. Together with introducing the codex, this article casts light on the Christian community that might have used it.</jats:p>
+- **Abstract**: The Codex Angus (Add. MS 40 in the University of Sydney Library's Rare Books and Special Collections) is a Byzantine Gospel lectionary meant for liturgical use. The findings presented here corroborate this catalogue description. There is ample evidence of its heavy use, which indicates a public not a private setting. After a brief description of the manuscript, particularities of its content and appearance are discussed, all of which point to a small rural community, in Northern Greece, as its original owner and user. Together with introducing the codex, this article casts light on the Christian community that might have used it.
 
 ---
 
 ### A Question of Belief Contesting Religion in Restoration England
 - **DOI**: [10.1017/s0022046924001568](https://doi.org/10.1017/s0022046924001568)
 - **Analytical Tags**: `OT / - / -`
-- **Abstract**: <jats:p>Mark Goldie is a towering figure in the historiography of early modern England, with a wide body of work concerning the origins and formations of political and religious institutions, including nascent party groups. His essays and edited collections inform most other accounts of the period, and his cohort of influential supervisees is legion within academia.</jats:p>
+- **Abstract**: Mark Goldie is a towering figure in the historiography of early modern England, with a wide body of work concerning the origins and formations of political and religious institutions, including nascent party groups. His essays and edited collections inform most other accounts of the period, and his cohort of influential supervisees is legion within academia.
 
 ---
 
@@ -694,7 +692,7 @@ Berghahn, 2024. £99. 978 1 80539 597 3]] |
 ### John Stott Michael Harper and the Charismatic Renewal in England
 - **DOI**: [10.1017/s0022046924002124](https://doi.org/10.1017/s0022046924002124)
 - **Analytical Tags**: `OT;Practical Theology / - / -`
-- **Abstract**: <jats:p>The charismatic renewal in the early 1960s was a significant development in global Christianity, creating theological and pastoral debates and disagreements with both local and international dimensions. This article sets the controversy between the leading Anglicans John Stott and Michael Harper within the wider cultural context that impacted the initial rise of the charismatic movement, and its subsequent growing global acceptance. The Stott-Harper debates contributed notably to the long-term domestication of the charismatic movement within an established Church, keeping most charismatic Anglicans within the Evangelical tradition. Conservative Evangelicals were enabled to adjust constructively to the growing ‘charismatisation’ of global Evangelicalism.</jats:p>
+- **Abstract**: The charismatic renewal in the early 1960s was a significant development in global Christianity, creating theological and pastoral debates and disagreements with both local and international dimensions. This article sets the controversy between the leading Anglicans John Stott and Michael Harper within the wider cultural context that impacted the initial rise of the charismatic movement, and its subsequent growing global acceptance. The Stott-Harper debates contributed notably to the long-term domestication of the charismatic movement within an established Church, keeping most charismatic Anglicans within the Evangelical tradition. Conservative Evangelicals were enabled to adjust constructively to the growing ‘charismatisation’ of global Evangelicalism.
 
 ---
 
@@ -722,67 +720,65 @@ Berghahn, 2024. £99. 978 1 80539 597 3]] |
 ### The 1973 Billy Graham Crusade in Seoul Korean Protestant Exceptionalism and American Uniqueness
 - **DOI**: [10.1017/s0022046925000016](https://doi.org/10.1017/s0022046925000016)
 - **Analytical Tags**: `OT / - / -`
-- **Abstract**: <jats:p>The 1973 Billy Graham Crusade in Seoul witnessed a record-breaking attendance not just in terms of Graham’s career, but in the entire history of Christianity. The event’s success attracted significant American attention. But the Korean side of the story remains largely untold. This article explores the Korean background, aims for the crusade and their interpretation of its success. It argues that Korean Protestants leveraged their American connections to advance their own national agenda, causing tensions in the process, and that the crusade’s numerical success stimulated Korean Protestant exceptionalism which challenged ideas of American uniqueness.</jats:p>
+- **Abstract**: The 1973 Billy Graham Crusade in Seoul witnessed a record-breaking attendance not just in terms of Graham’s career, but in the entire history of Christianity. The event’s success attracted significant American attention. But the Korean side of the story remains largely untold. This article explores the Korean background, aims for the crusade and their interpretation of its success. It argues that Korean Protestants leveraged their American connections to advance their own national agenda, causing tensions in the process, and that the crusade’s numerical success stimulated Korean Protestant exceptionalism which challenged ideas of American uniqueness.
 
 ---
 
 ### The English Church Mission and Korea Japanese Rule and Korean Independence 19051945
 - **DOI**: [10.1017/s0022046925000028](https://doi.org/10.1017/s0022046925000028)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article assesses the relationship between the first four bishops of the English Mission in Korea, Japanese colonial rule and the Korean independence movement from 1905 to 1945. It is proposed that the bishops attempted to walk a precarious tightrope between the demands of the colonial government, bent on assimilating Korea, including the Churches, and the ardent aspirations of Koreans, including Christians, who sought to resist colonial rule. The authors conclude that this was a complicated policy which they did not always pull off but one which can be judged as successful overall.</jats:p>
+- **Abstract**: This article assesses the relationship between the first four bishops of the English Mission in Korea, Japanese colonial rule and the Korean independence movement from 1905 to 1945. It is proposed that the bishops attempted to walk a precarious tightrope between the demands of the colonial government, bent on assimilating Korea, including the Churches, and the ardent aspirations of Koreans, including Christians, who sought to resist colonial rule. The authors conclude that this was a complicated policy which they did not always pull off but one which can be judged as successful overall.
 
 ---
 
 ### Reason is but a Dim Light in Comparison with Revelation Robert Greene Revelation and John Locke
 - **DOI**: [10.1017/s002204692500003x](https://doi.org/10.1017/s002204692500003x)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
-- **Abstract**: <jats:p>This article delves into the often-overlooked scholar Robert Greene, a Fellow of Clare Hall, Cambridge, who authored works in both religion and natural philosophy. Greene made significant contributions to the debate on the interplay between reason and faith, with his primary target being John Locke, whose epistemology and views on the relationship between reason and faith he considered detrimental to religion. This article examines Greene’s criticism of Locke’s views on the relationship between reason and faith within its institutional context, shedding new light on Locke’s early reception at the University of Cambridge.</jats:p>
+- **Abstract**: This article delves into the often-overlooked scholar Robert Greene, a Fellow of Clare Hall, Cambridge, who authored works in both religion and natural philosophy. Greene made significant contributions to the debate on the interplay between reason and faith, with his primary target being John Locke, whose epistemology and views on the relationship between reason and faith he considered detrimental to religion. This article examines Greene’s criticism of Locke’s views on the relationship between reason and faith within its institutional context, shedding new light on Locke’s early reception at the University of Cambridge.
 
 ---
 
 ### William of Malmesburys Exegesis Against Conquest
 - **DOI**: [10.1017/s0022046925000041](https://doi.org/10.1017/s0022046925000041)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article argues that allegorical exegesis is important for understanding the writings of William of Malmesbury, both in his exegesis and beyond. In the mid-1130s, William penned a commentary on Lamentations in part to explain the causes and aftermath of the Norman Conquest. His allegorical exegesis decried exploitation and mismanagement of ecclesiastical lands by episcopal appointees from the continent, including his own bishop, Roger of Salisbury. In William’s sometimes veiled yet unmistakable critiques, Roger appears as an invading tyrant whose tenure as abbot of Malmesbury amounts to a period of Babylonian captivity for the monks of that house.</jats:p>
+- **Abstract**: This article argues that allegorical exegesis is important for understanding the writings of William of Malmesbury, both in his exegesis and beyond. In the mid-1130s, William penned a commentary on Lamentations in part to explain the causes and aftermath of the Norman Conquest. His allegorical exegesis decried exploitation and mismanagement of ecclesiastical lands by episcopal appointees from the continent, including his own bishop, Roger of Salisbury. In William’s sometimes veiled yet unmistakable critiques, Roger appears as an invading tyrant whose tenure as abbot of Malmesbury amounts to a period of Babylonian captivity for the monks of that house.
 
 ---
 
 ### Lived Experience of Religion in Recent Research on the Shepherd of Hermas
 - **DOI**: [10.1017/s0022046925000053](https://doi.org/10.1017/s0022046925000053)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>The past decade and a half has brought a blossoming of studies on the <jats:italic>Shepherd of Hermas</jats:italic>, an influential Christian apocalyptic text from the second century <jats:sc>ce</jats:sc>. Most have been produced by specialists in Western Europe and North America publishing in German, French, Italian and English, but others writing in historically overlooked locales and languages are also contributing. Both groups reflect an increasing diversity of perspectives and approaches, which stands in tension with the sort of scholarship on the <jats:italic>Shepherd</jats:italic> that has typically appeared in the modern period. Despite the resurgence, precious few book-length projects have tackled research questions beyond those bounded by historical-criticism until <jats:italic>Experiencing the Shepherd of Hermas</jats:italic> (Berlin 2022) was edited by Angela Kim Harkins and Harry O. Maier, who rank among the most path-breaking scholars presently exploring this text. Their edited volume is a wide-ranging, invigorating contribution to knowledge that should fuel innovative work on the <jats:italic>Shepherd</jats:italic> and, by extension, early Christian literature in the future.</jats:p>
+- **Abstract**: The past decade and a half has brought a blossoming of studies on the Shepherd of Hermas, an influential Christian apocalyptic text from the second century ce. Most have been produced by specialists in Western Europe and North America publishing in German, French, Italian and English, but others writing in historically overlooked locales and languages are also contributing. Both groups reflect an increasing diversity of perspectives and approaches, which stands in tension with the sort of scholarship on the Shepherd that has typically appeared in the modern period. Despite the resurgence, precious few book-length projects have tackled research questions beyond those bounded by historical-criticism until Experiencing the Shepherd of Hermas (Berlin 2022) was edited by Angela Kim Harkins and Harry O. Maier, who rank among the most path-breaking scholars presently exploring this text. Their edited volume is a wide-ranging, invigorating contribution to knowledge that should fuel innovative work on the Shepherd and, by extension, early Christian literature in the future.
 
 ---
 
 ### Paulician Dualism Revisited
 - **DOI**: [10.1017/s0022046925000065](https://doi.org/10.1017/s0022046925000065)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:p>Preserved within the corpus of the East Roman polemicist Peter the Sicilian, several unassuming statements subtly contradict the historical consensus that the Paulicians espoused absolute dualism. According to their own testimony, rather than literally upholding two gods, as their Roman adversaries alleged, the Paulicians worshipped the heavenly Father but contended that the devil was merely a false god to whom the Romans were subject. This article therefore contributes to a broader critique of several received truths: that the Paulicians were absolute dualists, or dualists more generally, and that their thought informed that of later dualist groups.</jats:p>
+- **Abstract**: Preserved within the corpus of the East Roman polemicist Peter the Sicilian, several unassuming statements subtly contradict the historical consensus that the Paulicians espoused absolute dualism. According to their own testimony, rather than literally upholding two gods, as their Roman adversaries alleged, the Paulicians worshipped the heavenly Father but contended that the devil was merely a false god to whom the Romans were subject. This article therefore contributes to a broader critique of several received truths: that the Paulicians were absolute dualists, or dualists more generally, and that their thought informed that of later dualist groups.
 
 ---
 
 ### The Womb of Flame The Pre-Christian Origins of a Greco-Syrian Baptismal Metaphor
 - **DOI**: [10.1017/s0022046925000077](https://doi.org/10.1017/s0022046925000077)
 - **Analytical Tags**: `Practical Theology / - / -`
-- **Abstract**: <jats:p>Scholars of late antique liturgy usually find the origins of baptismal imagery in the Bible and the daily life of early Christians. This article reveals that some metaphors, such as the ‘furnace’ image, may also come from pre-Christian literature. In ancient Greek and Mesopotamian sources, the female uterus is compared to a furnace. This article argues that, based on its use in pre-Christian literature, the furnace image might also be considered feminine. This image describes a broader range of activities in baptism than that ascribed to female agency until now and seems more empowering for today's women.</jats:p>
+- **Abstract**: Scholars of late antique liturgy usually find the origins of baptismal imagery in the Bible and the daily life of early Christians. This article reveals that some metaphors, such as the ‘furnace’ image, may also come from pre-Christian literature. In ancient Greek and Mesopotamian sources, the female uterus is compared to a furnace. This article argues that, based on its use in pre-Christian literature, the furnace image might also be considered feminine. This image describes a broader range of activities in baptism than that ascribed to female agency until now and seems more empowering for today's women.
 
 ---
 
 ### Beyond Sarpi Reading Prohibited Books about the Council of Trent in Early Modern Italy
 - **DOI**: [10.1017/s0022046925000089](https://doi.org/10.1017/s0022046925000089)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article argues that we must look beyond Paolo Sarpi's infamous history of the Council of Trent to understand the culture of reading about the council in early modern Italy. We unearth prohibited works that garnered more attention from Rome than Sarpi's, and we show that these were widely read in multiple formats across Italy from the late sixteenth through the eighteenth century. By recovering this history, we can see Sarpi's <jats:italic>magnum opus</jats:italic> in a new light: as one of many works that sought to make sense of the council, working within and around serious constraints.</jats:p>
+- **Abstract**: This article argues that we must look beyond Paolo Sarpi's infamous history of the Council of Trent to understand the culture of reading about the council in early modern Italy. We unearth prohibited works that garnered more attention from Rome than Sarpi's, and we show that these were widely read in multiple formats across Italy from the late sixteenth through the eighteenth century. By recovering this history, we can see Sarpi's magnum opus in a new light: as one of many works that sought to make sense of the council, working within and around serious constraints.
 
 ---
 
 ### Baxterianism A Lexical History 16501830
 - **DOI**: [10.1017/s0022046925000090](https://doi.org/10.1017/s0022046925000090)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>
-                    The
-                    <jats:italic>Oxford English dictionary’s</jats:italic>
+- **Abstract**: The
+                    Oxford English dictionary’s
                     earliest citation for the coinages Baxterianism and Baxterian to refer to the distinctive ecclesiological and theological thought of the seventeenth-century Puritan divine Richard Baxter is dated 1835, with no examples of use after 1839. This is incorrect. These, and related terms, originated in the 1650s and were in regular use during the intervening 185 years (as well as thereafter to the present day). This essay traces the changing signification and usage of these terms from the religious controversies of the seventeenth-century through the development of denominational identities and of a moderate tradition within eighteenth-century dissent that contributed to the development of Unitarianism.
-                  </jats:p>
 
 ---
 
@@ -1202,56 +1198,56 @@ Berghahn, 2024. £99. 978 1 80539 597 3]] |
 ### Devotion to Saints as Medieval Death Anxiety Management
 - **DOI**: [10.1017/s002204692510119x](https://doi.org/10.1017/s002204692510119x)
 - **Analytical Tags**: `Church History / - / Contemporary;Medieval`
-- **Abstract**: <jats:p>This article examines the fear of death in fourteenth-century Italy by analysing miracle testimonies through the methodological frameworks of terror management theory (TMT) and lived religion. It argues that devotion to saints served as a key coping mechanism for existential anxiety. Examples from the canonisation processes of Clare of Montefalco and Nicholas of Tolentino reveal how individuals turned to saints for protection, seeking to prolong life rather than accept death. This study provides both empirical and methodological insights into the medieval fear of death, illustrating its parallels with contemporary experiences of death anxiety.</jats:p>
+- **Abstract**: This article examines the fear of death in fourteenth-century Italy by analysing miracle testimonies through the methodological frameworks of terror management theory (TMT) and lived religion. It argues that devotion to saints served as a key coping mechanism for existential anxiety. Examples from the canonisation processes of Clare of Montefalco and Nicholas of Tolentino reveal how individuals turned to saints for protection, seeking to prolong life rather than accept death. This study provides both empirical and methodological insights into the medieval fear of death, illustrating its parallels with contemporary experiences of death anxiety.
 
 ---
 
 ### Early Quaker Uses of History The Spirit of the Martyrs Revived
 - **DOI**: [10.1017/s0022046925101206](https://doi.org/10.1017/s0022046925101206)
 - **Analytical Tags**: `Church History;NT;Systematic Theology / - / Reformation`
-- **Abstract**: <jats:p>Given the centrality of immediate revelation to early Quaker theology, modern historians have often assumed that the first Quakers disregarded tradition. However, this article demonstrates that the early Friends frequently made historical arguments, both to launch and rebut polemical assaults. The Quakers did not, therefore, turn to history as the movement became increasingly conservative or respectable. Instead, they consistently claimed to be the true heirs of John Foxe’s Protestant martyrs. By maintaining that their movement represented the culmination of the tradition celebrated in the <jats:italic>Acts and monuments</jats:italic>, they were deeply engaged in the historiographical contests which constituted ‘England’s second Reformation’.</jats:p>
+- **Abstract**: Given the centrality of immediate revelation to early Quaker theology, modern historians have often assumed that the first Quakers disregarded tradition. However, this article demonstrates that the early Friends frequently made historical arguments, both to launch and rebut polemical assaults. The Quakers did not, therefore, turn to history as the movement became increasingly conservative or respectable. Instead, they consistently claimed to be the true heirs of John Foxe’s Protestant martyrs. By maintaining that their movement represented the culmination of the tradition celebrated in the Acts and monuments, they were deeply engaged in the historiographical contests which constituted ‘England’s second Reformation’.
 
 ---
 
 ### Singing the Reformation in Windsor
 - **DOI**: [10.1017/s0022046925101218](https://doi.org/10.1017/s0022046925101218)
 - **Analytical Tags**: `Church History;NT / - / Reformation`
-- **Abstract**: <jats:p>Robert Testwood (c. 1490–1543), professional singer and evangelical mischief-maker, is the subject of many colourful anecdotes in Foxe’s <jats:italic>Acts and monuments</jats:italic>, including a scene in which Testwood mocks the veneration of the Virgin Mary by sabotaging a performance of a polyphonic motet in St George’s Chapel, Windsor. This act of sonic iconoclasm can be dated securely to mid-May 1538. It can be placed in a rich context of surveillance, propaganda, dissent and counter-dissent among the liturgical staff of St George’s as they navigated the changes of the early Reformation.</jats:p>
+- **Abstract**: Robert Testwood (c. 1490–1543), professional singer and evangelical mischief-maker, is the subject of many colourful anecdotes in Foxe’s Acts and monuments, including a scene in which Testwood mocks the veneration of the Virgin Mary by sabotaging a performance of a polyphonic motet in St George’s Chapel, Windsor. This act of sonic iconoclasm can be dated securely to mid-May 1538. It can be placed in a rich context of surveillance, propaganda, dissent and counter-dissent among the liturgical staff of St George’s as they navigated the changes of the early Reformation.
 
 ---
 
 ### The Bible in Global and North American History
 - **DOI**: [10.1017/s002204692510122x](https://doi.org/10.1017/s002204692510122x)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>Christianity is a religion of the book, and in particular of one book, the Bible. More precisely, it is a religion of a library of plural books (<jats:italic>biblia</jats:italic>) that eventually became one single book. It is possible to view the history of all Christian traditions, and not Protestantism alone, as a history of the canonical formation, liturgical and devotional use, cultural influence, contested theological interpretation and geographical diffusion of the Bible. In view of the magnitude of the subject, it is not surprising that very few historians have set out to encapsulate this grand narrative in a single volume. Bruce Gordon, the distinguished historian of early modern European Protestantism, has now made the attempt, and it is a valiant effort of stupendous chronological and geographical range, extending across the entire span of Christian history and covering all continents, though Australasia receives only a paragraph, oddly devoted to the New Hebrides. Not quite so rare are historians who have set out to chart the impact of one translation of the Bible on a single nation or family of nations – notably the role of the King James Bible of 1611 (the Authorised Version) in shaping the language and religious culture of English-speaking peoples, including those in the New World of North America.<jats:sup>1</jats:sup></jats:p>
+- **Abstract**: Christianity is a religion of the book, and in particular of one book, the Bible. More precisely, it is a religion of a library of plural books (biblia) that eventually became one single book. It is possible to view the history of all Christian traditions, and not Protestantism alone, as a history of the canonical formation, liturgical and devotional use, cultural influence, contested theological interpretation and geographical diffusion of the Bible. In view of the magnitude of the subject, it is not surprising that very few historians have set out to encapsulate this grand narrative in a single volume. Bruce Gordon, the distinguished historian of early modern European Protestantism, has now made the attempt, and it is a valiant effort of stupendous chronological and geographical range, extending across the entire span of Christian history and covering all continents, though Australasia receives only a paragraph, oddly devoted to the New Hebrides. Not quite so rare are historians who have set out to chart the impact of one translation of the Bible on a single nation or family of nations – notably the role of the King James Bible of 1611 (the Authorised Version) in shaping the language and religious culture of English-speaking peoples, including those in the New World of North America.1
 
 ---
 
 ### Protestant Martyrs in Three Best-Selling English Ballads c. 15401710
 - **DOI**: [10.1017/s0022046925101243](https://doi.org/10.1017/s0022046925101243)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This article examines three highly successful English broadside-ballads about Protestant martyrs of the mid-sixteenth century and seeks to explain their evident popularity. It argues that ballads were very important in encouraging people to think about martyrs and identify as Protestants, and that the highlighted examples have been either overlooked or underestimated by scholars. The songs also shed new light on commonplace religious tastes and preoccupations, revealing an apparent preference for female martyrs and an apparent distaste for gruesome detail. In both respects, the ballads are contrasted with John Foxe’s much more famous ‘Book of martyrs’.</jats:p>
+- **Abstract**: This article examines three highly successful English broadside-ballads about Protestant martyrs of the mid-sixteenth century and seeks to explain their evident popularity. It argues that ballads were very important in encouraging people to think about martyrs and identify as Protestants, and that the highlighted examples have been either overlooked or underestimated by scholars. The songs also shed new light on commonplace religious tastes and preoccupations, revealing an apparent preference for female martyrs and an apparent distaste for gruesome detail. In both respects, the ballads are contrasted with John Foxe’s much more famous ‘Book of martyrs’.
 
 ---
 
 ### Pierre dAillys Vita of Celestine V
 - **DOI**: [10.1017/s0022046925101255](https://doi.org/10.1017/s0022046925101255)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>In 1408, as the Great Western Schism entered its fourth decade, the Parisian community of Celestine monks asked Pierre d’Ailly to write a life of their founder, Pietro Morrone, who served as Pope Celestine V in 1294. D’Ailly found in him an example that suited his times: a pope could resign without damage to the Church at large. With cardinals from both obediences ready to withdraw support from Avignon’s Benedict XIII and Rome’s Gregory XII, both of whom resisted resignation, d’Ailly made his case for papal resignation <jats:italic>via</jats:italic> his life of Celestine V.</jats:p>
+- **Abstract**: In 1408, as the Great Western Schism entered its fourth decade, the Parisian community of Celestine monks asked Pierre d’Ailly to write a life of their founder, Pietro Morrone, who served as Pope Celestine V in 1294. D’Ailly found in him an example that suited his times: a pope could resign without damage to the Church at large. With cardinals from both obediences ready to withdraw support from Avignon’s Benedict XIII and Rome’s Gregory XII, both of whom resisted resignation, d’Ailly made his case for papal resignation via his life of Celestine V.
 
 ---
 
 ### Ivo of Chartress Quare Deus Natus et Passus Sit
 - **DOI**: [10.1017/s0022046925101267](https://doi.org/10.1017/s0022046925101267)
 - **Analytical Tags**: `Church History / - / Medieval`
-- **Abstract**: <jats:p>Around the turn of the twelfth century, Bishop Ivo of Chartres (c. 1040-1115) wrote the sermon-tract <jats:italic>Quare deus natus et passus sit</jats:italic> in which he outlined the process of human redemption. Although widely circulated in the twelfth century, this important text has been little studied. Here it is situated within the context of high-medieval peNo abstract availablece. It is argued that Ivo was specifically concerned to impress the importance of contrition in <jats:italic>Quare deus natus et passus sit</jats:italic> by providing an outline of the redemptive process that emphasised God’s ‘medicinal mercy’ whilst delineating human knowledge of that process for priestly audiences.</jats:p>
+- **Abstract**: Around the turn of the twelfth century, Bishop Ivo of Chartres (c. 1040-1115) wrote the sermon-tract Quare deus natus et passus sit in which he outlined the process of human redemption. Although widely circulated in the twelfth century, this important text has been little studied. Here it is situated within the context of high-medieval penance. It is argued that Ivo was specifically concerned to impress the importance of contrition in Quare deus natus et passus sit by providing an outline of the redemptive process that emphasised God’s ‘medicinal mercy’ whilst delineating human knowledge of that process for priestly audiences.
 
 ---
 
 ### The Testament of the Forty Martyrs of Sebaste A Forgery
 - **DOI**: [10.1017/s0022046925101279](https://doi.org/10.1017/s0022046925101279)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>The Testament of the Forty Martyrs of Sebaste is a document whose authenticity has been debated for decades, but has remained unresolved. Here the Testament is analysed in detail and it is shown that its central issue is the martyrs’ request not to disseminate their relics. In addition, the earliest sources relating to the cult of the Forty Martyrs are presented and recent studies on the beginnings of the cult of relics are cited. On this basis it is shown that the Testament is spurious.</jats:p>
+- **Abstract**: The Testament of the Forty Martyrs of Sebaste is a document whose authenticity has been debated for decades, but has remained unresolved. Here the Testament is analysed in detail and it is shown that its central issue is the martyrs’ request not to disseminate their relics. In addition, the earliest sources relating to the cult of the Forty Martyrs are presented and recent studies on the beginnings of the cult of relics are cited. On this basis it is shown that the Testament is spurious.
 
 ---
 
@@ -1286,7 +1282,7 @@ Berghahn, 2024. £99. 978 1 80539 597 3]] |
 ### Churchgoing in London The Statistical Record 1830s to Present
 - **DOI**: [10.1017/s0022046925101322](https://doi.org/10.1017/s0022046925101322)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>Part of a series of longitudinal studies of churchgoing in British towns and cities, this article traces the statistical history of church attendance in London over the past two hundred years. Among other sources, it utilises national religious censuses in 1851 and 1979–2005 and metropolitan ones in 1886–7, 1902–3, 1933–4 and 2012, presenting results as an index of attendance (IA), expressing attendances as percentage of population. Throughout the late nineteenth and twentieth centuries, London’s IAs fell continuously and were mostly below those in other conurbations. Following an uptick around the millennium, net decline resumed after 2012.</jats:p>
+- **Abstract**: Part of a series of longitudinal studies of churchgoing in British towns and cities, this article traces the statistical history of church attendance in London over the past two hundred years. Among other sources, it utilises national religious censuses in 1851 and 1979–2005 and metropolitan ones in 1886–7, 1902–3, 1933–4 and 2012, presenting results as an index of attendance (IA), expressing attendances as percentage of population. Throughout the late nineteenth and twentieth centuries, London’s IAs fell continuously and were mostly below those in other conurbations. Following an uptick around the millennium, net decline resumed after 2012.
 
 ---
 
@@ -1489,20 +1485,18 @@ Berghahn, 2024. £99. 978 1 80539 597 3]] |
 ### Early Modern Philology Scriptural Authority and the Enigma of the Cocks Crow
 - **DOI**: [10.1017/s0022046925101668](https://doi.org/10.1017/s0022046925101668)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:p>This article explores the early modern scholarly debate over the cock’s crow in the New Testament account of Peter’s denial, focusing on theologians and savants such as Johann Georg Altmann (1697–1758), John Lightfoot (1602–75) and Adriaan Reland (1676–1718). What began as a narrow philological puzzle, whether the text referred to a rooster or a human herald, expanded into a broader debate over scriptural authority. Set within the intellectual context of the republic of letters, the article shows how efforts to reconcile Scripture with ancient Jewish law and classical sources could unwittingly sow the seeds of doubt and unbelief.</jats:p>
+- **Abstract**: This article explores the early modern scholarly debate over the cock’s crow in the New Testament account of Peter’s denial, focusing on theologians and savants such as Johann Georg Altmann (1697–1758), John Lightfoot (1602–75) and Adriaan Reland (1676–1718). What began as a narrow philological puzzle, whether the text referred to a rooster or a human herald, expanded into a broader debate over scriptural authority. Set within the intellectual context of the republic of letters, the article shows how efforts to reconcile Scripture with ancient Jewish law and classical sources could unwittingly sow the seeds of doubt and unbelief.
 
 ---
 
 ### From Bible to Law in the Early Middle Ages. Adaptations of the Old Testament in the Collectio Hibernensis and King Alfreds Law-Book
 - **DOI**: [10.1017/s002204692510167x](https://doi.org/10.1017/s002204692510167x)
 - **Analytical Tags**: `OT / - / Contemporary;Medieval`
-- **Abstract**: <jats:p>
-                    Two law books of the early Middle Ages stand out for their heavy reliance on the Old Testament, which was rarely quoted in legal texts of the period. The Irish
-                    <jats:italic>Hibernensis</jats:italic>
+- **Abstract**: Two law books of the early Middle Ages stand out for their heavy reliance on the Old Testament, which was rarely quoted in legal texts of the period. The Irish
+                    Hibernensis
                     and King Alfred’s
-                    <jats:italic>Domboc</jats:italic>
+                    Domboc
                     drew not only on the Old Testament itself, but also on adapted biblical verses. An investigation into the literary roots of these legal compilations uncovers parabiblical material which formed part of a literate discourse that spanned Ireland, Wessex and Reims, raising questions about the extent to which contemporary scholars regarded the Bible as a fixed and immutable text.
-                  </jats:p>
 
 ---
 
@@ -1516,11 +1510,9 @@ Berghahn, 2024. £99. 978 1 80539 597 3]] |
 ### Representing Jerusalem
 - **DOI**: [10.1017/s0022046925101796](https://doi.org/10.1017/s0022046925101796)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:p>
-                    The Christian Holy Land is defined by and through representation. Images of Christ’s life, death and resurrection draw on scriptural details to set sacred events in a Palestinian landscape. A desire to witness locations marked by divine presence propels Christian travellers towards monuments built to enshrine the terrestrial traces of the faith’s central mysteries. Shortly after the fourth-century construction of Jerusalem’s Church of the Holy Sepulchre, Bishop Eusebius of Caesarea declared that the sight of Christ’s empty tomb in the structure testified to the truth of the Gospels ‘by facts louder than any voice’.
-                    <jats:sup>1</jats:sup>
+- **Abstract**: The Christian Holy Land is defined by and through representation. Images of Christ’s life, death and resurrection draw on scriptural details to set sacred events in a Palestinian landscape. A desire to witness locations marked by divine presence propels Christian travellers towards monuments built to enshrine the terrestrial traces of the faith’s central mysteries. Shortly after the fourth-century construction of Jerusalem’s Church of the Holy Sepulchre, Bishop Eusebius of Caesarea declared that the sight of Christ’s empty tomb in the structure testified to the truth of the Gospels ‘by facts louder than any voice’.
+                    1
                     Textual descriptions, visual depictions and monumental designs soon began to reference the church’s characteristic architectural features. This intentional layering of structure and Scripture enabled readers, viewers and users to activate these associations from afar.
-                  </jats:p>
 
 ---
 

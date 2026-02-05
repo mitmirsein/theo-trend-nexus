@@ -91,92 +91,84 @@ arc_score: 6
 ### Emulating Hospitality Evading Xenophobia-Tracing the Sins of Sodomites Special Emphasis on            iyādai
 - **DOI**: [10.1177/01461079251317530](https://doi.org/10.1177/01461079251317530)
 - **Analytical Tags**: `OT / - / Patristic`
-- **Abstract**: <jats:p>
-            This study aims to trace what kind of Sodom’s sin is in Genesis 18-19. Since the interpretation of Augustine of Hippo on Sodom’s story, the ideology of reading the text in a certain way has been systemized. He claimed homosexuality was the sin of Sodomites. Churches in Indonesia have inherited this way of reading. As a result, many churches reject the presence of homosexuality based on the passage. They argue that homosexuality was the reason why God punished Sodom and Gomorrah. However, the rationale for claiming such a way is based on the verb
-            <jats:italic>
+- **Abstract**: This study aims to trace what kind of Sodom’s sin is in Genesis 18-19. Since the interpretation of Augustine of Hippo on Sodom’s story, the ideology of reading the text in a certain way has been systemized. He claimed homosexuality was the sin of Sodomites. Churches in Indonesia have inherited this way of reading. As a result, many churches reject the presence of homosexuality based on the passage. They argue that homosexuality was the reason why God punished Sodom and Gomorrah. However, the rationale for claiming such a way is based on the verb
+            
               yā
-              <jats:underline>d</jats:underline>
+              d
               a
-            </jats:italic>
+            
             `, which is used by men to other men as the object of sexual connotation of the verb. By reading the text intertextuality with an emphasis on deconstructionist criticism, we question the meaning of
-            <jats:italic>
+            
               yā
-              <jats:underline>d</jats:underline>
+              d
               a
-            </jats:italic>
+            
             ` in the larger unit of Genesis 18-19. In addition, we contend that Indonesian churches should not violently reject homosexuality the way Sodomites reject Lot and his guests.
-          </jats:p>
 
 ---
 
 ### Matthews Discourse on Brotherly correction Matt 1815-17 as a model of Conflict Resolution in traditional Communities The case of Igbo            iUmunnai
 - **DOI**: [10.1177/01461079251317531](https://doi.org/10.1177/01461079251317531)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>
-            Conflict is an essential part of human existence. It manifests itself where people or things struggle for scarce values. Conflict brings about breakage in interpersonal relationships and divides communities. The pericope of Matthew’s gospel (18:15–17) is concerned with the running of a Christian community and the discipline of its members. Its special focus is the resolution of conflicts among members of the community. The verses recommend a process of reconciliation and forgiveness of offences that involves several stages. Central to the issue at stake is the injunction that a believer who sins against a brother and refuses to listen to the brother, to the witnesses and to the community (
-            <jats:italic>ecclesia</jats:italic>
+- **Abstract**: Conflict is an essential part of human existence. It manifests itself where people or things struggle for scarce values. Conflict brings about breakage in interpersonal relationships and divides communities. The pericope of Matthew’s gospel (18:15–17) is concerned with the running of a Christian community and the discipline of its members. Its special focus is the resolution of conflicts among members of the community. The verses recommend a process of reconciliation and forgiveness of offences that involves several stages. Central to the issue at stake is the injunction that a believer who sins against a brother and refuses to listen to the brother, to the witnesses and to the community (
+            ecclesia
             ) is to be treated as a tax collector or as a gentile. This paper studies this gospel idea in relationship with the reconciliatory process of the traditional Igbo
-            <jats:italic>Umunna</jats:italic>
+            Umunna
             (community). It argues that the Igbo community plays a vital role in conflict resolution to bring back erring brothers to the community just as Matthew’s Jesus showed concern for the resolution of conflicts in the community of his followers.
-          </jats:p>
 
 ---
 
 ### Acts 1726 God made of one blood every ethnicity of humans Part B Appraising Patristic Witnesses and Ancient Language Manuscripts
 - **DOI**: [10.1177/01461079251317532](https://doi.org/10.1177/01461079251317532)
 - **Analytical Tags**: `Church History;NT / - / Patristic`
-- **Abstract**: <jats:p>
-                    Among handwritten manuscripts, Acts 17:26 most commonly reads “God made of one blood every ethnicity of humans…” Another reading here is “God made of one every ethnicity of humans…” This Part B paper documents that the “of one blood” reading appears very early and extensively across multiple language manuscript and patristic quotations—more so than for any other distinctly Byzantine reading of an Acts passage. We document a significant number of “Byzantine” readings that were already attested in Acts patristic quotations and ancient languages of the 2nd-5th centuries. We also show that singular reading omissions considerably outweigh additions in Sinaiticus, Alexandrinus, Vaticanus, and P74. This finding leads us to wonder whether “blood” was similarly an omitted word in these four manuscripts. Importantly, no first millennium manuscripts read “from one man” here, and this emendation has only become commonplace in English Bible translations since the 1960’s. A Part A companion paper (
-                    <jats:xref ref-type="bibr">Cannon 2024</jats:xref>
+- **Abstract**: Among handwritten manuscripts, Acts 17:26 most commonly reads “God made of one blood every ethnicity of humans…” Another reading here is “God made of one every ethnicity of humans…” This Part B paper documents that the “of one blood” reading appears very early and extensively across multiple language manuscript and patristic quotations—more so than for any other distinctly Byzantine reading of an Acts passage. We document a significant number of “Byzantine” readings that were already attested in Acts patristic quotations and ancient languages of the 2nd-5th centuries. We also show that singular reading omissions considerably outweigh additions in Sinaiticus, Alexandrinus, Vaticanus, and P74. This finding leads us to wonder whether “blood” was similarly an omitted word in these four manuscripts. Importantly, no first millennium manuscripts read “from one man” here, and this emendation has only become commonplace in English Bible translations since the 1960’s. A Part A companion paper (
+                    Cannon 2024
                     ) focuses on Greek manuscripts at these Acts passages.
-                  </jats:p>
 
 ---
 
 ### A Study of Differences in the Meaning of the Logos between John and Greek Literature
 - **DOI**: [10.1177/01461079251317534](https://doi.org/10.1177/01461079251317534)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:p>The purpose of this article is to explore the concept of the Logos in John 1:1-18 and how it differs from Greek and Hellenistic philosophy and religious thought. While the term Logos was frequently used in these contexts, John’s understanding of it is unique and shaped by his Christological perspective. To demonstrate this, I examine the concepts of the Logos used by Heraclitus, Zeno, and Poimandres and discover how John’s understanding and use of the Logos differ from theirs. Although John borrowed the term to convey his theology to Hellenic readers, his Logos doctrine is distinct and centers on Jesus Christ as the incarnate person who is equal to God.</jats:p>
+- **Abstract**: The purpose of this article is to explore the concept of the Logos in John 1:1-18 and how it differs from Greek and Hellenistic philosophy and religious thought. While the term Logos was frequently used in these contexts, John’s understanding of it is unique and shaped by his Christological perspective. To demonstrate this, I examine the concepts of the Logos used by Heraclitus, Zeno, and Poimandres and discover how John’s understanding and use of the Logos differ from theirs. Although John borrowed the term to convey his theology to Hellenic readers, his Logos doctrine is distinct and centers on Jesus Christ as the incarnate person who is equal to God.
 
 ---
 
 ### How did the biblical authors perceive the color behind the term            ierythrosi
 - **DOI**: [10.1177/01461079251317535](https://doi.org/10.1177/01461079251317535)
 - **Analytical Tags**: `- / - / Contemporary`
-- **Abstract**: <jats:p>
-            The conceptualization of colors is heavily influenced by culture, resulting in the fluid semantics of color-related terminology. This necessitates heightened attention towards concepts present in ancient languages, which often receive inadequate scrutiny from lexicographers. Within Greek biblical language, numerous terms are translated as “red” in English, yet the objects described by these terms challenge the validity of this simple identification. This study focuses on the term
-            <jats:italic>erythros</jats:italic>
+- **Abstract**: The conceptualization of colors is heavily influenced by culture, resulting in the fluid semantics of color-related terminology. This necessitates heightened attention towards concepts present in ancient languages, which often receive inadequate scrutiny from lexicographers. Within Greek biblical language, numerous terms are translated as “red” in English, yet the objects described by these terms challenge the validity of this simple identification. This study focuses on the term
+            erythros
             , which functions in biblical Greek primarily as part of the toponym
-            <jats:italic>erythra thalassa</jats:italic>
+            erythra thalassa
             , commonly identified with the Red Sea. By analyzing the adjective
-            <jats:italic>erythros</jats:italic>
+            erythros
             in non-biblical sources, its Hebrew counterparts, as well as natural phenomena possibly contributing to the chromatism embedded in the toponym
-            <jats:italic>erythra thalassa</jats:italic>
+            erythra thalassa
             , alongside the verbs (
-            <jats:italic>erythriaō, erythainō</jats:italic>
+            erythriaō, erythainō
             , and
-            <jats:italic>erythrodanoō</jats:italic>
+            erythrodanoō
             ) and the noun (
-            <jats:italic>erythēma</jats:italic>
+            erythēma
             ) morphologically linked to the adjective
-            <jats:italic>erythros</jats:italic>
+            erythros
             , it is demonstrated that these concepts were also employed to describe the pinkish hue of skin, the color of wine (implicitly blood), and the pigment derived from
-            <jats:italic>Rytiphloea tinctoria</jats:italic>
+            Rytiphloea tinctoria
             . Concerning the hue of the
-            <jats:italic>thalassa</jats:italic>
+            thalassa
             , it might have derived from perceptions of water tinted either by reflecting hills or the presence of the algae
-            <jats:italic>Trichodesmium erythraeum</jats:italic>
+            Trichodesmium erythraeum
             . Consequently, the adjective
-            <jats:italic>erythros</jats:italic>
+            erythros
             more aptly aligns with shades of brown and orange than with the connotations associated with the contemporary understanding of “red.”.
-          </jats:p>
 
 ---
 
 ### Acting the Slave Reinterpreting Pauls Metaphorical Slavery 1 Cor 91923
 - **DOI**: [10.1177/01461079251317536](https://doi.org/10.1177/01461079251317536)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:p>This paper considers the background of Paul’s generic “slave” metaphor in 1 Cor 9:19–23. Scholars at various times have attempted to identify this slave as a more precise figure from the ancient world. Proposals such as the “enslaved leader” or the “flatterer” have been put forward. This paper agrees with the assumption that Paul has something specific in mind but argues that the various proposals previously offered do not fully encompass Paul’s description of the figure. Instead, it will be argued that what Paul has in view is the ancient actor.</jats:p>
+- **Abstract**: This paper considers the background of Paul’s generic “slave” metaphor in 1 Cor 9:19–23. Scholars at various times have attempted to identify this slave as a more precise figure from the ancient world. Proposals such as the “enslaved leader” or the “flatterer” have been put forward. This paper agrees with the assumption that Paul has something specific in mind but argues that the various proposals previously offered do not fully encompass Paul’s description of the figure. Instead, it will be argued that what Paul has in view is the ancient actor.
 
 ---
 
@@ -197,46 +189,44 @@ arc_score: 6
 ### Hagar Interprets Her Own Promise Exploring A Hopeful Reading of Genesis 1612
 - **DOI**: [10.1177/01461079251339742](https://doi.org/10.1177/01461079251339742)
 - **Analytical Tags**: `OT / - / Contemporary`
-- **Abstract**: <jats:p>Genesis 16:12 contains three clauses that have been widely interpreted as predicting prolonged conflict between Ishmael’s descendants and their relatives within the Abrahamic family. While there is agreement among contemporary commentators that the wording of these clauses is ambiguous, negative renderings are far more prevalent than positive or neutral renderings in popular English translations, as well as in expositions of the text. This article argues that Hagar’s response to her own promise, in concert with other elements in the wider narrative of Genesis, should be prioritized in deciding between negative or positive interpretations of the ambiguous wording therein. It also reexamines the level of ambiguity of the wording itself to show that it may not be as obscure as has often been proposed.</jats:p>
+- **Abstract**: Genesis 16:12 contains three clauses that have been widely interpreted as predicting prolonged conflict between Ishmael’s descendants and their relatives within the Abrahamic family. While there is agreement among contemporary commentators that the wording of these clauses is ambiguous, negative renderings are far more prevalent than positive or neutral renderings in popular English translations, as well as in expositions of the text. This article argues that Hagar’s response to her own promise, in concert with other elements in the wider narrative of Genesis, should be prioritized in deciding between negative or positive interpretations of the ambiguous wording therein. It also reexamines the level of ambiguity of the wording itself to show that it may not be as obscure as has often been proposed.
 
 ---
 
 ### Gehazis Active Post-Biblical Afterlife Three Views
 - **DOI**: [10.1177/01461079251339746](https://doi.org/10.1177/01461079251339746)
 - **Analytical Tags**: `- / Method / Contemporary`
-- **Abstract**: <jats:p>Gehazi the servant/disciple of Elisha appears briefly in the Bible (2 Kings chapters 4, 5, and 8). There he is depicted as both a faithful and caring servant, and as a villain who is punished. Gehazi has an intriguing post-biblical afterlife in the writings of Jewish and Christian exegetes from ancient times to the present, as well as being of interest for contemporary scholarship. This article considers three views of Gehazi, those based on biblical texts; those based on rabbinic comments; and then the views of contemporary and feminist scholarship.</jats:p>
+- **Abstract**: Gehazi the servant/disciple of Elisha appears briefly in the Bible (2 Kings chapters 4, 5, and 8). There he is depicted as both a faithful and caring servant, and as a villain who is punished. Gehazi has an intriguing post-biblical afterlife in the writings of Jewish and Christian exegetes from ancient times to the present, as well as being of interest for contemporary scholarship. This article considers three views of Gehazi, those based on biblical texts; those based on rabbinic comments; and then the views of contemporary and feminist scholarship.
 
 ---
 
 ### Pauls Narrative Preaching for Contemporary Homiletics
 - **DOI**: [10.1177/01461079251339747](https://doi.org/10.1177/01461079251339747)
 - **Analytical Tags**: `NT;Practical Theology / - / Contemporary`
-- **Abstract**: <jats:p>Contrary to the common approach of contemporary homiletics, which treats Paul’s letters and narratives as completely different genres, Paul interweaves several narratives in 1 Thessalonians: (1) narrative of God and Jesus, (2) Paul’s narrative (3) the Thessalonians’ narrative. Paul wanted these three narratives to function as a collective story within the Thessalonian church, reinforcing their common identity, and as a story that separated insiders from outsiders, building a community distinct from the surrounding culture. Paul’s narrative preaching offers an alternative to the current homiletical approach which has reduced narrative to a personal dimension aimed at providing a preaching experience for the listener. It also offers fresh insights into the use of narrative for contemporary preachers responsible for building up the church community.</jats:p>
+- **Abstract**: Contrary to the common approach of contemporary homiletics, which treats Paul’s letters and narratives as completely different genres, Paul interweaves several narratives in 1 Thessalonians: (1) narrative of God and Jesus, (2) Paul’s narrative (3) the Thessalonians’ narrative. Paul wanted these three narratives to function as a collective story within the Thessalonian church, reinforcing their common identity, and as a story that separated insiders from outsiders, building a community distinct from the surrounding culture. Paul’s narrative preaching offers an alternative to the current homiletical approach which has reduced narrative to a personal dimension aimed at providing a preaching experience for the listener. It also offers fresh insights into the use of narrative for contemporary preachers responsible for building up the church community.
 
 ---
 
 ### The Seven Spirits of God The Holy Spirit or the Angels of the Presence
 - **DOI**: [10.1177/01461079251339748](https://doi.org/10.1177/01461079251339748)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
-- **Abstract**: <jats:p>The “seven spirits” encountered in Revelation (1:4; 3:1; 4:5; 5:6) have most often been identified with the Holy Spirit, the third person of the Trinity. A notable minority of scholars understand them to constitute a high-ranking circle of angelic beings, often akin to the “angels of the Presence” known from other Second Temple period literature. This paper surveys and evaluates arguments in favor of (and against) both positions. It problematizes the former position as one that has often been embraced too quickly and uncritically, given interpreters’ familiarity with the category of “Trinity” on this side of centuries of Christian commitment to the same, while seeking to establish through positive argument that, though certainty is not possible, the second option has greater merit and is more worthy of careful consideration than it often receives.</jats:p>
+- **Abstract**: The “seven spirits” encountered in Revelation (1:4; 3:1; 4:5; 5:6) have most often been identified with the Holy Spirit, the third person of the Trinity. A notable minority of scholars understand them to constitute a high-ranking circle of angelic beings, often akin to the “angels of the Presence” known from other Second Temple period literature. This paper surveys and evaluates arguments in favor of (and against) both positions. It problematizes the former position as one that has often been embraced too quickly and uncritically, given interpreters’ familiarity with the category of “Trinity” on this side of centuries of Christian commitment to the same, while seeking to establish through positive argument that, though certainty is not possible, the second option has greater merit and is more worthy of careful consideration than it often receives.
 
 ---
 
 ### Between Acts and Antioch Discerning Paul on Gentiles and the Jerusalem Temple
 - **DOI**: [10.1177/01461079251339749](https://doi.org/10.1177/01461079251339749)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:p>When the author of Acts addresses the controversy of Paul’s teaching in Acts 21, he implicitly rejects the notion that Paul preaches “against the people, the law, and this place [i.e., the temple]” (Acts 21:28), including the accusation that Paul brought gentiles beyond their designated area in the temple complex. Acts’s account of the allegations against Paul, his temple attendance, and arrest is narrated in such a way as to dampen the controversy of Paul’s view on Jewish custom as assumed from his ministry and letters. In this article, views concerning the relation of gentiles to the temple are traced to show how they undergird and occasion controversies of fellowship. It is reasonable to assume that Paul would have felt about gentile temple pilgrimage the way he felt about gentile circumcision. Though there is no explicit criticism of the temple in his writings, Paul’s understanding of gentile believers’ new status in Christ runs counter to the exclusionary layout of the temple complex, an understanding demonstrated most clearly in the Antioch Incident (Galatians 2).</jats:p>
+- **Abstract**: When the author of Acts addresses the controversy of Paul’s teaching in Acts 21, he implicitly rejects the notion that Paul preaches “against the people, the law, and this place [i.e., the temple]” (Acts 21:28), including the accusation that Paul brought gentiles beyond their designated area in the temple complex. Acts’s account of the allegations against Paul, his temple attendance, and arrest is narrated in such a way as to dampen the controversy of Paul’s view on Jewish custom as assumed from his ministry and letters. In this article, views concerning the relation of gentiles to the temple are traced to show how they undergird and occasion controversies of fellowship. It is reasonable to assume that Paul would have felt about gentile temple pilgrimage the way he felt about gentile circumcision. Though there is no explicit criticism of the temple in his writings, Paul’s understanding of gentile believers’ new status in Christ runs counter to the exclusionary layout of the temple complex, an understanding demonstrated most clearly in the Antioch Incident (Galatians 2).
 
 ---
 
 ### An ecological creation-theology critical re-reading of Marks Fig Tree Miracle
 - **DOI**: [10.1177/01461079251339750](https://doi.org/10.1177/01461079251339750)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:p>
-            This article re-examines the story of the cursing of a fig tree by Jesus, who, seeking to find fruit on it to satisfy his hunger and finding none, was apparently disappointed, and thereupon cursed it. The tree was said to have withered forthwith. A critical reader gets perplexed when the Marcan version, unlike Matthew’s (Matt.21: 18-20), clearly excuses the fig tree, “...for it was not time for figs.” The zenith of the complications is reached in the anti-thetical classification of the incident as belonging to the miracle story
-            <jats:italic>Gattung.</jats:italic>
+- **Abstract**: This article re-examines the story of the cursing of a fig tree by Jesus, who, seeking to find fruit on it to satisfy his hunger and finding none, was apparently disappointed, and thereupon cursed it. The tree was said to have withered forthwith. A critical reader gets perplexed when the Marcan version, unlike Matthew’s (Matt.21: 18-20), clearly excuses the fig tree, “...for it was not time for figs.” The zenith of the complications is reached in the anti-thetical classification of the incident as belonging to the miracle story
+            Gattung.
             Was the Marcan Jesus on a self-indulgent ego trip? Was he on a power-demonstration tour? Or was the evangelist communicating another message in coded language? A study of the text from the narrative analysis and criticism points of view, and through the prism of ecological hermeneutics seeks to provide answers to the above questions, advocating a re-think on the environmental issues of deforestation in our climes.
-          </jats:p>
 
 ---
 
@@ -278,65 +268,59 @@ arc_score: 6
 ### The Critique of Wealth in Psalm 49 and in African Indigenous Sacred Texts
 - **DOI**: [10.1177/01461079251364238](https://doi.org/10.1177/01461079251364238)
 - **Analytical Tags**: `- / - / Contemporary`
-- **Abstract**: <jats:p>
-            Biblical Scholarship in Africa has consistently argued for the complementarity between the scientific study of the biblical text and the adoption of suitable hermeneutical approaches, which is necessary for the transmission of its message and the transformation of contemporary African society. African Biblical Scholars have thus shown the way in bringing various aspects of Africa’s rich culture, proverbs, rituals, and moral norms, among others, into dialogue with the biblical text, bringing this text closer to the African reader, on the one hand, and facilitating the transformation of the receptor culture on the other. One of the less explored ways through which these same goals might be achieved is to bring the results of the exegesis of the biblical text into dialogue with African Indigenous Sacred Texts. This paper, using the distinctive interest approach to African Biblical Hermeneutics, studies the critique of wealth in Psalm 49 and in the Adinkra text,
-            <jats:italic>Owuo mpɛ sika</jats:italic>
+- **Abstract**: Biblical Scholarship in Africa has consistently argued for the complementarity between the scientific study of the biblical text and the adoption of suitable hermeneutical approaches, which is necessary for the transmission of its message and the transformation of contemporary African society. African Biblical Scholars have thus shown the way in bringing various aspects of Africa’s rich culture, proverbs, rituals, and moral norms, among others, into dialogue with the biblical text, bringing this text closer to the African reader, on the one hand, and facilitating the transformation of the receptor culture on the other. One of the less explored ways through which these same goals might be achieved is to bring the results of the exegesis of the biblical text into dialogue with African Indigenous Sacred Texts. This paper, using the distinctive interest approach to African Biblical Hermeneutics, studies the critique of wealth in Psalm 49 and in the Adinkra text,
+            Owuo mpɛ sika
             (death accepts no money), an indigenous text of the Akan people of Ghana and La Côte d’Ivoire. It argues that these two sacred texts both call attention to the risks of absolutizing wealth instead of the well-being of the human person, thus urging an evaluation and reimagination of the concept of wealth in contemporary Ghanaian society.
-          </jats:p>
 
 ---
 
 ### Psychology and Performance Revisiting Rhoads Performance Criticism An Emerging Methodology in Second Temple Studies
 - **DOI**: [10.1177/01461079251364239](https://doi.org/10.1177/01461079251364239)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:p>In 2006, David Rhoads published a two-part BTB article introducing the discipline of performance criticism. Almost twenty years later, the essays have become foundational to the discussion of biblical performance. The following study revisits several of the arguments advanced by Rhoads through the perspective of the psychological sciences. The analysis devotes particular attention to understanding the cognitive processes and experiential impacts associated with narrative engagement to appreciate how the modalities of reading and performance both intersect and diverge. The study concludes that, although Rhoads may have overstated his case in certain instances, the psychological literature broadly affirms his conclusions, enriching and extending the discussion through a methodological perspective that has been underutilized among performance critics.</jats:p>
+- **Abstract**: In 2006, David Rhoads published a two-part BTB article introducing the discipline of performance criticism. Almost twenty years later, the essays have become foundational to the discussion of biblical performance. The following study revisits several of the arguments advanced by Rhoads through the perspective of the psychological sciences. The analysis devotes particular attention to understanding the cognitive processes and experiential impacts associated with narrative engagement to appreciate how the modalities of reading and performance both intersect and diverge. The study concludes that, although Rhoads may have overstated his case in certain instances, the psychological literature broadly affirms his conclusions, enriching and extending the discussion through a methodological perspective that has been underutilized among performance critics.
 
 ---
 
 ### When I See  I Will Remember Exploring the Memorability of Rainbows and Stars in Genesis through Mnemonatures
 - **DOI**: [10.1177/01461079251364240](https://doi.org/10.1177/01461079251364240)
 - **Analytical Tags**: `OT / - / -`
-- **Abstract**: <jats:p>The authors of the Old Testament/Hebrew Bible (OT/HB) interweave the text with references to the natural world, creating cognitive links between nature and the text which aid memorability. Twenty-first century readers, chronologically and often spatially removed from this natural context, risk missing the mnemonic function of these references to nature, and the interpretative insights that may flow from them. To bridge this gap, I develop and implement an approach that I term “mnemonature,” which highlights the way that the natural world aids memorability. Then, to test its applicability, I apply mnemonature to two case studies in Genesis, which links a rainbow to God’s coveNo abstract availablet with Noah (9:12–17) and the stars with God’s promise to Abram of abundant descendants (15:1–6). Mnemonature is a tool for exploring the biblical authors use and nuance references to the natural world, the memorable qualities of nature in realia, and the role that references to nature play in aiding the text’s memorability.</jats:p>
+- **Abstract**: The authors of the Old Testament/Hebrew Bible (OT/HB) interweave the text with references to the natural world, creating cognitive links between nature and the text which aid memorability. Twenty-first century readers, chronologically and often spatially removed from this natural context, risk missing the mnemonic function of these references to nature, and the interpretative insights that may flow from them. To bridge this gap, I develop and implement an approach that I term “mnemonature,” which highlights the way that the natural world aids memorability. Then, to test its applicability, I apply mnemonature to two case studies in Genesis, which links a rainbow to God’s covenant with Noah (9:12–17) and the stars with God’s promise to Abram of abundant descendants (15:1–6). Mnemonature is a tool for exploring the biblical authors use and nuance references to the natural world, the memorable qualities of nature in realia, and the role that references to nature play in aiding the text’s memorability.
 
 ---
 
 ### The Biblical Key Word            iḇêraḵi             What Does it Mean and How it Can Be Rendered in English Arabic and Japanese
 - **DOI**: [10.1177/01461079251364246](https://doi.org/10.1177/01461079251364246)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>
-            The Biblical Hebrew word
-            <jats:italic>ḇêraḵ</jats:italic>
+- **Abstract**: The Biblical Hebrew word
+            ḇêraḵ
             (written in Hebrew script ברך and pronounced /beˈraχ/) is a biblical key word that is often rendered in English as
-            <jats:italic>bless</jats:italic>
+            bless
             but also as
-            <jats:italic>praise</jats:italic>
+            praise
             and other words. Since it is a key word, understanding its meaning is important, as this can help Bible readers better understand verses that include it. This can also help practicing Christians and Jews who do not know Hebrew understand prayers based on these verses. Therefore, this paper aims to look into the meaning of
-            <jats:italic>ḇêraḵ</jats:italic>
+            ḇêraḵ
             and explicate it in context using simple, (semi-)universal concepts. The simplicity of the explication makes it easily understood and helps ward off ambiguity. Its (semi-)universality makes it readily translatable into nearly any language. This, in turn, can make the meaning of
-            <jats:italic>ḇêraḵ</jats:italic>
+            ḇêraḵ
             accessible to almost everyone. In addition, we throw light on how this word is and should be rendered in English (the language in which this article is written), Arabic (the mother tongue of the first author), and Japanese (the mother tongue of the second author). Examining the counterparts of ḇêraḵ in these three languages can help English, Arabic, and Japanese translators when translating biblical verses containing this word.
-          </jats:p>
 
 ---
 
 ### Whose Interests Are Served by            iEshet Chayili             Reading Woman in Proverbs 3110-31
 - **DOI**: [10.1177/01461079251364247](https://doi.org/10.1177/01461079251364247)
 - **Analytical Tags**: `Ethics / Method / Contemporary`
-- **Abstract**: <jats:p>
-            This study aims to reinterpret Proverbs 31:10-31, specifically the figure of the
-            <jats:italic>eshet chayil</jats:italic>
+- **Abstract**: This study aims to reinterpret Proverbs 31:10-31, specifically the figure of the
+            eshet chayil
             (woman of valor), through an interdisciplinary approach that combines linguistic, historical, feminist, womanist, and theological perspectives. Using a multi-method framework, the paper analyzes the linguistic nuances of the Hebrew term
-            <jats:italic>chayil</jats:italic>
+            chayil
             , situates the
-            <jats:italic>eshet chayil</jats:italic>
+            eshet chayil
             within the socio-economic context of ancient Israel, and applies feminist and womanist hermeneutics to reclaim her as a figure of agency and leadership. Additionally, Jean-Luc Marion’s philosophy of love, gift, and the saturated phenomenon is employed to offer a theological reading of the
-            <jats:italic>eshet chayil</jats:italic>
+            eshet chayil
             as an embodiment of divine wisdom and self-giving love. The study finds that, far from reinforcing patriarchal norms, the
-            <jats:italic>eshet chayil</jats:italic>
+            eshet chayil
             reflects divine wisdom (
-            <jats:italic>hokmah</jats:italic>
+            hokmah
             ) and love, challenging traditional gender roles and inviting contemporary applications, particularly in relation to the experiences of marginalized women, such as modern domestic workers. The novelty of this study lies in its integration of Marion’s philosophical theology with a feminist and contextual analysis, offering a fresh perspective that highlights the relational, polyphonic nature of the Bible and its relevance to issues of justice and care.
-          </jats:p>
 
 ---
 
@@ -364,41 +348,39 @@ arc_score: 6
 ### Building Intersectional Coalitions with Jesus and the WNBA A Response to Judith Butlers Whos Afraid of Gender
 - **DOI**: [10.1177/01461079251392256](https://doi.org/10.1177/01461079251392256)
 - **Analytical Tags**: `- / Method / -`
-- **Abstract**: <jats:p>
-                    In their most recent book,
-                    <jats:italic toggle="yes">Who’s Afraid of Gender</jats:italic>
+- **Abstract**: In their most recent book,
+                    Who’s Afraid of Gender
                     , Judith Butler documents how gender has become the phantasm that has ignited the deeply divisive “culture wars.” Butler concludes that there needs to be two responses: 1) to recognize that meaning is always open and occurs only in context, and 2) to form intersectional coalitions in order to find common ground to counter dangerous, fascist, and eventually fatal ideologies. This essay provides an example of biblical untranslatability with Matthew 5:22 and the word
-                    <jats:italic toggle="yes">raka</jats:italic>
+                    raka
                     , and offers glimpses into powerful coalitions that have already begun; this essay interprets Jesus in ways that counter oppressive hierarchies, and recognizes the boundary-dissolving, binary-blending WNBA phenomenon that has united millions of extraordinarily diverse people.
-                  </jats:p>
 
 ---
 
 ### Jesuss Ethics of Wealth Where Your Treasure Is There Your Heart Will Be Also
 - **DOI**: [10.1177/01461079251392257](https://doi.org/10.1177/01461079251392257)
 - **Analytical Tags**: `- / - / Contemporary`
-- **Abstract**: <jats:p>I defend an interpretation of Jesus’s ethics of wealth according to which possession of wealth beyond what is required to satisfy minimal daily needs conflicts with the central commandment to love God with all one’s heart. On Jesus’s view, possession of (surplus) wealth inevitably leads to love of wealth – “where your treasure is, there your heart will be also.” Accordingly, Jesus lays down a set of principles regarding wealth that, if followed, will quickly lead to the loss of at least most of one’s wealth. I defend this interpretation against some commentators who argue that Jesus’s more demanding statements about wealth are hyperbolic. Finally, I draw on contemporary work in psychology to show that Jesus’s principle that “where your treasure is, there your heart will be also” captures important truths to which everyone – Christian or not – should pay careful attention.</jats:p>
+- **Abstract**: I defend an interpretation of Jesus’s ethics of wealth according to which possession of wealth beyond what is required to satisfy minimal daily needs conflicts with the central commandment to love God with all one’s heart. On Jesus’s view, possession of (surplus) wealth inevitably leads to love of wealth – “where your treasure is, there your heart will be also.” Accordingly, Jesus lays down a set of principles regarding wealth that, if followed, will quickly lead to the loss of at least most of one’s wealth. I defend this interpretation against some commentators who argue that Jesus’s more demanding statements about wealth are hyperbolic. Finally, I draw on contemporary work in psychology to show that Jesus’s principle that “where your treasure is, there your heart will be also” captures important truths to which everyone – Christian or not – should pay careful attention.
 
 ---
 
 ### Metaphors of Renewal and Return in the Hebrew Bible and Today
 - **DOI**: [10.1177/01461079251392258](https://doi.org/10.1177/01461079251392258)
 - **Analytical Tags**: `OT / - / Contemporary`
-- **Abstract**: <jats:p>The forced migrations in the eighth-sixth centuries BCE stimulated Israelite prophets, poets, and storytellers to find metaphors for the horrors of those recurring experiences. The surviving texts also show a concerted effort to visualize return and renewal, especially via metaphors of the renewal of nature, the revival of agriculture, urban reconstruction, and renewal of the temple cult, family, and (limitedly) kingship. The biblical texts, especially in the prophets, blend these metaphors to create theologically rich visions of human flourishing. As such, the texts in question provide important raw material for contemporary movements for renewal.</jats:p>
+- **Abstract**: The forced migrations in the eighth-sixth centuries BCE stimulated Israelite prophets, poets, and storytellers to find metaphors for the horrors of those recurring experiences. The surviving texts also show a concerted effort to visualize return and renewal, especially via metaphors of the renewal of nature, the revival of agriculture, urban reconstruction, and renewal of the temple cult, family, and (limitedly) kingship. The biblical texts, especially in the prophets, blend these metaphors to create theologically rich visions of human flourishing. As such, the texts in question provide important raw material for contemporary movements for renewal.
 
 ---
 
 ### Resisting Trumps Fascist Politics of Human Animalization The Canaanite Woman Jesus and Gentile Dogs as a Paradigm
 - **DOI**: [10.1177/01461079251392259](https://doi.org/10.1177/01461079251392259)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>This essay brings the nascent field of dehumanization studies into conversation with an uncomfortable moment of dehumanization in the early Christian movement: namely, Jesus Christ’s animalization of a Canaanite woman and her gentile kin as “dogs” (Matt 15:26–27). Recent scholarship on human animalization has shown that dehumanizing animal metaphors have an uncanny ability to hijack humans’ moral inhibitions against killing one another. Too often, animal metaphors have been wielded to legitimate structural and direct violence against the oppressed, including serving as a precursor for enslavement and genocide. In the context of the United States, animal metaphors thrive in Donald Trump’s fascist politics and far-right MAGA movement to scapegoat and essentialize immigrants as subhuman creatures. Disturbingly, this anti-immigrant foment is especially pervasive among adherents of White Christian nationalism. To confront this moment of democratic backsliding and Christian power worship, this essay brings recent scholarship from dehumanization studies into conversation with animal metaphors in Greco-Roman antiquity and Trump’s fascist politics. This background is then brought to bear on Jesus’ confrontation with the Canaanite woman in Matthew 15:21-28. The essay concludes with reflections on how Jesus’ changed mind and benefaction toward the woman’s daughter undermines White Christian nationalists’ nativist and dominionist interpretation of Matthew’s Great Commission.</jats:p>
+- **Abstract**: This essay brings the nascent field of dehumanization studies into conversation with an uncomfortable moment of dehumanization in the early Christian movement: namely, Jesus Christ’s animalization of a Canaanite woman and her gentile kin as “dogs” (Matt 15:26–27). Recent scholarship on human animalization has shown that dehumanizing animal metaphors have an uncanny ability to hijack humans’ moral inhibitions against killing one another. Too often, animal metaphors have been wielded to legitimate structural and direct violence against the oppressed, including serving as a precursor for enslavement and genocide. In the context of the United States, animal metaphors thrive in Donald Trump’s fascist politics and far-right MAGA movement to scapegoat and essentialize immigrants as subhuman creatures. Disturbingly, this anti-immigrant foment is especially pervasive among adherents of White Christian nationalism. To confront this moment of democratic backsliding and Christian power worship, this essay brings recent scholarship from dehumanization studies into conversation with animal metaphors in Greco-Roman antiquity and Trump’s fascist politics. This background is then brought to bear on Jesus’ confrontation with the Canaanite woman in Matthew 15:21-28. The essay concludes with reflections on how Jesus’ changed mind and benefaction toward the woman’s daughter undermines White Christian nationalists’ nativist and dominionist interpretation of Matthew’s Great Commission.
 
 ---
 
 ### Tamar Abigail Esther A Thrice Told Tale
 - **DOI**: [10.1177/01461079251392260](https://doi.org/10.1177/01461079251392260)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:p>Although subject, time, place, and characters differ in these three texts, many of the plotlines and themes that appear in the narrative that addresses Tamar (Gen. 38) reappear in the narrative addressing Abigail (1 Sam. 25), and then also reappear in the book of Esther. This article points out those matters showing how this really is a thrice-told tale.</jats:p>
+- **Abstract**: Although subject, time, place, and characters differ in these three texts, many of the plotlines and themes that appear in the narrative that addresses Tamar (Gen. 38) reappear in the narrative addressing Abigail (1 Sam. 25), and then also reappear in the book of Esther. This article points out those matters showing how this really is a thrice-told tale.
 
 ---
 

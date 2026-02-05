@@ -124,98 +124,98 @@ arc_score: 6
 ### Reformulating redemption A study of the two-powers distinction in Davenant and Owen and its implications for the extent of atonement
 - **DOI**: [10.1017/s0036930624000607](https://doi.org/10.1017/s0036930624000607)
 - **Analytical Tags**: `Church History;Systematic Theology / - / Medieval`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>The distinction between God's absolute power and ordained power was a hallmark of medieval theology, yet its role within Reformed theology has rarely been considered. Even more importantly, consideration of the distinction in Reformed theology by historians is often restricted to theology proper or the nature and necessity of the atonement with little regard for how the concept can inform the question of the extent of the atonement. This paper seeks to fill this lacuna by considering two influential Reformed theologians of the seventeenth century: John DaveNo abstract availablet and John Owen. While considerable attention has been given to the distinctly Thomist influence on these two theologians in particular, this paper seeks to qualify these legitimate assessments with the following conclusion: DaveNo abstract availablet and Owen both understand the two-powers distinction in a way that differs from Aquinas and reflects a shift in the concept in late medieval theology.</jats:p>
+- **Abstract**: AbstractThe distinction between God's absolute power and ordained power was a hallmark of medieval theology, yet its role within Reformed theology has rarely been considered. Even more importantly, consideration of the distinction in Reformed theology by historians is often restricted to theology proper or the nature and necessity of the atonement with little regard for how the concept can inform the question of the extent of the atonement. This paper seeks to fill this lacuna by considering two influential Reformed theologians of the seventeenth century: John Davenant and John Owen. While considerable attention has been given to the distinctly Thomist influence on these two theologians in particular, this paper seeks to qualify these legitimate assessments with the following conclusion: Davenant and Owen both understand the two-powers distinction in a way that differs from Aquinas and reflects a shift in the concept in late medieval theology.
 
 ---
 
 ### The Spirit in relation to the Word means in relation to grace
 - **DOI**: [10.1017/s0036930624000632](https://doi.org/10.1017/s0036930624000632)
 - **Analytical Tags**: `Systematic Theology / - / Contemporary`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>If a strong working concept of the Spirit–Word relationship and the means of grace is lacking in many contemporary churches, part of the solution may be a fresh analysis and articulation of those themes. An adequate doctrine of the means of grace will reflect the complexity of the Holy Spirit's partnership with the Word, highlight the Word of God as the one essential means of grace, and throw as much light as possible on why the Word is the Spirit's necessary and perfectly suited instrument for applying redemptive grace in human lives.</jats:p>
+- **Abstract**: AbstractIf a strong working concept of the Spirit–Word relationship and the means of grace is lacking in many contemporary churches, part of the solution may be a fresh analysis and articulation of those themes. An adequate doctrine of the means of grace will reflect the complexity of the Holy Spirit's partnership with the Word, highlight the Word of God as the one essential means of grace, and throw as much light as possible on why the Word is the Spirit's necessary and perfectly suited instrument for applying redemptive grace in human lives.
 
 ---
 
 ### Divine action in the flesh A cognitive linguistic evaluation of Pannenbergs theology
 - **DOI**: [10.1017/s0036930624000656](https://doi.org/10.1017/s0036930624000656)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>This paper aims to examine Wolfhart Pannenberg’s theology of divine action using the conceptual framework of cognitive linguistics. Central to this exploration is Pannenberg’s use of the scientific concept of force field in an analogical/metaphorical way, enabling him to present a trinitarian-pneumatological understanding of divine action through divine omniscience and omnipresence. This paper argues that, despite justified criticisms of Pannenberg’s reliance on Faraday’s outdated concept of a universal force field, recent developments in cognitive linguistics affirm the legitimacy of Pannenberg’s panentheistic metaphorical approach to the theology of divine action while calling for revisions.</jats:p>
+- **Abstract**: AbstractThis paper aims to examine Wolfhart Pannenberg’s theology of divine action using the conceptual framework of cognitive linguistics. Central to this exploration is Pannenberg’s use of the scientific concept of force field in an analogical/metaphorical way, enabling him to present a trinitarian-pneumatological understanding of divine action through divine omniscience and omnipresence. This paper argues that, despite justified criticisms of Pannenberg’s reliance on Faraday’s outdated concept of a universal force field, recent developments in cognitive linguistics affirm the legitimacy of Pannenberg’s panentheistic metaphorical approach to the theology of divine action while calling for revisions.
 
 ---
 
 ### Introductory matters Tracing the aims of Proverbs 117 through the books first collection
 - **DOI**: [10.1017/s0036930624000668](https://doi.org/10.1017/s0036930624000668)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>While the introductory role of Prov 1:1–7 is well recognised, its relationship to subsequent sections has received less attention. This essay argues that Prov 1:1–7 introduces, not the entire book, but specifically the first collection in chapters 1–9. Building on Arthur Keefer's analysis, it posits that a single audience, ‘the wise’ in v. 5, is exhorted to listen to instruction and thereby acquire a sense of direction, with the expectation that, in doing so, they will be equipped to attain three primary aims: (1) to enhance understanding oriented towards the fear of Yhwh, (2) to cultivate moral virtue and (3) to instruct the next generation to do likewise. The introduction's programmatic function is then demonstrated as these aims are traced throughout the first collection.</jats:p>
+- **Abstract**: AbstractWhile the introductory role of Prov 1:1–7 is well recognised, its relationship to subsequent sections has received less attention. This essay argues that Prov 1:1–7 introduces, not the entire book, but specifically the first collection in chapters 1–9. Building on Arthur Keefer's analysis, it posits that a single audience, ‘the wise’ in v. 5, is exhorted to listen to instruction and thereby acquire a sense of direction, with the expectation that, in doing so, they will be equipped to attain three primary aims: (1) to enhance understanding oriented towards the fear of Yhwh, (2) to cultivate moral virtue and (3) to instruct the next generation to do likewise. The introduction's programmatic function is then demonstrated as these aims are traced throughout the first collection.
 
 ---
 
 ### The cosmic conflict Jesus against the devil in the letter to the church in Smyrna Rev 2811
 - **DOI**: [10.1017/s003693062400067x](https://doi.org/10.1017/s003693062400067x)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>Scholars studying cosmic conflict in the book of Revelation primarily focus on chapters 12–14, while the letters to the seven churches are often overlooked. In this article I demonstrate the presence of key elements of cosmic conflict in the letters to the seven churches, with a particular focus on the letter to the church in Smyrna (Rev 2:8–11). I identify the main facets of spiritual warfare, such as Jesus Christ versus the devil; Christians versus Jews/Romans; and victory/life versus defeat/death. I conclude that this passage contributes to the military narrative of cosmic conflict in the Apocalypse.</jats:p>
+- **Abstract**: AbstractScholars studying cosmic conflict in the book of Revelation primarily focus on chapters 12–14, while the letters to the seven churches are often overlooked. In this article I demonstrate the presence of key elements of cosmic conflict in the letters to the seven churches, with a particular focus on the letter to the church in Smyrna (Rev 2:8–11). I identify the main facets of spiritual warfare, such as Jesus Christ versus the devil; Christians versus Jews/Romans; and victory/life versus defeat/death. I conclude that this passage contributes to the military narrative of cosmic conflict in the Apocalypse.
 
 ---
 
 ### Bonaventure on the beatific vision A response to Hans Boersma
 - **DOI**: [10.1017/s0036930624000681](https://doi.org/10.1017/s0036930624000681)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>This paper considers Hans Boersma’s analysis of Bonaventure’s account of the beatific vision in his book <jats:italic>Seeing God: The Beatific Vision in Christian Tradition</jats:italic>. Boersma disputes Bonaventure’s claim in his <jats:italic>Itinerarium Mentis in Deum</jats:italic> that mystical union with God in this life takes place via the will and not the intellect, arguing that union with God must always produce union of the intellect and will. However, Boersma’s consideration of the <jats:italic>Itinerarium</jats:italic> fails to take into account Bonaventure’s other works, particularly his <jats:italic>Commentary on the Gospel of John</jats:italic>, in which he states that the beatific vision does unify the intellect and will, but that sin’s effect on the faculties makes the intellect unable to experience union with God in this life. This closer look at Bonaventure’s thought shows that Boersma needs a stronger account of the intellect and will to critique Bonaventure effectively.</jats:p>
+- **Abstract**: AbstractThis paper considers Hans Boersma’s analysis of Bonaventure’s account of the beatific vision in his book Seeing God: The Beatific Vision in Christian Tradition. Boersma disputes Bonaventure’s claim in his Itinerarium Mentis in Deum that mystical union with God in this life takes place via the will and not the intellect, arguing that union with God must always produce union of the intellect and will. However, Boersma’s consideration of the Itinerarium fails to take into account Bonaventure’s other works, particularly his Commentary on the Gospel of John, in which he states that the beatific vision does unify the intellect and will, but that sin’s effect on the faculties makes the intellect unable to experience union with God in this life. This closer look at Bonaventure’s thought shows that Boersma needs a stronger account of the intellect and will to critique Bonaventure effectively.
 
 ---
 
 ### iConfessio Trinitatisi and theological polemic in Ambrose of Milans Splendor paternae gloriae
 - **DOI**: [10.1017/s0036930624000693](https://doi.org/10.1017/s0036930624000693)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>Ambrose of Milan’s hymn, ‘Splendor paternae gloriae’, uses metaphors of the sun and light to invoke the Trinity and invite God’s sanctifying work. Ambrose’s depiction of the Godhead in terms of the sun and its light demonstrates his careful engagement with traditional Christian metaphors, traditions which he carefully rearranges to align with his view of the Trinity. His representation of God’s sanctifying activity illustrates the Trinity’s inseparable operations, a central focus of his pro-Nicene works. These features suggest that Ambrose intended this hymn to serve as a <jats:italic>confessio Trinitatis</jats:italic>, perhaps amid the bishop’s conflicts with anti-Nicene factions in Milan.</jats:p>
+- **Abstract**: AbstractAmbrose of Milan’s hymn, ‘Splendor paternae gloriae’, uses metaphors of the sun and light to invoke the Trinity and invite God’s sanctifying work. Ambrose’s depiction of the Godhead in terms of the sun and its light demonstrates his careful engagement with traditional Christian metaphors, traditions which he carefully rearranges to align with his view of the Trinity. His representation of God’s sanctifying activity illustrates the Trinity’s inseparable operations, a central focus of his pro-Nicene works. These features suggest that Ambrose intended this hymn to serve as a confessio Trinitatis, perhaps amid the bishop’s conflicts with anti-Nicene factions in Milan.
 
 ---
 
 ### Linguistic incommensurability at the tower of Babel
 - **DOI**: [10.1017/s0036930624000723](https://doi.org/10.1017/s0036930624000723)
 - **Analytical Tags**: `OT / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>Theodore Hiebert’s interpretation of Genesis 11:1-9 as a story of the origins of cultural difference resulted in several responses which critiqued his reading and reasserted the traditional reading of the passage as a story of human pride and divine punishment. In the following article, I combine two threads of Hiebert’s interpretation and his respondents: language and background understanding. Specifically, I compare two views of language on offer in the modern world, illustrate how they may shape the interpretation of Genesis 11:1-9 and argue that the minority view provides a framework which better makes sense of the passage.</jats:p>
+- **Abstract**: AbstractTheodore Hiebert’s interpretation of Genesis 11:1-9 as a story of the origins of cultural difference resulted in several responses which critiqued his reading and reasserted the traditional reading of the passage as a story of human pride and divine punishment. In the following article, I combine two threads of Hiebert’s interpretation and his respondents: language and background understanding. Specifically, I compare two views of language on offer in the modern world, illustrate how they may shape the interpretation of Genesis 11:1-9 and argue that the minority view provides a framework which better makes sense of the passage.
 
 ---
 
 ### Towards a grammar of theocentric belonging Kilby Tanner and beyond
 - **DOI**: [10.1017/s0036930625000018](https://doi.org/10.1017/s0036930625000018)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>This article provides foundations for how our God-talk can inform the way we think about and live out belonging. It resorts to three key Christian doctrines: the Trinity, <jats:italic>creatio ex nihilo</jats:italic> and the incarnation. This exploration begins with some brief observations about the issues Karen Kilby and Kathryn Tanner raised regarding social trinitarianism. It then explores the concept of participation as understood by Tanner as another way of conceptualising theocentric belonging rooted in creation and the incarnation. From this emerges the idea of an expansive theocentric theology of belonging, understood as participation in the divine life through creation and the incarnation. This expansiveness is explored further through the concepts of kinship and deep incarnation.</jats:p>
+- **Abstract**: AbstractThis article provides foundations for how our God-talk can inform the way we think about and live out belonging. It resorts to three key Christian doctrines: the Trinity, creatio ex nihilo and the incarnation. This exploration begins with some brief observations about the issues Karen Kilby and Kathryn Tanner raised regarding social trinitarianism. It then explores the concept of participation as understood by Tanner as another way of conceptualising theocentric belonging rooted in creation and the incarnation. From this emerges the idea of an expansive theocentric theology of belonging, understood as participation in the divine life through creation and the incarnation. This expansiveness is explored further through the concepts of kinship and deep incarnation.
 
 ---
 
 ### Time for a break On Tanners vision of temporal discontinuity
 - **DOI**: [10.1017/s003693062500002x](https://doi.org/10.1017/s003693062500002x)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>This article begins by critiquing Kathryn Tanner’s <jats:italic>Christianity and the New Spirit of Capitalism</jats:italic> on two fronts. It suggests that her presentation of ‘FiNo abstract availablecially Dominated Capitalism’ (FDC) is problematically one-dimensional, and it takes issue with her theological construal of time. The article then argues for an alternative temporal vision which both makes better sense of Christian experience and finds resoNo abstract availablece with economic policy proposals that undercut FDC.</jats:p>
+- **Abstract**: AbstractThis article begins by critiquing Kathryn Tanner’s Christianity and the New Spirit of Capitalism on two fronts. It suggests that her presentation of ‘Financially Dominated Capitalism’ (FDC) is problematically one-dimensional, and it takes issue with her theological construal of time. The article then argues for an alternative temporal vision which both makes better sense of Christian experience and finds resonance with economic policy proposals that undercut FDC.
 
 ---
 
 ### How to read ambiguity well Reading ambiguity in Luke and Acts
 - **DOI**: [10.1017/s0036930625000031](https://doi.org/10.1017/s0036930625000031)
 - **Analytical Tags**: `NT;Systematic Theology / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>This article offers a hermeneutical account of ambiguity using Luke and Acts as an extended case study. After discussing the difficulties in identifying purposeful ambiguity in biblical texts, verbal ambiguity is distinguished from ambiguity beyond the sentence level, such as ambiguities of plot or character. Instead of approaching ambiguity primarily as a failure of language or a problem to be solved, this article offers a framework for thinking about ambiguity as an invitation to read a text from multiple angles. The discussion is illustrated throughout with a series of examples taken from Luke and Acts. I close with reflections on how this approach to ambiguity is helpful when reading scripture against different cultural contexts and in the study of New Testament Christology.</jats:p>
+- **Abstract**: AbstractThis article offers a hermeneutical account of ambiguity using Luke and Acts as an extended case study. After discussing the difficulties in identifying purposeful ambiguity in biblical texts, verbal ambiguity is distinguished from ambiguity beyond the sentence level, such as ambiguities of plot or character. Instead of approaching ambiguity primarily as a failure of language or a problem to be solved, this article offers a framework for thinking about ambiguity as an invitation to read a text from multiple angles. The discussion is illustrated throughout with a series of examples taken from Luke and Acts. I close with reflections on how this approach to ambiguity is helpful when reading scripture against different cultural contexts and in the study of New Testament Christology.
 
 ---
 
 ### Christs dead limb
 - **DOI**: [10.1017/s0036930625000043](https://doi.org/10.1017/s0036930625000043)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>Is Christ hypostatically united to his human nature during Holy Saturday? If so, how, given that he is (in effect) an object whose parts are in different ‘places’? In this article, I argue that God the Son does indeed remain hypostatically united to his human nature during Holy Saturday and that this is salvifically salient. One way to construe this ongoing union through somatic death is by means of the analogy of a ‘dead limb’ – Christ’s human body being that limb. I set out several ways of making sense of this claim consistent with a broadly orthodox account of the hypostatic union as a contribution to the theology of Holy Saturday and the intermediate state more broadly.</jats:p>
+- **Abstract**: AbstractIs Christ hypostatically united to his human nature during Holy Saturday? If so, how, given that he is (in effect) an object whose parts are in different ‘places’? In this article, I argue that God the Son does indeed remain hypostatically united to his human nature during Holy Saturday and that this is salvifically salient. One way to construe this ongoing union through somatic death is by means of the analogy of a ‘dead limb’ – Christ’s human body being that limb. I set out several ways of making sense of this claim consistent with a broadly orthodox account of the hypostatic union as a contribution to the theology of Holy Saturday and the intermediate state more broadly.
 
 ---
 
 ### Words and the Word Augustines preached theology of language
 - **DOI**: [10.1017/s0036930625000055](https://doi.org/10.1017/s0036930625000055)
 - **Analytical Tags**: `OT;Practical Theology / - / Patristic`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>What can we learn from Augustine’s preaching about the nature and purpose of preaching? In this paper, I will argue that in his preaching Augustine presents to his audience a theology of words and the Word that achieves what it declares; that is to say, rather than a mere doctrinal curiosity, Augustine’s preached theology of words and the Word accomplishes a homiletical goal that transcends the transmission of an idea and, instead, guides the faithful listener’s heart towards the eternal Word of God through the temporal words of the preacher and the written words of scripture. To put it another way, Augustine’s theology of words and the Word is both a theological claim and a practical pastoral tool.</jats:p>
+- **Abstract**: AbstractWhat can we learn from Augustine’s preaching about the nature and purpose of preaching? In this paper, I will argue that in his preaching Augustine presents to his audience a theology of words and the Word that achieves what it declares; that is to say, rather than a mere doctrinal curiosity, Augustine’s preached theology of words and the Word accomplishes a homiletical goal that transcends the transmission of an idea and, instead, guides the faithful listener’s heart towards the eternal Word of God through the temporal words of the preacher and the written words of scripture. To put it another way, Augustine’s theology of words and the Word is both a theological claim and a practical pastoral tool.
 
 ---
 
 ### Death in the monastery Dying in the poetry of a Carthusian monk
 - **DOI**: [10.1017/s0036930625000067](https://doi.org/10.1017/s0036930625000067)
 - **Analytical Tags**: `Church History / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>‘Death in the monastery’ refers to liminal and temporal themes of dying in the poetry of an anonymous Carthusian monk-poet in the period 1964–2024. This article explores these topics in three subsections. The first section deals with texts where the monk-poet reflects on moments when he has witnessed the dying of a fellow monk. The second set of texts focuses on memories written about recently deceased members of the Carthusian monastic community. The third section consists of the Carthusian author’s reflections that arise from the physical proximity of the graveyard at the centre square of the monastery. The article concludes with some remarks on the liminal and temporal perspectives on dying in a monastery. Time spent with God in a cloister, while frequently witnessing the deaths of other members of the monastic community, prepares for a transition where death is followed by resurrection.</jats:p>
+- **Abstract**: Abstract‘Death in the monastery’ refers to liminal and temporal themes of dying in the poetry of an anonymous Carthusian monk-poet in the period 1964–2024. This article explores these topics in three subsections. The first section deals with texts where the monk-poet reflects on moments when he has witnessed the dying of a fellow monk. The second set of texts focuses on memories written about recently deceased members of the Carthusian monastic community. The third section consists of the Carthusian author’s reflections that arise from the physical proximity of the graveyard at the centre square of the monastery. The article concludes with some remarks on the liminal and temporal perspectives on dying in a monastery. Time spent with God in a cloister, while frequently witnessing the deaths of other members of the monastic community, prepares for a transition where death is followed by resurrection.
 
 ---
 
@@ -236,25 +236,24 @@ arc_score: 6
 ### iMitzvahi                    mistranslated Reimagining Aquinas threefold division of Old Law
 - **DOI**: [10.1017/s0036930625000092](https://doi.org/10.1017/s0036930625000092)
 - **Analytical Tags**: `OT / - / Medieval`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>
+- **Abstract**: Abstract
+                  
                     Thomas Aquinas argues that ‘Old Law’, comprised of the precepts found in the Hebrew Bible, should be divided into three types: moral, ceremonial and judicial. His system is meant to be instructive for Christian ethics, distinguishing between eternally, universally binding precepts relevant to Christians and other irrelevant or even forbidden ones. But Aquinas derives this threefold division from a mistranslated Vulgate passage from Deuteronomy where a singular noun,
-                    <jats:italic>mitzvah</jats:italic>
+                    mitzvah
                     , is translated as a plural noun:
-                    <jats:italic>praecepta</jats:italic>
+                    praecepta
                     . Based on the original Hebrew, the verse actually supports a twofold division, not a threefold one. Aquinas’ system also runs into issues when it comes to sorting the precepts. To fix the sorting, retain the instructive benefit, and shed the biblical tension, we ought to keep Aquinas’ understanding of ‘moral law’, but discard the judicial and ceremonial categories in favour of one ‘cultural law’ category, in line with the popular Jewish philosophical division between
-                    <jats:italic>chukim</jats:italic>
+                    chukim
                     and
-                    <jats:italic>mishpatim</jats:italic>
+                    mishpatim
                     .
-                  </jats:p>
 
 ---
 
 ### Union distinction and creaturely perfections Petrus van Mastrichts rejection of deification
 - **DOI**: [10.1017/s0036930625000109](https://doi.org/10.1017/s0036930625000109)
 - **Analytical Tags**: `Systematic Theology / - / Reformation`
-- **Abstract**: <jats:title>Abstract</jats:title><jats:p>Recent work in Protestant soteriology and eschatology has sought to recover and exposit the strands (or doctrines) of theosis present in figures such as Jonathan Edwards, John Calvin and John Wesley, among others. Yet, such ventures can risk unmooring doctrinal convictions from their embeddedness within a larger nexus of theological judgments and concerns. This essay provides a modest contribution to Protestant engagement with the doctrine of theosis, with the help of seventeenth-century Reformed theologian Petrus van Mastricht. In it, I argue that van Mastricht’s ‘upstream’ commitments to Christology and the incommunicability of divine perfections inform his rejection of deification. The essay concludes by highlighting the promise and perils of van Mastricht’s account of the real nature of the <jats:italic>unio mystica</jats:italic>.</jats:p>
+- **Abstract**: AbstractRecent work in Protestant soteriology and eschatology has sought to recover and exposit the strands (or doctrines) of theosis present in figures such as Jonathan Edwards, John Calvin and John Wesley, among others. Yet, such ventures can risk unmooring doctrinal convictions from their embeddedness within a larger nexus of theological judgments and concerns. This essay provides a modest contribution to Protestant engagement with the doctrine of theosis, with the help of seventeenth-century Reformed theologian Petrus van Mastricht. In it, I argue that van Mastricht’s ‘upstream’ commitments to Christology and the incommunicability of divine perfections inform his rejection of deification. The essay concludes by highlighting the promise and perils of van Mastricht’s account of the real nature of the unio mystica.
 
 ---
 
@@ -555,28 +554,27 @@ arc_score: 6
 ### Desire dissatisfaction dispersal The oddness of desiring God
 - **DOI**: [10.1017/s0036930625101051](https://doi.org/10.1017/s0036930625101051)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>An account of human subjectivity is built up from an analysis of the fundamental human desire for God. In conversation with Karl Rahner and Blaise Pascal, it is argued that this desire does not have any conceivable conditions of satisfiability. This leads to an account of human beings as fundamentally distractible, fragmented, opaque to themselves and non-self-identical; however, none of these are viewed as essentially problematic, arising instead out of the basic human–God relation rather than from a fallen condition. A range of implications for ethics and social criticism are briefly suggested.</jats:p>
+- **Abstract**: Abstract
+                  An account of human subjectivity is built up from an analysis of the fundamental human desire for God. In conversation with Karl Rahner and Blaise Pascal, it is argued that this desire does not have any conceivable conditions of satisfiability. This leads to an account of human beings as fundamentally distractible, fragmented, opaque to themselves and non-self-identical; however, none of these are viewed as essentially problematic, arising instead out of the basic human–God relation rather than from a fallen condition. A range of implications for ethics and social criticism are briefly suggested.
 
 ---
 
 ### A match made in hell Luther and Calvin on the                    idescensus ad inferosi
 - **DOI**: [10.1017/s0036930625101075](https://doi.org/10.1017/s0036930625101075)
 - **Analytical Tags**: `Systematic Theology / - / Reformation`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>
+- **Abstract**: Abstract
+                  
                     Contrary to longstanding opinion, it was Luther, not Calvin, who first interpreted Christ’s descent into hell as an event of suffering and feeling forsaken by God. Though Lutheran tradition afterward emphasised a victorious interpretation taken from Luther’s famous ‘Torgau sermon’, a more ambivalent legacy exists in his own writings. Sufficient attention is therefore warranted to view Luther as a forerunner to Calvin’s use of the cry of dereliction to interpret the
-                    <jats:italic>descensus</jats:italic>
+                    descensus
                     . Understanding this nuance can smooth the edges of a myopic age-old debate between the two traditions, since the two Reformers have more in common than not on the doctrine.
-                  </jats:p>
 
 ---
 
 ### The Spirit of glory Towards a pneumatological construal of the beatific vision
 - **DOI**: [10.1017/s0036930625101087](https://doi.org/10.1017/s0036930625101087)
 - **Analytical Tags**: `- / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>This essay considers whether eschatological speculation is appropriate in light of the mystery of human suffering. I argue that a pneumatological construal of the beatific vision offers important resources for this question. In the beatific vision, the Spirit perfects the human person by bringing them to participatory attention to the whole of their life, so that the person participates in the final event of making meaning out of the life lived. There is no general, all-encompassing description of how this heals a history of suffering, because the redemption happens in the attention shared between each particular individual and God.</jats:p>
+- **Abstract**: Abstract
+                  This essay considers whether eschatological speculation is appropriate in light of the mystery of human suffering. I argue that a pneumatological construal of the beatific vision offers important resources for this question. In the beatific vision, the Spirit perfects the human person by bringing them to participatory attention to the whole of their life, so that the person participates in the final event of making meaning out of the life lived. There is no general, all-encompassing description of how this heals a history of suffering, because the redemption happens in the attention shared between each particular individual and God.
 
 ---
 
@@ -695,8 +693,8 @@ arc_score: 6
 ### Reframing natural theology Karl Barth Emil Brunner and Ludwig Wittgensteins logical machine
 - **DOI**: [10.1017/s0036930625101336](https://doi.org/10.1017/s0036930625101336)
 - **Analytical Tags**: `NT;Systematic Theology / - / Modern`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>This paper broaches ‘natural theology’ in terms of the conceptual systems through which revelation is understood, as opposed to questions regarding the sources of revelation. I do so by analysing Barth’s rejection of natural theology in terms of what it can mean to treat a logic of prior possibility as determining what revelation’s conditions of possibility must be. I begin by reading Emil Brunner’s ‘Nature and Grace’ alongside Ludwig Wittgenstein’s reflections on mathematical necessity in order to show that Brunner’s thinking of possibility subordinates the necessities of revelation to what Wittgenstein calls ‘the logical machine’. I then argue that Barth’s rejection of natural theology involves rejecting the workings of this machine and so rejecting the axiomatic force of prior possibility for theology. I conclude by tracing two consequences of this rejection, one related to creativity, the other to political crisis.</jats:p>
+- **Abstract**: Abstract
+                  This paper broaches ‘natural theology’ in terms of the conceptual systems through which revelation is understood, as opposed to questions regarding the sources of revelation. I do so by analysing Barth’s rejection of natural theology in terms of what it can mean to treat a logic of prior possibility as determining what revelation’s conditions of possibility must be. I begin by reading Emil Brunner’s ‘Nature and Grace’ alongside Ludwig Wittgenstein’s reflections on mathematical necessity in order to show that Brunner’s thinking of possibility subordinates the necessities of revelation to what Wittgenstein calls ‘the logical machine’. I then argue that Barth’s rejection of natural theology involves rejecting the workings of this machine and so rejecting the axiomatic force of prior possibility for theology. I conclude by tracing two consequences of this rejection, one related to creativity, the other to political crisis.
 
 ---
 
@@ -717,8 +715,8 @@ arc_score: 6
 ### Inventing atonement Faustus Socinus John Owen and the birth of a doctrine
 - **DOI**: [10.1017/s0036930625101361](https://doi.org/10.1017/s0036930625101361)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>This article considers John Owen’s introduction of the word ‘atonement’ as a term of art for Christ’s satisfaction in response to Socinian attacks on that doctrine. Owen’s innovation complicates the use of atonement theories in the dogmatic history of atonement by F. C. Baur and his successors, because Owen’s account of Christ’s work extends beyond satisfaction, and he uses ‘atonement’ to emphasise not the mechanism of that work but its relational necessity. Even as the framework of atonement theories obscures these aspects of Owen’s work, his novel use of ‘atonement’ lays the foundation for satisfaction to become an atonement theory in Baur’s sense.</jats:p>
+- **Abstract**: Abstract
+                  This article considers John Owen’s introduction of the word ‘atonement’ as a term of art for Christ’s satisfaction in response to Socinian attacks on that doctrine. Owen’s innovation complicates the use of atonement theories in the dogmatic history of atonement by F. C. Baur and his successors, because Owen’s account of Christ’s work extends beyond satisfaction, and he uses ‘atonement’ to emphasise not the mechanism of that work but its relational necessity. Even as the framework of atonement theories obscures these aspects of Owen’s work, his novel use of ‘atonement’ lays the foundation for satisfaction to become an atonement theory in Baur’s sense.
 
 ---
 
@@ -739,28 +737,27 @@ arc_score: 6
 ### On the goodness of creatures
 - **DOI**: [10.1017/s0036930625101397](https://doi.org/10.1017/s0036930625101397)
 - **Analytical Tags**: `OT;Systematic Theology / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>Because it is manifest that ‘the world’, traditionally said to be God’s good creation, is shot through with profound ‘wrongs’, the question arises about the sense in which the physical creation is good in and of itself, for its own sake. This essay first briefly argues that theological strategies attempting to ground creation’s goodness in either God’s relating to reconcile sinful humankind or in God’s relating in eschatological blessing are inadequate, and then urges that it can be adequately grounded in a doctrine of creation that shifts focus from offering a causal explanation of the existence of ‘the world’ to description of what it is to be ‘creature’, backed by an exegetical shift in how the text that traditionally warrants doctrines of creation, Genesis 1:1-2:25, is read. That shift entails acknowledgement of two theological aporias, one of which it is important to stress is theologically insoluble, while the other is soluble.</jats:p>
+- **Abstract**: Abstract
+                  Because it is manifest that ‘the world’, traditionally said to be God’s good creation, is shot through with profound ‘wrongs’, the question arises about the sense in which the physical creation is good in and of itself, for its own sake. This essay first briefly argues that theological strategies attempting to ground creation’s goodness in either God’s relating to reconcile sinful humankind or in God’s relating in eschatological blessing are inadequate, and then urges that it can be adequately grounded in a doctrine of creation that shifts focus from offering a causal explanation of the existence of ‘the world’ to description of what it is to be ‘creature’, backed by an exegetical shift in how the text that traditionally warrants doctrines of creation, Genesis 1:1-2:25, is read. That shift entails acknowledgement of two theological aporias, one of which it is important to stress is theologically insoluble, while the other is soluble.
 
 ---
 
 ### God could have not created critiquing a divine counterfactual predication
 - **DOI**: [10.1017/s0036930625101403](https://doi.org/10.1017/s0036930625101403)
 - **Analytical Tags**: `Systematic Theology / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>
+- **Abstract**: Abstract
+                  
                     That God could have not created the world is a commonplace of Christian theology, often invoked to articulate the meaning of divine freedom. This essay argues that this counterfactual predication cannot be made consistent with the classical doctrine of God and so cannot be an adequate way of characterising God’s freedom. Drawing on a critical realist account of coherent counterfactual predications, it is shown that every cogent counterfactual attribution implies that the subject of the attribution is located in time, possessed of potential, and knowable in its essence. These entailments of counterfactual predications render them formally incompatible with a classical theist doctrine of God, in which God is not temporally located, purely actual and unknowable in essence by humans in the
-                    <jats:italic>status viatoris</jats:italic>
+                    status viatoris
                     . If the counterfactual on divine predicating compromises the divine simplicity, divine perfection and divine pure actuality, it should be understood to be a metaphorical, not substantial divine predication.
-                  </jats:p>
 
 ---
 
 ### Does law bring virtue Seneca and Paul on law virtue and Christ
 - **DOI**: [10.1017/s0036930625101415](https://doi.org/10.1017/s0036930625101415)
 - **Analytical Tags**: `NT / - / -`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>This article examines Paul’s view of the law with attention to the figure of the pedagogue. It suggests that the law stands in a redemptive-historical role to the coming of Christ. It accomplishes this through a comparison between Seneca’s Moral Epistles and Paul. Seneca’s discussion is a helpful heuristic to elucidate Paul’s teaching on Jewish law. Paul highly values the Jewish law and explains that it leads humans to Christ as a pedagogue, although the law itself does not have the power to make righteous. Scholars offer arguments in support of positive or negative attitudes toward the pedagogue, but the pedagogue’s basic role was to bring a child to the age of maturity and rationality. Paul’s thesis is to argue that the Jewish law functions, historically and ethically, to lead one to Christ. This interpretation suggests that the law plays a positive redemptive-historical role in Galatians 3:19–4:11.</jats:p>
+- **Abstract**: Abstract
+                  This article examines Paul’s view of the law with attention to the figure of the pedagogue. It suggests that the law stands in a redemptive-historical role to the coming of Christ. It accomplishes this through a comparison between Seneca’s Moral Epistles and Paul. Seneca’s discussion is a helpful heuristic to elucidate Paul’s teaching on Jewish law. Paul highly values the Jewish law and explains that it leads humans to Christ as a pedagogue, although the law itself does not have the power to make righteous. Scholars offer arguments in support of positive or negative attitudes toward the pedagogue, but the pedagogue’s basic role was to bring a child to the age of maturity and rationality. Paul’s thesis is to argue that the Jewish law functions, historically and ethically, to lead one to Christ. This interpretation suggests that the law plays a positive redemptive-historical role in Galatians 3:19–4:11.
 
 ---
 
@@ -774,20 +771,19 @@ arc_score: 6
 ### On the historicity of Jesus resurrection
 - **DOI**: [10.1017/s0036930625101439](https://doi.org/10.1017/s0036930625101439)
 - **Analytical Tags**: `Church History / - / Modern;Reformation`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>After reviewing several stances in modern theology on the historicity of the resurrection of Jesus, this article argues that a common feature of the worldviews of Baroque Catholicism, classical Reformation theology, and the Enlightenment, namely, their separation of the supernatural and natural realms into ‘two orders’, explains the attractiveness of the apologetical strategy of affirming the reality of the resurrection as a non-historical, supernatural event. Drawing on the temporal and spatial imaginary of Henri de Lubac’s theology of grace, it concludes by pressing the case for a theological understanding of the resurrection of Jesus as a historical event that valorises the eschatological resoNo abstract availablece of time.</jats:p>
+- **Abstract**: Abstract
+                  After reviewing several stances in modern theology on the historicity of the resurrection of Jesus, this article argues that a common feature of the worldviews of Baroque Catholicism, classical Reformation theology, and the Enlightenment, namely, their separation of the supernatural and natural realms into ‘two orders’, explains the attractiveness of the apologetical strategy of affirming the reality of the resurrection as a non-historical, supernatural event. Drawing on the temporal and spatial imaginary of Henri de Lubac’s theology of grace, it concludes by pressing the case for a theological understanding of the resurrection of Jesus as a historical event that valorises the eschatological resonance of time.
 
 ---
 
 ### Redeeming metaphysics in light of René Girards Christology
 - **DOI**: [10.1017/s0036930625101440](https://doi.org/10.1017/s0036930625101440)
 - **Analytical Tags**: `Philosophy of Religion;Systematic Theology / - / Contemporary`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>
+- **Abstract**: Abstract
+                  
                     The present essay considers what, if any, metaphysical perspective can be discerned in the thought of René Girard. Aware of the fact that Girard has little to say about metaphysics and that what he does say harbours the same reservations and misgivings as his postmodern confreres, I argue that the rudiments of a metaphysics can nevertheless be identified. This metaphysics is not one of violence that Girard, following Martin Heidegger, associates with the violence of Heraclitean
-                    <jats:italic>logos</jats:italic>
+                    logos
                     . Rather, it is one predicated upon the dynamic interplay between identity and difference realised concretely within the incarnate Christ. My claim is that ‘metaphysics’, much like what occurred to the notion of ‘sacrifice’ in Girard’s thinking, requires further development and even redemption. This essay takes an initial step in that direction.
-                  </jats:p>
 
 ---
 
@@ -801,12 +797,11 @@ arc_score: 6
 ### Is divine simplicity biblical A fresh argument on behalf of a traditional doctrine
 - **DOI**: [10.1017/s0036930625101476](https://doi.org/10.1017/s0036930625101476)
 - **Analytical Tags**: `OT;Systematic Theology / - / Contemporary;Medieval`
-- **Abstract**: <jats:title>Abstract</jats:title>
-                  <jats:p>
+- **Abstract**: Abstract
+                  
                     Divine simplicity is plausibly seen as a biblical doctrine, given a standard account of the way doctrine is derived from Scripture. The polemic of Jeremiah 10 against ancient Near Eastern
-                    <jats:italic>mis pî</jats:italic>
+                    mis pî
                     or ‘mouth opening’ rituals involves a commitment to a radical account of divine aseity. In dialogue with Thomas Aquinas and a number of contemporary figures, I suggest this view of divine aseity might plausibly be thought to lead to the inference to divine simplicity.
-                  </jats:p>
 
 ---
 
